@@ -15,6 +15,11 @@ export default async function middleware(request: NextRequest) {
   const token = await getToken({
     req: request,
     secret: process.env.AUTH_SECRET ?? "development-auth-secret-change-me",
+    secureCookie: request.nextUrl.protocol === "https:",
+    cookieName:
+      request.nextUrl.protocol === "https:"
+        ? "__Secure-authjs.session-token"
+        : "authjs.session-token",
   });
 
   if (!token) {
