@@ -1,0 +1,15 @@
+.env
+.env*.local
+.DS_Store
+.next/
+.next-stale*/
+node_modules/
+node_modules.corrupt*/
+coverage/
+playwright-report/
+test-results/
+dist/
+*.tsbuildinfo
+.swarm/
+ruvector.db
+/storage/

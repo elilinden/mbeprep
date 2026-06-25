@@ -1,0 +1,21 @@
+import nextVitals from "eslint-config-next/core-web-vitals";
+import nextTypescript from "eslint-config-next/typescript";
+
+const eslintConfig = [
+  ...nextVitals,
+  ...nextTypescript,
+  {
+    ignores: [
+      ".next/**",
+      ".next-stale*/**",
+      "src/generated/prisma/**",
+      "node_modules/**",
+      "node_modules.corrupt*/**",
+      "coverage/**",
+      "playwright-report/**",
+      "test-results/**",
+    ],
+  },
+];
+
+export default eslintConfig;

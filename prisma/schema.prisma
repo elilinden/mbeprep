@@ -1,0 +1,1544 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum UserAccountStatus {
+  ACTIVE
+  DISABLED
+  ARCHIVED
+}
+
+enum UserRoleCode {
+  STUDENT
+  EDITOR
+  ADMIN
+  REVIEWER
+}
+
+enum ExamTrackCode {
+  LEGACY_UBE
+  NEXTGEN_UBE
+  STATE_SPECIFIC
+}
+
+enum TaxonomyNodeType {
+  SUBJECT
+  CATEGORY
+  SUBTOPIC
+  RULE
+  SKILL
+}
+
+enum RecordStatus {
+  DRAFT
+  ACTIVE
+  INACTIVE
+  RETIRED
+  ARCHIVED
+}
+
+enum LegalContentStatus {
+  DRAFT
+  IN_REVIEW
+  APPROVED
+  PUBLISHED
+  RETIRED
+  ARCHIVED
+}
+
+enum LicenseStatus {
+  DRAFT
+  ACTIVE
+  EXPIRED
+  TERMINATED
+  ARCHIVED
+}
+
+enum PreferredTextSize {
+  SMALL
+  MEDIUM
+  LARGE
+  EXTRA_LARGE
+}
+
+enum ContentWorkflowStatus {
+  DRAFT
+  LEGAL_REVIEW
+  EDITORIAL_REVIEW
+  APPROVED
+  PUBLISHED
+  RETIRED
+}
+
+enum QuestionFormat {
+  SINGLE_SELECT
+  MULTI_SELECT
+  SELECT_TWO
+  SHORT_ANSWER
+  MEDIUM_ANSWER
+  INTEGRATED_SET
+  STANDARD_PERFORMANCE_TASK
+  LEGAL_RESEARCH_PERFORMANCE_TASK
+}
+
+enum QuestionDifficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum DistractorType {
+  NONE
+  MISSTATEMENT
+  SCOPE_ERROR
+  FACT_CONFUSION
+  OVERGENERALIZATION
+  IRRELEVANT
+}
+
+enum ContentKind {
+  QUESTION
+  ESSAY
+  PODCAST
+}
+
+enum ReviewStep {
+  LEGAL
+  EDITORIAL
+}
+
+enum ReviewDecision {
+  APPROVED
+  CHANGES_REQUESTED
+}
+
+enum ImportFormat {
+  CSV
+  JSON
+}
+
+enum ImportJobStatus {
+  PREVIEW
+  READY
+  IMPORTED
+  FAILED
+}
+
+enum UserContentReportStatus {
+  OPEN
+  TRIAGED
+  RESOLVED
+  DISMISSED
+}
+
+enum AudioProcessingState {
+  UPLOADED
+  PROCESSING
+  READY_FOR_REVIEW
+  PUBLISHED
+  FAILED
+  RETIRED
+}
+
+enum PodcastLinkKind {
+  QUESTION
+  ESSAY
+  RULE
+}
+
+enum PracticeSessionMode {
+  LEARNING
+  EXAM
+  CUSTOM
+  ADAPTIVE
+}
+
+enum PracticeSessionStatus {
+  IN_PROGRESS
+  COMPLETED
+  ABANDONED
+}
+
+enum PracticeFeedbackMode {
+  IMMEDIATE
+  END_OF_SET
+}
+
+enum PracticeTimingMode {
+  TIMED
+  UNTIMED
+}
+
+enum AttemptConfidence {
+  LOW
+  MEDIUM
+  HIGH
+}
+
+enum MistakeTagCode {
+  MISREAD_FACTS
+  MISREAD_CALL
+  RULE_CONFUSION
+  TIMING_PRESSURE
+  SECOND_GUESSING
+  CONTENT_GAP
+}
+
+enum MasteryDataConfidence {
+  LOW
+  MEDIUM
+  HIGH
+}
+
+enum MasteryEventType {
+  QUESTION_ATTEMPT
+  REVIEW_ATTEMPT
+  ESSAY_RUBRIC_MISS
+  RULE_REVIEW_DUE
+}
+
+enum ReviewItemStatus {
+  OPEN
+  DUE
+  COMPLETED
+  ARCHIVED
+}
+
+enum ReviewItemSource {
+  QUESTION_INCORRECT
+  LOW_CONFIDENCE_CORRECT
+  HIGH_CONFIDENCE_ERROR
+  ESSAY_RUBRIC_MISS
+  RULE_REVIEW_DUE
+}
+
+enum ReviewAttemptOutcome {
+  REVIEWED
+  CORRECT
+  INCORRECT
+  SNOOZED
+}
+
+enum EssayAttemptStatus {
+  IN_PROGRESS
+  SUBMITTED
+  REVIEWED
+  ABANDONED
+}
+
+enum EssayResponseMode {
+  FULL_ANSWER
+  OUTLINE_ONLY
+}
+
+enum EssayFeedbackProviderStatus {
+  PENDING
+  READY
+  FAILED
+  DISABLED
+}
+
+enum StudyTaskType {
+  AUDIO
+  QUESTION_SET
+  MIXED_QUESTION_SET
+  REVIEW
+  ESSAY_FULL
+  ESSAY_OUTLINE
+  SIMULATION
+  REST
+  CUSTOM
+}
+
+enum StudyTaskStatus {
+  TODO
+  COMPLETED
+  SKIPPED
+}
+
+enum PlanGenerationTrigger {
+  ONBOARDING
+  AVAILABILITY_CHANGE
+  NIGHTLY
+  DIAGNOSTIC
+  SIMULATION
+  MISSED_TASKS
+  EXPLICIT_REQUEST
+}
+
+enum PlanGenerationStatus {
+  RUNNING
+  COMPLETED
+  FAILED
+}
+
+model User {
+  id                 String                @id @default(cuid())
+  name               String?
+  email              String?               @unique
+  emailVerified      DateTime?
+  image              String?
+  displayName        String?
+  status             UserAccountStatus     @default(ACTIVE)
+  dataClassification String                @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime              @default(now())
+  updatedAt          DateTime              @updatedAt
+  accounts           Account[]
+  sessions           Session[]
+  roles              UserRole[]
+  learnerProfile     LearnerProfile?
+  approvedVersions   RuleVersion[]         @relation("RuleVersionApprover")
+  authoredQuestions  QuestionVersion[]     @relation("QuestionVersionAuthor")
+  reviewedQuestions  QuestionVersion[]     @relation("QuestionVersionReviewer")
+  authoredEssays     EssayVersion[]        @relation("EssayVersionAuthor")
+  reviewedEssays     EssayVersion[]        @relation("EssayVersionReviewer")
+  contentReviews     ContentReview[]       @relation("ContentReviewReviewer")
+  importJobs         ImportJob[]           @relation("ImportJobSubmitter")
+  contentReports     UserContentReport[]   @relation("UserContentReportReporter")
+  podcastProgress    PodcastProgress[]
+  podcastBookmarks   PodcastBookmark[]
+  podcastNotes       PodcastNote[]
+  practiceSessions   PracticeSession[]
+  questionAttempts   QuestionAttempt[]
+  questionBookmarks  QuestionBookmark[]
+  questionNotes      QuestionNote[]
+  essayAttempts      EssayAttempt[]
+  essayAutosaves     EssayAutosave[]
+  essayAssessments   EssaySelfAssessment[]
+  essayNotes         EssayNote[]
+  essayFeedbackJobs  EssayFeedbackJob[]
+  topicMasteryStates TopicMasteryState[]
+  masteryEvents      MasteryEvent[]
+  masterySnapshots   MasterySnapshot[]
+  reviewItems        ReviewItem[]
+  reviewAttempts     ReviewAttempt[]
+  studyPlans         StudyPlan[]
+  studyTasks         StudyTask[]
+  planGenerationRuns PlanGenerationRun[]
+  auditLogs          AuditLog[]
+
+  @@index([status])
+}
+
+model UserRole {
+  id        String       @id @default(cuid())
+  userId    String
+  role      UserRoleCode
+  status    RecordStatus @default(ACTIVE)
+  createdAt DateTime     @default(now())
+  updatedAt DateTime     @updatedAt
+  user      User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, role])
+  @@index([role, status])
+}
+
+model Account {
+  id                       String  @id @default(cuid())
+  userId                   String
+  type                     String
+  provider                 String
+  providerAccountId        String
+  refresh_token            String?
+  access_token             String?
+  expires_at               Int?
+  token_type               String?
+  scope                    String?
+  id_token                 String?
+  session_state            String?
+  refresh_token_expires_in Int?
+  user                     User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+  @@index([userId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model VerificationToken {
+  identifier String
+  token      String
+  expires    DateTime
+
+  @@unique([identifier, token])
+  @@unique([token])
+}
+
+model LearnerProfile {
+  id                      String                   @id @default(cuid())
+  userId                  String                   @unique
+  targetJurisdiction      String?
+  targetExamDate          DateTime?
+  selectedExamVersionId   String?
+  resolvedTrackConfirmed  Boolean                  @default(false)
+  firstTimeTaker          Boolean?
+  timeZone                String?
+  studyStartDate          DateTime?
+  availableDays           String[]
+  availableMinutesByDay   Json?
+  restDay                 String?
+  extendedTimeMultiplier  Float?
+  preferredTextSize       PreferredTextSize        @default(MEDIUM)
+  highContrastPreference  Boolean                  @default(false)
+  reducedMotionPreference Boolean                  @default(false)
+  onboardingCompletedAt   DateTime?
+  status                  RecordStatus             @default(ACTIVE)
+  dataClassification      String                   @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt               DateTime                 @default(now())
+  updatedAt               DateTime                 @updatedAt
+  user                    User                     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  selectedExamVersion     JurisdictionExamVersion? @relation(fields: [selectedExamVersionId], references: [id], onDelete: SetNull)
+
+  @@index([targetJurisdiction, targetExamDate])
+  @@index([status])
+}
+
+model ExamTrack {
+  id                   String                    @id @default(cuid())
+  code                 ExamTrackCode             @unique
+  name                 String
+  status               RecordStatus              @default(ACTIVE)
+  dataClassification   String                    @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt            DateTime                  @default(now())
+  updatedAt            DateTime                  @updatedAt
+  examVersions         JurisdictionExamVersion[]
+  taxonomyNodes        TaxonomyNode[]
+  questionVersions     QuestionVersion[]
+  essayVersions        EssayVersion[]
+  simulationBlueprints SimulationBlueprint[]
+
+  @@index([status])
+}
+
+model JurisdictionExamVersion {
+  id                 String           @id @default(cuid())
+  jurisdiction       String
+  examTrackId        String
+  versionLabel       String
+  effectiveFrom      DateTime
+  effectiveTo        DateTime?
+  status             RecordStatus     @default(ACTIVE)
+  dataClassification String           @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime         @default(now())
+  updatedAt          DateTime         @updatedAt
+  examTrack          ExamTrack        @relation(fields: [examTrackId], references: [id], onDelete: Restrict)
+  learnerProfiles    LearnerProfile[]
+
+  @@unique([jurisdiction, examTrackId, effectiveFrom])
+  @@index([jurisdiction, effectiveFrom, effectiveTo, status])
+  @@index([examTrackId, status])
+}
+
+model SimulationBlueprint {
+  id                 String       @id @default(cuid())
+  key                String
+  examTrackId        String
+  administrationDate DateTime
+  version            Int
+  label              String
+  blueprint          Json
+  status             RecordStatus @default(ACTIVE)
+  dataClassification String       @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime     @default(now())
+  updatedAt          DateTime     @updatedAt
+  examTrack          ExamTrack    @relation(fields: [examTrackId], references: [id], onDelete: Restrict)
+
+  @@unique([key, version])
+  @@unique([examTrackId, administrationDate, version])
+  @@index([examTrackId, administrationDate, status])
+  @@index([status])
+}
+
+model TaxonomyNode {
+  id                      String                @id @default(cuid())
+  key                     String
+  slug                    String
+  name                    String
+  nodeType                TaxonomyNodeType
+  parentId                String?
+  examTrackId             String?
+  effectiveFrom           DateTime
+  effectiveTo             DateTime?
+  status                  RecordStatus          @default(ACTIVE)
+  sortOrder               Int                   @default(0)
+  dataClassification      String                @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt               DateTime              @default(now())
+  updatedAt               DateTime              @updatedAt
+  parent                  TaxonomyNode?         @relation("TaxonomyParent", fields: [parentId], references: [id], onDelete: Restrict)
+  children                TaxonomyNode[]        @relation("TaxonomyParent")
+  examTrack               ExamTrack?            @relation(fields: [examTrackId], references: [id], onDelete: SetNull)
+  rules                   Rule[]
+  primaryQuestions        QuestionVersion[]     @relation("QuestionVersionPrimaryTopic")
+  lawyeringSkillQuestions QuestionVersion[]     @relation("QuestionVersionLawyeringSkillTopic")
+  questionTopics          QuestionTopic[]
+  primaryEssays           EssayVersion[]        @relation("EssayVersionPrimaryTopic")
+  podcastTopicTags        PodcastEpisodeTopic[]
+  topicMasteryStates      TopicMasteryState[]
+  masteryEvents           MasteryEvent[]
+  masterySnapshots        MasterySnapshot[]
+  reviewItems             ReviewItem[]
+
+  @@unique([key, effectiveFrom])
+  @@unique([parentId, slug, effectiveFrom])
+  @@index([parentId, sortOrder])
+  @@index([nodeType, status])
+  @@index([effectiveFrom, effectiveTo, status])
+  @@index([examTrackId, status])
+}
+
+model Rule {
+  id                 String               @id @default(cuid())
+  key                String               @unique
+  taxonomyNodeId     String?
+  title              String
+  status             LegalContentStatus   @default(DRAFT)
+  dataClassification String               @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime             @default(now())
+  updatedAt          DateTime             @updatedAt
+  taxonomyNode       TaxonomyNode?        @relation(fields: [taxonomyNodeId], references: [id], onDelete: SetNull)
+  versions           RuleVersion[]
+  podcastLinks       PodcastContentLink[]
+  masteryEvents      MasteryEvent[]
+  reviewItems        ReviewItem[]
+
+  @@index([taxonomyNodeId, status])
+  @@index([status])
+}
+
+model RuleVersion {
+  id                 String             @id @default(cuid())
+  ruleId             String
+  version            Int
+  status             LegalContentStatus @default(DRAFT)
+  effectiveFrom      DateTime
+  effectiveTo        DateTime?
+  contentBody        String?
+  contentSourceId    String?
+  approvedById       String?
+  approvedAt         DateTime?
+  dataClassification String             @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+  rule               Rule               @relation(fields: [ruleId], references: [id], onDelete: Restrict)
+  contentSource      ContentSource?     @relation(fields: [contentSourceId], references: [id], onDelete: SetNull)
+  approvedBy         User?              @relation("RuleVersionApprover", fields: [approvedById], references: [id], onDelete: SetNull)
+
+  @@unique([ruleId, version])
+  @@unique([ruleId, effectiveFrom])
+  @@index([ruleId, status, effectiveFrom, effectiveTo])
+  @@index([contentSourceId])
+}
+
+model ContentLicense {
+  id                 String            @id @default(cuid())
+  key                String            @unique
+  copyrightOwner     String
+  allowedUses        String[]
+  attribution        String
+  expiresAt          DateTime?
+  status             LicenseStatus     @default(ACTIVE)
+  dataClassification String            @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime          @default(now())
+  updatedAt          DateTime          @updatedAt
+  contentSources     ContentSource[]
+  questionVersions   QuestionVersion[]
+  essayVersions      EssayVersion[]
+  podcastEpisodes    PodcastEpisode[]
+
+  @@index([status, expiresAt])
+}
+
+model ContentSource {
+  id                 String             @id @default(cuid())
+  key                String             @unique
+  licenseId          String
+  title              String
+  sourceType         String
+  attribution        String?
+  status             LegalContentStatus @default(DRAFT)
+  dataClassification String             @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+  license            ContentLicense     @relation(fields: [licenseId], references: [id], onDelete: Restrict)
+  ruleVersions       RuleVersion[]
+  questionVersions   QuestionVersion[]
+  essayVersions      EssayVersion[]
+  podcastEpisodes    PodcastEpisode[]
+
+  @@index([licenseId, status])
+}
+
+model Question {
+  id                 String                @id @default(cuid())
+  key                String                @unique
+  status             ContentWorkflowStatus @default(DRAFT)
+  dataClassification String                @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime              @default(now())
+  updatedAt          DateTime              @updatedAt
+  versions           QuestionVersion[]
+  reports            UserContentReport[]
+  podcastLinks       PodcastContentLink[]
+
+  @@index([status])
+}
+
+model QuestionVersion {
+  id                     String                @id @default(cuid())
+  questionId             String
+  version                Int
+  examTrackId            String
+  format                 QuestionFormat
+  stem                   String
+  callOfQuestion         String
+  integratedSetId        String?
+  commonFactScenario     String?
+  attachedResources      Json?
+  exhibits               Json?
+  responseAreas          Json?
+  setLevelTimingSeconds  Int?
+  performanceTaskLibrary Json?
+  scoringRubric          Json?
+  primaryTopicId         String
+  lawyeringSkillTopicId  String?
+  simulationBlueprintKey String?
+  difficulty             QuestionDifficulty
+  estimatedSeconds       Int
+  sourceId               String
+  licenseId              String
+  authorId               String?
+  reviewerId             String?
+  batchId                String?
+  provenance             String?
+  publicSourceLabel      String?
+  publishable            Boolean               @default(false)
+  testedIssue            String?
+  governingRule          String?
+  application            String?
+  commonTrap             String?
+  memoryAid              String?
+  authorityNotes         String[]              @default([])
+  reviewChecklist        Json?
+  importMetadata         Json?
+  effectiveFrom          DateTime
+  effectiveTo            DateTime?
+  status                 ContentWorkflowStatus @default(DRAFT)
+  dataClassification     String                @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt              DateTime              @default(now())
+  updatedAt              DateTime              @updatedAt
+  question               Question              @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  examTrack              ExamTrack             @relation(fields: [examTrackId], references: [id], onDelete: Restrict)
+  primaryTopic           TaxonomyNode          @relation("QuestionVersionPrimaryTopic", fields: [primaryTopicId], references: [id], onDelete: Restrict)
+  lawyeringSkillTopic    TaxonomyNode?         @relation("QuestionVersionLawyeringSkillTopic", fields: [lawyeringSkillTopicId], references: [id], onDelete: SetNull)
+  source                 ContentSource         @relation(fields: [sourceId], references: [id], onDelete: Restrict)
+  license                ContentLicense        @relation(fields: [licenseId], references: [id], onDelete: Restrict)
+  author                 User?                 @relation("QuestionVersionAuthor", fields: [authorId], references: [id], onDelete: SetNull)
+  reviewer               User?                 @relation("QuestionVersionReviewer", fields: [reviewerId], references: [id], onDelete: SetNull)
+  choices                QuestionChoice[]
+  topics                 QuestionTopic[]
+  reviews                ContentReview[]       @relation("QuestionVersionReviews")
+  sessionQuestions       SessionQuestion[]
+  attempts               QuestionAttempt[]
+  bookmarks              QuestionBookmark[]
+  notes                  QuestionNote[]
+  masteryEvents          MasteryEvent[]
+  reviewItems            ReviewItem[]
+
+  @@unique([questionId, version])
+  @@index([status, effectiveFrom, effectiveTo])
+  @@index([examTrackId, status])
+  @@index([primaryTopicId, status])
+  @@index([lawyeringSkillTopicId, status])
+  @@index([examTrackId, format, status])
+  @@index([integratedSetId])
+  @@index([simulationBlueprintKey])
+  @@index([batchId, status])
+  @@index([provenance, status])
+  @@index([licenseId, status])
+  @@index([sourceId])
+}
+
+model QuestionChoice {
+  id                String          @id @default(cuid())
+  questionVersionId String
+  label             String
+  text              String
+  isCorrect         Boolean         @default(false)
+  rationale         String
+  distractorType    DistractorType  @default(NONE)
+  sortOrder         Int             @default(0)
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  questionVersion   QuestionVersion @relation(fields: [questionVersionId], references: [id], onDelete: Cascade)
+  attemptChoices    AttemptChoice[]
+
+  @@unique([questionVersionId, label])
+  @@index([questionVersionId, isCorrect])
+}
+
+model QuestionTopic {
+  id                String          @id @default(cuid())
+  questionVersionId String
+  taxonomyNodeId    String
+  isPrimary         Boolean         @default(false)
+  sortOrder         Int             @default(0)
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  questionVersion   QuestionVersion @relation(fields: [questionVersionId], references: [id], onDelete: Cascade)
+  taxonomyNode      TaxonomyNode    @relation(fields: [taxonomyNodeId], references: [id], onDelete: Restrict)
+
+  @@unique([questionVersionId, taxonomyNodeId])
+  @@index([taxonomyNodeId])
+  @@index([questionVersionId, isPrimary])
+}
+
+model PracticeSession {
+  id                   String                @id @default(cuid())
+  userId               String
+  mode                 PracticeSessionMode
+  status               PracticeSessionStatus @default(IN_PROGRESS)
+  feedbackMode         PracticeFeedbackMode  @default(END_OF_SET)
+  timingMode           PracticeTimingMode    @default(UNTIMED)
+  examTrackCode        ExamTrackCode?
+  subject              String?
+  category             String?
+  subtopic             String?
+  difficulty           QuestionDifficulty?
+  questionCount        Int
+  randomSeed           String
+  currentQuestionIndex Int                   @default(0)
+  startedAt            DateTime              @default(now())
+  completedAt          DateTime?
+  createdAt            DateTime              @default(now())
+  updatedAt            DateTime              @updatedAt
+  user                 User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questions            SessionQuestion[]
+  attempts             QuestionAttempt[]
+
+  @@index([userId, status, updatedAt])
+  @@index([mode, status])
+  @@index([examTrackCode, subject, category])
+}
+
+model SessionQuestion {
+  id                String            @id @default(cuid())
+  practiceSessionId String
+  questionVersionId String
+  position          Int
+  choiceOrder       String[]
+  flagged           Boolean           @default(false)
+  createdAt         DateTime          @default(now())
+  updatedAt         DateTime          @updatedAt
+  practiceSession   PracticeSession   @relation(fields: [practiceSessionId], references: [id], onDelete: Cascade)
+  questionVersion   QuestionVersion   @relation(fields: [questionVersionId], references: [id], onDelete: Restrict)
+  attempts          QuestionAttempt[]
+
+  @@unique([practiceSessionId, position])
+  @@unique([practiceSessionId, questionVersionId])
+  @@index([questionVersionId])
+  @@index([practiceSessionId, flagged])
+}
+
+model QuestionAttempt {
+  id                String              @id @default(cuid())
+  practiceSessionId String
+  sessionQuestionId String
+  questionVersionId String
+  userId            String
+  idempotencyKey    String
+  submittedAt       DateTime            @default(now())
+  responseTimeMs    Int
+  confidence        AttemptConfidence?
+  answerChanges     Int                 @default(0)
+  isCorrect         Boolean
+  earnedPoints      Float               @default(0)
+  maxPoints         Float               @default(1)
+  scoreScale        String              @default("LEGACY_BINARY")
+  writtenResponses  Json?
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime            @updatedAt
+  practiceSession   PracticeSession     @relation(fields: [practiceSessionId], references: [id], onDelete: Cascade)
+  sessionQuestion   SessionQuestion     @relation(fields: [sessionQuestionId], references: [id], onDelete: Cascade)
+  questionVersion   QuestionVersion     @relation(fields: [questionVersionId], references: [id], onDelete: Restrict)
+  user              User                @relation(fields: [userId], references: [id], onDelete: Cascade)
+  choices           AttemptChoice[]
+  mistakeTags       AttemptMistakeTag[]
+  masteryEvents     MasteryEvent[]
+  reviewItems       ReviewItem[]
+
+  @@unique([practiceSessionId, idempotencyKey])
+  @@unique([sessionQuestionId, userId])
+  @@index([userId, submittedAt])
+  @@index([practiceSessionId, isCorrect])
+  @@index([questionVersionId, isCorrect])
+}
+
+model AttemptChoice {
+  id                String          @id @default(cuid())
+  questionAttemptId String
+  questionChoiceId  String
+  selected          Boolean         @default(true)
+  sortOrder         Int             @default(0)
+  createdAt         DateTime        @default(now())
+  questionAttempt   QuestionAttempt @relation(fields: [questionAttemptId], references: [id], onDelete: Cascade)
+  questionChoice    QuestionChoice  @relation(fields: [questionChoiceId], references: [id], onDelete: Restrict)
+
+  @@unique([questionAttemptId, questionChoiceId])
+  @@index([questionChoiceId])
+}
+
+model AttemptMistakeTag {
+  id                String          @id @default(cuid())
+  questionAttemptId String
+  tag               MistakeTagCode
+  createdAt         DateTime        @default(now())
+  questionAttempt   QuestionAttempt @relation(fields: [questionAttemptId], references: [id], onDelete: Cascade)
+
+  @@unique([questionAttemptId, tag])
+  @@index([tag])
+}
+
+model QuestionBookmark {
+  id                String          @id @default(cuid())
+  userId            String
+  questionVersionId String
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  user              User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionVersion   QuestionVersion @relation(fields: [questionVersionId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, questionVersionId])
+  @@index([questionVersionId])
+}
+
+model QuestionNote {
+  id                String          @id @default(cuid())
+  userId            String
+  questionVersionId String
+  body              String
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  user              User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionVersion   QuestionVersion @relation(fields: [questionVersionId], references: [id], onDelete: Cascade)
+
+  @@index([userId, questionVersionId, updatedAt])
+  @@index([questionVersionId])
+}
+
+model TopicMasteryState {
+  id                             String                @id @default(cuid())
+  userId                         String
+  taxonomyNodeId                 String
+  algorithmVersion               String
+  knowledgeComponent             Float
+  retentionComponent             Float
+  coverageComponent              Float
+  speedComponent                 Float
+  confidenceCalibrationComponent Float
+  overallScore                   Float
+  dataConfidence                 MasteryDataConfidence @default(LOW)
+  uniqueExposureCount            Int                   @default(0)
+  eventCount                     Int                   @default(0)
+  lastPracticedAt                DateTime?
+  nextReviewAt                   DateTime?
+  explanation                    Json
+  createdAt                      DateTime              @default(now())
+  updatedAt                      DateTime              @updatedAt
+  user                           User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  taxonomyNode                   TaxonomyNode          @relation(fields: [taxonomyNodeId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, taxonomyNodeId, algorithmVersion])
+  @@index([userId, overallScore])
+  @@index([taxonomyNodeId, overallScore])
+  @@index([nextReviewAt])
+}
+
+model MasteryEvent {
+  id                String             @id @default(cuid())
+  userId            String
+  taxonomyNodeId    String
+  eventType         MasteryEventType
+  algorithmVersion  String
+  occurredAt        DateTime
+  questionAttemptId String?
+  questionVersionId String?
+  essayAttemptId    String?
+  essayRubricItemId String?
+  ruleId            String?
+  isCorrect         Boolean?
+  confidence        AttemptConfidence?
+  responseTimeMs    Int?
+  estimatedSeconds  Int?
+  questionKey       String?
+  ruleKey           String?
+  eventWeight       Float              @default(1)
+  metadata          Json
+  createdAt         DateTime           @default(now())
+  user              User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  taxonomyNode      TaxonomyNode       @relation(fields: [taxonomyNodeId], references: [id], onDelete: Cascade)
+  questionAttempt   QuestionAttempt?   @relation(fields: [questionAttemptId], references: [id], onDelete: SetNull)
+  questionVersion   QuestionVersion?   @relation(fields: [questionVersionId], references: [id], onDelete: SetNull)
+  essayAttempt      EssayAttempt?      @relation(fields: [essayAttemptId], references: [id], onDelete: SetNull)
+  essayRubricItem   EssayRubricItem?   @relation(fields: [essayRubricItemId], references: [id], onDelete: SetNull)
+  rule              Rule?              @relation(fields: [ruleId], references: [id], onDelete: SetNull)
+
+  @@index([userId, taxonomyNodeId, occurredAt])
+  @@index([algorithmVersion, occurredAt])
+  @@index([questionAttemptId])
+  @@index([questionVersionId])
+  @@index([essayAttemptId])
+  @@index([essayRubricItemId])
+  @@index([ruleId])
+}
+
+model MasterySnapshot {
+  id                             String                @id @default(cuid())
+  userId                         String
+  taxonomyNodeId                 String
+  algorithmVersion               String
+  knowledgeComponent             Float
+  retentionComponent             Float
+  coverageComponent              Float
+  speedComponent                 Float
+  confidenceCalibrationComponent Float
+  overallScore                   Float
+  dataConfidence                 MasteryDataConfidence
+  uniqueExposureCount            Int
+  eventCount                     Int
+  explanation                    Json
+  calculatedAt                   DateTime              @default(now())
+  user                           User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  taxonomyNode                   TaxonomyNode          @relation(fields: [taxonomyNodeId], references: [id], onDelete: Cascade)
+
+  @@index([userId, taxonomyNodeId, calculatedAt])
+  @@index([algorithmVersion, calculatedAt])
+}
+
+model ReviewItem {
+  id                String           @id @default(cuid())
+  userId            String
+  taxonomyNodeId    String
+  ruleId            String?
+  questionVersionId String?
+  questionAttemptId String?
+  essayAttemptId    String?
+  essayRubricItemId String?
+  podcastEpisodeId  String?
+  source            ReviewItemSource
+  status            ReviewItemStatus @default(OPEN)
+  topic             String
+  rule              String?
+  criticalFact      String
+  studentAnswer     String
+  correctAnswer     String
+  errorReason       String
+  relatedPodcast    String?
+  dueAt             DateTime
+  createdAt         DateTime         @default(now())
+  updatedAt         DateTime         @updatedAt
+  user              User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  taxonomyNode      TaxonomyNode     @relation(fields: [taxonomyNodeId], references: [id], onDelete: Cascade)
+  ruleRecord        Rule?            @relation(fields: [ruleId], references: [id], onDelete: SetNull)
+  questionVersion   QuestionVersion? @relation(fields: [questionVersionId], references: [id], onDelete: SetNull)
+  questionAttempt   QuestionAttempt? @relation(fields: [questionAttemptId], references: [id], onDelete: SetNull)
+  essayAttempt      EssayAttempt?    @relation(fields: [essayAttemptId], references: [id], onDelete: SetNull)
+  essayRubricItem   EssayRubricItem? @relation(fields: [essayRubricItemId], references: [id], onDelete: SetNull)
+  podcastEpisode    PodcastEpisode?  @relation(fields: [podcastEpisodeId], references: [id], onDelete: SetNull)
+  attempts          ReviewAttempt[]
+
+  @@index([userId, status, dueAt])
+  @@index([taxonomyNodeId, status])
+  @@index([questionAttemptId])
+  @@index([questionVersionId])
+  @@index([essayAttemptId])
+  @@index([essayRubricItemId])
+  @@index([ruleId])
+}
+
+model ReviewAttempt {
+  id           String               @id @default(cuid())
+  reviewItemId String
+  userId       String
+  outcome      ReviewAttemptOutcome
+  response     String?
+  createdAt    DateTime             @default(now())
+  reviewItem   ReviewItem           @relation(fields: [reviewItemId], references: [id], onDelete: Cascade)
+  user         User                 @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([reviewItemId, createdAt])
+  @@index([userId, createdAt])
+}
+
+model Essay {
+  id                 String                @id @default(cuid())
+  key                String                @unique
+  status             ContentWorkflowStatus @default(DRAFT)
+  dataClassification String                @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime              @default(now())
+  updatedAt          DateTime              @updatedAt
+  versions           EssayVersion[]
+  reports            UserContentReport[]
+  podcastLinks       PodcastContentLink[]
+
+  @@index([status])
+}
+
+model EssayVersion {
+  id                 String                @id @default(cuid())
+  essayId            String
+  version            Int
+  examTrackId        String
+  title              String
+  prompt             String
+  primaryTopicId     String?
+  sourceId           String
+  licenseId          String
+  authorId           String?
+  reviewerId         String?
+  effectiveFrom      DateTime
+  effectiveTo        DateTime?
+  status             ContentWorkflowStatus @default(DRAFT)
+  dataClassification String                @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime              @default(now())
+  updatedAt          DateTime              @updatedAt
+  essay              Essay                 @relation(fields: [essayId], references: [id], onDelete: Restrict)
+  examTrack          ExamTrack             @relation(fields: [examTrackId], references: [id], onDelete: Restrict)
+  primaryTopic       TaxonomyNode?         @relation("EssayVersionPrimaryTopic", fields: [primaryTopicId], references: [id], onDelete: SetNull)
+  source             ContentSource         @relation(fields: [sourceId], references: [id], onDelete: Restrict)
+  license            ContentLicense        @relation(fields: [licenseId], references: [id], onDelete: Restrict)
+  author             User?                 @relation("EssayVersionAuthor", fields: [authorId], references: [id], onDelete: SetNull)
+  reviewer           User?                 @relation("EssayVersionReviewer", fields: [reviewerId], references: [id], onDelete: SetNull)
+  rubricItems        EssayRubricItem[]
+  reviews            ContentReview[]       @relation("EssayVersionReviews")
+  attempts           EssayAttempt[]
+  autosaves          EssayAutosave[]
+  assessments        EssaySelfAssessment[]
+  notes              EssayNote[]
+  feedbackJobs       EssayFeedbackJob[]
+
+  @@unique([essayId, version])
+  @@index([status, effectiveFrom, effectiveTo])
+  @@index([examTrackId, status])
+  @@index([primaryTopicId, status])
+  @@index([licenseId, status])
+}
+
+model EssayRubricItem {
+  id              String                    @id @default(cuid())
+  essayVersionId  String
+  label           String
+  description     String
+  maxPoints       Int
+  sortOrder       Int                       @default(0)
+  createdAt       DateTime                  @default(now())
+  updatedAt       DateTime                  @updatedAt
+  essayVersion    EssayVersion              @relation(fields: [essayVersionId], references: [id], onDelete: Cascade)
+  assessmentItems EssaySelfAssessmentItem[]
+  masteryEvents   MasteryEvent[]
+  reviewItems     ReviewItem[]
+
+  @@unique([essayVersionId, label])
+  @@index([essayVersionId, sortOrder])
+}
+
+model EssayAttempt {
+  id                     String                @id @default(cuid())
+  userId                 String
+  essayVersionId         String
+  status                 EssayAttemptStatus    @default(IN_PROGRESS)
+  responseMode           EssayResponseMode     @default(FULL_ANSWER)
+  timerMinutes           Int
+  extendedTimeMultiplier Float                 @default(1)
+  outline                String                @default("")
+  answer                 String                @default("")
+  wordCount              Int                   @default(0)
+  startedAt              DateTime              @default(now())
+  submittedAt            DateTime?
+  reviewedAt             DateTime?
+  idempotencyKey         String?
+  dataClassification     String                @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt              DateTime              @default(now())
+  updatedAt              DateTime              @updatedAt
+  user                   User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  essayVersion           EssayVersion          @relation(fields: [essayVersionId], references: [id], onDelete: Restrict)
+  autosaves              EssayAutosave[]
+  assessments            EssaySelfAssessment[]
+  notes                  EssayNote[]
+  feedbackJobs           EssayFeedbackJob[]
+  masteryEvents          MasteryEvent[]
+  reviewItems            ReviewItem[]
+
+  @@unique([userId, idempotencyKey])
+  @@index([userId, status, updatedAt])
+  @@index([essayVersionId, status])
+}
+
+model EssayAutosave {
+  id             String       @id @default(cuid())
+  essayAttemptId String
+  userId         String
+  essayVersionId String
+  outline        String       @default("")
+  answer         String       @default("")
+  wordCount      Int          @default(0)
+  clientSavedAt  DateTime?
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+  essayAttempt   EssayAttempt @relation(fields: [essayAttemptId], references: [id], onDelete: Cascade)
+  user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  essayVersion   EssayVersion @relation(fields: [essayVersionId], references: [id], onDelete: Restrict)
+
+  @@index([essayAttemptId, updatedAt])
+  @@index([userId, updatedAt])
+}
+
+model EssaySelfAssessment {
+  id                String                    @id @default(cuid())
+  essayAttemptId    String
+  userId            String
+  essayVersionId    String
+  rubricVersion     Int
+  totalPoints       Int
+  earnedPoints      Int
+  reliabilityWeight Float                     @default(0.6)
+  notes             String?
+  submittedAt       DateTime                  @default(now())
+  createdAt         DateTime                  @default(now())
+  updatedAt         DateTime                  @updatedAt
+  essayAttempt      EssayAttempt              @relation(fields: [essayAttemptId], references: [id], onDelete: Cascade)
+  user              User                      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  essayVersion      EssayVersion              @relation(fields: [essayVersionId], references: [id], onDelete: Restrict)
+  items             EssaySelfAssessmentItem[]
+
+  @@unique([essayAttemptId])
+  @@index([userId, submittedAt])
+  @@index([essayVersionId, submittedAt])
+}
+
+model EssaySelfAssessmentItem {
+  id                    String              @id @default(cuid())
+  essaySelfAssessmentId String
+  essayRubricItemId     String
+  missed                Boolean             @default(false)
+  awardedPoints         Int                 @default(0)
+  notes                 String?
+  createdAt             DateTime            @default(now())
+  updatedAt             DateTime            @updatedAt
+  essaySelfAssessment   EssaySelfAssessment @relation(fields: [essaySelfAssessmentId], references: [id], onDelete: Cascade)
+  essayRubricItem       EssayRubricItem     @relation(fields: [essayRubricItemId], references: [id], onDelete: Restrict)
+
+  @@unique([essaySelfAssessmentId, essayRubricItemId])
+  @@index([essayRubricItemId])
+}
+
+model EssayNote {
+  id             String       @id @default(cuid())
+  essayAttemptId String
+  userId         String
+  essayVersionId String
+  body           String
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+  essayAttempt   EssayAttempt @relation(fields: [essayAttemptId], references: [id], onDelete: Cascade)
+  user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  essayVersion   EssayVersion @relation(fields: [essayVersionId], references: [id], onDelete: Restrict)
+
+  @@index([essayAttemptId, updatedAt])
+  @@index([userId, updatedAt])
+}
+
+model EssayFeedbackJob {
+  id              String                      @id @default(cuid())
+  essayAttemptId  String
+  userId          String
+  essayVersionId  String
+  providerKey     String
+  status          EssayFeedbackProviderStatus @default(DISABLED)
+  requestMetadata Json?
+  resultMetadata  Json?
+  errorMessage    String?
+  createdAt       DateTime                    @default(now())
+  updatedAt       DateTime                    @updatedAt
+  essayAttempt    EssayAttempt                @relation(fields: [essayAttemptId], references: [id], onDelete: Cascade)
+  user            User                        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  essayVersion    EssayVersion                @relation(fields: [essayVersionId], references: [id], onDelete: Restrict)
+
+  @@index([essayAttemptId, status])
+  @@index([providerKey, status])
+}
+
+model PodcastSeries {
+  id                 String                @id @default(cuid())
+  key                String                @unique
+  title              String
+  description        String?
+  status             ContentWorkflowStatus @default(DRAFT)
+  dataClassification String                @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime              @default(now())
+  updatedAt          DateTime              @updatedAt
+  episodes           PodcastEpisode[]
+
+  @@index([status])
+}
+
+model PodcastEpisode {
+  id                   String                     @id @default(cuid())
+  seriesId             String
+  key                  String                     @unique
+  title                String
+  description          String?
+  summary              String?
+  instructor           String?
+  learningObjectives   String[]
+  audioObjectKey       String?
+  audioMimeType        String?
+  audioSizeBytes       Int?
+  audioDurationSeconds Int?
+  processingState      AudioProcessingState       @default(UPLOADED)
+  processingError      String?
+  transcriptUri        String?
+  transcriptText       String?
+  audioUri             String?
+  sourceId             String?
+  licenseId            String?
+  effectiveFrom        DateTime?
+  effectiveTo          DateTime?
+  status               ContentWorkflowStatus      @default(DRAFT)
+  dataClassification   String                     @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt            DateTime                   @default(now())
+  updatedAt            DateTime                   @updatedAt
+  series               PodcastSeries              @relation(fields: [seriesId], references: [id], onDelete: Cascade)
+  source               ContentSource?             @relation(fields: [sourceId], references: [id], onDelete: SetNull)
+  license              ContentLicense?            @relation(fields: [licenseId], references: [id], onDelete: SetNull)
+  reviews              ContentReview[]            @relation("PodcastEpisodeReviews")
+  reports              UserContentReport[]
+  transcriptSegments   PodcastTranscriptSegment[]
+  chapters             PodcastChapter[]
+  topicTags            PodcastEpisodeTopic[]
+  contentLinks         PodcastContentLink[]
+  progress             PodcastProgress[]
+  bookmarks            PodcastBookmark[]
+  notes                PodcastNote[]
+  reviewItems          ReviewItem[]
+
+  @@index([seriesId, status])
+  @@index([processingState, status])
+  @@index([status, effectiveFrom, effectiveTo])
+  @@index([licenseId, status])
+}
+
+model PodcastTranscriptSegment {
+  id               String         @id @default(cuid())
+  podcastEpisodeId String
+  startSeconds     Int
+  endSeconds       Int
+  text             String
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+  podcastEpisode   PodcastEpisode @relation(fields: [podcastEpisodeId], references: [id], onDelete: Cascade)
+
+  @@index([podcastEpisodeId, startSeconds])
+}
+
+model PodcastChapter {
+  id               String         @id @default(cuid())
+  podcastEpisodeId String
+  title            String
+  startSeconds     Int
+  endSeconds       Int?
+  sortOrder        Int            @default(0)
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+  podcastEpisode   PodcastEpisode @relation(fields: [podcastEpisodeId], references: [id], onDelete: Cascade)
+
+  @@index([podcastEpisodeId, sortOrder])
+  @@index([podcastEpisodeId, startSeconds])
+}
+
+model PodcastEpisodeTopic {
+  id               String         @id @default(cuid())
+  podcastEpisodeId String
+  taxonomyNodeId   String
+  sortOrder        Int            @default(0)
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+  podcastEpisode   PodcastEpisode @relation(fields: [podcastEpisodeId], references: [id], onDelete: Cascade)
+  taxonomyNode     TaxonomyNode   @relation(fields: [taxonomyNodeId], references: [id], onDelete: Restrict)
+
+  @@unique([podcastEpisodeId, taxonomyNodeId])
+  @@index([taxonomyNodeId])
+}
+
+model PodcastContentLink {
+  id               String          @id @default(cuid())
+  podcastEpisodeId String
+  linkKind         PodcastLinkKind
+  questionId       String?
+  essayId          String?
+  ruleId           String?
+  sortOrder        Int             @default(0)
+  createdAt        DateTime        @default(now())
+  updatedAt        DateTime        @updatedAt
+  podcastEpisode   PodcastEpisode  @relation(fields: [podcastEpisodeId], references: [id], onDelete: Cascade)
+  question         Question?       @relation(fields: [questionId], references: [id], onDelete: SetNull)
+  essay            Essay?          @relation(fields: [essayId], references: [id], onDelete: SetNull)
+  rule             Rule?           @relation(fields: [ruleId], references: [id], onDelete: SetNull)
+
+  @@index([podcastEpisodeId, sortOrder])
+  @@index([linkKind])
+}
+
+model PodcastProgress {
+  id               String                   @id @default(cuid())
+  userId           String
+  podcastEpisodeId String
+  positionSeconds  Int                      @default(0)
+  completedAt      DateTime?
+  updatedAt        DateTime                 @updatedAt
+  createdAt        DateTime                 @default(now())
+  user             User                     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  podcastEpisode   PodcastEpisode           @relation(fields: [podcastEpisodeId], references: [id], onDelete: Cascade)
+  segments         PodcastListenedSegment[]
+
+  @@unique([userId, podcastEpisodeId])
+  @@index([podcastEpisodeId, updatedAt])
+}
+
+model PodcastListenedSegment {
+  id                String          @id @default(cuid())
+  podcastProgressId String
+  startSeconds      Int
+  endSeconds        Int
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  podcastProgress   PodcastProgress @relation(fields: [podcastProgressId], references: [id], onDelete: Cascade)
+
+  @@index([podcastProgressId, startSeconds])
+}
+
+model PodcastBookmark {
+  id               String         @id @default(cuid())
+  userId           String
+  podcastEpisodeId String
+  timestampSeconds Int
+  label            String?
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+  user             User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  podcastEpisode   PodcastEpisode @relation(fields: [podcastEpisodeId], references: [id], onDelete: Cascade)
+
+  @@index([userId, podcastEpisodeId, timestampSeconds])
+}
+
+model PodcastNote {
+  id               String         @id @default(cuid())
+  userId           String
+  podcastEpisodeId String
+  timestampSeconds Int
+  body             String
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+  user             User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  podcastEpisode   PodcastEpisode @relation(fields: [podcastEpisodeId], references: [id], onDelete: Cascade)
+
+  @@index([userId, podcastEpisodeId, timestampSeconds])
+}
+
+model ContentReview {
+  id                String                @id @default(cuid())
+  contentKind       ContentKind
+  step              ReviewStep
+  decision          ReviewDecision
+  reviewerId        String
+  notes             String?
+  fromStatus        ContentWorkflowStatus
+  toStatus          ContentWorkflowStatus
+  questionVersionId String?
+  essayVersionId    String?
+  podcastEpisodeId  String?
+  createdAt         DateTime              @default(now())
+  updatedAt         DateTime              @updatedAt
+  reviewer          User                  @relation("ContentReviewReviewer", fields: [reviewerId], references: [id], onDelete: Restrict)
+  questionVersion   QuestionVersion?      @relation("QuestionVersionReviews", fields: [questionVersionId], references: [id], onDelete: Cascade)
+  essayVersion      EssayVersion?         @relation("EssayVersionReviews", fields: [essayVersionId], references: [id], onDelete: Cascade)
+  podcastEpisode    PodcastEpisode?       @relation("PodcastEpisodeReviews", fields: [podcastEpisodeId], references: [id], onDelete: Cascade)
+
+  @@index([contentKind, step, decision])
+  @@index([reviewerId, createdAt])
+  @@index([questionVersionId])
+  @@index([essayVersionId])
+  @@index([podcastEpisodeId])
+}
+
+model ImportJob {
+  id                 String          @id @default(cuid())
+  format             ImportFormat
+  status             ImportJobStatus @default(PREVIEW)
+  filename           String
+  submittedById      String?
+  rowCount           Int             @default(0)
+  acceptedRows       Int             @default(0)
+  rejectedRows       Int             @default(0)
+  previewJson        Json?
+  errorReportJson    Json?
+  dataClassification String          @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime        @default(now())
+  updatedAt          DateTime        @updatedAt
+  submittedBy        User?           @relation("ImportJobSubmitter", fields: [submittedById], references: [id], onDelete: SetNull)
+
+  @@index([status, createdAt])
+  @@index([submittedById])
+}
+
+model UserContentReport {
+  id               String                  @id @default(cuid())
+  reporterId       String?
+  contentKind      ContentKind
+  questionId       String?
+  essayId          String?
+  podcastEpisodeId String?
+  reason           String
+  status           UserContentReportStatus @default(OPEN)
+  moderationNotes  String?
+  createdAt        DateTime                @default(now())
+  updatedAt        DateTime                @updatedAt
+  reporter         User?                   @relation("UserContentReportReporter", fields: [reporterId], references: [id], onDelete: SetNull)
+  question         Question?               @relation(fields: [questionId], references: [id], onDelete: SetNull)
+  essay            Essay?                  @relation(fields: [essayId], references: [id], onDelete: SetNull)
+  podcastEpisode   PodcastEpisode?         @relation(fields: [podcastEpisodeId], references: [id], onDelete: SetNull)
+
+  @@index([status, createdAt])
+  @@index([contentKind, status])
+  @@index([reporterId])
+}
+
+model AuditLog {
+  id         String   @id @default(cuid())
+  userId     String?
+  action     String
+  entityType String
+  entityId   String?
+  metadata   Json?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  user       User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([action, createdAt])
+  @@index([entityType, entityId])
+  @@index([userId, createdAt])
+}
+
+model StudyPlan {
+  id                 String              @id @default(cuid())
+  userId             String
+  examDate           DateTime
+  examTrackCode      ExamTrackCode
+  timeZone           String
+  startsOn           DateTime
+  endsOn             DateTime
+  status             RecordStatus        @default(ACTIVE)
+  algorithmVersion   String
+  seed               String
+  unavailableDates   String[]
+  unrealisticWarning String?
+  dataClassification String              @default("DEMO_NOT_FOR_PUBLICATION")
+  createdAt          DateTime            @default(now())
+  updatedAt          DateTime            @updatedAt
+  user               User                @relation(fields: [userId], references: [id], onDelete: Cascade)
+  days               StudyDay[]
+  tasks              StudyTask[]
+  generationRuns     PlanGenerationRun[]
+
+  @@index([userId, status, startsOn])
+  @@index([examDate])
+}
+
+model StudyDay {
+  id               String      @id @default(cuid())
+  studyPlanId      String
+  date             DateTime
+  availableMinutes Int
+  scheduledMinutes Int         @default(0)
+  overloadMinutes  Int         @default(0)
+  isRestDay        Boolean     @default(false)
+  isUnavailable    Boolean     @default(false)
+  warning          String?
+  createdAt        DateTime    @default(now())
+  updatedAt        DateTime    @updatedAt
+  studyPlan        StudyPlan   @relation(fields: [studyPlanId], references: [id], onDelete: Cascade)
+  tasks            StudyTask[]
+
+  @@unique([studyPlanId, date])
+  @@index([studyPlanId, date])
+  @@index([date])
+}
+
+model StudyTask {
+  id                  String          @id @default(cuid())
+  studyPlanId         String
+  studyDayId          String
+  userId              String
+  taskType            StudyTaskType
+  status              StudyTaskStatus @default(TODO)
+  title               String
+  estimatedMinutes    Int
+  priority            Int
+  relatedContentKind  ContentKind?
+  relatedContentId    String?
+  relatedContentLabel String?
+  relatedTopicId      String?
+  relatedTopicLabel   String?
+  relatedSubject      String?
+  whyAssigned         String
+  dueDate             DateTime
+  isPinned            Boolean         @default(false)
+  allowOverload       Boolean         @default(false)
+  completedAt         DateTime?
+  skippedAt           DateTime?
+  skipReason          String?
+  createdAt           DateTime        @default(now())
+  updatedAt           DateTime        @updatedAt
+  studyPlan           StudyPlan       @relation(fields: [studyPlanId], references: [id], onDelete: Cascade)
+  studyDay            StudyDay        @relation(fields: [studyDayId], references: [id], onDelete: Cascade)
+  user                User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, status, dueDate])
+  @@index([studyPlanId, priority])
+  @@index([studyDayId, priority])
+  @@index([relatedTopicId])
+}
+
+model PlanGenerationRun {
+  id                String                @id @default(cuid())
+  studyPlanId       String?
+  userId            String
+  trigger           PlanGenerationTrigger
+  status            PlanGenerationStatus  @default(RUNNING)
+  seed              String
+  algorithmVersion  String
+  inputJson         Json
+  outputSummaryJson Json?
+  warning           String?
+  startedAt         DateTime              @default(now())
+  finishedAt        DateTime?
+  createdAt         DateTime              @default(now())
+  updatedAt         DateTime              @updatedAt
+  studyPlan         StudyPlan?            @relation(fields: [studyPlanId], references: [id], onDelete: SetNull)
+  user              User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, startedAt])
+  @@index([studyPlanId, startedAt])
+  @@index([trigger, status])
+}
