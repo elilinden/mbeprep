@@ -379,7 +379,7 @@ async function main() {
       taxonomyReport,
       questions: questionResults,
     };
-  });
+  }, { timeout: 120_000 });
 
   console.log(JSON.stringify({ ok: true, ...result }, null, 2));
 }
