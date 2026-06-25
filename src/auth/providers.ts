@@ -1,15 +1,31 @@
 import Credentials from "next-auth/providers/credentials";
+import GitHub from "next-auth/providers/github";
 
 import { env } from "@/env/server";
 
 import { findDevelopmentUser } from "./dev-users";
 
 export function createAuthProviders() {
-  if (env.NODE_ENV === "production") {
-    return [];
+  const providers = [];
+
+  if (
+    env.NODE_ENV === "production" &&
+    env.GITHUB_CLIENT_ID &&
+    env.GITHUB_CLIENT_SECRET
+  ) {
+    providers.push(
+      GitHub({
+        clientId: env.GITHUB_CLIENT_ID,
+        clientSecret: env.GITHUB_CLIENT_SECRET,
+      }),
+    );
   }
 
-  return [
+  if (env.NODE_ENV === "production") {
+    return providers;
+  }
+
+  providers.push(
     Credentials({
       id: "dev-login",
       name: "Development Login",
@@ -37,5 +53,11 @@ export function createAuthProviders() {
         };
       },
     }),
-  ];
+  );
+
+  return providers;
+}
+
+export function isGitHubAuthConfigured() {
+  return Boolean(env.GITHUB_CLIENT_ID && env.GITHUB_CLIENT_SECRET);
 }

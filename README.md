@@ -65,6 +65,9 @@ Required variables are validated in `src/env/server.ts`.
 - `DATABASE_URL`
 - `NEXT_PUBLIC_APP_NAME`
 - `AUTH_SECRET`
+- `GITHUB_CLIENT_ID`
+- `GITHUB_CLIENT_SECRET`
+- `ADMIN_EMAILS`
 - `ONBOARDING_EXTENDED_TIME_MULTIPLIER_MIN`
 - `ONBOARDING_EXTENDED_TIME_MULTIPLIER_MAX`
 - `PODCAST_STORAGE_DRIVER`
@@ -80,7 +83,12 @@ Required variables are validated in `src/env/server.ts`.
 
 ## Authentication
 
-The app uses Auth.js through a small application adapter in `src/auth`. Production providers are intentionally replaceable. Outside production, `/login` exposes development-only sign-in buttons for:
+The app uses Auth.js through a small application adapter in `src/auth`.
+Production sign-in uses GitHub OAuth when `GITHUB_CLIENT_ID` and
+`GITHUB_CLIENT_SECRET` are configured. New OAuth users receive the `STUDENT`
+role by default. Comma-separated emails in `ADMIN_EMAILS` receive the `ADMIN`
+role on first sign-in. Outside production, `/login` exposes development-only
+sign-in buttons for:
 
 - `dev-admin@example.test`
 - `dev-learner@example.test`

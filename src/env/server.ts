@@ -8,6 +8,9 @@ const serverEnvSchema = z
       .string()
       .min(16)
       .default("development-auth-secret-change-me"),
+    GITHUB_CLIENT_ID: z.string().optional(),
+    GITHUB_CLIENT_SECRET: z.string().optional(),
+    ADMIN_EMAILS: z.string().default(""),
     ONBOARDING_EXTENDED_TIME_MULTIPLIER_MIN: z.coerce
       .number()
       .min(1)
@@ -59,6 +62,9 @@ export const env = serverEnvSchema.parse({
   DATABASE_URL: process.env.DATABASE_URL,
   NEXT_PUBLIC_APP_NAME: process.env.NEXT_PUBLIC_APP_NAME,
   AUTH_SECRET: process.env.AUTH_SECRET,
+  GITHUB_CLIENT_ID: process.env.GITHUB_CLIENT_ID,
+  GITHUB_CLIENT_SECRET: process.env.GITHUB_CLIENT_SECRET,
+  ADMIN_EMAILS: process.env.ADMIN_EMAILS,
   ONBOARDING_EXTENDED_TIME_MULTIPLIER_MIN:
     process.env.ONBOARDING_EXTENDED_TIME_MULTIPLIER_MIN,
   ONBOARDING_EXTENDED_TIME_MULTIPLIER_MAX:

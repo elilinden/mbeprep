@@ -1,9 +1,9 @@
 import { PrismaAdapter } from "@auth/prisma-adapter";
 import NextAuth from "next-auth";
 
-import { findDevelopmentUser } from "@/auth/dev-users";
 import { normalizeRoles } from "@/auth/roles";
 import { createAuthProviders } from "@/auth/providers";
+import { resolveRolesForAuthenticatedUser } from "@/auth/user-role-sync";
 import { env } from "@/env/server";
 import { prisma } from "@/lib/prisma";
 
@@ -23,13 +23,17 @@ export const {
   },
   secret: env.AUTH_SECRET,
   callbacks: {
-    jwt({ token, user }) {
+    async jwt({ token, user }) {
       if (user) {
-        const developmentUser =
-          user.email && env.NODE_ENV !== "production"
-            ? findDevelopmentUser(user.email)
-            : null;
-        token.roles = normalizeRoles(user.roles ?? developmentUser?.roles);
+        const userId = user.id || token.sub;
+
+        if (userId) {
+          token.roles = await resolveRolesForAuthenticatedUser({
+            userId,
+            email: user.email,
+            sessionRoles: user.roles,
+          });
+        }
       }
 
       return token;
