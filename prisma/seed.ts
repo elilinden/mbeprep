@@ -306,7 +306,7 @@ async function main() {
         sortOrder: skillIndex + 1,
       });
     }
-  });
+  }, { timeout: 30_000 });
 }
 
 type TaxonomyWriter = Pick<PrismaClient, "taxonomyNode">;
