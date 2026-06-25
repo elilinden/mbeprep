@@ -13,3 +13,4 @@ dist/
 .swarm/
 ruvector.db
 /storage/
+.vercel
