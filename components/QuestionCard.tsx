@@ -37,6 +37,7 @@ export function QuestionCard({ question, index, total, elapsed, onNext, onEnd, o
   const [markedConfusing, setMarkedConfusing] = useState(false);
   const [saved, setSaved] = useState(false);
   const startedAtRef = useRef(0);
+  const progressHeaderRef = useRef<HTMLDivElement>(null);
   const feedbackRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -49,7 +50,20 @@ export function QuestionCard({ question, index, total, elapsed, onNext, onEnd, o
     }
 
     window.setTimeout(() => {
-      feedbackRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+      const feedbackTop = feedbackRef.current?.getBoundingClientRect().top;
+
+      if (feedbackTop === undefined) {
+        return;
+      }
+
+      const appHeaderHeight = document.querySelector("header")?.getBoundingClientRect().height || 0;
+      const progressHeaderHeight = progressHeaderRef.current?.getBoundingClientRect().height || 0;
+      const scrollOffset = appHeaderHeight + progressHeaderHeight + 28;
+
+      window.scrollTo({
+        top: window.scrollY + feedbackTop - scrollOffset,
+        behavior: "smooth"
+      });
     }, 80);
   }, [submitted]);
 
@@ -95,7 +109,7 @@ export function QuestionCard({ question, index, total, elapsed, onNext, onEnd, o
 
   return (
     <div className="space-y-5">
-      <div className="glass sticky top-24 z-20 rounded-3xl px-4 py-3">
+      <div ref={progressHeaderRef} className="glass sticky top-24 z-20 rounded-3xl px-4 py-3">
         <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
           <div>
             <p className="text-sm font-medium text-slate-950/62">Question {index + 1} of {total}</p>
