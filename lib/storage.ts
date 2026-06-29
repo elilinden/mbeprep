@@ -24,13 +24,19 @@ export function readStorage(): UserProgress {
   }
 }
 
-export function writeStorage(progress: UserProgress) {
+export function writeStorage(progress: UserProgress, options: { syncCloud?: boolean } = {}) {
   if (typeof window === "undefined") {
     return;
   }
 
   window.localStorage.setItem(scopedStorageKey(progressKey), JSON.stringify(progress));
   window.dispatchEvent(new Event("mbe-progress-updated"));
+
+  if (options.syncCloud !== false) {
+    void import("@/lib/cloudProgress").then(({ saveQuestionProgressToCloud }) => {
+      void saveQuestionProgressToCloud(progress);
+    });
+  }
 }
 
 export function clearStorage() {
@@ -40,4 +46,7 @@ export function clearStorage() {
 
   window.localStorage.removeItem(scopedStorageKey(progressKey));
   window.dispatchEvent(new Event("mbe-progress-updated"));
+  void import("@/lib/cloudProgress").then(({ clearQuestionProgressFromCloud }) => {
+    void clearQuestionProgressFromCloud();
+  });
 }

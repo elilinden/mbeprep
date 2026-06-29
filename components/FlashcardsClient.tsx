@@ -3,6 +3,7 @@
 import { ArrowLeft, ArrowRight, CheckCircle2, RotateCcw, Sparkles } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { GlassCard } from "@/components/GlassCard";
+import { deleteFlashcardProgressFromCloud, hydrateFlashcardProgressFromCloud, saveFlashcardProgressToCloud } from "@/lib/cloudStudy";
 import type { FlashcardDeck, FlashcardProgress, FlashcardRating } from "@/lib/types";
 import { readJsonStorage, scopedStorageKey, writeJsonStorage } from "@/lib/userStorage";
 
@@ -14,6 +15,7 @@ function loadProgress() {
 
 function saveProgress(progress: Record<string, FlashcardProgress>) {
   writeJsonStorage(scopedStorageKey(flashcardProgressBaseKey), progress);
+  void saveFlashcardProgressToCloud(progress);
 }
 
 export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
@@ -24,8 +26,23 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
   const [progress, setProgress] = useState<Record<string, FlashcardProgress>>(() => loadProgress());
 
   useEffect(() => {
-    const loadStoredProgress = window.setTimeout(() => setProgress(loadProgress()), 0);
-    return () => window.clearTimeout(loadStoredProgress);
+    let active = true;
+    const loadStoredProgress = window.setTimeout(() => {
+      const localProgress = loadProgress();
+      setProgress(localProgress);
+      void hydrateFlashcardProgressFromCloud(localProgress).then((cloudProgress) => {
+        if (!active) {
+          return;
+        }
+
+        setProgress(cloudProgress);
+        writeJsonStorage(scopedStorageKey(flashcardProgressBaseKey), cloudProgress);
+      });
+    }, 0);
+    return () => {
+      active = false;
+      window.clearTimeout(loadStoredProgress);
+    };
   }, []);
 
   const selectedDeck = useMemo(() => (
@@ -96,11 +113,13 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
     }
 
     const next = { ...progress };
+    const cardIds = selectedDeck.cards.map((card) => card.id);
     for (const card of selectedDeck.cards) {
       delete next[card.id];
     }
     setProgress(next);
     saveProgress(next);
+    void deleteFlashcardProgressFromCloud(cardIds);
     setIndex(0);
     setRevealed(false);
   }

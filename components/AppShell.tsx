@@ -7,6 +7,7 @@ import { usePathname, useRouter } from "next/navigation";
 import { useEffect, useState, type ReactNode } from "react";
 import { clsx } from "clsx";
 import { authChangedEvent, getCurrentAccount, signOutAccount, type Account } from "@/lib/auth";
+import { hydrateQuestionProgressFromCloud } from "@/lib/cloudProgress";
 import { GlassCard } from "@/components/GlassCard";
 
 const nav = [
@@ -35,6 +36,10 @@ export function AppShell({ children }: { children: ReactNode }) {
 
       if (!active) {
         return;
+      }
+
+      if (currentAccount) {
+        await hydrateQuestionProgressFromCloud();
       }
 
       setAccount(currentAccount);

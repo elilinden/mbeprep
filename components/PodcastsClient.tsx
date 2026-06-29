@@ -3,6 +3,7 @@
 import { Bookmark, Headphones, NotebookPen, PlayCircle } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { GlassCard } from "@/components/GlassCard";
+import { hydratePodcastStateFromCloud, savePodcastBookmarkToCloud, savePodcastNoteToCloud } from "@/lib/cloudStudy";
 import type { PodcastEpisode } from "@/lib/types";
 import { readJsonStorage, scopedStorageKey, writeJsonStorage } from "@/lib/userStorage";
 
@@ -21,12 +22,29 @@ export function PodcastsClient({ episodes }: { episodes: PodcastEpisode[] }) {
   const [bookmarks, setBookmarks] = useState<string[]>(() => readJsonStorage(scopedStorageKey(bookmarkBaseKey), []));
 
   useEffect(() => {
+    let active = true;
     const loadStoredAudioState = window.setTimeout(() => {
-      setNotes(readJsonStorage(scopedStorageKey(notesBaseKey), {}));
-      setBookmarks(readJsonStorage(scopedStorageKey(bookmarkBaseKey), []));
+      const localNotes = readJsonStorage<Record<string, PodcastNote>>(scopedStorageKey(notesBaseKey), {});
+      const localBookmarks = readJsonStorage<string[]>(scopedStorageKey(bookmarkBaseKey), []);
+      setNotes(localNotes);
+      setBookmarks(localBookmarks);
+
+      void hydratePodcastStateFromCloud(localNotes, localBookmarks).then((cloudState) => {
+        if (!active) {
+          return;
+        }
+
+        setNotes(cloudState.notes);
+        setBookmarks(cloudState.bookmarks);
+        writeJsonStorage(scopedStorageKey(notesBaseKey), cloudState.notes);
+        writeJsonStorage(scopedStorageKey(bookmarkBaseKey), cloudState.bookmarks);
+      });
     }, 0);
 
-    return () => window.clearTimeout(loadStoredAudioState);
+    return () => {
+      active = false;
+      window.clearTimeout(loadStoredAudioState);
+    };
   }, []);
 
   const selected = useMemo(
@@ -49,6 +67,7 @@ export function PodcastsClient({ episodes }: { episodes: PodcastEpisode[] }) {
     };
     setNotes(next);
     writeJsonStorage(scopedStorageKey(notesBaseKey), next);
+    void savePodcastNoteToCloud(next[selected.id]);
   }
 
   function toggleBookmark() {
@@ -61,6 +80,7 @@ export function PodcastsClient({ episodes }: { episodes: PodcastEpisode[] }) {
       : [...bookmarks, selected.id];
     setBookmarks(next);
     writeJsonStorage(scopedStorageKey(bookmarkBaseKey), next);
+    void savePodcastBookmarkToCloud(selected.id, !bookmarks.includes(selected.id));
   }
 
   if (!episodes.length || !selected) {
