@@ -169,9 +169,6 @@ export function SignInClient() {
           </button>
         </form>
 
-        <p className="text-sm leading-6 text-slate-950/55">
-          Your account is handled by Supabase Auth. Study progress is still saved in this browser under your Supabase user id until cloud progress sync is added.
-        </p>
       </GlassCard>
     </div>
   );
