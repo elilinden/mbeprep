@@ -1,0 +1,1839 @@
+Big picture
+
+Torts is asking:
+
+Did someone wrongfully hurt another person, property, reputation, privacy, business, or legal rights?
+
+The first move on the MBE is always:
+
+What tort are they testing?
+
+Because the answer changes depending on the tort.
+
+Think of torts as different “buckets”:
+
+Intentional torts — someone meant to do the act.
+Negligence — someone was careless.
+Strict liability — someone can be liable even if careful.
+Products liability — bad product caused harm.
+Defamation/privacy/business torts — words, identity, business, or legal process caused harm.
+1. Intentional torts
+
+Intentional torts usually require:
+
+Act + intent + causation
+
+Intent means either:
+
+The person wanted the result, or
+The person knew the result was substantially certain.
+
+Memory:
+
+Intent = purpose or substantial certainty.
+
+Example
+
+Maya pulls a chair away right as Leo is sitting down because she wants him to fall.
+
+That is intentional.
+
+If Maya says:
+
+“I only meant it as a joke,”
+
+that does not erase intent. She intended the contact/fall.
+
+2. Transferred intent
+
+Transferred intent means:
+
+If defendant intends one intentional tort against one person, but hits another person or causes a different covered tort, intent transfers.
+
+Usually applies to:
+
+battery
+assault
+false imprisonment
+trespass to land
+trespass to chattels
+
+Usually not ordinary IIED.
+
+Example
+
+Maya throws a marker intending to hit Leo.
+
+Leo ducks.
+
+The marker hits Noah.
+
+Maya’s intent transfers to Noah.
+
+Memory:
+
+Bad intent can follow the harm.
+
+3. Battery
+
+Battery is:
+
+Intentional harmful or offensive contact.
+
+Important:
+
+Battery requires intent to cause contact, not intent to injure.
+
+Example
+
+Maya intentionally shoves Leo lightly as a joke.
+
+Leo falls and breaks his wrist.
+
+Battery.
+
+Maya did not need to intend the broken wrist. She intended the contact.
+
+Contact can be indirect
+
+If Maya knocks a tray out of Leo’s hands, that can be battery.
+
+Why?
+
+Because the tray is connected to Leo’s person.
+
+Memory:
+
+Battery = intentional bad touch.
+
+4. Assault
+
+Assault is:
+
+Intentionally causing someone to reasonably anticipate imminent harmful or offensive contact.
+
+No actual touching needed.
+
+Example
+
+Maya raises a metal bat like she is about to swing at Leo.
+
+Leo sees it and expects to be hit.
+
+Assault.
+
+If she actually hits him, then it is assault and battery.
+
+Memory:
+
+Assault = “I think I’m about to be touched.”
+
+No fear required
+
+Leo does not need to be terrified.
+
+He just needs to anticipate imminent contact.
+
+Future threats usually do not count
+
+If Maya texts:
+
+“I’ll hit you next month,”
+
+that is usually not assault because it is not imminent.
+
+Memory:
+
+Assault must be now-ish.
+
+5. Intentional infliction of emotional distress
+
+IIED requires:
+
+Extreme and outrageous conduct that intentionally or recklessly causes severe emotional distress.
+
+This is not normal rudeness.
+
+Example
+
+Maya falsely tells Leo that his child was seriously injured, just to emotionally destroy him.
+
+That can be IIED.
+
+But if Maya merely says:
+
+“You are annoying,”
+
+that is usually not enough.
+
+Memory:
+
+IIED = outrageous + severe distress.
+
+Special people/situations
+
+Conduct is more likely outrageous if defendant has power over plaintiff.
+
+Examples:
+
+employer over employee
+police officer over citizen
+school official over student
+targeting someone known to be especially vulnerable
+
+Memory:
+
+Power imbalance can make conduct more outrageous.
+
+6. False imprisonment
+
+False imprisonment is:
+
+Intentional confinement within a limited area, and plaintiff is aware of it.
+
+Example
+
+Maya locks Leo inside a storage closet and blocks the only safe exit.
+
+False imprisonment.
+
+No false imprisonment if there is a safe known exit
+
+If Leo knows there is an unlocked door right behind him, he is not confined.
+
+But he does not have to use a dangerous exit.
+
+Memory:
+
+False imprisonment = trapped with no reasonable safe way out.
+
+Threats can confine
+
+If Maya says:
+
+“Stay in this office or I’ll hurt your sister,”
+
+that can be confinement by duress.
+
+7. Consent
+
+Consent is a defense.
+
+If plaintiff consented, defendant usually is not liable.
+
+Example
+
+Leo agrees to spar with Maya in a boxing class.
+
+Maya lightly punches him within the rules.
+
+No battery.
+
+But if Maya pulls out a chair and hits Leo with it, that exceeds consent.
+
+Memory:
+
+Consent works only within its scope.
+
+Consent can be revoked
+
+If Leo says:
+
+“Stop. I’m done.”
+
+Maya cannot keep hitting him.
+
+8. Self-defense
+
+A person may use reasonable force to protect against an immediate unlawful threat.
+
+Example
+
+Leo raises his fist and steps toward Maya.
+
+Maya pushes him away.
+
+Likely privileged.
+
+Memory:
+
+Self-defense = necessary + proportional + immediate.
+
+No revenge
+
+If Leo hits Maya and walks away, Maya cannot chase him later and hit him back.
+
+That is retaliation, not self-defense.
+
+Memory:
+
+Self-defense stops danger. It does not punish the past.
+
+Deadly force
+
+Deadly force requires a reasonable belief of:
+
+death
+serious bodily harm
+rape
+
+Usually, you cannot use deadly force for a minor shove.
+
+9. Defense of others
+
+Same as self-defense, but you are protecting another person.
+
+Example
+
+Maya reasonably sees Leo about to hit Noah.
+
+Maya pushes Leo away.
+
+That may be defense of others.
+
+Key:
+
+Defendant must reasonably believe the third person had a right to self-defense.
+
+Memory:
+
+Defense of others = reasonable rescue from immediate force.
+
+10. Defense of property
+
+You can use reasonable, nondeadly force to protect property.
+
+Example
+
+Maya sees Leo grabbing her laptop from her desk.
+
+She pulls it back and blocks him.
+
+Maybe okay.
+
+But she cannot use deadly force just to protect the laptop.
+
+Memory:
+
+Property is not worth deadly force.
+
+No force to regain land
+
+If someone wrongfully occupies your land, you usually must use legal process.
+
+You cannot just beat them up to get the land back.
+
+11. Merchant’s privilege
+
+A merchant can briefly detain someone suspected of theft if the merchant acts reasonably.
+
+Need:
+
+Reasonable belief of theft or nonpayment.
+Detention near the store.
+Reasonable manner.
+Reasonable time.
+Example
+
+A bookstore employee sees Leo hide a book in his coat.
+
+The employee stops him near the exit and asks him to wait briefly.
+
+Likely okay.
+
+But locking him in a basement for four hours is not okay.
+
+Memory:
+
+Merchant can reasonably stop, not bully.
+
+12. Trespass to chattels
+
+Chattel = personal property.
+
+Trespass to chattels is:
+
+Intentional interference with someone’s personal property.
+
+It is the “less serious” property tort.
+
+Example
+
+Maya grabs Leo’s tablet and uses it for 10 minutes without permission.
+
+Trespass to chattels.
+
+If there is only minor interference, plaintiff usually needs actual damages unless there was dispossession.
+
+Memory:
+
+Trespass to chattels = messing with someone’s stuff.
+
+13. Conversion
+
+Conversion is the serious version.
+
+It means:
+
+Defendant seriously interferes with personal property so much that defendant must pay full value.
+
+Example
+
+Maya takes Leo’s laptop, sells it, and keeps the money.
+
+Conversion.
+
+Leo can recover the full value of the laptop.
+
+Memory:
+
+Conversion = forced sale.
+
+Difference from trespass to chattels
+
+Small interference = trespass to chattels.
+Big interference = conversion.
+
+14. Trespass to land
+
+Trespass to land is:
+
+Intentional physical invasion of another’s land.
+
+Important:
+
+Defendant does not need to know the land belongs to someone else.
+
+Example
+
+Maya walks onto a garden because she honestly thinks it is public property.
+
+It is actually Leo’s private land.
+
+Trespass.
+
+Why?
+
+She intended to enter that physical place.
+
+Memory:
+
+Mistake about ownership is not a defense.
+
+But accidental entry is different
+
+Maya is playing frisbee in a park.
+
+She aims at Noah, but the frisbee accidentally curves into Leo’s yard.
+
+That may not be trespass if she did not intend the frisbee to enter that land.
+
+Maybe negligence, but not intentional trespass.
+
+Memory:
+
+Mistaken entry = trespass. Accidental entry = maybe negligence.
+
+15. Necessity
+
+Necessity is a defense to property torts.
+
+It applies when defendant enters or uses someone’s property to avoid serious harm.
+
+Private necessity
+
+Private necessity protects a small/private interest.
+
+The defendant may enter, but must pay actual damage.
+
+Example
+
+Maya is caught in a dangerous snowstorm and enters Leo’s empty cabin to avoid freezing.
+
+She may be privileged to enter.
+
+But if she breaks the door, she pays for the door.
+
+Memory:
+
+Private necessity = allowed in, but pay actual damage.
+
+Public necessity
+
+Public necessity protects many people/the public.
+
+Usually no liability if reasonable.
+
+Example
+
+A firefighter destroys a shed to stop a wildfire from reaching a neighborhood.
+
+No liability if reasonable.
+
+Memory:
+
+Public necessity = public emergency, no pay.
+
+16. Private nuisance
+
+Private nuisance is:
+
+Substantial and unreasonable interference with another person’s use and enjoyment of land.
+
+This is about making land unpleasant or unusable.
+
+Example
+
+Maya runs a machine behind Leo’s house every night. It shakes the walls and keeps everyone awake.
+
+Private nuisance.
+
+Memory:
+
+Private nuisance = messes with my land enjoyment.
+
+Need substantial interference
+
+Tiny annoyance is not enough.
+
+It must bother a normal reasonable person.
+
+If Leo is unusually sensitive, he cannot recover unless an ordinary person would also be bothered.
+
+17. Public nuisance
+
+Public nuisance is:
+
+Unreasonable interference with a right common to the public.
+
+Example
+
+Maya blocks the only public walking path to a city park.
+
+That harms the public.
+
+A private person can sue only if they suffer harm different in kind from the public.
+
+Example
+
+Everyone has to walk around the blocked path.
+
+That is general public harm.
+
+But if Leo’s wheelchair-accessible entrance is uniquely blocked and he suffers a special injury, he may sue.
+
+Memory:
+
+Public nuisance = harms community rights. Private plaintiff needs special harm.
+
+18. Negligence
+
+Negligence is careless harm.
+
+Elements:
+
+Duty
+Breach
+Causation
+Damages
+
+Memory:
+
+Duty = should defendant be careful?
+Breach = was defendant careless?
+Causation = did carelessness cause harm?
+Damages = real injury/property loss?
+
+Example
+
+Maya leaves a sharp tool on a crowded gym floor.
+
+Leo steps on it and is injured.
+
+Negligence.
+
+19. Duty
+
+Usually, people owe reasonable care to foreseeable plaintiffs.
+
+Example
+
+Maya throws heavy boxes off a balcony.
+
+People walking below are foreseeable plaintiffs.
+
+She owes them care.
+
+Memory:
+
+Foreseeable plaintiff = duty.
+
+No general duty to rescue
+
+Usually, you do not have to help.
+
+Example
+
+Maya sees Leo faint on a sidewalk.
+
+She usually has no duty to help.
+
+But there are exceptions.
+
+20. Exceptions to no-duty-to-rescue
+
+A duty to act can arise if:
+
+Defendant starts helping.
+Defendant created the danger.
+Contract requires help.
+Defendant has authority/control.
+Special relationship.
+Statute requires action.
+Example: started helping
+
+Maya starts carrying Leo after he falls.
+
+She must act reasonably.
+
+Example: created danger
+
+Maya accidentally knocks Leo into a hole.
+
+She must take reasonable steps to help.
+
+Memory:
+
+No duty to start, but once you start or create danger, act reasonably.
+
+21. Standard of care
+
+The general standard is:
+
+Reasonable person under the circumstances.
+
+This is objective.
+
+Example
+
+Maya says:
+
+“I am naturally careless.”
+
+Does not matter.
+
+She is judged like a reasonable person.
+
+Memory:
+
+Reasonable person, not this person’s best effort.
+
+Physical disability
+
+Physical disability matters.
+
+A blind person is judged like a reasonable blind person.
+
+Mental disability
+
+Mental/emotional disability usually does not lower the standard.
+
+Children
+
+Children are judged like reasonable children of similar age, intelligence, and experience.
+
+But if a child does an adult dangerous activity, adult standard.
+
+Example
+
+A 13-year-old rides a small scooter on the sidewalk: child standard.
+
+A 13-year-old operates a forklift: adult standard.
+
+22. Professionals
+
+Professionals must act like ordinary professionals in the same field.
+
+Example
+
+An architect designs a building support system.
+
+The jury usually needs expert testimony to know if the architect acted properly.
+
+But if the architect used cardboard as support beams, no expert needed.
+
+Why?
+
+A normal person can see that is obviously careless.
+
+Memory:
+
+Professional negligence usually needs expert testimony unless the mistake is obvious.
+
+23. Land possessors
+
+Land possessor duties depend on who entered the land.
+
+Traditional categories:
+
+Trespasser
+Licensee
+Invitee
+Trespasser
+
+A trespasser enters without permission.
+
+Usually landowner must not intentionally/willfully/wantonly hurt them.
+
+No deadly traps.
+
+Example
+
+Maya sets a hidden blade trap in her shed for intruders.
+
+Not allowed.
+
+Memory:
+
+Trespasser gets little protection, but no traps.
+
+Known trespasser
+
+If the landowner knows people often trespass, must warn of hidden dangerous artificial conditions.
+
+Licensee
+
+A licensee has permission, but not for business.
+
+Usually social guest.
+
+Duty:
+
+Warn of known hidden dangers.
+
+Example
+
+Maya invites Leo to dinner.
+
+She knows a stair is loose.
+
+She should warn him.
+
+Memory:
+
+Licensee = warn about hidden dangers you know.
+
+Invitee
+
+Invitee enters for business or public purpose.
+
+Duty:
+
+Reasonable care, including inspection.
+
+Example
+
+A café must reasonably inspect for spills where customers walk.
+
+Memory:
+
+Invitee = inspect and make safe.
+
+24. Landlord liability
+
+Once tenant takes possession, tenant usually becomes responsible.
+
+But landlord remains liable for:
+
+common areas
+hidden dangers landlord failed to disclose
+premises leased for public use
+negligent repairs
+hazards landlord agreed to repair
+Example
+
+Landlord controls the apartment building lobby.
+
+A broken lobby tile injures a visitor.
+
+Landlord may be liable.
+
+Memory:
+
+Landlord liable where landlord still controls or promised/caused the problem.
+
+25. Breach
+
+Breach means defendant failed to meet the required standard of care.
+
+Ask:
+
+What would a reasonable person do?
+
+Example
+
+Maya leaves boiling oil on the edge of a table at a children’s party.
+
+Likely breach.
+
+Memory:
+
+High risk + serious harm + easy fix = breach.
+
+26. Custom
+
+Custom is evidence of reasonable care, but not conclusive.
+
+Example
+
+Every warehouse stacks boxes too high.
+
+A box falls and injures Leo.
+
+The warehouse cannot automatically win by saying:
+
+“Everyone does it.”
+
+The whole industry may be careless.
+
+Memory:
+
+Custom helps, but custom does not control.
+
+For professionals, custom matters much more.
+
+27. Negligence per se
+
+Negligence per se means a statute supplies the standard of care.
+
+Need:
+
+Statute imposes a specific duty.
+Defendant violated it.
+Plaintiff is in protected class.
+Harm is the type the statute was meant to prevent.
+Example
+
+A city rule says restaurants must cover open floor drains to prevent customer falls.
+
+Restaurant leaves one uncovered.
+
+Customer falls in.
+
+Negligence per se likely.
+
+Memory:
+
+Statute violation = duty/breach shortcut, if plaintiff and harm match statute.
+
+Trap
+
+If a statute is about tax paperwork, and plaintiff slipped on a floor, the statute does not match the harm.
+
+No negligence per se.
+
+28. Res ipsa loquitur
+
+Res ipsa means:
+
+The accident itself suggests negligence.
+
+Use when there is no direct evidence, but the thing usually does not happen without negligence.
+
+Need usually:
+
+Accident ordinarily does not happen without negligence.
+Instrumentality was in defendant’s control.
+Plaintiff did not cause it.
+Example
+
+Leo is walking past a bakery and a rolling pin falls from the bakery’s upstairs window onto him.
+
+Rolling pins do not normally fall from windows unless someone was careless.
+
+Res ipsa.
+
+Memory:
+
+Res ipsa = “this probably happened because someone was careless.”
+
+It does not mean plaintiff automatically wins.
+
+It usually just gets plaintiff to the jury.
+
+29. Causation
+
+There are two types:
+
+Actual cause
+Proximate cause
+Actual cause
+
+Ask:
+
+But for defendant’s conduct, would the harm have happened?
+
+Example
+
+Maya leaves a cord across the hallway.
+
+Leo trips.
+
+But for the cord, he would not have fallen.
+
+Actual cause.
+
+Proximate cause
+
+Ask:
+
+Was the harm foreseeable and within the risk?
+
+Example
+
+Leaving a cord across a hallway creates a risk that someone trips.
+
+Leo tripping is foreseeable.
+
+Proximate cause.
+
+Memory:
+
+Actual cause = did it cause it?
+Proximate cause = is it fair to blame defendant?
+
+30. Intervening and superseding causes
+
+An intervening cause happens after defendant’s negligence.
+
+If foreseeable, it does not cut off liability.
+
+If unforeseeable and extraordinary, it may be superseding and cut off liability.
+
+Foreseeable intervening cause
+
+Maya injures Leo.
+
+A nurse later makes a treatment mistake.
+
+Maya can still be liable because medical mistakes are foreseeable.
+
+Superseding cause
+
+Maya leaves a harmless-looking box on the sidewalk.
+
+A stranger intentionally turns it into a dangerous trap.
+
+That criminal/intentional act may cut off liability unless Maya had a duty to prevent that kind of act.
+
+Memory:
+
+Foreseeable intervening = still liable. Unforeseeable superseding = maybe cuts off.
+
+31. Eggshell plaintiff
+
+Defendant takes plaintiff as found.
+
+The type of harm must be foreseeable, but the extent does not.
+
+Example
+
+Maya lightly bumps Leo.
+
+Leo has a rare bone condition and suffers severe injury.
+
+Maya is liable for the full injury.
+
+Memory:
+
+You break it, you bought all the damage.
+
+32. Damages in negligence
+
+Negligence requires actual harm.
+
+No nominal damages.
+
+Recoverable damages include:
+
+medical costs
+pain and suffering
+lost income
+reduced earning capacity
+property damage
+Example
+
+Maya carelessly knocks Leo’s phone into a fountain.
+
+Leo can recover property damage.
+
+If nothing is harmed, no negligence recovery.
+
+Memory:
+
+Negligence needs real harm.
+
+33. Pure economic loss
+
+Usually, pure money loss without physical injury or property damage is not recoverable in ordinary negligence.
+
+Example
+
+Maya’s careless street closure makes Leo’s shop lose customers for one day.
+
+No physical injury. No property damage.
+
+Usually no ordinary negligence claim.
+
+Exception: professionals can sometimes be liable for negligent services causing economic loss.
+
+Memory:
+
+Pure money loss usually needs contract, warranty, or professional misrepresentation.
+
+34. NIED
+
+Negligent infliction of emotional distress has three main paths.
+
+Zone of danger
+
+Plaintiff was nearly physically hit/harmed.
+
+Example
+
+Maya drops a heavy sign. It narrowly misses Leo. Leo suffers serious emotional distress.
+
+Possible NIED.
+
+Bystander
+
+Plaintiff sees close family member injured.
+
+Example
+
+Leo watches his child get hit by falling equipment.
+
+Possible NIED.
+
+Special relationship
+
+No physical danger required.
+
+Example
+
+A funeral home loses a family member’s ashes.
+
+Possible NIED.
+
+Memory:
+
+NIED = danger zone, close-family bystander, or special relationship.
+
+35. Vicarious liability
+
+Vicarious liability means:
+
+One person is liable for another person’s tort because of their relationship.
+
+Most important:
+
+Employer is liable for employee’s torts within scope of employment.
+
+Example
+
+A bakery delivery employee negligently knocks over a pedestrian while delivering pastries.
+
+Bakery may be liable.
+
+Memory:
+
+Employee on the job = employer may pay.
+
+Detour vs frolic
+
+Small work-related side trip = detour = employer may still be liable.
+
+Big personal trip = frolic = employer not liable.
+
+Example
+
+Employee stops for coffee while making deliveries.
+
+Detour.
+
+Employee drives across town to visit a friend.
+
+Frolic.
+
+36. Independent contractors
+
+General rule:
+
+Hiring party is not vicariously liable for independent contractor’s torts.
+
+But exceptions:
+
+retained control
+nondelegable duty
+apparent agency
+negligent hiring/supervision
+abnormally dangerous activity
+Example
+
+A grocery store hires a contractor to polish floors.
+
+Contractor leaves the entrance dangerously slick.
+
+Customer falls.
+
+Store may still be liable because keeping premises safe for customers is nondelegable.
+
+Memory:
+
+You can delegate the work, not certain duties.
+
+37. Parents and children
+
+Parents are usually not automatically liable for their child’s torts.
+
+But parents can be liable for their own negligence.
+
+Example
+
+Parent knows child keeps throwing bricks from a balcony and does nothing.
+
+Parent may be liable.
+
+Memory:
+
+Parent not automatically liable, but liable for bad supervision/control.
+
+38. Joint and several liability
+
+If multiple defendants cause one indivisible injury, plaintiff may collect the whole judgment from one defendant.
+
+Example
+
+Two careless contractors cause one ceiling collapse.
+
+Plaintiff has one indivisible injury.
+
+Plaintiff may collect full damages from either, unless jurisdiction limits joint and several liability.
+
+Memory:
+
+Joint and several = plaintiff can collect all from one.
+
+39. Contribution vs indemnity
+Contribution
+
+One defendant pays more than their fair share and seeks partial reimbursement.
+
+Indemnity
+
+One defendant shifts the whole loss to another.
+
+Example
+
+Employer pays for employee’s negligence.
+
+Employer may seek indemnity from employee.
+
+Memory:
+
+Contribution = split the bill. Indemnity = shift the whole bill.
+
+40. Comparative and contributory negligence
+Contributory negligence
+
+Old harsh rule.
+
+Plaintiff is 1% at fault = plaintiff gets nothing.
+
+Pure comparative negligence
+
+Plaintiff always recovers defendant’s percentage.
+
+If plaintiff is 80% at fault and damages are $100,000, plaintiff gets $20,000.
+
+Modified comparative negligence
+
+Plaintiff recovers only if not too at fault.
+
+Memory:
+
+Contributory = one mistake can bar.
+Pure comparative = always reduced.
+Modified = reduced unless plaintiff too responsible.
+
+41. Assumption of risk
+
+Plaintiff knowingly and voluntarily accepts a specific risk.
+
+Example
+
+Leo sees a gym machine is broken and still uses it for fun.
+
+His recovery may be barred or reduced.
+
+Memory:
+
+Known risk + voluntary choice = assumption of risk.
+
+42. Strict liability
+
+Strict liability means:
+
+Defendant can be liable even if careful.
+
+Only usually for DAD:
+
+Dangerous activities
+Animals
+Defective products
+
+Memory:
+
+DAD = strict liability buckets.
+
+43. Abnormally dangerous activities
+
+Strict liability applies when activity:
+
+Creates a highly significant risk even with reasonable care, and
+Is not common.
+Example
+
+A company stores large amounts of toxic gas in a residential neighborhood.
+
+Gas escapes and harms nearby homes.
+
+Strict liability possible.
+
+Memory:
+
+Danger remains even when careful = strict liability.
+
+But the harm must come from the danger that makes the activity dangerous.
+
+If a worker carrying toxic gas slips and drops a clipboard on someone’s foot, that is not the special toxic-gas risk.
+
+44. Animals
+Wild animals
+
+Owner is strictly liable for characteristic dangerous harms.
+
+Example
+
+Maya keeps a pet wolf.
+
+The wolf bites a visitor.
+
+Strict liability.
+
+Memory:
+
+Wild stays wild, even if trained.
+
+Domestic animals
+
+Usually negligence unless owner knows animal has abnormal dangerous tendencies.
+
+Example
+
+Maya’s housecat has never attacked anyone.
+
+No strict liability at common law.
+
+But if the cat has repeatedly attacked visitors and Maya knows, strict liability may apply.
+
+Trespassing animals
+
+Owner/possessor of livestock-like animals is strictly liable for foreseeable property damage caused while trespassing.
+
+Memory:
+
+Animal liability follows the animal owner/possessor.
+
+45. Products liability
+
+A product case can be brought under:
+
+Negligence
+Strict products liability
+Warranty
+
+Products can be defective in three ways:
+
+Manufacturing defect
+Design defect
+Failure to warn
+
+Memory:
+
+Manufacture = bad one. Design = bad plan. Warning = bad instructions.
+
+46. Manufacturing defect
+
+One item came out wrong.
+
+Example
+
+A factory makes 10,000 heaters.
+
+One heater has a loose internal wire because of an assembly mistake.
+
+Manufacturing defect.
+
+Memory:
+
+Manufacturing defect = this one is different from the rest.
+
+47. Design defect
+
+The whole product line is designed dangerously.
+
+Tests:
+
+Consumer expectation
+
+More dangerous than ordinary consumer expects.
+
+Risk-utility
+
+Risks outweigh benefits, often requiring a reasonable alternative design.
+
+Example
+
+A foldable ladder is designed without locking hinges, and every ladder of that model can collapse.
+
+Design defect.
+
+Memory:
+
+Design defect = bad blueprint.
+
+48. Failure to warn
+
+There is a foreseeable, non-obvious risk that reasonable warnings could reduce.
+
+Example
+
+A cleaning spray creates dangerous fumes when used near heat, but label says nothing.
+
+Failure to warn.
+
+Memory:
+
+Hidden danger needs warning.
+
+Prescription drugs usually warn the doctor, not the patient.
+
+Memory:
+
+Prescription warning goes to learned intermediary.
+
+49. Products liability defendants
+
+Strict products liability applies to commercial sellers/distributors.
+
+Includes:
+
+manufacturer
+distributor
+retailer
+commercial lessor
+
+Not casual sellers.
+
+Example
+
+Maya sells her old blender at a garage sale.
+
+She is not a strict products liability defendant.
+
+Memory:
+
+Business seller yes. Casual seller no.
+
+50. Products damages
+
+Strict products liability usually covers:
+
+personal injury
+damage to other property
+
+Not pure economic loss or harm only to the product itself.
+
+Example
+
+A defective toaster burns Leo’s kitchen wall.
+
+Tort recovery possible.
+
+If toaster simply stops working, that is warranty/contract.
+
+Memory:
+
+People/property damage = tort. Product disappointment = warranty.
+
+51. Warranties
+
+Warranty is more contract-like.
+
+Merchantability
+
+Product is fit for ordinary use.
+
+Example
+
+A chair sold by a furniture store should support normal sitting.
+
+Fitness for particular purpose
+
+Seller knows buyer’s special purpose and buyer relies on seller.
+
+Example
+
+Leo tells store clerk:
+
+“I need gloves safe for handling dry ice.”
+
+Clerk recommends gloves that do not protect from cold burns.
+
+Fitness issue.
+
+Express warranty
+
+Seller makes factual promise.
+
+Example
+
+Seller says:
+
+“This refrigerator keeps food cold for 24 hours during a power outage.”
+
+That can be express warranty.
+
+Memory:
+
+Merchantability = normal use. Fitness = special use. Express = factual promise.
+
+52. Defamation
+
+Defamation protects reputation.
+
+Need:
+
+Defamatory statement
+Of or concerning plaintiff
+Publication to third party
+Damages
+Falsity/fault rules if public concern or public figure
+
+Memory:
+
+Defamation = false reputation harm told to someone else.
+
+Example
+
+Maya falsely tells Leo’s coworkers:
+
+“Leo stole client money.”
+
+Defamation.
+
+53. Publication
+
+Publication just means:
+
+Communication to one third person who understands it.
+
+It does not mean newspaper.
+
+Example
+
+Maya whispers false statement about Leo to Noah.
+
+Publication.
+
+Memory:
+
+Publication = told to someone besides plaintiff.
+
+54. Public figure/public concern
+
+Public officials and public figures must prove actual malice.
+
+Actual malice means:
+
+Knowledge of falsity or reckless disregard for truth.
+
+It does not mean hatred.
+
+Memory:
+
+Actual malice = knew false or seriously doubted truth.
+
+Private person + public concern usually needs at least negligence.
+
+55. Libel vs slander
+Libel
+
+Written/recorded/permanent.
+
+Slander
+
+Spoken/temporary.
+
+Slander usually requires special damages unless slander per se.
+
+Slander per se categories:
+
+Crime
+Business/profession
+Loathsome disease
+Sexual misconduct
+
+Memory:
+
+Crime, career, disease, sex.
+
+56. Defamation defenses
+
+Truth is a complete defense.
+
+Privileges:
+
+Absolute privilege
+
+Judicial proceedings, legislative proceedings, certain government officials, spouses.
+
+Even false/malicious statements may be protected.
+
+Qualified privilege
+
+Employment references, protecting shared interests, public interest.
+
+Lost if abused or made with malice.
+
+Memory:
+
+Absolute privilege is bulletproof. Qualified privilege can be lost.
+
+57. Invasion of privacy
+
+Mnemonic:
+
+I FLAP
+
+Intrusion
+False light
+Appropriation
+Public disclosure of private facts
+
+Privacy generally protects individuals, not corporations.
+
+58. Intrusion
+
+Intentional invasion into private affairs, highly offensive.
+
+No publication needed.
+
+Example
+
+Maya secretly installs a microphone in Leo’s bedroom.
+
+Intrusion.
+
+Memory:
+
+Intrusion = offensive snooping.
+
+59. False light
+
+Publicly portraying someone in a misleading false way that would be highly offensive.
+
+Example
+
+A website uses Leo’s photo next to an article suggesting he supports a hate group, even though he does not.
+
+False light.
+
+Memory:
+
+False light = misleading public impression.
+
+60. Appropriation
+
+Unauthorized use of plaintiff’s identity for defendant’s advantage.
+
+Example
+
+A cereal company uses Maya’s face on its box without permission.
+
+Appropriation.
+
+Memory:
+
+Appropriation = stealing identity value.
+
+61. Public disclosure of private facts
+
+Publicizing true private facts that are highly offensive and not newsworthy.
+
+Example
+
+Maya posts Leo’s private medical records online.
+
+Public disclosure.
+
+Truth is not a defense here because the issue is privacy.
+
+Memory:
+
+Defamation hates falsehood. Public disclosure hates private truth.
+
+62. Intentional misrepresentation
+
+Also called fraud.
+
+Need:
+
+False material representation
+Knowledge/reckless disregard
+Intent to induce reliance
+Actual reliance
+Justifiable reliance
+Damages
+Example
+
+Maya sells Leo a building and says:
+
+“The roof is brand new.”
+
+She knows it is badly damaged.
+
+Leo buys because of that.
+
+Fraud.
+
+Memory:
+
+Fraud = knowing lie + reliance + loss.
+
+Puffery is not fraud
+
+“This is the nicest building in town” = puffery.
+
+“The roof was replaced in 2023” = fact.
+
+63. Negligent misrepresentation
+
+This is careless false business information.
+
+Need:
+
+defendant in business/profession/pecuniary transaction
+false information
+lack of reasonable care
+reasonable reliance
+economic loss
+
+Liability is limited to the person/group and transaction the information was meant to guide.
+
+Example
+
+Maya prepares financial numbers for Leo knowing they will be used for a small supplier credit decision.
+
+A bank later uses them for a huge acquisition.
+
+Maya may not be liable for that different transaction.
+
+Memory:
+
+Negligent misrep = right person, right purpose, right transaction.
+
+64. Intentional interference with contract
+
+Need:
+
+Valid contract between plaintiff and third party
+Defendant knew of it
+Defendant intentionally interfered
+Caused breach
+Damages
+Example
+
+Maya knows Leo has a fixed contract with a venue.
+
+Maya pays the venue to break the contract and book her instead.
+
+Interference.
+
+Memory:
+
+Known contract + intentional breach-causing = interference.
+
+Fair competition can be a defense, especially for at-will/prospective relationships.
+
+65. Interference with prospective economic advantage
+
+No existing contract needed.
+
+Need intentional improper interference with likely business.
+
+Usually plaintiff must show wrongful conduct.
+
+Example
+
+Maya lies to a potential customer that Leo’s bakery failed health inspection.
+
+Customer cancels planned order.
+
+Possible interference with prospective advantage.
+
+Memory:
+
+No contract yet = prospective advantage, harder claim.
+
+66. Trade secrets
+
+A trade secret is valuable business information not generally known, protected by reasonable precautions, and taken by improper means.
+
+Example
+
+Leo has a secret sauce formula locked in a restricted digital file.
+
+Maya hacks it.
+
+Trade secret theft.
+
+Memory:
+
+Secret + value + protection + improper taking.
+
+67. Trade libel
+
+False statement about plaintiff’s product/business quality causing special damages.
+
+Example
+
+Maya falsely posts:
+
+“Leo’s protein bars contain insects.”
+
+Leo loses store contracts.
+
+Trade libel.
+
+Memory:
+
+Trade libel = false attack on product/business.
+
+68. Slander of title
+
+False statement attacking ownership/title to property, causing special damages.
+
+Example
+
+Maya falsely records a document saying she owns Leo’s warehouse.
+
+Buyer backs out.
+
+Slander of title.
+
+Memory:
+
+Slander of title = false attack on ownership.
+
+69. Malicious prosecution
+
+Wrongfully starting a legal case without probable cause, for improper purpose, and it ends in plaintiff’s favor.
+
+Example
+
+Maya files a baseless criminal complaint against Leo to punish him.
+
+Case is dismissed.
+
+Leo may sue for malicious prosecution.
+
+Memory:
+
+Malicious prosecution = bad case, no probable cause, favorable ending.
+
+70. Abuse of process
+
+Using legal process for an improper purpose after it has begun.
+
+Example
+
+Maya files a normal lawsuit but uses subpoenas only to pressure Leo into selling her his business.
+
+Abuse of process.
+
+Memory:
+
+Malicious prosecution = wrongfully start case.
+Abuse of process = misuse legal tools.
+
+Final MBE attack plan
+
+When you read a torts question, ask:
+
+Step 1: What type of harm?
+Body/contact? Battery, assault, negligence.
+Trapped? False imprisonment.
+Emotional harm? IIED or NIED.
+Land/property? Trespass, nuisance, conversion.
+Carelessness? Negligence.
+Dangerous activity/animal/product? Strict liability.
+Reputation? Defamation.
+Privacy? I FLAP.
+Business lie? Misrepresentation.
+Contract/business interference? Business tort.
+Bad lawsuit/legal pressure? Malicious prosecution or abuse of process.
+Step 2: What mental state?
+Intended act/contact? Intentional tort.
+Careless? Negligence.
+No fault needed? Strict liability.
+Step 3: What defense?
+Consent
+Self-defense
+Defense of others/property
+Necessity
+Comparative/contributory negligence
+Assumption of risk
+Privilege
+Truth
+Immunity
+Step 4: What damages?
+Intentional torts often allow nominal damages.
+Negligence requires actual harm.
+Products/torts usually require personal injury or property damage.
+Warranty can cover economic loss.
+Defamation/privacy/business torts have special damage rules.
+Best memory lines
+
+Battery = intentional contact. Assault = seeing contact coming.
+
+False imprisonment = trapped. IIED = outrageous emotional harm.
+
+Trespass = physical invasion. Nuisance = ruined enjoyment.
+
+Negligence = duty, breach, causation, damages.
+
+Res ipsa = accident suggests negligence.
+
+Strict liability = DAD: dangerous activities, animals, defective products.
+
+Products: manufacturing = bad one; design = bad plan; warning = bad instructions.
+
+Defamation = reputation. Privacy = personal dignity/control.
+
+Fraud = knowing lie. Negligent misrep = careless business info.
+
+Interference with contract = known contract + improper interference.
+
+Malicious prosecution starts a bad case. Abuse of process misuses a case.

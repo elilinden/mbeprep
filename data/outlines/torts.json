@@ -1,0 +1,6089 @@
+{
+  "id": "torts",
+  "title": "Torts",
+  "subject": "Torts",
+  "summary": "Torts asks whether someone wrongfully harmed another person, property, reputation, privacy, business, or legal rights.",
+  "sections": [
+    {
+      "id": "big-picture",
+      "title": "Big Picture",
+      "body": [
+        "Big Picture",
+        "Torts asks one main question:",
+        "Did someone wrongfully harm another person, property, reputation, privacy, business, or legal rights?",
+        "The first thing to identify is the type of tort, because each tort has different rules.",
+        "Main Torts Buckets",
+        "Intentional torts",
+        "Negligence",
+        "Strict liability",
+        "Products liability",
+        "Defamation",
+        "Invasion of privacy",
+        "Misrepresentation",
+        "Business torts",
+        "Wrongful use of the legal system"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Big Picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Torts asks one main question:"
+        },
+        {
+          "type": "quote",
+          "text": "Did someone wrongfully harm another person, property, reputation, privacy, business, or legal rights?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The first thing to identify is the type of tort, because each tort has different rules."
+        },
+        {
+          "type": "subheading",
+          "text": "Main Torts Buckets"
+        },
+        {
+          "type": "compact",
+          "text": "Intentional torts"
+        },
+        {
+          "type": "compact",
+          "text": "Negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Strict liability"
+        },
+        {
+          "type": "compact",
+          "text": "Products liability"
+        },
+        {
+          "type": "compact",
+          "text": "Defamation"
+        },
+        {
+          "type": "compact",
+          "text": "Invasion of privacy"
+        },
+        {
+          "type": "compact",
+          "text": "Misrepresentation"
+        },
+        {
+          "type": "compact",
+          "text": "Business torts"
+        },
+        {
+          "type": "compact",
+          "text": "Wrongful use of the legal system"
+        }
+      ]
+    },
+    {
+      "id": "1-intentional-torts",
+      "title": "1. Intentional Torts",
+      "body": [
+        "Core Rule",
+        "Intentional torts generally require:",
+        "A voluntary act or conduct",
+        "Intent",
+        "Causation",
+        "Intent Means",
+        "A person acts intentionally if they either:",
+        "Want the result to happen, or",
+        "Know the result is substantially certain to happen",
+        "Example",
+        "Maya pulls a chair away right as Leo is sitting down.",
+        "Maya may say:",
+        "“I only meant it as a joke.”",
+        "But she still intended the act that caused the contact.",
+        "Memory Line",
+        "Intent = purpose or substantial certainty."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Core Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Intentional torts generally require:"
+        },
+        {
+          "type": "compact",
+          "text": "A voluntary act or conduct"
+        },
+        {
+          "type": "compact",
+          "text": "Intent"
+        },
+        {
+          "type": "compact",
+          "text": "Causation"
+        },
+        {
+          "type": "subheading",
+          "text": "Intent Means"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person acts intentionally if they either:"
+        },
+        {
+          "type": "compact",
+          "text": "Want the result to happen, or"
+        },
+        {
+          "type": "compact",
+          "text": "Know the result is substantially certain to happen"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya pulls a chair away right as Leo is sitting down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya may say:"
+        },
+        {
+          "type": "quote",
+          "text": "“I only meant it as a joke.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "But she still intended the act that caused the contact."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Intent = purpose or substantial certainty."
+        }
+      ]
+    },
+    {
+      "id": "2-transferred-intent",
+      "title": "2. Transferred Intent",
+      "body": [
+        "Rule",
+        "Transferred intent applies when a defendant intends one intentional tort against one person but accidentally harms someone else or causes another covered tort.",
+        "Usually Applies To",
+        "Battery",
+        "Assault",
+        "False imprisonment",
+        "Trespass to land",
+        "Trespass to chattels",
+        "Usually Does Not Apply To",
+        "Ordinary IIED",
+        "Example",
+        "Maya throws a marker intending to hit Leo.",
+        "Leo ducks.",
+        "The marker hits Noah.",
+        "Maya’s intent transfers from Leo to Noah.",
+        "Memory Line",
+        "Bad intent can follow the harm."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Transferred intent applies when a defendant intends one intentional tort against one person but accidentally harms someone else or causes another covered tort."
+        },
+        {
+          "type": "subheading",
+          "text": "Usually Applies To"
+        },
+        {
+          "type": "compact",
+          "text": "Battery"
+        },
+        {
+          "type": "compact",
+          "text": "Assault"
+        },
+        {
+          "type": "compact",
+          "text": "False imprisonment"
+        },
+        {
+          "type": "compact",
+          "text": "Trespass to land"
+        },
+        {
+          "type": "compact",
+          "text": "Trespass to chattels"
+        },
+        {
+          "type": "subheading",
+          "text": "Usually Does Not Apply To"
+        },
+        {
+          "type": "compact",
+          "text": "Ordinary IIED"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya throws a marker intending to hit Leo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo ducks."
+        },
+        {
+          "type": "paragraph",
+          "text": "The marker hits Noah."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya’s intent transfers from Leo to Noah."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Bad intent can follow the harm."
+        }
+      ]
+    },
+    {
+      "id": "3-battery",
+      "title": "3. Battery",
+      "body": [
+        "Rule",
+        "Battery is:",
+        "Intentional harmful or offensive contact with another person.",
+        "Key Point",
+        "Battery requires intent to cause contact.",
+        "It does not require intent to injure.",
+        "Examples",
+        "Battery",
+        "Maya intentionally shoves Leo lightly as a joke.",
+        "Leo falls and breaks his wrist.",
+        "This is battery because Maya intended the contact.",
+        "Not Battery",
+        "Maya accidentally bumps Leo while turning around.",
+        "That may be negligence, but not battery.",
+        "Contact With Objects",
+        "Contact with something connected to the person can count.",
+        "Examples:",
+        "Backpack being worn",
+        "Hat on someone’s head",
+        "Cane in someone’s hand",
+        "Phone in someone’s hand",
+        "Memory Line",
+        "Battery = intentional bad touch."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Battery is:"
+        },
+        {
+          "type": "quote",
+          "text": "Intentional harmful or offensive contact with another person."
+        },
+        {
+          "type": "subheading",
+          "text": "Key Point"
+        },
+        {
+          "type": "paragraph",
+          "text": "Battery requires intent to cause contact."
+        },
+        {
+          "type": "paragraph",
+          "text": "It does not require intent to injure."
+        },
+        {
+          "type": "subheading",
+          "text": "Examples"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Battery"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya intentionally shoves Leo lightly as a joke."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo falls and breaks his wrist."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is battery because Maya intended the contact."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Not Battery"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya accidentally bumps Leo while turning around."
+        },
+        {
+          "type": "paragraph",
+          "text": "That may be negligence, but not battery."
+        },
+        {
+          "type": "subheading",
+          "text": "Contact With Objects"
+        },
+        {
+          "type": "paragraph",
+          "text": "Contact with something connected to the person can count."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples:"
+        },
+        {
+          "type": "compact",
+          "text": "Backpack being worn"
+        },
+        {
+          "type": "compact",
+          "text": "Hat on someone’s head"
+        },
+        {
+          "type": "compact",
+          "text": "Cane in someone’s hand"
+        },
+        {
+          "type": "compact",
+          "text": "Phone in someone’s hand"
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Battery = intentional bad touch."
+        }
+      ]
+    },
+    {
+      "id": "4-assault",
+      "title": "4. Assault",
+      "body": [
+        "Rule",
+        "Assault is:",
+        "Intentionally causing someone to reasonably anticipate imminent harmful or offensive contact.",
+        "Key Points",
+        "No actual touching is required.",
+        "Plaintiff must be aware of the threat.",
+        "Fear is not required.",
+        "The threatened contact must be imminent.",
+        "Example",
+        "Maya raises a metal bat like she is about to swing at Leo.",
+        "Leo sees it and expects to be hit.",
+        "That is assault.",
+        "Future Threat Example",
+        "Maya says:",
+        "“I’ll punch you next month.”",
+        "Usually not assault because the threat is not imminent.",
+        "Memory Line",
+        "Assault = “I think I’m about to be touched.”"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Assault is:"
+        },
+        {
+          "type": "quote",
+          "text": "Intentionally causing someone to reasonably anticipate imminent harmful or offensive contact."
+        },
+        {
+          "type": "subheading",
+          "text": "Key Points"
+        },
+        {
+          "type": "compact",
+          "text": "No actual touching is required."
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff must be aware of the threat."
+        },
+        {
+          "type": "compact",
+          "text": "Fear is not required."
+        },
+        {
+          "type": "compact",
+          "text": "The threatened contact must be imminent."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya raises a metal bat like she is about to swing at Leo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo sees it and expects to be hit."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is assault."
+        },
+        {
+          "type": "subheading",
+          "text": "Future Threat Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya says:"
+        },
+        {
+          "type": "quote",
+          "text": "“I’ll punch you next month.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually not assault because the threat is not imminent."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Assault = “I think I’m about to be touched.”"
+        }
+      ]
+    },
+    {
+      "id": "5-battery-vs-assault",
+      "title": "5. Battery vs. Assault",
+      "body": [
+        "Battery",
+        "Actual contact happens.",
+        "Assault",
+        "Plaintiff anticipates imminent contact.",
+        "Examples",
+        "Assault Only",
+        "Maya swings at Leo and misses.",
+        "Battery Only",
+        "Maya hits Leo while he is sleeping.",
+        "Assault and Battery",
+        "Maya swings, Leo sees it coming, and Maya hits him.",
+        "Memory Line",
+        "Battery = contact. Assault = seeing contact coming."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Battery"
+        },
+        {
+          "type": "paragraph",
+          "text": "Actual contact happens."
+        },
+        {
+          "type": "subheading",
+          "text": "Assault"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff anticipates imminent contact."
+        },
+        {
+          "type": "subheading",
+          "text": "Examples"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Assault Only"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya swings at Leo and misses."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Battery Only"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya hits Leo while he is sleeping."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Assault and Battery"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya swings, Leo sees it coming, and Maya hits him."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Battery = contact. Assault = seeing contact coming."
+        }
+      ]
+    },
+    {
+      "id": "6-intentional-infliction-of-emotional-distress",
+      "title": "6. Intentional Infliction of Emotional Distress",
+      "body": [
+        "Rule",
+        "IIED requires:",
+        "Extreme and outrageous conduct",
+        "Intent or recklessness",
+        "Severe emotional distress",
+        "Causation",
+        "Extreme and Outrageous Means",
+        "Conduct that goes beyond normal insults, rudeness, or threats.",
+        "It must be intolerable in a civilized society.",
+        "Example",
+        "Maya falsely tells Leo that his child was seriously injured just to emotionally destroy him.",
+        "That can be IIED.",
+        "Not Enough",
+        "Maya says:",
+        "“You are annoying.”",
+        "Usually not IIED.",
+        "Special Situations",
+        "Conduct is more likely outrageous when:",
+        "Defendant has power over plaintiff",
+        "Plaintiff is especially vulnerable",
+        "Defendant knows about plaintiff’s sensitivity",
+        "Memory Line",
+        "IIED = outrageous conduct + severe distress."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "IIED requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Extreme and outrageous conduct"
+        },
+        {
+          "type": "compact",
+          "text": "Intent or recklessness"
+        },
+        {
+          "type": "compact",
+          "text": "Severe emotional distress"
+        },
+        {
+          "type": "compact",
+          "text": "Causation"
+        },
+        {
+          "type": "subheading",
+          "text": "Extreme and Outrageous Means"
+        },
+        {
+          "type": "paragraph",
+          "text": "Conduct that goes beyond normal insults, rudeness, or threats."
+        },
+        {
+          "type": "paragraph",
+          "text": "It must be intolerable in a civilized society."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya falsely tells Leo that his child was seriously injured just to emotionally destroy him."
+        },
+        {
+          "type": "paragraph",
+          "text": "That can be IIED."
+        },
+        {
+          "type": "subheading",
+          "text": "Not Enough"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya says:"
+        },
+        {
+          "type": "quote",
+          "text": "“You are annoying.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually not IIED."
+        },
+        {
+          "type": "subheading",
+          "text": "Special Situations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Conduct is more likely outrageous when:"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant has power over plaintiff"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff is especially vulnerable"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant knows about plaintiff’s sensitivity"
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "IIED = outrageous conduct + severe distress."
+        }
+      ]
+    },
+    {
+      "id": "7-false-imprisonment",
+      "title": "7. False Imprisonment",
+      "body": [
+        "Rule",
+        "False imprisonment is:",
+        "Intentional confinement within a limited area, where the plaintiff is aware of the confinement.",
+        "Elements",
+        "Defendant intends to confine plaintiff",
+        "Plaintiff is confined",
+        "Plaintiff is conscious of the confinement",
+        "Example",
+        "Maya locks Leo inside a storage room and blocks the only safe exit.",
+        "That is false imprisonment.",
+        "No False Imprisonment",
+        "If Leo knows there is an unlocked safe exit, he is not confined.",
+        "Dangerous Exit",
+        "Leo does not have to escape through a dangerous exit.",
+        "Example:",
+        "Leo does not need to jump from a second-floor window.",
+        "Memory Line",
+        "False imprisonment = trapped with no reasonable safe way out."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "False imprisonment is:"
+        },
+        {
+          "type": "quote",
+          "text": "Intentional confinement within a limited area, where the plaintiff is aware of the confinement."
+        },
+        {
+          "type": "subheading",
+          "text": "Elements"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant intends to confine plaintiff"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff is confined"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff is conscious of the confinement"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya locks Leo inside a storage room and blocks the only safe exit."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is false imprisonment."
+        },
+        {
+          "type": "subheading",
+          "text": "No False Imprisonment"
+        },
+        {
+          "type": "paragraph",
+          "text": "If Leo knows there is an unlocked safe exit, he is not confined."
+        },
+        {
+          "type": "subheading",
+          "text": "Dangerous Exit"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo does not have to escape through a dangerous exit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo does not need to jump from a second-floor window."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "False imprisonment = trapped with no reasonable safe way out."
+        }
+      ]
+    },
+    {
+      "id": "8-consent",
+      "title": "8. Consent",
+      "body": [
+        "Rule",
+        "Consent is a defense to intentional torts.",
+        "If plaintiff legally consented, defendant is usually not liable.",
+        "Types of Consent",
+        "Actual consent",
+        "Apparent consent",
+        "Presumed consent",
+        "Emergency consent",
+        "Actual Consent",
+        "Plaintiff actually agrees.",
+        "Example",
+        "Leo agrees to spar with Maya in boxing class.",
+        "Maya punches him within the rules.",
+        "No battery.",
+        "Scope of Consent",
+        "Consent only works within its limits.",
+        "Example",
+        "Leo agrees to light sparring.",
+        "Maya suddenly hits him with a chair.",
+        "That exceeds consent.",
+        "Revocation",
+        "Consent can usually be revoked.",
+        "Example",
+        "Leo says:",
+        "“Stop. I’m done.”",
+        "Maya cannot keep hitting him.",
+        "Memory Line",
+        "Consent works only within its scope."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Consent is a defense to intentional torts."
+        },
+        {
+          "type": "paragraph",
+          "text": "If plaintiff legally consented, defendant is usually not liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Types of Consent"
+        },
+        {
+          "type": "compact",
+          "text": "Actual consent"
+        },
+        {
+          "type": "compact",
+          "text": "Apparent consent"
+        },
+        {
+          "type": "compact",
+          "text": "Presumed consent"
+        },
+        {
+          "type": "compact",
+          "text": "Emergency consent"
+        },
+        {
+          "type": "subheading",
+          "text": "Actual Consent"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff actually agrees."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo agrees to spar with Maya in boxing class."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya punches him within the rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "No battery."
+        },
+        {
+          "type": "subheading",
+          "text": "Scope of Consent"
+        },
+        {
+          "type": "paragraph",
+          "text": "Consent only works within its limits."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo agrees to light sparring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya suddenly hits him with a chair."
+        },
+        {
+          "type": "paragraph",
+          "text": "That exceeds consent."
+        },
+        {
+          "type": "subheading",
+          "text": "Revocation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Consent can usually be revoked."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo says:"
+        },
+        {
+          "type": "quote",
+          "text": "“Stop. I’m done.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya cannot keep hitting him."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Consent works only within its scope."
+        }
+      ]
+    },
+    {
+      "id": "9-self-defense",
+      "title": "9. Self-Defense",
+      "body": [
+        "Rule",
+        "A person may use reasonable force to protect against an immediate unlawful threat.",
+        "Requirements",
+        "Reasonable belief force is needed",
+        "Immediate threat",
+        "Proportional force",
+        "Defensive purpose",
+        "Example",
+        "Leo raises his fist and steps toward Maya.",
+        "Maya pushes him away.",
+        "That may be self-defense.",
+        "No Revenge",
+        "If Leo hits Maya and walks away, Maya cannot chase him later and hit him back.",
+        "That is retaliation.",
+        "Deadly Force",
+        "Deadly force requires reasonable belief of:",
+        "Death",
+        "Serious bodily harm",
+        "Rape",
+        "Memory Line",
+        "Self-defense stops danger. It does not punish the past."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person may use reasonable force to protect against an immediate unlawful threat."
+        },
+        {
+          "type": "subheading",
+          "text": "Requirements"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonable belief force is needed"
+        },
+        {
+          "type": "compact",
+          "text": "Immediate threat"
+        },
+        {
+          "type": "compact",
+          "text": "Proportional force"
+        },
+        {
+          "type": "compact",
+          "text": "Defensive purpose"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo raises his fist and steps toward Maya."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya pushes him away."
+        },
+        {
+          "type": "paragraph",
+          "text": "That may be self-defense."
+        },
+        {
+          "type": "subheading",
+          "text": "No Revenge"
+        },
+        {
+          "type": "paragraph",
+          "text": "If Leo hits Maya and walks away, Maya cannot chase him later and hit him back."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is retaliation."
+        },
+        {
+          "type": "subheading",
+          "text": "Deadly Force"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deadly force requires reasonable belief of:"
+        },
+        {
+          "type": "compact",
+          "text": "Death"
+        },
+        {
+          "type": "compact",
+          "text": "Serious bodily harm"
+        },
+        {
+          "type": "compact",
+          "text": "Rape"
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Self-defense stops danger. It does not punish the past."
+        }
+      ]
+    },
+    {
+      "id": "10-defense-of-others",
+      "title": "10. Defense of Others",
+      "body": [
+        "Rule",
+        "A person may use reasonable force to defend another person if they reasonably believe that person has the right to self-defense.",
+        "Example",
+        "Maya sees Leo about to punch Noah.",
+        "Maya pushes Leo away.",
+        "That may be defense of others.",
+        "Memory Line",
+        "Defense of others = reasonable rescue from immediate force."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person may use reasonable force to defend another person if they reasonably believe that person has the right to self-defense."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya sees Leo about to punch Noah."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya pushes Leo away."
+        },
+        {
+          "type": "paragraph",
+          "text": "That may be defense of others."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Defense of others = reasonable rescue from immediate force."
+        }
+      ]
+    },
+    {
+      "id": "11-defense-of-property",
+      "title": "11. Defense of Property",
+      "body": [
+        "Rule",
+        "A person may use reasonable, nondeadly force to protect property.",
+        "Example",
+        "Maya sees Leo grabbing her laptop.",
+        "She pulls it back and blocks him.",
+        "That may be okay.",
+        "Deadly Force Not Allowed",
+        "Deadly force cannot be used merely to protect property.",
+        "No Force to Regain Land",
+        "If someone wrongfully occupies land, the owner usually must use legal process.",
+        "Memory Line",
+        "Property is not worth deadly force."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person may use reasonable, nondeadly force to protect property."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya sees Leo grabbing her laptop."
+        },
+        {
+          "type": "paragraph",
+          "text": "She pulls it back and blocks him."
+        },
+        {
+          "type": "paragraph",
+          "text": "That may be okay."
+        },
+        {
+          "type": "subheading",
+          "text": "Deadly Force Not Allowed"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deadly force cannot be used merely to protect property."
+        },
+        {
+          "type": "subheading",
+          "text": "No Force to Regain Land"
+        },
+        {
+          "type": "paragraph",
+          "text": "If someone wrongfully occupies land, the owner usually must use legal process."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Property is not worth deadly force."
+        }
+      ]
+    },
+    {
+      "id": "12-merchant-s-privilege",
+      "title": "12. Merchant’s Privilege",
+      "body": [
+        "Rule",
+        "A merchant may briefly detain someone suspected of theft if the merchant acts reasonably.",
+        "Requirements",
+        "Reasonable belief of theft or nonpayment",
+        "Detention on or near the premises",
+        "Reasonable manner",
+        "Reasonable time",
+        "Example",
+        "A bookstore employee sees Leo hide a book in his coat.",
+        "The employee stops him near the exit and asks him to wait briefly.",
+        "That may be allowed.",
+        "Not Allowed",
+        "Bullying",
+        "Excessive force",
+        "Long detention",
+        "Public humiliation beyond reason",
+        "Memory Line",
+        "Merchant can reasonably stop, not abuse."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A merchant may briefly detain someone suspected of theft if the merchant acts reasonably."
+        },
+        {
+          "type": "subheading",
+          "text": "Requirements"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonable belief of theft or nonpayment"
+        },
+        {
+          "type": "compact",
+          "text": "Detention on or near the premises"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonable manner"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonable time"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A bookstore employee sees Leo hide a book in his coat."
+        },
+        {
+          "type": "paragraph",
+          "text": "The employee stops him near the exit and asks him to wait briefly."
+        },
+        {
+          "type": "paragraph",
+          "text": "That may be allowed."
+        },
+        {
+          "type": "subheading",
+          "text": "Not Allowed"
+        },
+        {
+          "type": "compact",
+          "text": "Bullying"
+        },
+        {
+          "type": "compact",
+          "text": "Excessive force"
+        },
+        {
+          "type": "compact",
+          "text": "Long detention"
+        },
+        {
+          "type": "compact",
+          "text": "Public humiliation beyond reason"
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Merchant can reasonably stop, not abuse."
+        }
+      ]
+    },
+    {
+      "id": "13-trespass-to-chattels",
+      "title": "13. Trespass to Chattels",
+      "body": [
+        "Rule",
+        "Trespass to chattels is:",
+        "Intentional interference with someone’s personal property.",
+        "Chattel Means",
+        "Personal property.",
+        "Examples:",
+        "Phone",
+        "Laptop",
+        "Bike",
+        "Watch",
+        "Dog",
+        "Types of Interference",
+        "Dispossessing the owner",
+        "Using the chattel",
+        "Intermeddling with the chattel",
+        "Example",
+        "Maya takes Leo’s tablet and uses it for ten minutes without permission.",
+        "That can be trespass to chattels.",
+        "Memory Line",
+        "Trespass to chattels = messing with someone’s stuff."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trespass to chattels is:"
+        },
+        {
+          "type": "quote",
+          "text": "Intentional interference with someone’s personal property."
+        },
+        {
+          "type": "subheading",
+          "text": "Chattel Means"
+        },
+        {
+          "type": "paragraph",
+          "text": "Personal property."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples:"
+        },
+        {
+          "type": "compact",
+          "text": "Phone"
+        },
+        {
+          "type": "compact",
+          "text": "Laptop"
+        },
+        {
+          "type": "compact",
+          "text": "Bike"
+        },
+        {
+          "type": "compact",
+          "text": "Watch"
+        },
+        {
+          "type": "compact",
+          "text": "Dog"
+        },
+        {
+          "type": "subheading",
+          "text": "Types of Interference"
+        },
+        {
+          "type": "compact",
+          "text": "Dispossessing the owner"
+        },
+        {
+          "type": "compact",
+          "text": "Using the chattel"
+        },
+        {
+          "type": "compact",
+          "text": "Intermeddling with the chattel"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya takes Leo’s tablet and uses it for ten minutes without permission."
+        },
+        {
+          "type": "paragraph",
+          "text": "That can be trespass to chattels."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Trespass to chattels = messing with someone’s stuff."
+        }
+      ]
+    },
+    {
+      "id": "14-conversion",
+      "title": "14. Conversion",
+      "body": [
+        "Rule",
+        "Conversion is:",
+        "Serious interference with someone’s personal property, so serious that defendant must pay full value.",
+        "Example",
+        "Maya takes Leo’s laptop, sells it, and keeps the money.",
+        "That is conversion.",
+        "Remedy",
+        "Plaintiff can recover the full value of the property at the time of conversion.",
+        "Trespass to Chattels vs. Conversion",
+        "Trespass to Chattels",
+        "Small interference.",
+        "Conversion",
+        "Serious interference.",
+        "Memory Line",
+        "Conversion = forced sale."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Conversion is:"
+        },
+        {
+          "type": "quote",
+          "text": "Serious interference with someone’s personal property, so serious that defendant must pay full value."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya takes Leo’s laptop, sells it, and keeps the money."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is conversion."
+        },
+        {
+          "type": "subheading",
+          "text": "Remedy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff can recover the full value of the property at the time of conversion."
+        },
+        {
+          "type": "subheading",
+          "text": "Trespass to Chattels vs. Conversion"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Trespass to Chattels"
+        },
+        {
+          "type": "paragraph",
+          "text": "Small interference."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Conversion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Serious interference."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Conversion = forced sale."
+        }
+      ]
+    },
+    {
+      "id": "15-trespass-to-land",
+      "title": "15. Trespass to Land",
+      "body": [
+        "Rule",
+        "Trespass to land is:",
+        "Intentional physical invasion of another’s land.",
+        "Key Point",
+        "Defendant does not need to know the land belongs to someone else.",
+        "Defendant only needs to intend to enter that physical place.",
+        "Example",
+        "Maya walks onto a garden because she thinks it is public land.",
+        "It is actually Leo’s private land.",
+        "That is trespass.",
+        "Accidental Entry",
+        "If Maya accidentally sends something onto Leo’s land without intending that physical invasion, it may be negligence instead of trespass.",
+        "Memory Line",
+        "Mistaken entry = trespass. Accidental entry = maybe negligence."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trespass to land is:"
+        },
+        {
+          "type": "quote",
+          "text": "Intentional physical invasion of another’s land."
+        },
+        {
+          "type": "subheading",
+          "text": "Key Point"
+        },
+        {
+          "type": "paragraph",
+          "text": "Defendant does not need to know the land belongs to someone else."
+        },
+        {
+          "type": "paragraph",
+          "text": "Defendant only needs to intend to enter that physical place."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya walks onto a garden because she thinks it is public land."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is actually Leo’s private land."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is trespass."
+        },
+        {
+          "type": "subheading",
+          "text": "Accidental Entry"
+        },
+        {
+          "type": "paragraph",
+          "text": "If Maya accidentally sends something onto Leo’s land without intending that physical invasion, it may be negligence instead of trespass."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Mistaken entry = trespass. Accidental entry = maybe negligence."
+        }
+      ]
+    },
+    {
+      "id": "16-necessity",
+      "title": "16. Necessity",
+      "body": [
+        "Rule",
+        "Necessity is a defense to property torts when defendant enters or uses property to avoid serious harm.",
+        "Private Necessity",
+        "Private necessity protects a small group or private interest.",
+        "Rule",
+        "Defendant may enter, but must pay actual damage.",
+        "Example",
+        "Maya is caught in a dangerous snowstorm and enters Leo’s empty cabin to avoid freezing.",
+        "She may be privileged to enter.",
+        "But if she breaks the door, she must pay for the door.",
+        "Memory Line",
+        "Private necessity = allowed in, but pay actual damage.",
+        "Public Necessity",
+        "Public necessity protects the public from a larger emergency.",
+        "Rule",
+        "If reasonable, defendant usually is not liable for damage.",
+        "Example",
+        "A firefighter destroys a storage shed to stop a fire from reaching several homes.",
+        "No liability if reasonable.",
+        "Memory Line",
+        "Public necessity = public emergency, no pay."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Necessity is a defense to property torts when defendant enters or uses property to avoid serious harm."
+        },
+        {
+          "type": "subheading",
+          "text": "Private Necessity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Private necessity protects a small group or private interest."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Defendant may enter, but must pay actual damage."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya is caught in a dangerous snowstorm and enters Leo’s empty cabin to avoid freezing."
+        },
+        {
+          "type": "paragraph",
+          "text": "She may be privileged to enter."
+        },
+        {
+          "type": "paragraph",
+          "text": "But if she breaks the door, she must pay for the door."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Private necessity = allowed in, but pay actual damage."
+        },
+        {
+          "type": "subheading",
+          "text": "Public Necessity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Public necessity protects the public from a larger emergency."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "If reasonable, defendant usually is not liable for damage."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A firefighter destroys a storage shed to stop a fire from reaching several homes."
+        },
+        {
+          "type": "paragraph",
+          "text": "No liability if reasonable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Public necessity = public emergency, no pay."
+        }
+      ]
+    },
+    {
+      "id": "17-private-nuisance",
+      "title": "17. Private Nuisance",
+      "body": [
+        "Rule",
+        "Private nuisance is:",
+        "Substantial and unreasonable interference with another person’s use and enjoyment of land.",
+        "Example",
+        "Maya runs loud machinery every night behind Leo’s house.",
+        "The noise shakes the walls and keeps Leo awake.",
+        "That may be private nuisance.",
+        "Requirements",
+        "Substantial interference",
+        "Unreasonable interference",
+        "Interference with use and enjoyment of land",
+        "Substantial Means",
+        "More than a tiny annoyance.",
+        "It must bother a normal reasonable person.",
+        "Memory Line",
+        "Private nuisance = messes with my land enjoyment."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Private nuisance is:"
+        },
+        {
+          "type": "quote",
+          "text": "Substantial and unreasonable interference with another person’s use and enjoyment of land."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya runs loud machinery every night behind Leo’s house."
+        },
+        {
+          "type": "paragraph",
+          "text": "The noise shakes the walls and keeps Leo awake."
+        },
+        {
+          "type": "paragraph",
+          "text": "That may be private nuisance."
+        },
+        {
+          "type": "subheading",
+          "text": "Requirements"
+        },
+        {
+          "type": "compact",
+          "text": "Substantial interference"
+        },
+        {
+          "type": "compact",
+          "text": "Unreasonable interference"
+        },
+        {
+          "type": "compact",
+          "text": "Interference with use and enjoyment of land"
+        },
+        {
+          "type": "subheading",
+          "text": "Substantial Means"
+        },
+        {
+          "type": "paragraph",
+          "text": "More than a tiny annoyance."
+        },
+        {
+          "type": "paragraph",
+          "text": "It must bother a normal reasonable person."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Private nuisance = messes with my land enjoyment."
+        }
+      ]
+    },
+    {
+      "id": "18-public-nuisance",
+      "title": "18. Public Nuisance",
+      "body": [
+        "Rule",
+        "Public nuisance is:",
+        "Unreasonable interference with a right common to the general public.",
+        "Examples",
+        "Blocking a public road",
+        "Polluting a public river",
+        "Interfering with public park access",
+        "Private Plaintiff Rule",
+        "A private person can sue only if they suffer harm different in kind from the general public.",
+        "Example",
+        "Everyone is delayed by a blocked public road.",
+        "Leo is delayed too.",
+        "Leo usually cannot sue individually.",
+        "But if a falling barrier damages Leo’s car, Leo suffered special harm.",
+        "Memory Line",
+        "Public nuisance = community harm. Private plaintiff needs special harm."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Public nuisance is:"
+        },
+        {
+          "type": "quote",
+          "text": "Unreasonable interference with a right common to the general public."
+        },
+        {
+          "type": "subheading",
+          "text": "Examples"
+        },
+        {
+          "type": "compact",
+          "text": "Blocking a public road"
+        },
+        {
+          "type": "compact",
+          "text": "Polluting a public river"
+        },
+        {
+          "type": "compact",
+          "text": "Interfering with public park access"
+        },
+        {
+          "type": "subheading",
+          "text": "Private Plaintiff Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A private person can sue only if they suffer harm different in kind from the general public."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone is delayed by a blocked public road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo is delayed too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo usually cannot sue individually."
+        },
+        {
+          "type": "paragraph",
+          "text": "But if a falling barrier damages Leo’s car, Leo suffered special harm."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Public nuisance = community harm. Private plaintiff needs special harm."
+        }
+      ]
+    },
+    {
+      "id": "19-negligence",
+      "title": "19. Negligence",
+      "body": [
+        "Rule",
+        "Negligence is careless conduct causing actual harm.",
+        "Elements",
+        "Duty",
+        "Breach",
+        "Causation",
+        "Damages",
+        "Meaning of Each Element",
+        "Duty",
+        "Did defendant have to be careful?",
+        "Breach",
+        "Was defendant careless?",
+        "Causation",
+        "Did the carelessness cause the harm?",
+        "Damages",
+        "Was there real harm?",
+        "Example",
+        "Maya leaves a sharp tool on a gym floor.",
+        "Leo steps on it and is injured.",
+        "That may be negligence.",
+        "Memory Line",
+        "Negligence = duty, breach, causation, damages."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Negligence is careless conduct causing actual harm."
+        },
+        {
+          "type": "subheading",
+          "text": "Elements"
+        },
+        {
+          "type": "compact",
+          "text": "Duty"
+        },
+        {
+          "type": "compact",
+          "text": "Breach"
+        },
+        {
+          "type": "compact",
+          "text": "Causation"
+        },
+        {
+          "type": "compact",
+          "text": "Damages"
+        },
+        {
+          "type": "subheading",
+          "text": "Meaning of Each Element"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Duty"
+        },
+        {
+          "type": "paragraph",
+          "text": "Did defendant have to be careful?"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Breach"
+        },
+        {
+          "type": "paragraph",
+          "text": "Was defendant careless?"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Causation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Did the carelessness cause the harm?"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Damages"
+        },
+        {
+          "type": "paragraph",
+          "text": "Was there real harm?"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya leaves a sharp tool on a gym floor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo steps on it and is injured."
+        },
+        {
+          "type": "paragraph",
+          "text": "That may be negligence."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Negligence = duty, breach, causation, damages."
+        }
+      ]
+    },
+    {
+      "id": "20-duty",
+      "title": "20. Duty",
+      "body": [
+        "Rule",
+        "People generally owe reasonable care to foreseeable plaintiffs.",
+        "Example",
+        "Maya throws heavy boxes off a balcony.",
+        "People walking below are foreseeable plaintiffs.",
+        "She owes them reasonable care.",
+        "No General Duty to Rescue",
+        "Usually, a person has no legal duty to help.",
+        "Example",
+        "Maya sees Leo faint on the sidewalk.",
+        "She usually has no duty to help.",
+        "Exceptions",
+        "A duty to act may arise if:",
+        "Defendant starts helping",
+        "Defendant created the danger",
+        "Contract requires action",
+        "Defendant has authority or control",
+        "There is a special relationship",
+        "A statute requires action",
+        "Memory Line",
+        "No duty to start helping, but once you start or create danger, act reasonably."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "People generally owe reasonable care to foreseeable plaintiffs."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya throws heavy boxes off a balcony."
+        },
+        {
+          "type": "paragraph",
+          "text": "People walking below are foreseeable plaintiffs."
+        },
+        {
+          "type": "paragraph",
+          "text": "She owes them reasonable care."
+        },
+        {
+          "type": "subheading",
+          "text": "No General Duty to Rescue"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually, a person has no legal duty to help."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya sees Leo faint on the sidewalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "She usually has no duty to help."
+        },
+        {
+          "type": "subheading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "A duty to act may arise if:"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant starts helping"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant created the danger"
+        },
+        {
+          "type": "compact",
+          "text": "Contract requires action"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant has authority or control"
+        },
+        {
+          "type": "compact",
+          "text": "There is a special relationship"
+        },
+        {
+          "type": "compact",
+          "text": "A statute requires action"
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "No duty to start helping, but once you start or create danger, act reasonably."
+        }
+      ]
+    },
+    {
+      "id": "21-standard-of-care",
+      "title": "21. Standard of Care",
+      "body": [
+        "General Rule",
+        "The standard is:",
+        "Reasonable person under the circumstances.",
+        "Objective Standard",
+        "The question is not:",
+        "Did this defendant try their best?",
+        "The question is:",
+        "What would a reasonable person have done?",
+        "Physical Disability",
+        "Physical disability is considered.",
+        "Example",
+        "A blind person is judged as a reasonable blind person.",
+        "Mental Disability",
+        "Mental or emotional disability usually does not lower the standard.",
+        "Children",
+        "Children are judged as reasonable children of similar age, intelligence, and experience.",
+        "Adult Activities",
+        "Children doing adult dangerous activities are judged like adults.",
+        "Memory Line",
+        "Reasonable person, not this person’s personal best."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "General Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "The standard is:"
+        },
+        {
+          "type": "quote",
+          "text": "Reasonable person under the circumstances."
+        },
+        {
+          "type": "subheading",
+          "text": "Objective Standard"
+        },
+        {
+          "type": "paragraph",
+          "text": "The question is not:"
+        },
+        {
+          "type": "quote",
+          "text": "Did this defendant try their best?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The question is:"
+        },
+        {
+          "type": "quote",
+          "text": "What would a reasonable person have done?"
+        },
+        {
+          "type": "subheading",
+          "text": "Physical Disability"
+        },
+        {
+          "type": "paragraph",
+          "text": "Physical disability is considered."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A blind person is judged as a reasonable blind person."
+        },
+        {
+          "type": "subheading",
+          "text": "Mental Disability"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mental or emotional disability usually does not lower the standard."
+        },
+        {
+          "type": "subheading",
+          "text": "Children"
+        },
+        {
+          "type": "paragraph",
+          "text": "Children are judged as reasonable children of similar age, intelligence, and experience."
+        },
+        {
+          "type": "subheading",
+          "text": "Adult Activities"
+        },
+        {
+          "type": "paragraph",
+          "text": "Children doing adult dangerous activities are judged like adults."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Reasonable person, not this person’s personal best."
+        }
+      ]
+    },
+    {
+      "id": "22-professional-negligence",
+      "title": "22. Professional Negligence",
+      "body": [
+        "Rule",
+        "Professionals must act like ordinary professionals in the same field.",
+        "Usually Requires Expert Testimony",
+        "Professional negligence usually needs expert testimony to explain the standard of care.",
+        "Exception",
+        "No expert is needed if the mistake is obvious.",
+        "Example",
+        "An architect uses cardboard columns to support a building.",
+        "A jury does not need an expert to know that is careless.",
+        "Memory Line",
+        "Professional negligence usually needs expert testimony unless the mistake is obvious."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Professionals must act like ordinary professionals in the same field."
+        },
+        {
+          "type": "subheading",
+          "text": "Usually Requires Expert Testimony"
+        },
+        {
+          "type": "paragraph",
+          "text": "Professional negligence usually needs expert testimony to explain the standard of care."
+        },
+        {
+          "type": "subheading",
+          "text": "Exception"
+        },
+        {
+          "type": "paragraph",
+          "text": "No expert is needed if the mistake is obvious."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "An architect uses cardboard columns to support a building."
+        },
+        {
+          "type": "paragraph",
+          "text": "A jury does not need an expert to know that is careless."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Professional negligence usually needs expert testimony unless the mistake is obvious."
+        }
+      ]
+    },
+    {
+      "id": "23-land-possessor-duties",
+      "title": "23. Land Possessor Duties",
+      "body": [
+        "Traditional Categories",
+        "Trespasser",
+        "Licensee",
+        "Invitee",
+        "Trespasser",
+        "A trespasser enters without permission.",
+        "Duty",
+        "Usually, land possessor must not intentionally, willfully, wantonly, or recklessly hurt them.",
+        "No Deadly Traps",
+        "Landowner cannot set deadly traps.",
+        "Memory Line",
+        "Trespasser gets little protection, but no traps.",
+        "Known or Anticipated Trespasser",
+        "If the landowner knows trespassers regularly enter, the landowner must warn about hidden dangerous artificial conditions.",
+        "Example",
+        "Children regularly cut across Maya’s yard.",
+        "Maya has a hidden electrified wire.",
+        "She may need to warn or protect.",
+        "Attractive Nuisance",
+        "A land possessor may be liable for injuries to child trespassers if:",
+        "Artificial condition exists",
+        "Children are likely to trespass",
+        "Condition poses serious risk",
+        "Children cannot appreciate the risk",
+        "Burden of fixing is small compared to danger",
+        "Landowner fails to use reasonable care",
+        "Memory Line",
+        "Kids + artificial danger + foreseeable trespass = attractive nuisance.",
+        "Licensee",
+        "A licensee enters with permission, but not for business.",
+        "Common Example",
+        "Social guest.",
+        "Duty",
+        "Warn about known hidden dangers.",
+        "Example",
+        "Maya invites Leo to dinner.",
+        "Maya knows one stair is loose.",
+        "She should warn him.",
+        "Memory Line",
+        "Licensee = warn about hidden dangers you know.",
+        "Invitee",
+        "An invitee enters for business or public purpose.",
+        "Examples",
+        "Store customer",
+        "Restaurant customer",
+        "Museum visitor",
+        "Duty",
+        "Reasonable care, including duty to inspect and make safe.",
+        "Example",
+        "A café should reasonably inspect for spills where customers walk.",
+        "Memory Line",
+        "Invitee = inspect and make safe."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Traditional Categories"
+        },
+        {
+          "type": "compact",
+          "text": "Trespasser"
+        },
+        {
+          "type": "compact",
+          "text": "Licensee"
+        },
+        {
+          "type": "compact",
+          "text": "Invitee"
+        },
+        {
+          "type": "subheading",
+          "text": "Trespasser"
+        },
+        {
+          "type": "paragraph",
+          "text": "A trespasser enters without permission."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Duty"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually, land possessor must not intentionally, willfully, wantonly, or recklessly hurt them."
+        },
+        {
+          "type": "minorHeading",
+          "text": "No Deadly Traps"
+        },
+        {
+          "type": "paragraph",
+          "text": "Landowner cannot set deadly traps."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Trespasser gets little protection, but no traps."
+        },
+        {
+          "type": "subheading",
+          "text": "Known or Anticipated Trespasser"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the landowner knows trespassers regularly enter, the landowner must warn about hidden dangerous artificial conditions."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Children regularly cut across Maya’s yard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya has a hidden electrified wire."
+        },
+        {
+          "type": "paragraph",
+          "text": "She may need to warn or protect."
+        },
+        {
+          "type": "subheading",
+          "text": "Attractive Nuisance"
+        },
+        {
+          "type": "paragraph",
+          "text": "A land possessor may be liable for injuries to child trespassers if:"
+        },
+        {
+          "type": "compact",
+          "text": "Artificial condition exists"
+        },
+        {
+          "type": "compact",
+          "text": "Children are likely to trespass"
+        },
+        {
+          "type": "compact",
+          "text": "Condition poses serious risk"
+        },
+        {
+          "type": "compact",
+          "text": "Children cannot appreciate the risk"
+        },
+        {
+          "type": "compact",
+          "text": "Burden of fixing is small compared to danger"
+        },
+        {
+          "type": "compact",
+          "text": "Landowner fails to use reasonable care"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Kids + artificial danger + foreseeable trespass = attractive nuisance."
+        },
+        {
+          "type": "subheading",
+          "text": "Licensee"
+        },
+        {
+          "type": "paragraph",
+          "text": "A licensee enters with permission, but not for business."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Common Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Social guest."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Duty"
+        },
+        {
+          "type": "paragraph",
+          "text": "Warn about known hidden dangers."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya invites Leo to dinner."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya knows one stair is loose."
+        },
+        {
+          "type": "paragraph",
+          "text": "She should warn him."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Licensee = warn about hidden dangers you know."
+        },
+        {
+          "type": "subheading",
+          "text": "Invitee"
+        },
+        {
+          "type": "paragraph",
+          "text": "An invitee enters for business or public purpose."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Examples"
+        },
+        {
+          "type": "compact",
+          "text": "Store customer"
+        },
+        {
+          "type": "compact",
+          "text": "Restaurant customer"
+        },
+        {
+          "type": "compact",
+          "text": "Museum visitor"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Duty"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reasonable care, including duty to inspect and make safe."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A café should reasonably inspect for spills where customers walk."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Invitee = inspect and make safe."
+        }
+      ]
+    },
+    {
+      "id": "24-landlord-liability",
+      "title": "24. Landlord Liability",
+      "body": [
+        "General Rule",
+        "Once tenant takes possession, tenant usually becomes responsible for conditions on the property.",
+        "Landlord Still Liable For",
+        "Common areas",
+        "Hidden dangers landlord failed to disclose",
+        "Premises leased for public use",
+        "Negligent repairs",
+        "Hazards landlord agreed to repair",
+        "Example",
+        "Landlord controls the apartment lobby.",
+        "A broken lobby tile injures a visitor.",
+        "Landlord may be liable.",
+        "Memory Line",
+        "Landlord liable where landlord still controls, promised, hid, or caused the problem."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "General Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Once tenant takes possession, tenant usually becomes responsible for conditions on the property."
+        },
+        {
+          "type": "subheading",
+          "text": "Landlord Still Liable For"
+        },
+        {
+          "type": "compact",
+          "text": "Common areas"
+        },
+        {
+          "type": "compact",
+          "text": "Hidden dangers landlord failed to disclose"
+        },
+        {
+          "type": "compact",
+          "text": "Premises leased for public use"
+        },
+        {
+          "type": "compact",
+          "text": "Negligent repairs"
+        },
+        {
+          "type": "compact",
+          "text": "Hazards landlord agreed to repair"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Landlord controls the apartment lobby."
+        },
+        {
+          "type": "paragraph",
+          "text": "A broken lobby tile injures a visitor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Landlord may be liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Landlord liable where landlord still controls, promised, hid, or caused the problem."
+        }
+      ]
+    },
+    {
+      "id": "25-breach",
+      "title": "25. Breach",
+      "body": [
+        "Rule",
+        "Breach occurs when defendant fails to meet the required standard of care.",
+        "Traditional Test",
+        "Compare defendant to a reasonable person under the circumstances.",
+        "Cost-Benefit Test",
+        "Ask:",
+        "How likely was harm?",
+        "How serious would harm be?",
+        "How hard would it be to prevent?",
+        "Example",
+        "Maya leaves boiling liquid on the edge of a table at a children’s party.",
+        "High risk.",
+        "Serious harm.",
+        "Easy fix.",
+        "Likely breach.",
+        "Memory Line",
+        "High risk + serious harm + easy fix = breach."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Breach occurs when defendant fails to meet the required standard of care."
+        },
+        {
+          "type": "subheading",
+          "text": "Traditional Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "Compare defendant to a reasonable person under the circumstances."
+        },
+        {
+          "type": "subheading",
+          "text": "Cost-Benefit Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask:"
+        },
+        {
+          "type": "compact",
+          "text": "How likely was harm?"
+        },
+        {
+          "type": "compact",
+          "text": "How serious would harm be?"
+        },
+        {
+          "type": "compact",
+          "text": "How hard would it be to prevent?"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya leaves boiling liquid on the edge of a table at a children’s party."
+        },
+        {
+          "type": "paragraph",
+          "text": "High risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serious harm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Easy fix."
+        },
+        {
+          "type": "paragraph",
+          "text": "Likely breach."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "High risk + serious harm + easy fix = breach."
+        }
+      ]
+    },
+    {
+      "id": "26-custom",
+      "title": "26. Custom",
+      "body": [
+        "Rule",
+        "Custom is admissible evidence of reasonable care, but it is not conclusive.",
+        "Example",
+        "Every warehouse stacks boxes dangerously high.",
+        "A box falls and injures Leo.",
+        "The warehouse cannot automatically win by saying:",
+        "Everyone does it this way.",
+        "The entire industry may be negligent.",
+        "Memory Line",
+        "Custom helps, but custom does not control."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Custom is admissible evidence of reasonable care, but it is not conclusive."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every warehouse stacks boxes dangerously high."
+        },
+        {
+          "type": "paragraph",
+          "text": "A box falls and injures Leo."
+        },
+        {
+          "type": "paragraph",
+          "text": "The warehouse cannot automatically win by saying:"
+        },
+        {
+          "type": "quote",
+          "text": "Everyone does it this way."
+        },
+        {
+          "type": "paragraph",
+          "text": "The entire industry may be negligent."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Custom helps, but custom does not control."
+        }
+      ]
+    },
+    {
+      "id": "27-negligence-per-se",
+      "title": "27. Negligence Per Se",
+      "body": [
+        "Rule",
+        "Negligence per se means a statute supplies the standard of care.",
+        "Requirements",
+        "Statute imposes a specific duty",
+        "Defendant violates the statute",
+        "Plaintiff is in the protected class",
+        "Harm is the type the statute was designed to prevent",
+        "Example",
+        "A rule says restaurants must cover open floor drains to prevent customer falls.",
+        "Restaurant leaves one uncovered.",
+        "Customer falls.",
+        "Negligence per se likely applies.",
+        "Trap",
+        "If the statute is about tax paperwork, and plaintiff slips on a floor, the statute does not match the harm.",
+        "No negligence per se.",
+        "Memory Line",
+        "Statute violation = duty/breach shortcut, if plaintiff and harm match."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Negligence per se means a statute supplies the standard of care."
+        },
+        {
+          "type": "subheading",
+          "text": "Requirements"
+        },
+        {
+          "type": "compact",
+          "text": "Statute imposes a specific duty"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant violates the statute"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff is in the protected class"
+        },
+        {
+          "type": "compact",
+          "text": "Harm is the type the statute was designed to prevent"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A rule says restaurants must cover open floor drains to prevent customer falls."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restaurant leaves one uncovered."
+        },
+        {
+          "type": "paragraph",
+          "text": "Customer falls."
+        },
+        {
+          "type": "paragraph",
+          "text": "Negligence per se likely applies."
+        },
+        {
+          "type": "subheading",
+          "text": "Trap"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the statute is about tax paperwork, and plaintiff slips on a floor, the statute does not match the harm."
+        },
+        {
+          "type": "paragraph",
+          "text": "No negligence per se."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Statute violation = duty/breach shortcut, if plaintiff and harm match."
+        }
+      ]
+    },
+    {
+      "id": "28-res-ipsa-loquitur",
+      "title": "28. Res Ipsa Loquitur",
+      "body": [
+        "Meaning",
+        "Res ipsa loquitur means:",
+        "The thing speaks for itself.",
+        "Rule",
+        "The jury may infer negligence when the accident usually would not happen without negligence.",
+        "Traditional Requirements",
+        "Accident usually does not happen without negligence",
+        "Instrumentality was in defendant’s control",
+        "Plaintiff did not cause it",
+        "Example",
+        "Leo walks past a bakery and a rolling pin falls from an upstairs window onto him.",
+        "Rolling pins usually do not fall from windows unless someone was careless.",
+        "Res ipsa may apply.",
+        "Procedural Effect",
+        "Res ipsa usually gets the case to the jury.",
+        "It does not automatically mean plaintiff wins.",
+        "Memory Line",
+        "Res ipsa = this probably happened because someone was careless."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Meaning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Res ipsa loquitur means:"
+        },
+        {
+          "type": "quote",
+          "text": "The thing speaks for itself."
+        },
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "The jury may infer negligence when the accident usually would not happen without negligence."
+        },
+        {
+          "type": "subheading",
+          "text": "Traditional Requirements"
+        },
+        {
+          "type": "compact",
+          "text": "Accident usually does not happen without negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Instrumentality was in defendant’s control"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff did not cause it"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo walks past a bakery and a rolling pin falls from an upstairs window onto him."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rolling pins usually do not fall from windows unless someone was careless."
+        },
+        {
+          "type": "paragraph",
+          "text": "Res ipsa may apply."
+        },
+        {
+          "type": "subheading",
+          "text": "Procedural Effect"
+        },
+        {
+          "type": "paragraph",
+          "text": "Res ipsa usually gets the case to the jury."
+        },
+        {
+          "type": "paragraph",
+          "text": "It does not automatically mean plaintiff wins."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Res ipsa = this probably happened because someone was careless."
+        }
+      ]
+    },
+    {
+      "id": "29-causation",
+      "title": "29. Causation",
+      "body": [
+        "Two Types",
+        "Actual cause",
+        "Proximate cause",
+        "Actual Cause",
+        "Actual cause asks:",
+        "But for defendant’s conduct, would the harm have happened?",
+        "Example",
+        "Maya leaves a cord across a hallway.",
+        "Leo trips.",
+        "But for the cord, Leo would not have fallen.",
+        "Actual cause exists.",
+        "Proximate Cause",
+        "Proximate cause asks:",
+        "Was the harm foreseeable and within the risk created by defendant?",
+        "Example",
+        "Leaving a cord across a hallway creates a risk that someone will trip.",
+        "Leo tripping is foreseeable.",
+        "Proximate cause exists.",
+        "Memory Line",
+        "Actual cause = did it cause it? Proximate cause = is it fair to blame defendant?"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Two Types"
+        },
+        {
+          "type": "compact",
+          "text": "Actual cause"
+        },
+        {
+          "type": "compact",
+          "text": "Proximate cause"
+        },
+        {
+          "type": "subheading",
+          "text": "Actual Cause"
+        },
+        {
+          "type": "paragraph",
+          "text": "Actual cause asks:"
+        },
+        {
+          "type": "quote",
+          "text": "But for defendant’s conduct, would the harm have happened?"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya leaves a cord across a hallway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo trips."
+        },
+        {
+          "type": "paragraph",
+          "text": "But for the cord, Leo would not have fallen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Actual cause exists."
+        },
+        {
+          "type": "subheading",
+          "text": "Proximate Cause"
+        },
+        {
+          "type": "paragraph",
+          "text": "Proximate cause asks:"
+        },
+        {
+          "type": "quote",
+          "text": "Was the harm foreseeable and within the risk created by defendant?"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leaving a cord across a hallway creates a risk that someone will trip."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo tripping is foreseeable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proximate cause exists."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Actual cause = did it cause it? Proximate cause = is it fair to blame defendant?"
+        }
+      ]
+    },
+    {
+      "id": "30-intervening-and-superseding-causes",
+      "title": "30. Intervening and Superseding Causes",
+      "body": [
+        "Intervening Cause",
+        "An event that happens after defendant’s negligence but before the final injury.",
+        "Foreseeable Intervening Causes",
+        "Do not cut off liability.",
+        "Examples:",
+        "Medical malpractice",
+        "Negligent rescue",
+        "Normal forces of nature",
+        "Ordinary accidents after injury",
+        "Superseding Cause",
+        "An unforeseeable intervening cause that cuts off liability.",
+        "Examples:",
+        "Extraordinary act of nature",
+        "Criminal act",
+        "Intentional tort by third party",
+        "Exception",
+        "If defendant’s duty was to protect against that kind of criminal act, the criminal act does not cut off liability.",
+        "Memory Line",
+        "Foreseeable intervening = still liable. Unforeseeable superseding = cuts off."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Intervening Cause"
+        },
+        {
+          "type": "paragraph",
+          "text": "An event that happens after defendant’s negligence but before the final injury."
+        },
+        {
+          "type": "subheading",
+          "text": "Foreseeable Intervening Causes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Do not cut off liability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples:"
+        },
+        {
+          "type": "compact",
+          "text": "Medical malpractice"
+        },
+        {
+          "type": "compact",
+          "text": "Negligent rescue"
+        },
+        {
+          "type": "compact",
+          "text": "Normal forces of nature"
+        },
+        {
+          "type": "compact",
+          "text": "Ordinary accidents after injury"
+        },
+        {
+          "type": "subheading",
+          "text": "Superseding Cause"
+        },
+        {
+          "type": "paragraph",
+          "text": "An unforeseeable intervening cause that cuts off liability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples:"
+        },
+        {
+          "type": "compact",
+          "text": "Extraordinary act of nature"
+        },
+        {
+          "type": "compact",
+          "text": "Criminal act"
+        },
+        {
+          "type": "compact",
+          "text": "Intentional tort by third party"
+        },
+        {
+          "type": "subheading",
+          "text": "Exception"
+        },
+        {
+          "type": "paragraph",
+          "text": "If defendant’s duty was to protect against that kind of criminal act, the criminal act does not cut off liability."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Foreseeable intervening = still liable. Unforeseeable superseding = cuts off."
+        }
+      ]
+    },
+    {
+      "id": "31-eggshell-plaintiff-rule",
+      "title": "31. Eggshell Plaintiff Rule",
+      "body": [
+        "Rule",
+        "Defendant takes plaintiff as they find them.",
+        "The type of harm must be foreseeable.",
+        "The extent of harm does not need to be foreseeable.",
+        "Example",
+        "Maya lightly bumps Leo.",
+        "Leo has a rare bone condition and suffers a severe injury.",
+        "Maya is liable for the full injury.",
+        "Memory Line",
+        "You break it, you bought all the damage."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Defendant takes plaintiff as they find them."
+        },
+        {
+          "type": "paragraph",
+          "text": "The type of harm must be foreseeable."
+        },
+        {
+          "type": "paragraph",
+          "text": "The extent of harm does not need to be foreseeable."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya lightly bumps Leo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo has a rare bone condition and suffers a severe injury."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya is liable for the full injury."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "You break it, you bought all the damage."
+        }
+      ]
+    },
+    {
+      "id": "32-damages-in-negligence",
+      "title": "32. Damages in Negligence",
+      "body": [
+        "Rule",
+        "Negligence requires actual harm.",
+        "No nominal damages.",
+        "Recoverable Damages",
+        "Medical expenses",
+        "Rehabilitation expenses",
+        "Pain and suffering",
+        "Lost income",
+        "Reduced future earning capacity",
+        "Property damage",
+        "Pure Economic Loss",
+        "Usually not recoverable in ordinary negligence without physical injury or property damage.",
+        "Memory Line",
+        "Negligence needs real harm."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Negligence requires actual harm."
+        },
+        {
+          "type": "paragraph",
+          "text": "No nominal damages."
+        },
+        {
+          "type": "subheading",
+          "text": "Recoverable Damages"
+        },
+        {
+          "type": "compact",
+          "text": "Medical expenses"
+        },
+        {
+          "type": "compact",
+          "text": "Rehabilitation expenses"
+        },
+        {
+          "type": "compact",
+          "text": "Pain and suffering"
+        },
+        {
+          "type": "compact",
+          "text": "Lost income"
+        },
+        {
+          "type": "compact",
+          "text": "Reduced future earning capacity"
+        },
+        {
+          "type": "compact",
+          "text": "Property damage"
+        },
+        {
+          "type": "subheading",
+          "text": "Pure Economic Loss"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually not recoverable in ordinary negligence without physical injury or property damage."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Negligence needs real harm."
+        }
+      ]
+    },
+    {
+      "id": "33-negligent-infliction-of-emotional-distress",
+      "title": "33. Negligent Infliction of Emotional Distress",
+      "body": [
+        "Three Main Paths",
+        "Zone of danger",
+        "Bystander recovery",
+        "Special relationship",
+        "Zone of Danger",
+        "Plaintiff was almost physically harmed.",
+        "Example",
+        "A sign falls and narrowly misses Leo.",
+        "Leo suffers severe emotional distress.",
+        "Bystander Recovery",
+        "Plaintiff sees a close family member injured.",
+        "Requirements",
+        "Close relationship",
+        "Present at scene",
+        "Personally observed injury",
+        "Special Relationship",
+        "Some relationships allow recovery without physical danger.",
+        "Example",
+        "A funeral home loses a family member’s ashes.",
+        "Memory Line",
+        "NIED = danger zone, close-family bystander, or special relationship."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Three Main Paths"
+        },
+        {
+          "type": "compact",
+          "text": "Zone of danger"
+        },
+        {
+          "type": "compact",
+          "text": "Bystander recovery"
+        },
+        {
+          "type": "compact",
+          "text": "Special relationship"
+        },
+        {
+          "type": "subheading",
+          "text": "Zone of Danger"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff was almost physically harmed."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A sign falls and narrowly misses Leo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo suffers severe emotional distress."
+        },
+        {
+          "type": "subheading",
+          "text": "Bystander Recovery"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff sees a close family member injured."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Requirements"
+        },
+        {
+          "type": "compact",
+          "text": "Close relationship"
+        },
+        {
+          "type": "compact",
+          "text": "Present at scene"
+        },
+        {
+          "type": "compact",
+          "text": "Personally observed injury"
+        },
+        {
+          "type": "subheading",
+          "text": "Special Relationship"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some relationships allow recovery without physical danger."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A funeral home loses a family member’s ashes."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "NIED = danger zone, close-family bystander, or special relationship."
+        }
+      ]
+    },
+    {
+      "id": "34-vicarious-liability",
+      "title": "34. Vicarious Liability",
+      "body": [
+        "Rule",
+        "Vicarious liability means one person is liable for another person’s tort because of their relationship.",
+        "Employer-Employee Rule",
+        "Employer is liable for employee’s torts within scope of employment.",
+        "Example",
+        "A bakery delivery employee negligently injures a pedestrian while delivering pastries.",
+        "The bakery may be liable.",
+        "Detour vs. Frolic",
+        "Detour",
+        "Small work-related side trip.",
+        "Employer may still be liable.",
+        "Frolic",
+        "Major personal trip.",
+        "Employer usually not liable.",
+        "Memory Line",
+        "Employee on the job = employer may pay."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vicarious liability means one person is liable for another person’s tort because of their relationship."
+        },
+        {
+          "type": "subheading",
+          "text": "Employer-Employee Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employer is liable for employee’s torts within scope of employment."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A bakery delivery employee negligently injures a pedestrian while delivering pastries."
+        },
+        {
+          "type": "paragraph",
+          "text": "The bakery may be liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Detour vs. Frolic"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Detour"
+        },
+        {
+          "type": "paragraph",
+          "text": "Small work-related side trip."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employer may still be liable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Frolic"
+        },
+        {
+          "type": "paragraph",
+          "text": "Major personal trip."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employer usually not liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Employee on the job = employer may pay."
+        }
+      ]
+    },
+    {
+      "id": "35-independent-contractors",
+      "title": "35. Independent Contractors",
+      "body": [
+        "General Rule",
+        "A person who hires an independent contractor is usually not vicariously liable.",
+        "Exceptions",
+        "Retained control",
+        "Nondelegable duty",
+        "Apparent agency",
+        "Negligent hiring or supervision",
+        "Abnormally dangerous activity",
+        "Example",
+        "A grocery store hires a contractor to polish floors.",
+        "Contractor leaves the entrance dangerously slick.",
+        "Customer falls.",
+        "Store may still be liable because keeping premises safe for customers is nondelegable.",
+        "Memory Line",
+        "You can delegate work, but not certain duties."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "General Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person who hires an independent contractor is usually not vicariously liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "compact",
+          "text": "Retained control"
+        },
+        {
+          "type": "compact",
+          "text": "Nondelegable duty"
+        },
+        {
+          "type": "compact",
+          "text": "Apparent agency"
+        },
+        {
+          "type": "compact",
+          "text": "Negligent hiring or supervision"
+        },
+        {
+          "type": "compact",
+          "text": "Abnormally dangerous activity"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A grocery store hires a contractor to polish floors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Contractor leaves the entrance dangerously slick."
+        },
+        {
+          "type": "paragraph",
+          "text": "Customer falls."
+        },
+        {
+          "type": "paragraph",
+          "text": "Store may still be liable because keeping premises safe for customers is nondelegable."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "You can delegate work, but not certain duties."
+        }
+      ]
+    },
+    {
+      "id": "36-parents-and-children",
+      "title": "36. Parents and Children",
+      "body": [
+        "General Rule",
+        "Parents are not automatically liable for their child’s torts.",
+        "Parent’s Own Negligence",
+        "Parents can be liable if they fail to reasonably control a child when they know control is needed.",
+        "Example",
+        "Parent knows child keeps throwing bricks from a balcony and does nothing.",
+        "Parent may be liable.",
+        "Memory Line",
+        "Parent not automatically liable, but liable for bad supervision."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "General Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Parents are not automatically liable for their child’s torts."
+        },
+        {
+          "type": "subheading",
+          "text": "Parent’s Own Negligence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Parents can be liable if they fail to reasonably control a child when they know control is needed."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Parent knows child keeps throwing bricks from a balcony and does nothing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parent may be liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Parent not automatically liable, but liable for bad supervision."
+        }
+      ]
+    },
+    {
+      "id": "37-joint-and-several-liability",
+      "title": "37. Joint and Several Liability",
+      "body": [
+        "Rule",
+        "If multiple defendants cause one indivisible injury, plaintiff may collect the whole judgment from one defendant.",
+        "Example",
+        "Two careless contractors cause one ceiling collapse.",
+        "Plaintiff may collect all damages from either defendant unless jurisdiction limits joint and several liability.",
+        "Memory Line",
+        "Joint and several = plaintiff can collect all from one."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "If multiple defendants cause one indivisible injury, plaintiff may collect the whole judgment from one defendant."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Two careless contractors cause one ceiling collapse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff may collect all damages from either defendant unless jurisdiction limits joint and several liability."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Joint and several = plaintiff can collect all from one."
+        }
+      ]
+    },
+    {
+      "id": "38-contribution-and-indemnity",
+      "title": "38. Contribution and Indemnity",
+      "body": [
+        "Contribution",
+        "One defendant pays more than their fair share and seeks partial reimbursement.",
+        "Indemnity",
+        "One defendant shifts the entire loss to another.",
+        "Example",
+        "Employer pays for employee’s negligence.",
+        "Employer may seek indemnity from employee.",
+        "Memory Line",
+        "Contribution = split the bill. Indemnity = shift the whole bill."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Contribution"
+        },
+        {
+          "type": "paragraph",
+          "text": "One defendant pays more than their fair share and seeks partial reimbursement."
+        },
+        {
+          "type": "subheading",
+          "text": "Indemnity"
+        },
+        {
+          "type": "paragraph",
+          "text": "One defendant shifts the entire loss to another."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employer pays for employee’s negligence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employer may seek indemnity from employee."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Contribution = split the bill. Indemnity = shift the whole bill."
+        }
+      ]
+    },
+    {
+      "id": "39-comparative-and-contributory-negligence",
+      "title": "39. Comparative and Contributory Negligence",
+      "body": [
+        "Contributory Negligence",
+        "Plaintiff is even slightly at fault.",
+        "Plaintiff recovers nothing.",
+        "Pure Comparative Negligence",
+        "Plaintiff always recovers defendant’s percentage of fault.",
+        "Example",
+        "Plaintiff damages = $100,000.",
+        "Plaintiff is 80% at fault.",
+        "Defendant is 20% at fault.",
+        "Plaintiff recovers $20,000.",
+        "Modified Comparative Negligence",
+        "Plaintiff recovers only if not too at fault.",
+        "Memory Line",
+        "Contributory = one mistake can bar. Pure comparative = always reduced. Modified = reduced unless plaintiff too responsible."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Contributory Negligence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff is even slightly at fault."
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff recovers nothing."
+        },
+        {
+          "type": "subheading",
+          "text": "Pure Comparative Negligence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff always recovers defendant’s percentage of fault."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff damages = $100,000."
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff is 80% at fault."
+        },
+        {
+          "type": "paragraph",
+          "text": "Defendant is 20% at fault."
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff recovers $20,000."
+        },
+        {
+          "type": "subheading",
+          "text": "Modified Comparative Negligence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff recovers only if not too at fault."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Contributory = one mistake can bar. Pure comparative = always reduced. Modified = reduced unless plaintiff too responsible."
+        }
+      ]
+    },
+    {
+      "id": "40-assumption-of-risk",
+      "title": "40. Assumption of Risk",
+      "body": [
+        "Rule",
+        "Plaintiff knowingly and voluntarily accepts a specific risk.",
+        "Express Assumption",
+        "Usually a written waiver.",
+        "Implied Assumption",
+        "Plaintiff knowingly proceeds despite a specific risk.",
+        "Example",
+        "Leo sees a gym machine is broken and still uses it for fun.",
+        "His recovery may be barred or reduced.",
+        "Memory Line",
+        "Known risk + voluntary choice = assumption of risk."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff knowingly and voluntarily accepts a specific risk."
+        },
+        {
+          "type": "subheading",
+          "text": "Express Assumption"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually a written waiver."
+        },
+        {
+          "type": "subheading",
+          "text": "Implied Assumption"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff knowingly proceeds despite a specific risk."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo sees a gym machine is broken and still uses it for fun."
+        },
+        {
+          "type": "paragraph",
+          "text": "His recovery may be barred or reduced."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Known risk + voluntary choice = assumption of risk."
+        }
+      ]
+    },
+    {
+      "id": "41-strict-liability",
+      "title": "41. Strict Liability",
+      "body": [
+        "Rule",
+        "Strict liability means defendant can be liable even if careful.",
+        "Main Categories",
+        "Use the mnemonic:",
+        "DAD",
+        "Dangerous activities",
+        "Animals",
+        "Defective products",
+        "Memory Line",
+        "Strict liability = DAD."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Strict liability means defendant can be liable even if careful."
+        },
+        {
+          "type": "subheading",
+          "text": "Main Categories"
+        },
+        {
+          "type": "paragraph",
+          "text": "Use the mnemonic:"
+        },
+        {
+          "type": "quote",
+          "text": "DAD"
+        },
+        {
+          "type": "compact",
+          "text": "Dangerous activities"
+        },
+        {
+          "type": "compact",
+          "text": "Animals"
+        },
+        {
+          "type": "compact",
+          "text": "Defective products"
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Strict liability = DAD."
+        }
+      ]
+    },
+    {
+      "id": "42-abnormally-dangerous-activities",
+      "title": "42. Abnormally Dangerous Activities",
+      "body": [
+        "Rule",
+        "Strict liability applies when an activity:",
+        "Creates a highly significant risk even with reasonable care",
+        "Is not commonly engaged in",
+        "Examples",
+        "Explosives",
+        "Toxic chemicals",
+        "Hazardous waste",
+        "Fumigation",
+        "Large storage of dangerous substances",
+        "Scope of Risk",
+        "Strict liability applies only if the harm comes from the danger that makes the activity dangerous.",
+        "Example",
+        "A company stores toxic gas and gas escapes.",
+        "Strict liability possible.",
+        "But if an employee carrying a gas container drops a clipboard on someone’s foot, that is not the special toxic-gas risk.",
+        "Memory Line",
+        "Dangerous even when careful = strict liability."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Strict liability applies when an activity:"
+        },
+        {
+          "type": "compact",
+          "text": "Creates a highly significant risk even with reasonable care"
+        },
+        {
+          "type": "compact",
+          "text": "Is not commonly engaged in"
+        },
+        {
+          "type": "subheading",
+          "text": "Examples"
+        },
+        {
+          "type": "compact",
+          "text": "Explosives"
+        },
+        {
+          "type": "compact",
+          "text": "Toxic chemicals"
+        },
+        {
+          "type": "compact",
+          "text": "Hazardous waste"
+        },
+        {
+          "type": "compact",
+          "text": "Fumigation"
+        },
+        {
+          "type": "compact",
+          "text": "Large storage of dangerous substances"
+        },
+        {
+          "type": "subheading",
+          "text": "Scope of Risk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Strict liability applies only if the harm comes from the danger that makes the activity dangerous."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A company stores toxic gas and gas escapes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strict liability possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "But if an employee carrying a gas container drops a clipboard on someone’s foot, that is not the special toxic-gas risk."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Dangerous even when careful = strict liability."
+        }
+      ]
+    },
+    {
+      "id": "43-animals",
+      "title": "43. Animals",
+      "body": [
+        "Wild Animals",
+        "Owner is strictly liable for harm from characteristic dangerous behavior.",
+        "Example",
+        "Maya keeps a pet wolf.",
+        "The wolf bites a visitor.",
+        "Strict liability.",
+        "Memory Line",
+        "Wild stays wild, even if trained.",
+        "Domestic Animals",
+        "Usually negligence unless owner knows the animal has abnormal dangerous tendencies.",
+        "Example",
+        "Maya’s dog has repeatedly attacked visitors.",
+        "Maya knows this.",
+        "If the dog bites someone, strict liability may apply.",
+        "Trespassing Animals",
+        "Owner or possessor of livestock-like animals is strictly liable for foreseeable property damage caused while trespassing.",
+        "Memory Line",
+        "Animal liability follows the animal owner or possessor."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Wild Animals"
+        },
+        {
+          "type": "paragraph",
+          "text": "Owner is strictly liable for harm from characteristic dangerous behavior."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya keeps a pet wolf."
+        },
+        {
+          "type": "paragraph",
+          "text": "The wolf bites a visitor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strict liability."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Wild stays wild, even if trained."
+        },
+        {
+          "type": "subheading",
+          "text": "Domestic Animals"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually negligence unless owner knows the animal has abnormal dangerous tendencies."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya’s dog has repeatedly attacked visitors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya knows this."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the dog bites someone, strict liability may apply."
+        },
+        {
+          "type": "subheading",
+          "text": "Trespassing Animals"
+        },
+        {
+          "type": "paragraph",
+          "text": "Owner or possessor of livestock-like animals is strictly liable for foreseeable property damage caused while trespassing."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Animal liability follows the animal owner or possessor."
+        }
+      ]
+    },
+    {
+      "id": "44-products-liability",
+      "title": "44. Products Liability",
+      "body": [
+        "Main Theories",
+        "Negligence",
+        "Strict products liability",
+        "Warranty",
+        "Types of Product Defects",
+        "Manufacturing defect",
+        "Design defect",
+        "Failure to warn",
+        "Memory Line",
+        "Manufacturing = bad one. Design = bad plan. Warning = bad instructions."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Main Theories"
+        },
+        {
+          "type": "compact",
+          "text": "Negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Strict products liability"
+        },
+        {
+          "type": "compact",
+          "text": "Warranty"
+        },
+        {
+          "type": "subheading",
+          "text": "Types of Product Defects"
+        },
+        {
+          "type": "compact",
+          "text": "Manufacturing defect"
+        },
+        {
+          "type": "compact",
+          "text": "Design defect"
+        },
+        {
+          "type": "compact",
+          "text": "Failure to warn"
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Manufacturing = bad one. Design = bad plan. Warning = bad instructions."
+        }
+      ]
+    },
+    {
+      "id": "45-manufacturing-defect",
+      "title": "45. Manufacturing Defect",
+      "body": [
+        "Rule",
+        "A manufacturing defect means this one product came out differently from intended.",
+        "Example",
+        "A factory makes 10,000 heaters.",
+        "One heater has a loose internal wire because of an assembly mistake.",
+        "That is a manufacturing defect.",
+        "Memory Line",
+        "Manufacturing defect = this one is different from the rest."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A manufacturing defect means this one product came out differently from intended."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A factory makes 10,000 heaters."
+        },
+        {
+          "type": "paragraph",
+          "text": "One heater has a loose internal wire because of an assembly mistake."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is a manufacturing defect."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Manufacturing defect = this one is different from the rest."
+        }
+      ]
+    },
+    {
+      "id": "46-design-defect",
+      "title": "46. Design Defect",
+      "body": [
+        "Rule",
+        "A design defect means the whole product line was designed dangerously.",
+        "Tests",
+        "Consumer-Expectation Test",
+        "Is the product more dangerous than ordinary consumers would expect?",
+        "Risk-Utility Test",
+        "Do the risks outweigh the benefits?",
+        "Often requires a reasonable alternative design.",
+        "Example",
+        "A foldable ladder is designed without locking hinges.",
+        "Every ladder of that model can collapse.",
+        "Design defect.",
+        "Memory Line",
+        "Design defect = bad blueprint."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A design defect means the whole product line was designed dangerously."
+        },
+        {
+          "type": "subheading",
+          "text": "Tests"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Consumer-Expectation Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is the product more dangerous than ordinary consumers would expect?"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Risk-Utility Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "Do the risks outweigh the benefits?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Often requires a reasonable alternative design."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A foldable ladder is designed without locking hinges."
+        },
+        {
+          "type": "paragraph",
+          "text": "Every ladder of that model can collapse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Design defect."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Design defect = bad blueprint."
+        }
+      ]
+    },
+    {
+      "id": "47-failure-to-warn",
+      "title": "47. Failure to Warn",
+      "body": [
+        "Rule",
+        "A product has a warning defect if:",
+        "There is a foreseeable risk",
+        "The risk is not obvious",
+        "A reasonable warning could reduce the risk",
+        "No adequate warning was given",
+        "Example",
+        "A cleaning spray creates dangerous fumes near heat, but the label says nothing.",
+        "Failure to warn.",
+        "Memory Line",
+        "Hidden danger needs warning."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A product has a warning defect if:"
+        },
+        {
+          "type": "compact",
+          "text": "There is a foreseeable risk"
+        },
+        {
+          "type": "compact",
+          "text": "The risk is not obvious"
+        },
+        {
+          "type": "compact",
+          "text": "A reasonable warning could reduce the risk"
+        },
+        {
+          "type": "compact",
+          "text": "No adequate warning was given"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A cleaning spray creates dangerous fumes near heat, but the label says nothing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Failure to warn."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Hidden danger needs warning."
+        }
+      ]
+    },
+    {
+      "id": "48-products-liability-defendants",
+      "title": "48. Products Liability Defendants",
+      "body": [
+        "Strict Products Liability Applies To",
+        "Commercial sellers and distributors.",
+        "Examples:",
+        "Manufacturer",
+        "Distributor",
+        "Retailer",
+        "Commercial lessor",
+        "Not Usually Liable",
+        "Casual sellers.",
+        "Example",
+        "Maya sells her old blender at a garage sale.",
+        "She is not a strict products liability defendant.",
+        "Memory Line",
+        "Business seller yes. Casual seller no."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Strict Products Liability Applies To"
+        },
+        {
+          "type": "paragraph",
+          "text": "Commercial sellers and distributors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples:"
+        },
+        {
+          "type": "compact",
+          "text": "Manufacturer"
+        },
+        {
+          "type": "compact",
+          "text": "Distributor"
+        },
+        {
+          "type": "compact",
+          "text": "Retailer"
+        },
+        {
+          "type": "compact",
+          "text": "Commercial lessor"
+        },
+        {
+          "type": "subheading",
+          "text": "Not Usually Liable"
+        },
+        {
+          "type": "paragraph",
+          "text": "Casual sellers."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya sells her old blender at a garage sale."
+        },
+        {
+          "type": "paragraph",
+          "text": "She is not a strict products liability defendant."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Business seller yes. Casual seller no."
+        }
+      ]
+    },
+    {
+      "id": "49-products-damages",
+      "title": "49. Products Damages",
+      "body": [
+        "Tort Recovery Usually Covers",
+        "Personal injury",
+        "Damage to other property",
+        "Usually Not Covered",
+        "Pure economic loss",
+        "Damage only to the product itself",
+        "Example",
+        "A defective toaster burns Leo’s kitchen wall.",
+        "Tort recovery possible.",
+        "If the toaster simply stops working, that is warranty or contract.",
+        "Memory Line",
+        "People/property damage = tort. Product disappointment = warranty."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Tort Recovery Usually Covers"
+        },
+        {
+          "type": "compact",
+          "text": "Personal injury"
+        },
+        {
+          "type": "compact",
+          "text": "Damage to other property"
+        },
+        {
+          "type": "subheading",
+          "text": "Usually Not Covered"
+        },
+        {
+          "type": "compact",
+          "text": "Pure economic loss"
+        },
+        {
+          "type": "compact",
+          "text": "Damage only to the product itself"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A defective toaster burns Leo’s kitchen wall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tort recovery possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the toaster simply stops working, that is warranty or contract."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "People/property damage = tort. Product disappointment = warranty."
+        }
+      ]
+    },
+    {
+      "id": "50-warranties",
+      "title": "50. Warranties",
+      "body": [
+        "Merchantability",
+        "Product is fit for ordinary use.",
+        "Example",
+        "A chair sold by a furniture store should support normal sitting.",
+        "Fitness for Particular Purpose",
+        "Seller knows buyer’s special purpose and buyer relies on seller.",
+        "Example",
+        "Leo tells the store clerk:",
+        "I need gloves safe for handling very cold materials.",
+        "The clerk recommends gloves that fail.",
+        "Fitness issue.",
+        "Express Warranty",
+        "Seller makes a factual promise.",
+        "Example",
+        "Seller says:",
+        "This refrigerator keeps food cold for 24 hours during a power outage.",
+        "Express warranty.",
+        "Memory Line",
+        "Merchantability = normal use. Fitness = special use. Express = factual promise."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Merchantability"
+        },
+        {
+          "type": "paragraph",
+          "text": "Product is fit for ordinary use."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A chair sold by a furniture store should support normal sitting."
+        },
+        {
+          "type": "subheading",
+          "text": "Fitness for Particular Purpose"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seller knows buyer’s special purpose and buyer relies on seller."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo tells the store clerk:"
+        },
+        {
+          "type": "quote",
+          "text": "I need gloves safe for handling very cold materials."
+        },
+        {
+          "type": "paragraph",
+          "text": "The clerk recommends gloves that fail."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fitness issue."
+        },
+        {
+          "type": "subheading",
+          "text": "Express Warranty"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seller makes a factual promise."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seller says:"
+        },
+        {
+          "type": "quote",
+          "text": "This refrigerator keeps food cold for 24 hours during a power outage."
+        },
+        {
+          "type": "paragraph",
+          "text": "Express warranty."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Merchantability = normal use. Fitness = special use. Express = factual promise."
+        }
+      ]
+    },
+    {
+      "id": "51-defamation",
+      "title": "51. Defamation",
+      "body": [
+        "Rule",
+        "Defamation protects reputation.",
+        "Elements",
+        "Defamatory statement",
+        "Of or concerning plaintiff",
+        "Publication to a third party",
+        "Damages",
+        "Fault/falsity if required",
+        "Example",
+        "Maya falsely tells Leo’s coworkers:",
+        "Leo stole client money.",
+        "Defamation.",
+        "Memory Line",
+        "Defamation = false reputation harm told to someone else."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Defamation protects reputation."
+        },
+        {
+          "type": "subheading",
+          "text": "Elements"
+        },
+        {
+          "type": "compact",
+          "text": "Defamatory statement"
+        },
+        {
+          "type": "compact",
+          "text": "Of or concerning plaintiff"
+        },
+        {
+          "type": "compact",
+          "text": "Publication to a third party"
+        },
+        {
+          "type": "compact",
+          "text": "Damages"
+        },
+        {
+          "type": "compact",
+          "text": "Fault/falsity if required"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya falsely tells Leo’s coworkers:"
+        },
+        {
+          "type": "quote",
+          "text": "Leo stole client money."
+        },
+        {
+          "type": "paragraph",
+          "text": "Defamation."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Defamation = false reputation harm told to someone else."
+        }
+      ]
+    },
+    {
+      "id": "52-publication",
+      "title": "52. Publication",
+      "body": [
+        "Rule",
+        "Publication means communication to a third person who understands it.",
+        "It does not require a newspaper or website.",
+        "Example",
+        "Maya whispers a false statement about Leo to Noah.",
+        "Publication.",
+        "Memory Line",
+        "Publication = told to someone besides plaintiff."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Publication means communication to a third person who understands it."
+        },
+        {
+          "type": "paragraph",
+          "text": "It does not require a newspaper or website."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya whispers a false statement about Leo to Noah."
+        },
+        {
+          "type": "paragraph",
+          "text": "Publication."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Publication = told to someone besides plaintiff."
+        }
+      ]
+    },
+    {
+      "id": "53-public-figures-and-actual-malice",
+      "title": "53. Public Figures and Actual Malice",
+      "body": [
+        "Rule",
+        "Public officials and public figures must prove actual malice.",
+        "Actual Malice Means",
+        "Defendant knew the statement was false, or",
+        "Defendant acted with reckless disregard for truth",
+        "Not Actual Malice",
+        "Hatred or spite alone.",
+        "Memory Line",
+        "Actual malice = knew false or seriously doubted truth."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Public officials and public figures must prove actual malice."
+        },
+        {
+          "type": "subheading",
+          "text": "Actual Malice Means"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant knew the statement was false, or"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant acted with reckless disregard for truth"
+        },
+        {
+          "type": "subheading",
+          "text": "Not Actual Malice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hatred or spite alone."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Actual malice = knew false or seriously doubted truth."
+        }
+      ]
+    },
+    {
+      "id": "54-libel-and-slander",
+      "title": "54. Libel and Slander",
+      "body": [
+        "Libel",
+        "Written, printed, recorded, or permanent defamation.",
+        "Slander",
+        "Spoken or temporary defamation.",
+        "Slander Per Se Categories",
+        "Crime",
+        "Business/profession",
+        "Loathsome disease",
+        "Sexual misconduct",
+        "Memory Line",
+        "Crime, career, disease, sex."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Libel"
+        },
+        {
+          "type": "paragraph",
+          "text": "Written, printed, recorded, or permanent defamation."
+        },
+        {
+          "type": "subheading",
+          "text": "Slander"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spoken or temporary defamation."
+        },
+        {
+          "type": "subheading",
+          "text": "Slander Per Se Categories"
+        },
+        {
+          "type": "compact",
+          "text": "Crime"
+        },
+        {
+          "type": "compact",
+          "text": "Business/profession"
+        },
+        {
+          "type": "compact",
+          "text": "Loathsome disease"
+        },
+        {
+          "type": "compact",
+          "text": "Sexual misconduct"
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Crime, career, disease, sex."
+        }
+      ]
+    },
+    {
+      "id": "55-defamation-defenses",
+      "title": "55. Defamation Defenses",
+      "body": [
+        "Truth",
+        "Truth is a complete defense.",
+        "Absolute Privilege",
+        "Applies in situations like:",
+        "Judicial proceedings",
+        "Legislative proceedings",
+        "Certain government functions",
+        "Spousal communications",
+        "Qualified Privilege",
+        "Applies when statement is made in good faith for a proper purpose.",
+        "Can be lost if abused.",
+        "Memory Line",
+        "Absolute privilege is bulletproof. Qualified privilege can be lost."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Truth"
+        },
+        {
+          "type": "paragraph",
+          "text": "Truth is a complete defense."
+        },
+        {
+          "type": "subheading",
+          "text": "Absolute Privilege"
+        },
+        {
+          "type": "paragraph",
+          "text": "Applies in situations like:"
+        },
+        {
+          "type": "compact",
+          "text": "Judicial proceedings"
+        },
+        {
+          "type": "compact",
+          "text": "Legislative proceedings"
+        },
+        {
+          "type": "compact",
+          "text": "Certain government functions"
+        },
+        {
+          "type": "compact",
+          "text": "Spousal communications"
+        },
+        {
+          "type": "subheading",
+          "text": "Qualified Privilege"
+        },
+        {
+          "type": "paragraph",
+          "text": "Applies when statement is made in good faith for a proper purpose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Can be lost if abused."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Absolute privilege is bulletproof. Qualified privilege can be lost."
+        }
+      ]
+    },
+    {
+      "id": "56-invasion-of-privacy",
+      "title": "56. Invasion of Privacy",
+      "body": [
+        "Mnemonic",
+        "I FLAP",
+        "Intrusion",
+        "False light",
+        "Appropriation",
+        "Public disclosure of private facts"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Mnemonic"
+        },
+        {
+          "type": "quote",
+          "text": "I FLAP"
+        },
+        {
+          "type": "compact",
+          "text": "Intrusion"
+        },
+        {
+          "type": "compact",
+          "text": "False light"
+        },
+        {
+          "type": "compact",
+          "text": "Appropriation"
+        },
+        {
+          "type": "compact",
+          "text": "Public disclosure of private facts"
+        }
+      ]
+    },
+    {
+      "id": "57-intrusion",
+      "title": "57. Intrusion",
+      "body": [
+        "Rule",
+        "Intentional invasion into private affairs that would be highly offensive.",
+        "No Publication Required",
+        "Example",
+        "Maya secretly installs a microphone in Leo’s bedroom.",
+        "Intrusion.",
+        "Memory Line",
+        "Intrusion = offensive snooping."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Intentional invasion into private affairs that would be highly offensive."
+        },
+        {
+          "type": "subheading",
+          "text": "No Publication Required"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya secretly installs a microphone in Leo’s bedroom."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intrusion."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Intrusion = offensive snooping."
+        }
+      ]
+    },
+    {
+      "id": "58-false-light",
+      "title": "58. False Light",
+      "body": [
+        "Rule",
+        "Publicly portraying someone in a misleading false way that would be highly offensive.",
+        "Example",
+        "A website uses Leo’s photo next to an article implying he supports a group he does not support.",
+        "False light.",
+        "Memory Line",
+        "False light = misleading public impression."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicly portraying someone in a misleading false way that would be highly offensive."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A website uses Leo’s photo next to an article implying he supports a group he does not support."
+        },
+        {
+          "type": "paragraph",
+          "text": "False light."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "False light = misleading public impression."
+        }
+      ]
+    },
+    {
+      "id": "59-appropriation",
+      "title": "59. Appropriation",
+      "body": [
+        "Rule",
+        "Unauthorized use of plaintiff’s name, likeness, or identity for defendant’s advantage.",
+        "Example",
+        "A cereal company uses Maya’s face on its box without permission.",
+        "Appropriation.",
+        "Memory Line",
+        "Appropriation = stealing identity value."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unauthorized use of plaintiff’s name, likeness, or identity for defendant’s advantage."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A cereal company uses Maya’s face on its box without permission."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appropriation."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Appropriation = stealing identity value."
+        }
+      ]
+    },
+    {
+      "id": "60-public-disclosure-of-private-facts",
+      "title": "60. Public Disclosure of Private Facts",
+      "body": [
+        "Rule",
+        "Publicizing true private facts that are highly offensive and not newsworthy.",
+        "Example",
+        "Maya posts Leo’s private medical records online.",
+        "Public disclosure.",
+        "Memory Line",
+        "Defamation hates falsehood. Public disclosure hates private truth."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Publicizing true private facts that are highly offensive and not newsworthy."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya posts Leo’s private medical records online."
+        },
+        {
+          "type": "paragraph",
+          "text": "Public disclosure."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Defamation hates falsehood. Public disclosure hates private truth."
+        }
+      ]
+    },
+    {
+      "id": "61-intentional-misrepresentation",
+      "title": "61. Intentional Misrepresentation",
+      "body": [
+        "Rule",
+        "Also called fraud.",
+        "Elements",
+        "False material representation",
+        "Knowledge or reckless disregard of falsity",
+        "Intent to induce reliance",
+        "Actual reliance",
+        "Justifiable reliance",
+        "Damages",
+        "Example",
+        "Maya sells Leo a building and says:",
+        "The roof is brand new.",
+        "She knows the roof is damaged.",
+        "Fraud.",
+        "Memory Line",
+        "Fraud = knowing lie + reliance + loss."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Also called fraud."
+        },
+        {
+          "type": "subheading",
+          "text": "Elements"
+        },
+        {
+          "type": "compact",
+          "text": "False material representation"
+        },
+        {
+          "type": "compact",
+          "text": "Knowledge or reckless disregard of falsity"
+        },
+        {
+          "type": "compact",
+          "text": "Intent to induce reliance"
+        },
+        {
+          "type": "compact",
+          "text": "Actual reliance"
+        },
+        {
+          "type": "compact",
+          "text": "Justifiable reliance"
+        },
+        {
+          "type": "compact",
+          "text": "Damages"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya sells Leo a building and says:"
+        },
+        {
+          "type": "quote",
+          "text": "The roof is brand new."
+        },
+        {
+          "type": "paragraph",
+          "text": "She knows the roof is damaged."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fraud."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Fraud = knowing lie + reliance + loss."
+        }
+      ]
+    },
+    {
+      "id": "62-negligent-misrepresentation",
+      "title": "62. Negligent Misrepresentation",
+      "body": [
+        "Rule",
+        "Negligent misrepresentation is careless false business information.",
+        "Elements",
+        "Defendant gives false information in business/professional setting",
+        "Defendant fails to use reasonable care",
+        "Plaintiff reasonably relies",
+        "Plaintiff suffers economic loss",
+        "Plaintiff is within the intended group",
+        "Plaintiff relies for the intended transaction",
+        "Example",
+        "Maya prepares financial numbers for Leo knowing they will be used for a small supplier credit decision.",
+        "A bank later uses them for a huge acquisition.",
+        "Maya may not be liable for that different transaction.",
+        "Memory Line",
+        "Negligent misrep = right person, right purpose, right transaction."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Negligent misrepresentation is careless false business information."
+        },
+        {
+          "type": "subheading",
+          "text": "Elements"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant gives false information in business/professional setting"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant fails to use reasonable care"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff reasonably relies"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff suffers economic loss"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff is within the intended group"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff relies for the intended transaction"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya prepares financial numbers for Leo knowing they will be used for a small supplier credit decision."
+        },
+        {
+          "type": "paragraph",
+          "text": "A bank later uses them for a huge acquisition."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya may not be liable for that different transaction."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Negligent misrep = right person, right purpose, right transaction."
+        }
+      ]
+    },
+    {
+      "id": "63-intentional-interference-with-contract",
+      "title": "63. Intentional Interference With Contract",
+      "body": [
+        "Rule",
+        "A defendant is liable if they intentionally and improperly interfere with a valid contract.",
+        "Elements",
+        "Valid contract between plaintiff and third party",
+        "Defendant knows about the contract",
+        "Defendant intentionally interferes",
+        "Interference causes breach",
+        "Plaintiff suffers damages",
+        "Example",
+        "Maya knows Leo has a fixed contract with a venue.",
+        "Maya pays the venue to break Leo’s contract and book her instead.",
+        "Interference.",
+        "Memory Line",
+        "Known contract + intentional breach-causing = interference."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A defendant is liable if they intentionally and improperly interfere with a valid contract."
+        },
+        {
+          "type": "subheading",
+          "text": "Elements"
+        },
+        {
+          "type": "compact",
+          "text": "Valid contract between plaintiff and third party"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant knows about the contract"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant intentionally interferes"
+        },
+        {
+          "type": "compact",
+          "text": "Interference causes breach"
+        },
+        {
+          "type": "compact",
+          "text": "Plaintiff suffers damages"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya knows Leo has a fixed contract with a venue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya pays the venue to break Leo’s contract and book her instead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Interference."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Known contract + intentional breach-causing = interference."
+        }
+      ]
+    },
+    {
+      "id": "64-interference-with-prospective-economic-advantage",
+      "title": "64. Interference With Prospective Economic Advantage",
+      "body": [
+        "Rule",
+        "No existing contract is required.",
+        "Plaintiff must show defendant intentionally interfered with expected business.",
+        "Often requires wrongful conduct.",
+        "Example",
+        "Maya lies to a potential customer that Leo’s bakery failed a health inspection.",
+        "Customer cancels a planned order.",
+        "Possible interference.",
+        "Memory Line",
+        "No contract yet = prospective advantage, harder claim."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "No existing contract is required."
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff must show defendant intentionally interfered with expected business."
+        },
+        {
+          "type": "paragraph",
+          "text": "Often requires wrongful conduct."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya lies to a potential customer that Leo’s bakery failed a health inspection."
+        },
+        {
+          "type": "paragraph",
+          "text": "Customer cancels a planned order."
+        },
+        {
+          "type": "paragraph",
+          "text": "Possible interference."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "No contract yet = prospective advantage, harder claim."
+        }
+      ]
+    },
+    {
+      "id": "65-trade-secrets",
+      "title": "65. Trade Secrets",
+      "body": [
+        "Rule",
+        "Plaintiff must show:",
+        "Valid trade secret",
+        "Business advantage",
+        "Not generally known",
+        "Reasonable precautions to protect it",
+        "Defendant took it by improper means",
+        "Example",
+        "Leo keeps a secret recipe in a restricted digital file.",
+        "Maya hacks it.",
+        "Trade secret theft.",
+        "Memory Line",
+        "Secret + value + protection + improper taking."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plaintiff must show:"
+        },
+        {
+          "type": "compact",
+          "text": "Valid trade secret"
+        },
+        {
+          "type": "compact",
+          "text": "Business advantage"
+        },
+        {
+          "type": "compact",
+          "text": "Not generally known"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonable precautions to protect it"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant took it by improper means"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo keeps a secret recipe in a restricted digital file."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya hacks it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trade secret theft."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Secret + value + protection + improper taking."
+        }
+      ]
+    },
+    {
+      "id": "66-trade-libel",
+      "title": "66. Trade Libel",
+      "body": [
+        "Rule",
+        "Trade libel is a false statement about plaintiff’s product or business quality that causes special damages.",
+        "Example",
+        "Maya falsely posts:",
+        "Leo’s protein bars contain insects.",
+        "Leo loses store contracts.",
+        "Trade libel.",
+        "Memory Line",
+        "Trade libel = false attack on product or business."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trade libel is a false statement about plaintiff’s product or business quality that causes special damages."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya falsely posts:"
+        },
+        {
+          "type": "quote",
+          "text": "Leo’s protein bars contain insects."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo loses store contracts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trade libel."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Trade libel = false attack on product or business."
+        }
+      ]
+    },
+    {
+      "id": "67-slander-of-title",
+      "title": "67. Slander of Title",
+      "body": [
+        "Rule",
+        "Slander of title is a false statement attacking ownership or title to property.",
+        "Example",
+        "Maya falsely records a document saying she owns Leo’s warehouse.",
+        "A buyer backs out.",
+        "Slander of title.",
+        "Memory Line",
+        "Slander of title = false attack on ownership."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Slander of title is a false statement attacking ownership or title to property."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya falsely records a document saying she owns Leo’s warehouse."
+        },
+        {
+          "type": "paragraph",
+          "text": "A buyer backs out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Slander of title."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Slander of title = false attack on ownership."
+        }
+      ]
+    },
+    {
+      "id": "68-malicious-prosecution",
+      "title": "68. Malicious Prosecution",
+      "body": [
+        "Rule",
+        "Malicious prosecution is wrongfully starting a legal case without probable cause, for improper purpose, where the case ends in plaintiff’s favor.",
+        "Elements",
+        "Defendant started or continued legal action",
+        "Improper purpose",
+        "No probable cause",
+        "Case ended in plaintiff’s favor",
+        "Damages",
+        "Example",
+        "Maya files a baseless criminal complaint against Leo to punish him.",
+        "The case is dismissed.",
+        "Leo may sue.",
+        "Memory Line",
+        "Malicious prosecution = bad case, no probable cause, favorable ending."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Malicious prosecution is wrongfully starting a legal case without probable cause, for improper purpose, where the case ends in plaintiff’s favor."
+        },
+        {
+          "type": "subheading",
+          "text": "Elements"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant started or continued legal action"
+        },
+        {
+          "type": "compact",
+          "text": "Improper purpose"
+        },
+        {
+          "type": "compact",
+          "text": "No probable cause"
+        },
+        {
+          "type": "compact",
+          "text": "Case ended in plaintiff’s favor"
+        },
+        {
+          "type": "compact",
+          "text": "Damages"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya files a baseless criminal complaint against Leo to punish him."
+        },
+        {
+          "type": "paragraph",
+          "text": "The case is dismissed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leo may sue."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Malicious prosecution = bad case, no probable cause, favorable ending."
+        }
+      ]
+    },
+    {
+      "id": "69-abuse-of-process",
+      "title": "69. Abuse of Process",
+      "body": [
+        "Rule",
+        "Abuse of process is using legal process for an improper purpose after it has begun.",
+        "Example",
+        "Maya files a normal lawsuit but uses subpoenas only to pressure Leo into selling his business.",
+        "Abuse of process.",
+        "Memory Line",
+        "Malicious prosecution = wrongfully start case. Abuse of process = misuse legal tools."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Abuse of process is using legal process for an improper purpose after it has begun."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maya files a normal lawsuit but uses subpoenas only to pressure Leo into selling his business."
+        },
+        {
+          "type": "paragraph",
+          "text": "Abuse of process."
+        },
+        {
+          "type": "subheading",
+          "text": "Memory Line"
+        },
+        {
+          "type": "quote",
+          "text": "Malicious prosecution = wrongfully start case. Abuse of process = misuse legal tools."
+        }
+      ]
+    },
+    {
+      "id": "final-mbe-attack-plan",
+      "title": "Final MBE Attack Plan",
+      "body": [
+        "Step 1: Identify the Type of Harm",
+        "Contact or threat: battery or assault",
+        "Trapped: false imprisonment",
+        "Emotional harm: IIED or NIED",
+        "Land/property: trespass, nuisance, conversion",
+        "Carelessness: negligence",
+        "Dangerous activity, animal, product: strict liability",
+        "Reputation: defamation",
+        "Privacy: I FLAP",
+        "Business lie: misrepresentation",
+        "Contract or business relationship: interference tort",
+        "Bad lawsuit/legal pressure: malicious prosecution or abuse of process",
+        "Step 2: Identify the Mental State",
+        "Intentional act: intentional tort",
+        "Carelessness: negligence",
+        "No fault needed: strict liability",
+        "Step 3: Check Defenses",
+        "Possible defenses include:",
+        "Consent",
+        "Self-defense",
+        "Defense of others",
+        "Defense of property",
+        "Necessity",
+        "Comparative negligence",
+        "Contributory negligence",
+        "Assumption of risk",
+        "Truth",
+        "Privilege",
+        "Immunity",
+        "Step 4: Check Damages",
+        "Intentional torts may allow nominal damages.",
+        "Negligence requires actual harm.",
+        "Products tort usually requires personal injury or property damage.",
+        "Warranty can cover economic loss.",
+        "Defamation and privacy have special damage rules."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Step 1: Identify the Type of Harm"
+        },
+        {
+          "type": "compact",
+          "text": "Contact or threat: battery or assault"
+        },
+        {
+          "type": "compact",
+          "text": "Trapped: false imprisonment"
+        },
+        {
+          "type": "compact",
+          "text": "Emotional harm: IIED or NIED"
+        },
+        {
+          "type": "compact",
+          "text": "Land/property: trespass, nuisance, conversion"
+        },
+        {
+          "type": "compact",
+          "text": "Carelessness: negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Dangerous activity, animal, product: strict liability"
+        },
+        {
+          "type": "compact",
+          "text": "Reputation: defamation"
+        },
+        {
+          "type": "compact",
+          "text": "Privacy: I FLAP"
+        },
+        {
+          "type": "compact",
+          "text": "Business lie: misrepresentation"
+        },
+        {
+          "type": "compact",
+          "text": "Contract or business relationship: interference tort"
+        },
+        {
+          "type": "compact",
+          "text": "Bad lawsuit/legal pressure: malicious prosecution or abuse of process"
+        },
+        {
+          "type": "subheading",
+          "text": "Step 2: Identify the Mental State"
+        },
+        {
+          "type": "compact",
+          "text": "Intentional act: intentional tort"
+        },
+        {
+          "type": "compact",
+          "text": "Carelessness: negligence"
+        },
+        {
+          "type": "compact",
+          "text": "No fault needed: strict liability"
+        },
+        {
+          "type": "subheading",
+          "text": "Step 3: Check Defenses"
+        },
+        {
+          "type": "paragraph",
+          "text": "Possible defenses include:"
+        },
+        {
+          "type": "compact",
+          "text": "Consent"
+        },
+        {
+          "type": "compact",
+          "text": "Self-defense"
+        },
+        {
+          "type": "compact",
+          "text": "Defense of others"
+        },
+        {
+          "type": "compact",
+          "text": "Defense of property"
+        },
+        {
+          "type": "compact",
+          "text": "Necessity"
+        },
+        {
+          "type": "compact",
+          "text": "Comparative negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Contributory negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Assumption of risk"
+        },
+        {
+          "type": "compact",
+          "text": "Truth"
+        },
+        {
+          "type": "compact",
+          "text": "Privilege"
+        },
+        {
+          "type": "compact",
+          "text": "Immunity"
+        },
+        {
+          "type": "subheading",
+          "text": "Step 4: Check Damages"
+        },
+        {
+          "type": "compact",
+          "text": "Intentional torts may allow nominal damages."
+        },
+        {
+          "type": "compact",
+          "text": "Negligence requires actual harm."
+        },
+        {
+          "type": "compact",
+          "text": "Products tort usually requires personal injury or property damage."
+        },
+        {
+          "type": "compact",
+          "text": "Warranty can cover economic loss."
+        },
+        {
+          "type": "compact",
+          "text": "Defamation and privacy have special damage rules."
+        }
+      ]
+    },
+    {
+      "id": "final-memory-sheet",
+      "title": "Final Memory Sheet",
+      "body": [
+        "Intentional Torts",
+        "Battery = intentional contact",
+        "Assault = seeing contact coming",
+        "False imprisonment = trapped",
+        "IIED = outrageous emotional harm",
+        "Property Torts",
+        "Trespass = physical invasion",
+        "Nuisance = ruined enjoyment",
+        "Trespass to chattels = minor stuff interference",
+        "Conversion = serious stuff interference",
+        "Negligence",
+        "Duty",
+        "Breach",
+        "Causation",
+        "Damages",
+        "Strict Liability",
+        "Use DAD:",
+        "Dangerous activities",
+        "Animals",
+        "Defective products",
+        "Products Liability",
+        "Manufacturing = bad one",
+        "Design = bad plan",
+        "Warning = bad instructions",
+        "Defamation and Privacy",
+        "Defamation = false reputation harm",
+        "Privacy = personal dignity and control",
+        "I FLAP = Intrusion, False Light, Appropriation, Public disclosure",
+        "Misrepresentation",
+        "Fraud = knowing lie",
+        "Negligent misrep = careless business info",
+        "Business Torts",
+        "Interference with contract = known contract + improper interference",
+        "Prospective advantage = expected business + wrongful interference",
+        "Trade secret = protected secret stolen improperly",
+        "Legal System Torts",
+        "Malicious prosecution = wrongfully start case",
+        "Abuse of process = misuse legal process"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Intentional Torts"
+        },
+        {
+          "type": "compact",
+          "text": "Battery = intentional contact"
+        },
+        {
+          "type": "compact",
+          "text": "Assault = seeing contact coming"
+        },
+        {
+          "type": "compact",
+          "text": "False imprisonment = trapped"
+        },
+        {
+          "type": "compact",
+          "text": "IIED = outrageous emotional harm"
+        },
+        {
+          "type": "subheading",
+          "text": "Property Torts"
+        },
+        {
+          "type": "compact",
+          "text": "Trespass = physical invasion"
+        },
+        {
+          "type": "compact",
+          "text": "Nuisance = ruined enjoyment"
+        },
+        {
+          "type": "compact",
+          "text": "Trespass to chattels = minor stuff interference"
+        },
+        {
+          "type": "compact",
+          "text": "Conversion = serious stuff interference"
+        },
+        {
+          "type": "subheading",
+          "text": "Negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Duty"
+        },
+        {
+          "type": "compact",
+          "text": "Breach"
+        },
+        {
+          "type": "compact",
+          "text": "Causation"
+        },
+        {
+          "type": "compact",
+          "text": "Damages"
+        },
+        {
+          "type": "subheading",
+          "text": "Strict Liability"
+        },
+        {
+          "type": "paragraph",
+          "text": "Use DAD:"
+        },
+        {
+          "type": "compact",
+          "text": "Dangerous activities"
+        },
+        {
+          "type": "compact",
+          "text": "Animals"
+        },
+        {
+          "type": "compact",
+          "text": "Defective products"
+        },
+        {
+          "type": "subheading",
+          "text": "Products Liability"
+        },
+        {
+          "type": "compact",
+          "text": "Manufacturing = bad one"
+        },
+        {
+          "type": "compact",
+          "text": "Design = bad plan"
+        },
+        {
+          "type": "compact",
+          "text": "Warning = bad instructions"
+        },
+        {
+          "type": "subheading",
+          "text": "Defamation and Privacy"
+        },
+        {
+          "type": "compact",
+          "text": "Defamation = false reputation harm"
+        },
+        {
+          "type": "compact",
+          "text": "Privacy = personal dignity and control"
+        },
+        {
+          "type": "compact",
+          "text": "I FLAP = Intrusion, False Light, Appropriation, Public disclosure"
+        },
+        {
+          "type": "subheading",
+          "text": "Misrepresentation"
+        },
+        {
+          "type": "compact",
+          "text": "Fraud = knowing lie"
+        },
+        {
+          "type": "compact",
+          "text": "Negligent misrep = careless business info"
+        },
+        {
+          "type": "subheading",
+          "text": "Business Torts"
+        },
+        {
+          "type": "compact",
+          "text": "Interference with contract = known contract + improper interference"
+        },
+        {
+          "type": "compact",
+          "text": "Prospective advantage = expected business + wrongful interference"
+        },
+        {
+          "type": "compact",
+          "text": "Trade secret = protected secret stolen improperly"
+        },
+        {
+          "type": "subheading",
+          "text": "Legal System Torts"
+        },
+        {
+          "type": "compact",
+          "text": "Malicious prosecution = wrongfully start case"
+        },
+        {
+          "type": "compact",
+          "text": "Abuse of process = misuse legal process"
+        }
+      ]
+    }
+  ]
+}

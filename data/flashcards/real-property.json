@@ -1,0 +1,487 @@
+{
+  "id": "real-property",
+  "title": "Real Property",
+  "subject": "Real Property",
+  "cards": [
+    {
+      "id": "real-property-001-in-property-law-what-is-the-big-picture-distinct",
+      "subject": "Real Property",
+      "front": "In property law, what is the 'Big Picture' distinction between a lease and a land-sale contract?",
+      "back": "A lease provides a temporary right to use property, while a land-sale contract is an agreement to purchase ownership."
+    },
+    {
+      "id": "real-property-002-why-is-a-lease-legally-considered-both-a-contrac",
+      "subject": "Real Property",
+      "front": "Why is a lease legally considered both a contract and a property interest?",
+      "back": "It involves mutual promises between parties and grants the tenant the legal right to possess the property."
+    },
+    {
+      "id": "real-property-003-what-defines-a-tenancy-for-years",
+      "subject": "Real Property",
+      "front": "What defines a Tenancy for Years?",
+      "back": "A lease that has a fixed end date, regardless of the actual length of the term."
+    },
+    {
+      "id": "real-property-004-what-notice-is-required-to-terminate-a-tenancy-f",
+      "subject": "Real Property",
+      "front": "What notice is required to terminate a Tenancy for Years?",
+      "back": "No notice is required because the tenancy ends automatically on the fixed end date."
+    },
+    {
+      "id": "real-property-005-under-the-statute-of-frauds-when-must-a-tenancy",
+      "subject": "Real Property",
+      "front": "Under the Statute of Frauds, when must a Tenancy for Years be in writing?",
+      "back": "When the term of the lease is longer than one year."
+    },
+    {
+      "id": "real-property-006-what-is-the-defining-characteristic-of-a-periodi",
+      "subject": "Real Property",
+      "front": "What is the defining characteristic of a Periodic Tenancy?",
+      "back": "A lease that repeats automatically for successive periods until one party provides proper notice of termination."
+    },
+    {
+      "id": "real-property-007-how-is-a-month-to-month-periodic-tenancy-typical",
+      "subject": "Real Property",
+      "front": "How is a month-to-month periodic tenancy typically created without a formal agreement?",
+      "back": "A tenant pays rent every month and the landlord accepts the payment."
+    },
+    {
+      "id": "real-property-008-when-must-notice-be-given-to-terminate-a-periodi",
+      "subject": "Real Property",
+      "front": "When must notice be given to terminate a periodic tenancy?",
+      "back": "Notice must usually be provided before the final period of the lease begins."
+    },
+    {
+      "id": "real-property-009-what-is-the-duration-of-a-tenancy-at-will",
+      "subject": "Real Property",
+      "front": "What is the duration of a Tenancy at Will?",
+      "back": "It has no fixed end date and lasts only as long as both the landlord and tenant desire."
+    },
+    {
+      "id": "real-property-010-how-do-modern-statutes-typically-modify-the-comm",
+      "subject": "Real Property",
+      "front": "How do modern statutes typically modify the common law rule for terminating a Tenancy at Will?",
+      "back": "They generally require a specific notice period, often 30 days, rather than allowing immediate termination."
+    },
+    {
+      "id": "real-property-011-what-event-often-converts-a-tenancy-at-will-into",
+      "subject": "Real Property",
+      "front": "What event often converts a Tenancy at Will into a periodic tenancy?",
+      "back": "The tenant starts paying rent and the landlord accepts those payments."
+    },
+    {
+      "id": "real-property-012-what-situation-creates-a-tenancy-at-sufferance",
+      "subject": "Real Property",
+      "front": "What situation creates a Tenancy at Sufferance?",
+      "back": "A tenant remains in possession of the property after the lease has ended without the landlord's permission."
+    },
+    {
+      "id": "real-property-013-what-are-the-two-legal-options-available-to-a-la",
+      "subject": "Real Property",
+      "front": "What are the two legal options available to a landlord dealing with a holdover tenant?",
+      "back": "The landlord may evict the tenant through court or treat them as starting a new periodic tenancy."
+    },
+    {
+      "id": "real-property-014-what-are-the-two-primary-duties-of-a-tenant",
+      "subject": "Real Property",
+      "front": "What are the two primary duties of a tenant?",
+      "back": "The duty to pay rent and the duty to avoid waste."
+    },
+    {
+      "id": "real-property-015-under-what-condition-is-a-tenant-s-duty-to-pay-r",
+      "subject": "Real Property",
+      "front": "Under what condition is a tenant's duty to pay rent excused regarding the property's physical state?",
+      "back": "When the premises are destroyed and the tenant is not at fault."
+    },
+    {
+      "id": "real-property-016-how-does-a-material-breach-by-a-landlord-such-as",
+      "subject": "Real Property",
+      "front": "How does a material breach by a landlord, such as violating habitability, affect a tenant's duty to pay rent?",
+      "back": "It may excuse the tenant from the duty to pay rent."
+    },
+    {
+      "id": "real-property-017-what-constitutes-affirmative-waste-by-a-tenant",
+      "subject": "Real Property",
+      "front": "What constitutes Affirmative Waste by a tenant?",
+      "back": "Active and voluntary damage caused to the property, such as knocking down walls without permission."
+    },
+    {
+      "id": "real-property-018-what-constitutes-permissive-waste-in-a-landlord",
+      "subject": "Real Property",
+      "front": "What constitutes Permissive Waste in a landlord-tenant relationship?",
+      "back": "Neglect or failure to maintain the property, such as ignoring a leak that results in floor rot."
+    },
+    {
+      "id": "real-property-019-what-is-ameliorative-waste",
+      "subject": "Real Property",
+      "front": "What is Ameliorative Waste?",
+      "back": "A tenant's unilateral change to the property that increases its value."
+    },
+    {
+      "id": "real-property-020-when-is-ameliorative-waste-permitted-under-moder",
+      "subject": "Real Property",
+      "front": "When is Ameliorative Waste permitted under modern law?",
+      "back": "When the change is reasonable and necessary for the tenant's specific use of the property."
+    },
+    {
+      "id": "real-property-021-what-is-the-general-rule-regarding-self-help-evi",
+      "subject": "Real Property",
+      "front": "What is the general rule regarding 'self-help' evictions in residential leases?",
+      "back": "Landlords are generally prohibited from using self-help and must use court-ordered eviction processes."
+    },
+    {
+      "id": "real-property-022-what-is-the-risk-to-a-landlord-who-accepts-late",
+      "subject": "Real Property",
+      "front": "What is the risk to a landlord who accepts late rent from a tenant?",
+      "back": "The landlord may waive the right to evict the tenant for that specific late payment."
+    },
+    {
+      "id": "real-property-023-what-is-the-majority-rule-regarding-a-landlord-s",
+      "subject": "Real Property",
+      "front": "What is the 'Majority Rule' regarding a landlord's duty when a tenant abandons a lease early?",
+      "back": "The landlord must mitigate damages by making a reasonable effort to re-rent the property."
+    },
+    {
+      "id": "real-property-024-under-the-english-rule-of-possession-what-must-a",
+      "subject": "Real Property",
+      "front": "Under the 'English Rule' of possession, what must a landlord provide to a new tenant?",
+      "back": "The landlord must deliver actual physical possession of the premises."
+    },
+    {
+      "id": "real-property-025-how-does-the-american-rule-differ-from-the-engli",
+      "subject": "Real Property",
+      "front": "How does the 'American Rule' differ from the 'English Rule' regarding the delivery of possession?",
+      "back": "The landlord only has to provide the legal right to possess, leaving the tenant to remove any holdover tenants."
+    },
+    {
+      "id": "real-property-026-what-is-the-landlord-s-modern-duty-regarding-rep",
+      "subject": "Real Property",
+      "front": "What is the landlord's modern duty regarding repairs in residential leases?",
+      "back": "The landlord usually has an implied duty to repair serious problems to keep the property livable."
+    },
+    {
+      "id": "real-property-027-what-does-the-implied-warranty-of-habitability-r",
+      "subject": "Real Property",
+      "front": "What does the Implied Warranty of Habitability require of a residential landlord?",
+      "back": "The landlord must keep the property in a safe and livable condition, providing essentials like heat and water."
+    },
+    {
+      "id": "real-property-028-to-what-extent-can-a-landlord-and-tenant-waive-t",
+      "subject": "Real Property",
+      "front": "To what extent can a landlord and tenant waive the Implied Warranty of Habitability?",
+      "back": "The warranty is mandatory and cannot be waived by either party."
+    },
+    {
+      "id": "real-property-029-before-a-tenant-can-use-remedies-for-a-breach-of",
+      "subject": "Real Property",
+      "front": "Before a tenant can use remedies for a breach of habitability, what action must they take?",
+      "back": "The tenant must notify the landlord of the problem and provide a reasonable time for repairs."
+    },
+    {
+      "id": "real-property-030-what-does-the-covenant-of-quiet-enjoyment-guaran",
+      "subject": "Real Property",
+      "front": "What does the Covenant of Quiet Enjoyment guarantee to a tenant?",
+      "back": "The landlord will not substantially interfere with the tenant's quiet and peaceful possession of the property."
+    },
+    {
+      "id": "real-property-031-what-is-the-rent-obligation-of-a-tenant-who-has",
+      "subject": "Real Property",
+      "front": "What is the rent obligation of a tenant who has been subjected to a total Actual Eviction?",
+      "back": "The tenant is excused from the obligation to pay any rent."
+    },
+    {
+      "id": "real-property-032-if-a-landlord-causes-a-partial-actual-eviction-w",
+      "subject": "Real Property",
+      "front": "If a landlord causes a Partial Actual Eviction, what is the tenant's rent obligation for the remainder of the premises?",
+      "back": "The tenant owes no rent for the entire premises."
+    },
+    {
+      "id": "real-property-033-what-happens-to-the-rent-obligation-if-a-third-p",
+      "subject": "Real Property",
+      "front": "What happens to the rent obligation if a third party with superior title causes a Partial Actual Eviction?",
+      "back": "The tenant must pay the reasonable rental value for the portion of the premises they still occupy."
+    },
+    {
+      "id": "real-property-034-what-are-the-requirements-for-a-tenant-to-claim",
+      "subject": "Real Property",
+      "front": "What are the requirements for a tenant to claim Constructive Eviction?",
+      "back": "A landlord's breach substantially interfered with use, the tenant gave notice and time to fix, and the tenant moved out reasonably quickly."
+    },
+    {
+      "id": "real-property-035-what-is-the-essential-physical-action-a-tenant-m",
+      "subject": "Real Property",
+      "front": "What is the essential physical action a tenant must take to successfully claim Constructive Eviction?",
+      "back": "The tenant must actually move out of the premises."
+    },
+    {
+      "id": "real-property-036-what-defines-a-retaliatory-eviction",
+      "subject": "Real Property",
+      "front": "What defines a Retaliatory Eviction?",
+      "back": "An eviction attempt by a landlord because a residential tenant complained in good faith about housing violations."
+    },
+    {
+      "id": "real-property-037-when-is-a-tenant-barred-from-using-retaliatory-e",
+      "subject": "Real Property",
+      "front": "When is a tenant barred from using 'retaliatory eviction' as a defense?",
+      "back": "When the tenant is unjustifiably behind on their rent payments."
+    },
+    {
+      "id": "real-property-038-in-property-law-what-is-the-definition-of-an-ass",
+      "subject": "Real Property",
+      "front": "In property law, what is the definition of an Assignment?",
+      "back": "The transfer of the entire remaining term of a lease from the tenant to a new party."
+    },
+    {
+      "id": "real-property-039-after-an-assignment-what-is-the-relationship-bet",
+      "subject": "Real Property",
+      "front": "After an assignment, what is the relationship between the original tenant and the landlord?",
+      "back": "The original tenant remains liable for lease obligations due to privity of contract, unless released by the landlord."
+    },
+    {
+      "id": "real-property-040-how-does-a-sublease-differ-from-an-assignment",
+      "subject": "Real Property",
+      "front": "How does a Sublease differ from an Assignment?",
+      "back": "A sublease involves transferring less than the entire remaining lease term to a third party."
+    },
+    {
+      "id": "real-property-041-who-is-a-sublessee-usually-liable-to-for-lease-o",
+      "subject": "Real Property",
+      "front": "Who is a sublessee usually liable to for lease obligations?",
+      "back": "The sublessee is liable to the original tenant, not the landlord."
+    },
+    {
+      "id": "real-property-042-what-is-the-majority-rule-regarding-a-landlord-s",
+      "subject": "Real Property",
+      "front": "What is the 'Majority Rule' regarding a landlord's right to withhold consent for a lease transfer?",
+      "back": "The landlord must have a commercially reasonable reason to withhold consent."
+    },
+    {
+      "id": "real-property-043-if-a-lease-clause-prohibits-assignment-how-does",
+      "subject": "Real Property",
+      "front": "If a lease clause prohibits 'assignment,' how does it affect the tenant's right to 'sublease'?",
+      "back": "A clause barring assignment does not automatically prohibit a sublease."
+    },
+    {
+      "id": "real-property-044-what-is-the-effect-of-complete-condemnation-on-a",
+      "subject": "Real Property",
+      "front": "What is the effect of Complete Condemnation on a lease?",
+      "back": "The lease terminates, the tenant's rent obligation ends, and the tenant may receive compensation."
+    },
+    {
+      "id": "real-property-045-how-does-partial-condemnation-affect-a-tenant-s",
+      "subject": "Real Property",
+      "front": "How does Partial Condemnation affect a tenant's duty to pay rent?",
+      "back": "The tenant must continue paying rent but may receive compensation for the portion of the property taken."
+    },
+    {
+      "id": "real-property-046-besides-offer-acceptance-and-consideration-what",
+      "subject": "Real Property",
+      "front": "Besides offer, acceptance, and consideration, what must a land-sales contract satisfy to be enforceable?",
+      "back": "The Statute of Frauds."
+    },
+    {
+      "id": "real-property-047-what-four-essential-terms-must-be-included-in-a",
+      "subject": "Real Property",
+      "front": "What four 'essential terms' must be included in a written land-sale contract?",
+      "back": "The parties involved, a description of the property, the price, and the payment terms."
+    },
+    {
+      "id": "real-property-048-under-the-doctrine-of-part-performance-what-thre",
+      "subject": "Real Property",
+      "front": "Under the doctrine of Part Performance, what three acts can make an oral land-sale contract enforceable?",
+      "back": "Payment of the purchase price, taking possession of the property, and making substantial improvements."
+    },
+    {
+      "id": "real-property-049-what-is-the-standard-for-marketable-title-that-a",
+      "subject": "Real Property",
+      "front": "What is the standard for 'Marketable Title' that a seller must deliver?",
+      "back": "Title that is free from defects which create an unreasonable risk of litigation."
+    },
+    {
+      "id": "real-property-050-list-three-examples-of-defects-that-make-a-title",
+      "subject": "Real Property",
+      "front": "List three examples of defects that make a title 'unmarketable.'",
+      "back": "Mortgages, zoning violations, and unquieted adverse possession claims."
+    },
+    {
+      "id": "real-property-051-by-what-point-in-the-transaction-must-a-seller-p",
+      "subject": "Real Property",
+      "front": "By what point in the transaction must a seller provide marketable title?",
+      "back": "By the date of closing."
+    },
+    {
+      "id": "real-property-052-when-is-time-considered-of-the-essence-in-a-real",
+      "subject": "Real Property",
+      "front": "When is 'time' considered 'of the essence' in a real estate contract?",
+      "back": "Only if the contract explicitly says so, circumstances demand it, or one party provides notice making it essential."
+    },
+    {
+      "id": "real-property-053-what-does-the-new-home-warranty-protect-against",
+      "subject": "Real Property",
+      "front": "What does the New Home Warranty protect against?",
+      "back": "Hidden defects in a newly built home, such as faulty wiring, plumbing, or structural issues."
+    },
+    {
+      "id": "real-property-054-a-seller-s-duty-to-disclose-defects-generally-ap",
+      "subject": "Real Property",
+      "front": "A seller's duty to disclose defects generally applies to what type of issues?",
+      "back": "Known, material, hidden physical defects that are not readily observable by the buyer."
+    },
+    {
+      "id": "real-property-055-what-is-the-doctrine-of-merger-in-land-sale-tran",
+      "subject": "Real Property",
+      "front": "What is the Doctrine of Merger in land-sale transactions?",
+      "back": "The contract for sale merges into the deed at closing, meaning the buyer can usually only sue on promises found in the deed."
+    },
+    {
+      "id": "real-property-056-what-is-the-standard-remedy-for-a-breach-of-a-la",
+      "subject": "Real Property",
+      "front": "What is the standard remedy for a breach of a land-sale contract due to the 'uniqueness' of land?",
+      "back": "Specific performance."
+    },
+    {
+      "id": "real-property-057-how-does-the-majority-rule-of-equitable-conversi",
+      "subject": "Real Property",
+      "front": "How does the 'Majority Rule' of Equitable Conversion assign the risk of loss between contract and closing?",
+      "back": "The buyer bears the risk of loss, even if the seller still has possession."
+    },
+    {
+      "id": "real-property-058-under-equitable-conversion-how-is-a-seller-s-int",
+      "subject": "Real Property",
+      "front": "Under Equitable Conversion, how is a seller's interest categorized if they die before closing?",
+      "back": "Personal property (the right to the money)."
+    },
+    {
+      "id": "real-property-059-what-is-required-for-a-valid-option-to-buy-real",
+      "subject": "Real Property",
+      "front": "What is required for a valid Option to buy real property?",
+      "back": "It must be supported by consideration and cannot be revoked during the set period."
+    },
+    {
+      "id": "real-property-060-what-is-a-right-of-first-refusal",
+      "subject": "Real Property",
+      "front": "What is a Right of First Refusal?",
+      "back": "A preemptive right giving a party the first opportunity to purchase a property before the owner sells to a third party."
+    },
+    {
+      "id": "real-property-061-what-does-the-acronym-echo-stand-for-in-the-cont",
+      "subject": "Real Property",
+      "front": "What does the acronym 'ECHO' stand for in the context of Adverse Possession?",
+      "back": "Exclusive, Continuous, Hostile, and Open/notorious."
+    },
+    {
+      "id": "real-property-062-in-adverse-possession-what-does-hostile-possessi",
+      "subject": "Real Property",
+      "front": "In Adverse Possession, what does 'Hostile' possession mean?",
+      "back": "Possession that is without the permission of the true owner."
+    },
+    {
+      "id": "real-property-063-what-is-tacking-in-the-context-of-adverse-posses",
+      "subject": "Real Property",
+      "front": "What is 'Tacking' in the context of Adverse Possession?",
+      "back": "Adding the time of a previous adverse possessor to the current possessor's time, provided there is privity between them."
+    },
+    {
+      "id": "real-property-064-how-does-a-disability-of-the-true-owner-affect-t",
+      "subject": "Real Property",
+      "front": "How does a disability of the true owner affect the Adverse Possession clock?",
+      "back": "The clock may not start running if the owner was under a disability (like being a minor) at the time the possession began."
+    },
+    {
+      "id": "real-property-065-what-five-elements-are-required-for-a-valid-deed",
+      "subject": "Real Property",
+      "front": "What five elements are required for a valid Deed?",
+      "back": "Identification of the grantor and grantee, words of transfer, a property description, and the grantor’s signature."
+    },
+    {
+      "id": "real-property-066-what-is-the-legal-effect-of-an-oral-condition-pl",
+      "subject": "Real Property",
+      "front": "What is the legal effect of an oral condition placed on a deed that is physically delivered to the grantee?",
+      "back": "The oral condition is ignored, and the delivery is considered absolute."
+    },
+    {
+      "id": "real-property-067-what-is-the-status-of-a-forged-deed-in-a-propert",
+      "subject": "Real Property",
+      "front": "What is the status of a forged deed in a property transaction?",
+      "back": "It is void, meaning even a bona fide purchaser receives no title."
+    },
+    {
+      "id": "real-property-068-how-does-fraud-in-the-factum-differ-from-fraud-i",
+      "subject": "Real Property",
+      "front": "How does 'Fraud in the Factum' differ from 'Fraud in the Inducement' regarding a deed's validity?",
+      "back": "Fraud in the factum makes a deed void, while fraud in the inducement makes it merely voidable."
+    },
+    {
+      "id": "real-property-069-how-does-a-notice-statute-determine-the-winner-o",
+      "subject": "Real Property",
+      "front": "How does a 'Notice Statute' determine the winner of a title dispute?",
+      "back": "The subsequent purchaser wins if they bought for value and had no notice of the prior claim at the time of purchase."
+    },
+    {
+      "id": "real-property-070-what-is-the-rule-for-a-race-statute-in-recording",
+      "subject": "Real Property",
+      "front": "What is the rule for a 'Race Statute' in recording acts?",
+      "back": "The person who records their deed first wins the title, regardless of whether they had notice of prior claims."
+    },
+    {
+      "id": "real-property-071-under-a-race-notice-statute-what-two-conditions",
+      "subject": "Real Property",
+      "front": "Under a 'Race-Notice Statute,' what two conditions must a subsequent purchaser meet to win?",
+      "back": "They must have no notice of prior claims and be the first to record their deed."
+    },
+    {
+      "id": "real-property-072-who-is-generally-not-protected-by-recording-acts",
+      "subject": "Real Property",
+      "front": "Who is generally NOT protected by recording acts because they did not pay value for the property?",
+      "back": "Donees (gift recipients), heirs, and devisees."
+    },
+    {
+      "id": "real-property-073-what-is-inquiry-notice",
+      "subject": "Real Property",
+      "front": "What is Inquiry Notice?",
+      "back": "Notice based on facts that would lead a reasonable person to investigate further, such as someone else living on the land."
+    },
+    {
+      "id": "real-property-074-what-is-a-wild-deed",
+      "subject": "Real Property",
+      "front": "What is a 'Wild Deed'?",
+      "back": "A recorded deed that is outside the chain of title, making it difficult for subsequent purchasers to find."
+    },
+    {
+      "id": "real-property-075-what-does-a-general-warranty-deed-provide-to-the",
+      "subject": "Real Property",
+      "front": "What does a General Warranty Deed provide to the grantee?",
+      "back": "The maximum legal protection through six covenants: seisin, right to convey, against encumbrances, quiet enjoyment, warranty, and further assurances."
+    },
+    {
+      "id": "real-property-076-what-is-the-limited-promise-made-in-a-special-wa",
+      "subject": "Real Property",
+      "front": "What is the limited promise made in a Special Warranty Deed?",
+      "back": "The grantor only warrants that they personally have not created any title defects during their period of ownership."
+    },
+    {
+      "id": "real-property-077-what-interest-is-transferred-via-a-quitclaim-dee",
+      "subject": "Real Property",
+      "front": "What interest is transferred via a Quitclaim Deed?",
+      "back": "Whatever interest the grantor currently has, if any, with no promises or warranties of title."
+    },
+    {
+      "id": "real-property-078-what-is-the-doctrine-of-after-acquired-title",
+      "subject": "Real Property",
+      "front": "What is the Doctrine of After-Acquired Title?",
+      "back": "If a grantor conveys property they don't own with a warranty deed, and later acquires title, that title passes automatically to the grantee."
+    },
+    {
+      "id": "real-property-079-under-the-modern-rule-what-happens-to-a-mortgage",
+      "subject": "Real Property",
+      "front": "Under the modern rule, what happens to a mortgage on a property when the owner dies and leaves the land to an heir?",
+      "back": "The heir takes the property subject to the mortgage, meaning they are responsible for it unless the will says otherwise."
+    },
+    {
+      "id": "real-property-080-what-is-the-general-court-attitude-toward-an-abs",
+      "subject": "Real Property",
+      "front": "What is the general court attitude toward an absolute restraint on alienation for a fee simple estate?",
+      "back": "Such restraints are usually considered void and unenforceable."
+    }
+  ]
+}

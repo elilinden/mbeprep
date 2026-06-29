@@ -1,0 +1,1971 @@
+{
+  "id": "agency",
+  "title": "Agency",
+  "subject": "Business Associations",
+  "summary": "Agency is the law of who can act for someone else and who is responsible when that person makes a contract or commits a tort.",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "body": [
+        "Big Picture",
+        "Agency is the law of who can act for someone else and who is responsible when that person makes a contract or commits a tort.",
+        "Think of agency like this:",
+        "The principal is the boss, owner, or person being represented.",
+        "The agent is the person acting for the principal.",
+        "The third party is the outside person dealing with the agent.",
+        "Simple Example",
+        "A restaurant owner tells the manager to buy food from a supplier.",
+        "The restaurant owner is the principal.",
+        "The manager is the agent.",
+        "The supplier is the third party.",
+        "The main MBE question is usually:",
+        "Is the principal legally responsible for what the agent did?"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Big Picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Agency is the law of who can act for someone else and who is responsible when that person makes a contract or commits a tort."
+        },
+        {
+          "type": "paragraph",
+          "text": "Think of agency like this:"
+        },
+        {
+          "type": "compact",
+          "text": "The principal is the boss, owner, or person being represented."
+        },
+        {
+          "type": "compact",
+          "text": "The agent is the person acting for the principal."
+        },
+        {
+          "type": "compact",
+          "text": "The third party is the outside person dealing with the agent."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Simple Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A restaurant owner tells the manager to buy food from a supplier."
+        },
+        {
+          "type": "compact",
+          "text": "The restaurant owner is the principal."
+        },
+        {
+          "type": "compact",
+          "text": "The manager is the agent."
+        },
+        {
+          "type": "compact",
+          "text": "The supplier is the third party."
+        },
+        {
+          "type": "paragraph",
+          "text": "The main MBE question is usually:"
+        },
+        {
+          "type": "quote",
+          "text": "Is the principal legally responsible for what the agent did?"
+        }
+      ]
+    },
+    {
+      "id": "1-how-do-you-know-an-agency-relationship-exists",
+      "title": "1. How Do You Know an Agency Relationship Exists?",
+      "body": [
+        "An agency relationship exists when:",
+        "The principal agrees that the agent will act for them.",
+        "The agent acts on behalf of the principal.",
+        "The agent is subject to the principal’s control.",
+        "The agent agrees to act.",
+        "Easy Test",
+        "Ask:",
+        "“Are you doing this for me, and do I have some control over what you do?”",
+        "If yes, agency probably exists.",
+        "Analogy",
+        "If you ask your friend to pick up your Starbucks order, your friend is acting as your agent for that task.",
+        "You told them what to get, they agreed, and they are doing it for you.",
+        "Important MBE Rule",
+        "Agency does not usually need:",
+        "A written contract",
+        "Formal words",
+        "Payment",
+        "A long-term relationship",
+        "A person can be a gratuitous agent, meaning they are an agent even though they are not paid."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An agency relationship exists when:"
+        },
+        {
+          "type": "compact",
+          "text": "The principal agrees that the agent will act for them."
+        },
+        {
+          "type": "compact",
+          "text": "The agent acts on behalf of the principal."
+        },
+        {
+          "type": "compact",
+          "text": "The agent is subject to the principal’s control."
+        },
+        {
+          "type": "compact",
+          "text": "The agent agrees to act."
+        },
+        {
+          "type": "subheading",
+          "text": "Easy Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask:"
+        },
+        {
+          "type": "quote",
+          "text": "“Are you doing this for me, and do I have some control over what you do?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "If yes, agency probably exists."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Analogy"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you ask your friend to pick up your Starbucks order, your friend is acting as your agent for that task."
+        },
+        {
+          "type": "paragraph",
+          "text": "You told them what to get, they agreed, and they are doing it for you."
+        },
+        {
+          "type": "subheading",
+          "text": "Important MBE Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "Agency does not usually need:"
+        },
+        {
+          "type": "compact",
+          "text": "A written contract"
+        },
+        {
+          "type": "compact",
+          "text": "Formal words"
+        },
+        {
+          "type": "compact",
+          "text": "Payment"
+        },
+        {
+          "type": "compact",
+          "text": "A long-term relationship"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person can be a gratuitous agent, meaning they are an agent even though they are not paid."
+        }
+      ]
+    },
+    {
+      "id": "2-principal-vs-agent",
+      "title": "2. Principal vs. Agent",
+      "body": [
+        "Principal",
+        "The principal is the person or entity being represented.",
+        "A principal can be:",
+        "A person",
+        "A business owner",
+        "A corporation",
+        "A partnership",
+        "An employer",
+        "Agent",
+        "The agent is the person acting for the principal.",
+        "An agent can be:",
+        "An employee",
+        "A manager",
+        "A broker",
+        "A lawyer",
+        "A real estate agent",
+        "A person doing a favor",
+        "Key Word",
+        "The key word is:",
+        "Control",
+        "If one person has the right to control another person’s actions, think agency."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Principal"
+        },
+        {
+          "type": "paragraph",
+          "text": "The principal is the person or entity being represented."
+        },
+        {
+          "type": "paragraph",
+          "text": "A principal can be:"
+        },
+        {
+          "type": "compact",
+          "text": "A person"
+        },
+        {
+          "type": "compact",
+          "text": "A business owner"
+        },
+        {
+          "type": "compact",
+          "text": "A corporation"
+        },
+        {
+          "type": "compact",
+          "text": "A partnership"
+        },
+        {
+          "type": "compact",
+          "text": "An employer"
+        },
+        {
+          "type": "subheading",
+          "text": "Agent"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent is the person acting for the principal."
+        },
+        {
+          "type": "paragraph",
+          "text": "An agent can be:"
+        },
+        {
+          "type": "compact",
+          "text": "An employee"
+        },
+        {
+          "type": "compact",
+          "text": "A manager"
+        },
+        {
+          "type": "compact",
+          "text": "A broker"
+        },
+        {
+          "type": "compact",
+          "text": "A lawyer"
+        },
+        {
+          "type": "compact",
+          "text": "A real estate agent"
+        },
+        {
+          "type": "compact",
+          "text": "A person doing a favor"
+        },
+        {
+          "type": "subheading",
+          "text": "Key Word"
+        },
+        {
+          "type": "paragraph",
+          "text": "The key word is:"
+        },
+        {
+          "type": "quote",
+          "text": "Control"
+        },
+        {
+          "type": "paragraph",
+          "text": "If one person has the right to control another person’s actions, think agency."
+        }
+      ]
+    },
+    {
+      "id": "3-employee-vs-independent-contractor",
+      "title": "3. Employee vs. Independent Contractor",
+      "body": [
+        "This is very important for tort liability.",
+        "Employee",
+        "An employee is an agent whose work is controlled by the principal.",
+        "The principal controls the means and methods of the work.",
+        "Employee Example",
+        "A store tells a worker:",
+        "Work Monday through Friday",
+        "Wear this uniform",
+        "Use our cash register",
+        "Follow our training",
+        "Report to this manager",
+        "That worker is probably an employee.",
+        "Independent Contractor",
+        "An independent contractor has more freedom.",
+        "The principal usually controls the final result, but not exactly how the work gets done.",
+        "Independent Contractor Example",
+        "A homeowner says:",
+        "“Paint my house by Friday. I do not care exactly how you do it.”",
+        "That painter is probably an independent contractor.",
+        "MBE Shortcut",
+        "More control = employee",
+        "More independence = independent contractor"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This is very important for tort liability."
+        },
+        {
+          "type": "subheading",
+          "text": "Employee"
+        },
+        {
+          "type": "paragraph",
+          "text": "An employee is an agent whose work is controlled by the principal."
+        },
+        {
+          "type": "paragraph",
+          "text": "The principal controls the means and methods of the work."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Employee Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A store tells a worker:"
+        },
+        {
+          "type": "compact",
+          "text": "Work Monday through Friday"
+        },
+        {
+          "type": "compact",
+          "text": "Wear this uniform"
+        },
+        {
+          "type": "compact",
+          "text": "Use our cash register"
+        },
+        {
+          "type": "compact",
+          "text": "Follow our training"
+        },
+        {
+          "type": "compact",
+          "text": "Report to this manager"
+        },
+        {
+          "type": "paragraph",
+          "text": "That worker is probably an employee."
+        },
+        {
+          "type": "subheading",
+          "text": "Independent Contractor"
+        },
+        {
+          "type": "paragraph",
+          "text": "An independent contractor has more freedom."
+        },
+        {
+          "type": "paragraph",
+          "text": "The principal usually controls the final result, but not exactly how the work gets done."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Independent Contractor Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A homeowner says:"
+        },
+        {
+          "type": "quote",
+          "text": "“Paint my house by Friday. I do not care exactly how you do it.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "That painter is probably an independent contractor."
+        },
+        {
+          "type": "subheading",
+          "text": "MBE Shortcut"
+        },
+        {
+          "type": "compact",
+          "text": "More control = employee"
+        },
+        {
+          "type": "compact",
+          "text": "More independence = independent contractor"
+        }
+      ]
+    },
+    {
+      "id": "4-contract-liability",
+      "title": "4. Contract Liability",
+      "body": [
+        "The principal can be bound to a contract made by the agent if the agent had authority.",
+        "There are three major types of authority:",
+        "Actual authority",
+        "Apparent authority",
+        "Ratification"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The principal can be bound to a contract made by the agent if the agent had authority."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are three major types of authority:"
+        },
+        {
+          "type": "compact",
+          "text": "Actual authority"
+        },
+        {
+          "type": "compact",
+          "text": "Apparent authority"
+        },
+        {
+          "type": "compact",
+          "text": "Ratification"
+        }
+      ]
+    },
+    {
+      "id": "5-actual-authority",
+      "title": "5. Actual Authority",
+      "body": [
+        "Definition",
+        "Actual authority exists when the principal’s words or actions make the agent reasonably believe the agent has authority to act.",
+        "This focuses on the relationship between the:",
+        "Principal and agent",
+        "Ask This",
+        "Did the principal make the agent reasonably believe the agent could do this?",
+        "Two Types of Actual Authority",
+        "Actual authority can be:",
+        "Express actual authority",
+        "Implied actual authority",
+        "5A. Express Actual Authority",
+        "Express actual authority means the principal directly told the agent to do something.",
+        "Example",
+        "The owner says:",
+        "“Hire Sarah today.”",
+        "The manager hires Sarah.",
+        "The manager had express actual authority.",
+        "5B. Implied Actual Authority",
+        "Implied actual authority means the agent has authority to do things that are reasonably necessary to complete the assigned task.",
+        "Example",
+        "The owner says:",
+        "“Hire Sarah.”",
+        "The manager probably has implied authority to:",
+        "Interview Sarah",
+        "Discuss salary",
+        "Complete hiring paperwork",
+        "The owner did not need to list every tiny step.",
+        "Analogy",
+        "If someone tells you:",
+        "“Make dinner.”",
+        "They do not need to separately say:",
+        "Open the fridge",
+        "Use a pan",
+        "Turn on the stove",
+        "Plate the food",
+        "Those steps are implied.",
+        "MBE Shortcut",
+        "Express authority is what the principal directly said.",
+        "Implied authority is what is reasonably necessary to carry out what the principal said."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Definition"
+        },
+        {
+          "type": "paragraph",
+          "text": "Actual authority exists when the principal’s words or actions make the agent reasonably believe the agent has authority to act."
+        },
+        {
+          "type": "paragraph",
+          "text": "This focuses on the relationship between the:"
+        },
+        {
+          "type": "quote",
+          "text": "Principal and agent"
+        },
+        {
+          "type": "subheading",
+          "text": "Ask This"
+        },
+        {
+          "type": "quote",
+          "text": "Did the principal make the agent reasonably believe the agent could do this?"
+        },
+        {
+          "type": "subheading",
+          "text": "Two Types of Actual Authority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Actual authority can be:"
+        },
+        {
+          "type": "compact",
+          "text": "Express actual authority"
+        },
+        {
+          "type": "compact",
+          "text": "Implied actual authority"
+        },
+        {
+          "type": "subheading",
+          "text": "5A. Express Actual Authority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Express actual authority means the principal directly told the agent to do something."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "The owner says:"
+        },
+        {
+          "type": "quote",
+          "text": "“Hire Sarah today.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The manager hires Sarah."
+        },
+        {
+          "type": "paragraph",
+          "text": "The manager had express actual authority."
+        },
+        {
+          "type": "subheading",
+          "text": "5B. Implied Actual Authority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Implied actual authority means the agent has authority to do things that are reasonably necessary to complete the assigned task."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "The owner says:"
+        },
+        {
+          "type": "quote",
+          "text": "“Hire Sarah.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The manager probably has implied authority to:"
+        },
+        {
+          "type": "compact",
+          "text": "Interview Sarah"
+        },
+        {
+          "type": "compact",
+          "text": "Discuss salary"
+        },
+        {
+          "type": "compact",
+          "text": "Complete hiring paperwork"
+        },
+        {
+          "type": "paragraph",
+          "text": "The owner did not need to list every tiny step."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Analogy"
+        },
+        {
+          "type": "paragraph",
+          "text": "If someone tells you:"
+        },
+        {
+          "type": "quote",
+          "text": "“Make dinner.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "They do not need to separately say:"
+        },
+        {
+          "type": "compact",
+          "text": "Open the fridge"
+        },
+        {
+          "type": "compact",
+          "text": "Use a pan"
+        },
+        {
+          "type": "compact",
+          "text": "Turn on the stove"
+        },
+        {
+          "type": "compact",
+          "text": "Plate the food"
+        },
+        {
+          "type": "paragraph",
+          "text": "Those steps are implied."
+        },
+        {
+          "type": "subheading",
+          "text": "MBE Shortcut"
+        },
+        {
+          "type": "paragraph",
+          "text": "Express authority is what the principal directly said."
+        },
+        {
+          "type": "paragraph",
+          "text": "Implied authority is what is reasonably necessary to carry out what the principal said."
+        }
+      ]
+    },
+    {
+      "id": "6-apparent-authority",
+      "title": "6. Apparent Authority",
+      "body": [
+        "Definition",
+        "Apparent authority exists when the principal’s words or actions make a third party reasonably believe the agent has authority.",
+        "This focuses on the relationship between the:",
+        "Principal and third party",
+        "Ask This",
+        "Did the principal make the third party reasonably believe the agent had authority?",
+        "Example",
+        "A store owner puts a worker behind the register with a name tag.",
+        "A customer reasonably believes the worker can sell items.",
+        "Even if the owner privately told the worker, “Do not sell anything today,” the customer does not know that.",
+        "The worker may have apparent authority.",
+        "Key Difference",
+        "Actual Authority",
+        "Actual authority is about what the principal made the agent believe.",
+        "Apparent Authority",
+        "Apparent authority is about what the principal made the third party believe.",
+        "MBE Memory Tool",
+        "Actual authority = principal to agent",
+        "Apparent authority = principal to third party"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Definition"
+        },
+        {
+          "type": "paragraph",
+          "text": "Apparent authority exists when the principal’s words or actions make a third party reasonably believe the agent has authority."
+        },
+        {
+          "type": "paragraph",
+          "text": "This focuses on the relationship between the:"
+        },
+        {
+          "type": "quote",
+          "text": "Principal and third party"
+        },
+        {
+          "type": "subheading",
+          "text": "Ask This"
+        },
+        {
+          "type": "quote",
+          "text": "Did the principal make the third party reasonably believe the agent had authority?"
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A store owner puts a worker behind the register with a name tag."
+        },
+        {
+          "type": "paragraph",
+          "text": "A customer reasonably believes the worker can sell items."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even if the owner privately told the worker, “Do not sell anything today,” the customer does not know that."
+        },
+        {
+          "type": "paragraph",
+          "text": "The worker may have apparent authority."
+        },
+        {
+          "type": "subheading",
+          "text": "Key Difference"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Actual Authority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Actual authority is about what the principal made the agent believe."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Apparent Authority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Apparent authority is about what the principal made the third party believe."
+        },
+        {
+          "type": "subheading",
+          "text": "MBE Memory Tool"
+        },
+        {
+          "type": "compact",
+          "text": "Actual authority = principal to agent"
+        },
+        {
+          "type": "compact",
+          "text": "Apparent authority = principal to third party"
+        }
+      ]
+    },
+    {
+      "id": "7-ratification",
+      "title": "7. Ratification",
+      "body": [
+        "Definition",
+        "Ratification happens when the agent did not have authority at first, but the principal later approves the act.",
+        "Example",
+        "A manager has no authority to buy a new oven.",
+        "The manager buys one anyway.",
+        "The owner later keeps the oven and uses it.",
+        "The owner may have ratified the contract.",
+        "Analogy",
+        "Someone orders food for you without permission.",
+        "You see the food, eat it, and say nothing.",
+        "You probably accepted the order.",
+        "MBE Rule",
+        "If the principal ratifies the contract, the principal is bound as if the agent had authority from the beginning."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Definition"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ratification happens when the agent did not have authority at first, but the principal later approves the act."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A manager has no authority to buy a new oven."
+        },
+        {
+          "type": "paragraph",
+          "text": "The manager buys one anyway."
+        },
+        {
+          "type": "paragraph",
+          "text": "The owner later keeps the oven and uses it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The owner may have ratified the contract."
+        },
+        {
+          "type": "subheading",
+          "text": "Analogy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Someone orders food for you without permission."
+        },
+        {
+          "type": "paragraph",
+          "text": "You see the food, eat it, and say nothing."
+        },
+        {
+          "type": "paragraph",
+          "text": "You probably accepted the order."
+        },
+        {
+          "type": "subheading",
+          "text": "MBE Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the principal ratifies the contract, the principal is bound as if the agent had authority from the beginning."
+        }
+      ]
+    },
+    {
+      "id": "8-tort-liability",
+      "title": "8. Tort Liability",
+      "body": [
+        "Tort liability asks:",
+        "Is the principal responsible because the agent hurt someone?",
+        "The main rule is called respondeat superior."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tort liability asks:"
+        },
+        {
+          "type": "quote",
+          "text": "Is the principal responsible because the agent hurt someone?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The main rule is called respondeat superior."
+        }
+      ]
+    },
+    {
+      "id": "9-respondeat-superior",
+      "title": "9. Respondeat Superior",
+      "body": [
+        "Definition",
+        "Under respondeat superior, an employer is liable for an employee’s tort if the employee committed the tort within the scope of employment.",
+        "Rule",
+        "A principal is liable if:",
+        "There is an employer-employee relationship, and",
+        "The employee committed the tort within the scope of employment.",
+        "Example",
+        "A delivery driver hits someone while delivering packages.",
+        "The employer is probably liable because the driver was doing work.",
+        "Opposite Example",
+        "A delivery driver leaves work for two hours to visit a friend.",
+        "While visiting the friend, the driver hits someone.",
+        "The employer is probably not liable because the driver was on a personal trip."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Definition"
+        },
+        {
+          "type": "paragraph",
+          "text": "Under respondeat superior, an employer is liable for an employee’s tort if the employee committed the tort within the scope of employment."
+        },
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "A principal is liable if:"
+        },
+        {
+          "type": "compact",
+          "text": "There is an employer-employee relationship, and"
+        },
+        {
+          "type": "compact",
+          "text": "The employee committed the tort within the scope of employment."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A delivery driver hits someone while delivering packages."
+        },
+        {
+          "type": "paragraph",
+          "text": "The employer is probably liable because the driver was doing work."
+        },
+        {
+          "type": "subheading",
+          "text": "Opposite Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A delivery driver leaves work for two hours to visit a friend."
+        },
+        {
+          "type": "paragraph",
+          "text": "While visiting the friend, the driver hits someone."
+        },
+        {
+          "type": "paragraph",
+          "text": "The employer is probably not liable because the driver was on a personal trip."
+        }
+      ]
+    },
+    {
+      "id": "10-scope-of-employment",
+      "title": "10. Scope of Employment",
+      "body": [
+        "An employee acts within the scope of employment when the employee is doing something:",
+        "They were hired to do",
+        "Related to their work",
+        "Intended at least partly to benefit the employer",
+        "Ask This",
+        "Was the employee doing their job, or were they doing something purely personal?"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An employee acts within the scope of employment when the employee is doing something:"
+        },
+        {
+          "type": "compact",
+          "text": "They were hired to do"
+        },
+        {
+          "type": "compact",
+          "text": "Related to their work"
+        },
+        {
+          "type": "compact",
+          "text": "Intended at least partly to benefit the employer"
+        },
+        {
+          "type": "subheading",
+          "text": "Ask This"
+        },
+        {
+          "type": "quote",
+          "text": "Was the employee doing their job, or were they doing something purely personal?"
+        }
+      ]
+    },
+    {
+      "id": "11-frolic-and-detour",
+      "title": "11. Frolic and Detour",
+      "body": [
+        "This is a classic MBE issue.",
+        "Detour",
+        "A detour is a small personal side trip.",
+        "The employer may still be liable.",
+        "Example",
+        "A delivery driver stops for coffee on the way to a delivery.",
+        "That is probably a detour.",
+        "Frolic",
+        "A frolic is a major personal departure from work.",
+        "The employer is usually not liable.",
+        "Example",
+        "A delivery driver drives across town to go shopping for themselves.",
+        "That is probably a frolic.",
+        "Analogy",
+        "A detour is like stepping slightly off the sidewalk.",
+        "A frolic is like leaving the neighborhood.",
+        "MBE Shortcut",
+        "Small side trip = detour = employer may be liable",
+        "Big personal trip = frolic = employer usually not liable"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This is a classic MBE issue."
+        },
+        {
+          "type": "subheading",
+          "text": "Detour"
+        },
+        {
+          "type": "paragraph",
+          "text": "A detour is a small personal side trip."
+        },
+        {
+          "type": "paragraph",
+          "text": "The employer may still be liable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A delivery driver stops for coffee on the way to a delivery."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is probably a detour."
+        },
+        {
+          "type": "subheading",
+          "text": "Frolic"
+        },
+        {
+          "type": "paragraph",
+          "text": "A frolic is a major personal departure from work."
+        },
+        {
+          "type": "paragraph",
+          "text": "The employer is usually not liable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A delivery driver drives across town to go shopping for themselves."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is probably a frolic."
+        },
+        {
+          "type": "subheading",
+          "text": "Analogy"
+        },
+        {
+          "type": "paragraph",
+          "text": "A detour is like stepping slightly off the sidewalk."
+        },
+        {
+          "type": "paragraph",
+          "text": "A frolic is like leaving the neighborhood."
+        },
+        {
+          "type": "subheading",
+          "text": "MBE Shortcut"
+        },
+        {
+          "type": "compact",
+          "text": "Small side trip = detour = employer may be liable"
+        },
+        {
+          "type": "compact",
+          "text": "Big personal trip = frolic = employer usually not liable"
+        }
+      ]
+    },
+    {
+      "id": "12-independent-contractors-and-tort-liability",
+      "title": "12. Independent Contractors and Tort Liability",
+      "body": [
+        "Usually, a principal is not liable for the torts of an independent contractor.",
+        "Example",
+        "You hire a plumber.",
+        "The plumber negligently bumps into someone on the way to the job.",
+        "You usually are not liable.",
+        "Exceptions",
+        "A principal may still be liable if:",
+        "The principal controlled the details of the work.",
+        "The work was inherently dangerous.",
+        "The duty was nondelegable.",
+        "The principal was negligent in hiring, training, or supervising the contractor.",
+        "The contractor appeared to have authority because of the principal’s conduct.",
+        "MBE Shortcut",
+        "You usually can avoid liability for an independent contractor, but not if:",
+        "The job is dangerous",
+        "The duty is special",
+        "The principal controlled the work too much",
+        "The principal was negligent in choosing the contractor"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Usually, a principal is not liable for the torts of an independent contractor."
+        },
+        {
+          "type": "subheading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "You hire a plumber."
+        },
+        {
+          "type": "paragraph",
+          "text": "The plumber negligently bumps into someone on the way to the job."
+        },
+        {
+          "type": "paragraph",
+          "text": "You usually are not liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "A principal may still be liable if:"
+        },
+        {
+          "type": "compact",
+          "text": "The principal controlled the details of the work."
+        },
+        {
+          "type": "compact",
+          "text": "The work was inherently dangerous."
+        },
+        {
+          "type": "compact",
+          "text": "The duty was nondelegable."
+        },
+        {
+          "type": "compact",
+          "text": "The principal was negligent in hiring, training, or supervising the contractor."
+        },
+        {
+          "type": "compact",
+          "text": "The contractor appeared to have authority because of the principal’s conduct."
+        },
+        {
+          "type": "subheading",
+          "text": "MBE Shortcut"
+        },
+        {
+          "type": "paragraph",
+          "text": "You usually can avoid liability for an independent contractor, but not if:"
+        },
+        {
+          "type": "compact",
+          "text": "The job is dangerous"
+        },
+        {
+          "type": "compact",
+          "text": "The duty is special"
+        },
+        {
+          "type": "compact",
+          "text": "The principal controlled the work too much"
+        },
+        {
+          "type": "compact",
+          "text": "The principal was negligent in choosing the contractor"
+        }
+      ]
+    },
+    {
+      "id": "13-agent-s-duties-to-the-principal",
+      "title": "13. Agent’s Duties to the Principal",
+      "body": [
+        "Agents owe fiduciary duties to the principal.",
+        "That means the agent must act loyally and carefully for the principal.",
+        "Main Duties",
+        "An agent must:",
+        "Obey lawful instructions.",
+        "Use reasonable care.",
+        "Give the principal important information.",
+        "Act loyally.",
+        "Avoid secret profits.",
+        "Avoid competing with the principal.",
+        "Avoid stealing business opportunities.",
+        "Keep the principal’s money separate.",
+        "Provide an accounting.",
+        "13A. Duty of Loyalty",
+        "The agent must act for the benefit of the principal, not for themselves.",
+        "Example",
+        "A principal hires an agent to sell a laptop.",
+        "The agent cannot secretly sell the laptop to themselves for a cheap price.",
+        "That would violate the duty of loyalty.",
+        "13B. Duty Not to Secretly Profit",
+        "The agent cannot secretly make money from the agency relationship.",
+        "Example",
+        "A buyer offers the agent an extra $500 to convince the principal to accept a bad deal.",
+        "The agent cannot take that money unless the principal knows and agrees.",
+        "13C. Duty Not to Usurp Business Opportunities",
+        "The agent cannot steal an opportunity that belongs to the principal.",
+        "Example",
+        "A real estate agent learns about a great property while working for the principal.",
+        "The agent cannot secretly buy it for themselves if the opportunity should have gone to the principal.",
+        "13D. Duty of Care",
+        "The agent must act with reasonable care, skill, and diligence.",
+        "Example",
+        "If an agent is hired to negotiate a deal, the agent must act like a reasonably careful agent would act in that situation.",
+        "13E. Duty of Obedience",
+        "The agent must follow the principal’s lawful instructions.",
+        "Example",
+        "If the principal says, “Do not sell below $10,000,” the agent cannot sell for $8,000."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Agents owe fiduciary duties to the principal."
+        },
+        {
+          "type": "paragraph",
+          "text": "That means the agent must act loyally and carefully for the principal."
+        },
+        {
+          "type": "subheading",
+          "text": "Main Duties"
+        },
+        {
+          "type": "paragraph",
+          "text": "An agent must:"
+        },
+        {
+          "type": "compact",
+          "text": "Obey lawful instructions."
+        },
+        {
+          "type": "compact",
+          "text": "Use reasonable care."
+        },
+        {
+          "type": "compact",
+          "text": "Give the principal important information."
+        },
+        {
+          "type": "compact",
+          "text": "Act loyally."
+        },
+        {
+          "type": "compact",
+          "text": "Avoid secret profits."
+        },
+        {
+          "type": "compact",
+          "text": "Avoid competing with the principal."
+        },
+        {
+          "type": "compact",
+          "text": "Avoid stealing business opportunities."
+        },
+        {
+          "type": "compact",
+          "text": "Keep the principal’s money separate."
+        },
+        {
+          "type": "compact",
+          "text": "Provide an accounting."
+        },
+        {
+          "type": "subheading",
+          "text": "13A. Duty of Loyalty"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent must act for the benefit of the principal, not for themselves."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A principal hires an agent to sell a laptop."
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent cannot secretly sell the laptop to themselves for a cheap price."
+        },
+        {
+          "type": "paragraph",
+          "text": "That would violate the duty of loyalty."
+        },
+        {
+          "type": "subheading",
+          "text": "13B. Duty Not to Secretly Profit"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent cannot secretly make money from the agency relationship."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A buyer offers the agent an extra $500 to convince the principal to accept a bad deal."
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent cannot take that money unless the principal knows and agrees."
+        },
+        {
+          "type": "subheading",
+          "text": "13C. Duty Not to Usurp Business Opportunities"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent cannot steal an opportunity that belongs to the principal."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A real estate agent learns about a great property while working for the principal."
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent cannot secretly buy it for themselves if the opportunity should have gone to the principal."
+        },
+        {
+          "type": "subheading",
+          "text": "13D. Duty of Care"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent must act with reasonable care, skill, and diligence."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "If an agent is hired to negotiate a deal, the agent must act like a reasonably careful agent would act in that situation."
+        },
+        {
+          "type": "subheading",
+          "text": "13E. Duty of Obedience"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent must follow the principal’s lawful instructions."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the principal says, “Do not sell below $10,000,” the agent cannot sell for $8,000."
+        }
+      ]
+    },
+    {
+      "id": "14-agent-s-liability-to-third-parties",
+      "title": "14. Agent’s Liability to Third Parties",
+      "body": [
+        "Sometimes the agent is personally liable on a contract.",
+        "This depends on whether the principal was:",
+        "Disclosed",
+        "Partially disclosed",
+        "Undisclosed",
+        "14A. Disclosed Principal",
+        "A principal is disclosed when the third party knows:",
+        "The principal exists, and",
+        "The principal’s identity.",
+        "Example",
+        "The agent says:",
+        "“I am signing this contract for Apple.”",
+        "The third party knows the principal is Apple.",
+        "Rule",
+        "If the principal is disclosed, the agent is usually not personally liable on the contract.",
+        "14B. Partially Disclosed Principal",
+        "A principal is partially disclosed when the third party knows there is a principal, but does not know who the principal is.",
+        "Example",
+        "The agent says:",
+        "“I am buying this for a client, but I cannot tell you who.”",
+        "Rule",
+        "If the principal is partially disclosed, the agent is usually personally liable on the contract.",
+        "14C. Undisclosed Principal",
+        "A principal is undisclosed when the third party does not know the agent is acting for someone else.",
+        "Example",
+        "The agent acts like they are buying for themselves, but they are secretly buying for a company.",
+        "Rule",
+        "If the principal is undisclosed, the agent is usually personally liable on the contract."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sometimes the agent is personally liable on a contract."
+        },
+        {
+          "type": "paragraph",
+          "text": "This depends on whether the principal was:"
+        },
+        {
+          "type": "compact",
+          "text": "Disclosed"
+        },
+        {
+          "type": "compact",
+          "text": "Partially disclosed"
+        },
+        {
+          "type": "compact",
+          "text": "Undisclosed"
+        },
+        {
+          "type": "subheading",
+          "text": "14A. Disclosed Principal"
+        },
+        {
+          "type": "paragraph",
+          "text": "A principal is disclosed when the third party knows:"
+        },
+        {
+          "type": "compact",
+          "text": "The principal exists, and"
+        },
+        {
+          "type": "compact",
+          "text": "The principal’s identity."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent says:"
+        },
+        {
+          "type": "quote",
+          "text": "“I am signing this contract for Apple.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third party knows the principal is Apple."
+        },
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the principal is disclosed, the agent is usually not personally liable on the contract."
+        },
+        {
+          "type": "subheading",
+          "text": "14B. Partially Disclosed Principal"
+        },
+        {
+          "type": "paragraph",
+          "text": "A principal is partially disclosed when the third party knows there is a principal, but does not know who the principal is."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent says:"
+        },
+        {
+          "type": "quote",
+          "text": "“I am buying this for a client, but I cannot tell you who.”"
+        },
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the principal is partially disclosed, the agent is usually personally liable on the contract."
+        },
+        {
+          "type": "subheading",
+          "text": "14C. Undisclosed Principal"
+        },
+        {
+          "type": "paragraph",
+          "text": "A principal is undisclosed when the third party does not know the agent is acting for someone else."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agent acts like they are buying for themselves, but they are secretly buying for a company."
+        },
+        {
+          "type": "subheading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the principal is undisclosed, the agent is usually personally liable on the contract."
+        }
+      ]
+    },
+    {
+      "id": "15-easy-memory-tool-for-agent-contract-liability",
+      "title": "15. Easy Memory Tool for Agent Contract Liability",
+      "body": [
+        "Disclosed Principal",
+        "The third party knows the principal exists and knows who the principal is.",
+        "Agent usually not liable.",
+        "Partially Disclosed Principal",
+        "The third party knows there is a principal but does not know who it is.",
+        "Agent usually liable.",
+        "Undisclosed Principal",
+        "The third party does not know there is a principal.",
+        "Agent usually liable.",
+        "Shortcut",
+        "Disclosed = agent usually not liable",
+        "Partially disclosed = agent liable",
+        "Undisclosed = agent liable"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Disclosed Principal"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third party knows the principal exists and knows who the principal is."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agent usually not liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Partially Disclosed Principal"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third party knows there is a principal but does not know who it is."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agent usually liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Undisclosed Principal"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third party does not know there is a principal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agent usually liable."
+        },
+        {
+          "type": "subheading",
+          "text": "Shortcut"
+        },
+        {
+          "type": "compact",
+          "text": "Disclosed = agent usually not liable"
+        },
+        {
+          "type": "compact",
+          "text": "Partially disclosed = agent liable"
+        },
+        {
+          "type": "compact",
+          "text": "Undisclosed = agent liable"
+        }
+      ]
+    },
+    {
+      "id": "16-principal-s-duties-to-the-agent",
+      "title": "16. Principal’s Duties to the Agent",
+      "body": [
+        "The principal also has duties to the agent.",
+        "A principal usually must:",
+        "Treat the agent fairly and in good faith.",
+        "Pay the agent if payment was promised.",
+        "Not interfere with the agent’s work.",
+        "Reimburse the agent for proper expenses.",
+        "Indemnify the agent for authorized lawful acts.",
+        "Provide a safe work environment.",
+        "Important Limitation",
+        "The principal does not have to indemnify the agent for the agent’s own:",
+        "Negligence",
+        "Illegal acts",
+        "Wrongful conduct"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The principal also has duties to the agent."
+        },
+        {
+          "type": "paragraph",
+          "text": "A principal usually must:"
+        },
+        {
+          "type": "compact",
+          "text": "Treat the agent fairly and in good faith."
+        },
+        {
+          "type": "compact",
+          "text": "Pay the agent if payment was promised."
+        },
+        {
+          "type": "compact",
+          "text": "Not interfere with the agent’s work."
+        },
+        {
+          "type": "compact",
+          "text": "Reimburse the agent for proper expenses."
+        },
+        {
+          "type": "compact",
+          "text": "Indemnify the agent for authorized lawful acts."
+        },
+        {
+          "type": "compact",
+          "text": "Provide a safe work environment."
+        },
+        {
+          "type": "subheading",
+          "text": "Important Limitation"
+        },
+        {
+          "type": "paragraph",
+          "text": "The principal does not have to indemnify the agent for the agent’s own:"
+        },
+        {
+          "type": "compact",
+          "text": "Negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Illegal acts"
+        },
+        {
+          "type": "compact",
+          "text": "Wrongful conduct"
+        }
+      ]
+    },
+    {
+      "id": "17-termination-of-agency",
+      "title": "17. Termination of Agency",
+      "body": [
+        "An agency relationship can end in several ways.",
+        "Agency Can End By:",
+        "The principal revoking authority.",
+        "The agent quitting or renouncing authority.",
+        "Agreement between principal and agent.",
+        "A change in circumstances.",
+        "Passage of time.",
+        "Death of the agent.",
+        "Death of the principal.",
+        "Loss of capacity.",
+        "Statutory termination.",
+        "Agent’s breach of fiduciary duty.",
+        "Important MBE Point",
+        "Even if actual authority ends, apparent authority may continue until the third party has notice that the authority ended.",
+        "Example",
+        "A company fires its sales manager but never tells customers.",
+        "A customer who dealt with the manager before may still reasonably believe the manager has authority.",
+        "That can create apparent authority."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An agency relationship can end in several ways."
+        },
+        {
+          "type": "subheading",
+          "text": "Agency Can End By:"
+        },
+        {
+          "type": "compact",
+          "text": "The principal revoking authority."
+        },
+        {
+          "type": "compact",
+          "text": "The agent quitting or renouncing authority."
+        },
+        {
+          "type": "compact",
+          "text": "Agreement between principal and agent."
+        },
+        {
+          "type": "compact",
+          "text": "A change in circumstances."
+        },
+        {
+          "type": "compact",
+          "text": "Passage of time."
+        },
+        {
+          "type": "compact",
+          "text": "Death of the agent."
+        },
+        {
+          "type": "compact",
+          "text": "Death of the principal."
+        },
+        {
+          "type": "compact",
+          "text": "Loss of capacity."
+        },
+        {
+          "type": "compact",
+          "text": "Statutory termination."
+        },
+        {
+          "type": "compact",
+          "text": "Agent’s breach of fiduciary duty."
+        },
+        {
+          "type": "subheading",
+          "text": "Important MBE Point"
+        },
+        {
+          "type": "paragraph",
+          "text": "Even if actual authority ends, apparent authority may continue until the third party has notice that the authority ended."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Example"
+        },
+        {
+          "type": "paragraph",
+          "text": "A company fires its sales manager but never tells customers."
+        },
+        {
+          "type": "paragraph",
+          "text": "A customer who dealt with the manager before may still reasonably believe the manager has authority."
+        },
+        {
+          "type": "paragraph",
+          "text": "That can create apparent authority."
+        }
+      ]
+    },
+    {
+      "id": "18-mbe-attack-plan",
+      "title": "18. MBE Attack Plan",
+      "body": [
+        "When you see an agency question, use this checklist.",
+        "Step 1: Is There an Agency Relationship?",
+        "Ask:",
+        "Did the principal consent?",
+        "Did the agent consent?",
+        "Was the agent acting on behalf of the principal?",
+        "Did the principal have some right of control?",
+        "Step 2: Is This About a Contract or a Tort?",
+        "If it is about a contract, ask:",
+        "Did the agent have actual authority?",
+        "Did the agent have apparent authority?",
+        "Did the principal ratify the contract?",
+        "Is the principal estopped from denying authority?",
+        "If it is about a tort, ask:",
+        "Was the tortfeasor an employee?",
+        "Was the employee acting within the scope of employment?",
+        "Was it a detour or a frolic?",
+        "Was the person an independent contractor?",
+        "Does an exception apply?",
+        "Step 3: Did the Agent Breach a Duty?",
+        "Look for:",
+        "Secret profits",
+        "Self-dealing",
+        "Competing with the principal",
+        "Taking business opportunities",
+        "Hiding information",
+        "Disobeying instructions",
+        "Mixing the principal’s money with personal money"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When you see an agency question, use this checklist."
+        },
+        {
+          "type": "subheading",
+          "text": "Step 1: Is There an Agency Relationship?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask:"
+        },
+        {
+          "type": "compact",
+          "text": "Did the principal consent?"
+        },
+        {
+          "type": "compact",
+          "text": "Did the agent consent?"
+        },
+        {
+          "type": "compact",
+          "text": "Was the agent acting on behalf of the principal?"
+        },
+        {
+          "type": "compact",
+          "text": "Did the principal have some right of control?"
+        },
+        {
+          "type": "subheading",
+          "text": "Step 2: Is This About a Contract or a Tort?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If it is about a contract, ask:"
+        },
+        {
+          "type": "compact",
+          "text": "Did the agent have actual authority?"
+        },
+        {
+          "type": "compact",
+          "text": "Did the agent have apparent authority?"
+        },
+        {
+          "type": "compact",
+          "text": "Did the principal ratify the contract?"
+        },
+        {
+          "type": "compact",
+          "text": "Is the principal estopped from denying authority?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If it is about a tort, ask:"
+        },
+        {
+          "type": "compact",
+          "text": "Was the tortfeasor an employee?"
+        },
+        {
+          "type": "compact",
+          "text": "Was the employee acting within the scope of employment?"
+        },
+        {
+          "type": "compact",
+          "text": "Was it a detour or a frolic?"
+        },
+        {
+          "type": "compact",
+          "text": "Was the person an independent contractor?"
+        },
+        {
+          "type": "compact",
+          "text": "Does an exception apply?"
+        },
+        {
+          "type": "subheading",
+          "text": "Step 3: Did the Agent Breach a Duty?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Look for:"
+        },
+        {
+          "type": "compact",
+          "text": "Secret profits"
+        },
+        {
+          "type": "compact",
+          "text": "Self-dealing"
+        },
+        {
+          "type": "compact",
+          "text": "Competing with the principal"
+        },
+        {
+          "type": "compact",
+          "text": "Taking business opportunities"
+        },
+        {
+          "type": "compact",
+          "text": "Hiding information"
+        },
+        {
+          "type": "compact",
+          "text": "Disobeying instructions"
+        },
+        {
+          "type": "compact",
+          "text": "Mixing the principal’s money with personal money"
+        }
+      ]
+    },
+    {
+      "id": "19-the-one-sentence-version",
+      "title": "19. The One-Sentence Version",
+      "body": [
+        "Agency is about when one person acts for another, and the MBE wants you to decide whether the principal is bound by the agent’s contract, liable for the agent’s tort, or able to sue the agent for disloyal behavior."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Agency is about when one person acts for another, and the MBE wants you to decide whether the principal is bound by the agent’s contract, liable for the agent’s tort, or able to sue the agent for disloyal behavior."
+        }
+      ]
+    },
+    {
+      "id": "20-super-short-memory-chart",
+      "title": "20. Super Short Memory Chart",
+      "body": [
+        "Super Short Memory Chart",
+        "Agency relationship — Was someone acting for someone else under control? — Consent + behalf + control",
+        "Actual authority — What did the principal make the agent believe? — Principal to agent",
+        "Apparent authority — What did the principal make the third party believe? — Principal to third party",
+        "Ratification — Did the principal approve later? — Later approval binds principal",
+        "Employee tort — Was the employee acting within the scope of employment? — Employer may be liable",
+        "Independent contractor tort — Was the worker independent? — Principal usually not liable",
+        "Frolic — Was it a major personal trip? — Employer usually not liable",
+        "Detour — Was it a small side trip? — Employer may be liable",
+        "Disclosed principal — Did the third party know who the principal was? — Agent usually not liable",
+        "Undisclosed principal — Did the third party not know there was a principal? — Agent usually liable"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Super Short Memory Chart"
+        },
+        {
+          "type": "chartRow",
+          "text": "Agency relationship — Was someone acting for someone else under control? — Consent + behalf + control"
+        },
+        {
+          "type": "chartRow",
+          "text": "Actual authority — What did the principal make the agent believe? — Principal to agent"
+        },
+        {
+          "type": "chartRow",
+          "text": "Apparent authority — What did the principal make the third party believe? — Principal to third party"
+        },
+        {
+          "type": "chartRow",
+          "text": "Ratification — Did the principal approve later? — Later approval binds principal"
+        },
+        {
+          "type": "chartRow",
+          "text": "Employee tort — Was the employee acting within the scope of employment? — Employer may be liable"
+        },
+        {
+          "type": "chartRow",
+          "text": "Independent contractor tort — Was the worker independent? — Principal usually not liable"
+        },
+        {
+          "type": "chartRow",
+          "text": "Frolic — Was it a major personal trip? — Employer usually not liable"
+        },
+        {
+          "type": "chartRow",
+          "text": "Detour — Was it a small side trip? — Employer may be liable"
+        },
+        {
+          "type": "chartRow",
+          "text": "Disclosed principal — Did the third party know who the principal was? — Agent usually not liable"
+        },
+        {
+          "type": "chartRow",
+          "text": "Undisclosed principal — Did the third party not know there was a principal? — Agent usually liable"
+        }
+      ]
+    }
+  ]
+}

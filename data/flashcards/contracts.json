@@ -1,0 +1,499 @@
+{
+  "id": "contracts",
+  "title": "Contracts",
+  "subject": "Contracts",
+  "cards": [
+    {
+      "id": "contracts-001-which-body-of-law-applies-to-contracts-for-the-s",
+      "subject": "Contracts",
+      "front": "Which body of law applies to contracts for the sale of goods, defined generally as tangible personal property?",
+      "back": "Article 2 of the Uniform Commercial Code (UCC)."
+    },
+    {
+      "id": "contracts-002-in-contracts-involving-services-or-real-estate-w",
+      "subject": "Contracts",
+      "front": "In contracts involving services or real estate, which legal framework governs the transaction?",
+      "back": "The common law of contracts."
+    },
+    {
+      "id": "contracts-003-under-the-test-a-court-determines-whether-the-uc",
+      "subject": "Contracts",
+      "front": "Under the _____ test, a court determines whether the UCC or common law applies to a contract involving both goods and services.",
+      "back": "Predominant-purpose"
+    },
+    {
+      "id": "contracts-004-if-the-services-aspect-of-a-mixed-transaction-pr",
+      "subject": "Contracts",
+      "front": "If the services aspect of a mixed transaction predominates, which specific UCC provisions still apply to the goods portion?",
+      "back": "Provisions relating to warranties, risk of loss, and tender of nonconforming goods."
+    },
+    {
+      "id": "contracts-005-what-three-elements-are-typically-required-to-cr",
+      "subject": "Contracts",
+      "front": "What three elements are typically required to create a legally enforceable contract?",
+      "back": "Mutual assent, consideration, and the absence of valid defenses."
+    },
+    {
+      "id": "contracts-006-the-theory-of-contracts-determines-intent-based",
+      "subject": "Contracts",
+      "front": "The _____ theory of contracts determines intent based on outward objective facts rather than a party's subjective belief.",
+      "back": "Objective"
+    },
+    {
+      "id": "contracts-007-under-the-objective-theory-of-contracts-when-is",
+      "subject": "Contracts",
+      "front": "Under the objective theory of contracts, when is a contract not formed despite an objective manifestation of intent?",
+      "back": "When the other party knew or should have known that the party lacked actual intent to contract."
+    },
+    {
+      "id": "contracts-008-term-express-contract",
+      "subject": "Contracts",
+      "front": "Term: Express Contract",
+      "back": "Definition: A contract where the parties' intent is stated explicitly in words."
+    },
+    {
+      "id": "contracts-009-term-implied-in-fact-contract",
+      "subject": "Contracts",
+      "front": "Term: Implied in Fact Contract",
+      "back": "Definition: An agreement where conduct, rather than words, indicates assent."
+    },
+    {
+      "id": "contracts-010-what-is-the-legal-definition-of-an-offer",
+      "subject": "Contracts",
+      "front": "What is the legal definition of an 'offer'?",
+      "back": "An objective manifestation of the offeror's willingness to enter an agreement that creates the power of acceptance in the offeree."
+    },
+    {
+      "id": "contracts-011-to-have-the-power-to-accept-an-offer-what-must-t",
+      "subject": "Contracts",
+      "front": "To have the power to accept an offer, what must the offeree possess regarding that offer?",
+      "back": "Knowledge of the offer."
+    },
+    {
+      "id": "contracts-012-list-the-four-essential-terms-required-for-a-con",
+      "subject": "Contracts",
+      "front": "List the four essential terms required for a contract to be sufficiently definite under the common law.",
+      "back": "Parties, subject matter, price, and quantity."
+    },
+    {
+      "id": "contracts-013-under-the-ucc-what-is-the-only-essential-term-th",
+      "subject": "Contracts",
+      "front": "Under the UCC, what is the only essential term that must be specified for a contract to be formed?",
+      "back": "Quantity."
+    },
+    {
+      "id": "contracts-014-under-the-ucc-why-do-requirements-or-output-cont",
+      "subject": "Contracts",
+      "front": "Under the UCC, why do requirements or output contracts satisfy formation requirements without naming a specific quantity?",
+      "back": "The UCC implies a duty of good faith as a contract term."
+    },
+    {
+      "id": "contracts-015-if-an-ongoing-contract-lacks-a-specified-duratio",
+      "subject": "Contracts",
+      "front": "If an ongoing contract lacks a specified duration, what duration will a court generally imply?",
+      "back": "A reasonable period of time."
+    },
+    {
+      "id": "contracts-016-what-is-the-rebuttable-presumption-for-an-employ",
+      "subject": "Contracts",
+      "front": "What is the rebuttable presumption for an employment contract that does not state a duration term?",
+      "back": "The employment is at will."
+    },
+    {
+      "id": "contracts-017-in-an-at-will-employment-relationship-when-can-e",
+      "subject": "Contracts",
+      "front": "In an at-will employment relationship, when can either party terminate the relationship without breaching the contract?",
+      "back": "At any time, provided the termination does not violate public policy."
+    },
+    {
+      "id": "contracts-018-how-do-most-courts-categorize-an-offer-of-perman",
+      "subject": "Contracts",
+      "front": "How do most courts categorize an offer of 'permanent employment' when there is no proven contrary intention?",
+      "back": "As at-will employment, because the term is considered too vague."
+    },
+    {
+      "id": "contracts-019-if-the-parties-intend-to-contract-but-omit-a-ter",
+      "subject": "Contracts",
+      "front": "If the parties intend to contract but omit a term, on what presumption may a court supply a missing term?",
+      "back": "The presumption that the parties intended to include a reasonable term."
+    },
+    {
+      "id": "contracts-020-where-is-the-default-place-for-delivery-under-th",
+      "subject": "Contracts",
+      "front": "Where is the default place for delivery under the UCC if the contract is silent?",
+      "back": "The seller's place of business."
+    },
+    {
+      "id": "contracts-021-under-the-ucc-when-is-the-time-of-payment-if-the",
+      "subject": "Contracts",
+      "front": "Under the UCC, when is the time of payment if the contract does not specify one?",
+      "back": "At the time the buyer is to receive the goods."
+    },
+    {
+      "id": "contracts-022-what-does-the-ucc-supply-if-a-contract-omits-a-p",
+      "subject": "Contracts",
+      "front": "What does the UCC supply if a contract omits a price or the parties fail to agree on a future price?",
+      "back": "A reasonable price at the time of delivery."
+    },
+    {
+      "id": "contracts-023-why-can-a-court-not-supply-a-missing-term-when-t",
+      "subject": "Contracts",
+      "front": "Why can a court not supply a missing term when the contract terms are 'vague' as opposed to 'missing'?",
+      "back": "The parties' intent is unclear, so the presumption of a reasonable term cannot be made."
+    },
+    {
+      "id": "contracts-024-in-a-contract-a-return-promise-is-requested-in-e",
+      "subject": "Contracts",
+      "front": "In a _____ contract, a return promise is requested in exchange for the offeror's promise.",
+      "back": "Bilateral"
+    },
+    {
+      "id": "contracts-025-in-a-contract-the-offeror-requests-the-performan",
+      "subject": "Contracts",
+      "front": "In a _____ contract, the offeror requests the performance of an act rather than a return promise.",
+      "back": "Unilateral"
+    },
+    {
+      "id": "contracts-026-as-a-general-rule-how-are-advertisements-categor",
+      "subject": "Contracts",
+      "front": "As a general rule, how are advertisements categorized in contract law?",
+      "back": "Invitations to deal or receive offers from the public."
+    },
+    {
+      "id": "contracts-027-when-does-an-advertisement-constitute-a-valid-of",
+      "subject": "Contracts",
+      "front": "When does an advertisement constitute a valid offer?",
+      "back": "When it is sufficiently specific and limiting regarding who may accept."
+    },
+    {
+      "id": "contracts-028-if-an-offer-states-it-will-terminate-after-a-spe",
+      "subject": "Contracts",
+      "front": "If an offer states it will terminate after a specified number of days, when does the time generally begin to run?",
+      "back": "From the time the offer is received by the offeree."
+    },
+    {
+      "id": "contracts-029-if-an-offer-is-made-during-a-face-to-face-conver",
+      "subject": "Contracts",
+      "front": "If an offer is made during a face-to-face conversation, when does the power of acceptance ordinarily expire?",
+      "back": "At the end of the conversation."
+    },
+    {
+      "id": "contracts-030-what-is-the-general-effect-of-the-offeror-s-deat",
+      "subject": "Contracts",
+      "front": "What is the general effect of the offeror's death on an outstanding offer?",
+      "back": "The offer terminates immediately upon death."
+    },
+    {
+      "id": "contracts-031-which-type-of-offer-does-not-terminate-upon-the",
+      "subject": "Contracts",
+      "front": "Which type of offer does NOT terminate upon the death or mental incapacity of the offeror?",
+      "back": "An option contract."
+    },
+    {
+      "id": "contracts-032-what-happens-to-a-contract-if-the-offeror-dies-a",
+      "subject": "Contracts",
+      "front": "What happens to a contract if the offeror dies after the offer has already been accepted?",
+      "back": "The contract is generally enforceable unless performance is discharged by a reason like impracticability."
+    },
+    {
+      "id": "contracts-033-term-revocation",
+      "subject": "Contracts",
+      "front": "Term: Revocation",
+      "back": "Definition: The act of withdrawing an offer during contract negotiations prior to acceptance."
+    },
+    {
+      "id": "contracts-034-when-is-a-revocation-sent-via-mail-considered-ef",
+      "subject": "Contracts",
+      "front": "When is a revocation sent via mail considered effective?",
+      "back": "Only upon receipt by the offeree."
+    },
+    {
+      "id": "contracts-035-under-the-ucc-when-does-a-person-receive-notice",
+      "subject": "Contracts",
+      "front": "Under the UCC, when does a person 'receive' notice of a revocation?",
+      "back": "When it comes to their attention or is delivered to their place of business or authorized receipt location."
+    },
+    {
+      "id": "contracts-036-when-does-a-constructive-revocation-of-an-offer",
+      "subject": "Contracts",
+      "front": "When does a constructive revocation of an offer occur?",
+      "back": "When the offeree acquires reliable information that the offeror has taken definite action inconsistent with the offer."
+    },
+    {
+      "id": "contracts-037-term-option-contract",
+      "subject": "Contracts",
+      "front": "Term: Option Contract",
+      "back": "Definition: An independent promise to keep an offer open for a specified period, typically requiring separate consideration."
+    },
+    {
+      "id": "contracts-038-what-are-the-three-requirements-for-a-ucc-firm-o",
+      "subject": "Contracts",
+      "front": "What are the three requirements for a UCC Firm Offer to be irrevocable?",
+      "back": "The offeror is a merchant, there is an assurance the offer remains open, and the assurance is in a signed writing."
+    },
+    {
+      "id": "contracts-039-under-the-ucc-firm-offer-rule-what-is-the-maximu",
+      "subject": "Contracts",
+      "front": "Under the UCC Firm Offer rule, what is the maximum duration an offer can be made irrevocable without consideration?",
+      "back": "Three months."
+    },
+    {
+      "id": "contracts-040-in-the-context-of-the-ucc-firm-offer-rule-how-is",
+      "subject": "Contracts",
+      "front": "In the context of the UCC Firm Offer rule, how is a 'merchant' defined?",
+      "back": "A regular dealer in the goods, someone holding themselves out as having peculiar skill/knowledge, or any businessperson in a commercial transaction."
+    },
+    {
+      "id": "contracts-041-under-what-doctrine-may-an-offeror-be-liable-if",
+      "subject": "Contracts",
+      "front": "Under what doctrine may an offeror be liable if the offeree reasonably and detrimentally relies on a promise before acceptance?",
+      "back": "Promissory estoppel."
+    },
+    {
+      "id": "contracts-042-when-does-an-offer-for-a-unilateral-contract-bec",
+      "subject": "Contracts",
+      "front": "When does an offer for a unilateral contract become irrevocable?",
+      "back": "Once the offeree has begun performance."
+    },
+    {
+      "id": "contracts-043-in-a-bilateral-contract-what-is-the-legal-effect",
+      "subject": "Contracts",
+      "front": "In a bilateral contract, what is the legal effect of the commencement of performance?",
+      "back": "It operates as a promise to render complete performance and constitutes an acceptance."
+    },
+    {
+      "id": "contracts-044-term-general-offer",
+      "subject": "Contracts",
+      "front": "Term: General Offer",
+      "back": "Definition: An offer made to a large number of people, usually through an advertisement."
+    },
+    {
+      "id": "contracts-045-how-must-a-general-offer-be-revoked-to-be-effect",
+      "subject": "Contracts",
+      "front": "How must a general offer be revoked to be effective against potential offerees who did not see the revocation?",
+      "back": "By notice given at least the same level of publicity as the original offer."
+    },
+    {
+      "id": "contracts-046-what-is-the-legal-effect-of-a-counteroffer-on-th",
+      "subject": "Contracts",
+      "front": "What is the legal effect of a counteroffer on the original offer?",
+      "back": "It acts as a rejection of the original offer and creates a new offer."
+    },
+    {
+      "id": "contracts-047-when-is-a-rejection-of-an-offer-generally-effect",
+      "subject": "Contracts",
+      "front": "When is a rejection of an offer generally effective?",
+      "back": "Upon receipt by the offeror."
+    },
+    {
+      "id": "contracts-048-term-acceptance",
+      "subject": "Contracts",
+      "front": "Term: Acceptance",
+      "back": "Definition: An objective manifestation by the offeree to be bound by the terms of the offer."
+    },
+    {
+      "id": "contracts-049-what-is-required-to-form-a-contract-when-an-offe",
+      "subject": "Contracts",
+      "front": "What is required to form a contract when an offer is for a unilateral contract?",
+      "back": "Complete performance by the offeree."
+    },
+    {
+      "id": "contracts-050-if-there-is-doubt-as-to-whether-an-offer-is-unil",
+      "subject": "Contracts",
+      "front": "If there is doubt as to whether an offer is unilateral or bilateral, how may the offeree accept?",
+      "back": "Either by a promise to perform or by actual performance."
+    },
+    {
+      "id": "contracts-051-when-is-a-means-of-acceptance-considered-reasona",
+      "subject": "Contracts",
+      "front": "When is a means of acceptance considered 'reasonable' if not specified by the offeror?",
+      "back": "If it was used by the offeror, is customary in the industry, or was used in prior transactions between the parties."
+    },
+    {
+      "id": "contracts-052-under-what-condition-does-silence-operate-as-an",
+      "subject": "Contracts",
+      "front": "Under what condition does silence operate as an acceptance of an offer?",
+      "back": "When the offeree intends to accept by silence based on reason, or if previous dealings make notification of non-acceptance reasonable."
+    },
+    {
+      "id": "contracts-053-under-the-ucc-what-is-the-effect-of-shipping-non",
+      "subject": "Contracts",
+      "front": "Under the UCC, what is the effect of shipping nonconforming goods in response to an order for prompt shipment?",
+      "back": "It constitutes both an acceptance of the offer and a breach of the resulting contract."
+    },
+    {
+      "id": "contracts-054-how-can-a-seller-ship-nonconforming-goods-withou",
+      "subject": "Contracts",
+      "front": "How can a seller ship nonconforming goods without creating a breach of contract under the UCC?",
+      "back": "By seasonably notifying the buyer that the goods are tendered only as an accommodation."
+    },
+    {
+      "id": "contracts-055-what-is-the-legal-status-of-an-accommodation-shi",
+      "subject": "Contracts",
+      "front": "What is the legal status of an 'accommodation' shipment of nonconforming goods?",
+      "back": "It is a counteroffer that the buyer may accept or reject."
+    },
+    {
+      "id": "contracts-056-state-the-standard-mailbox-rule-regarding-the-ti",
+      "subject": "Contracts",
+      "front": "State the standard Mailbox Rule regarding the timing of an acceptance.",
+      "back": "An acceptance is effective when sent (dispatched) if it is properly addressed and includes correct postage."
+    },
+    {
+      "id": "contracts-057-if-an-offeree-sends-a-rejection-first-and-then-s",
+      "subject": "Contracts",
+      "front": "If an offeree sends a rejection first and then sends an acceptance, which communication prevails?",
+      "back": "Whichever communication the offeror receives first."
+    },
+    {
+      "id": "contracts-058-if-an-offeree-sends-an-acceptance-first-and-then",
+      "subject": "Contracts",
+      "front": "If an offeree sends an acceptance first and then a rejection, when will the rejection prevail over the acceptance?",
+      "back": "Only if the offeror receives the rejection first and detrimentally relies on it."
+    },
+    {
+      "id": "contracts-059-to-which-specific-type-of-contract-does-the-mail",
+      "subject": "Contracts",
+      "front": "To which specific type of contract does the Mailbox Rule NOT apply?",
+      "back": "Option contracts (acceptance must be received before the offer expires)."
+    },
+    {
+      "id": "contracts-060-in-a-unilateral-contract-when-is-the-offeree-req",
+      "subject": "Contracts",
+      "front": "In a unilateral contract, when is the offeree required to give notice of completion to the offeror?",
+      "back": "Only if the offeror would not likely learn of performance in a reasonable time or if the offer specifically requires notice."
+    },
+    {
+      "id": "contracts-061-under-the-ucc-what-happens-if-an-offeree-accepts",
+      "subject": "Contracts",
+      "front": "Under the UCC, what happens if an offeree accepts by beginning performance but fails to notify the offeror within a reasonable time?",
+      "back": "The offer is considered to have lapsed before acceptance."
+    },
+    {
+      "id": "contracts-062-term-mirror-image-rule",
+      "subject": "Contracts",
+      "front": "Term: Mirror-Image Rule",
+      "back": "Definition: A common law rule requiring the acceptance to exactly match the terms of the offer; any change is a rejection."
+    },
+    {
+      "id": "contracts-063-under-the-ucc-when-does-a-confirmation-containin",
+      "subject": "Contracts",
+      "front": "Under the UCC, when does a confirmation containing additional terms NOT result in a contract?",
+      "back": "When the acceptance is expressly conditioned on the offeror's assent to the additional or different terms."
+    },
+    {
+      "id": "contracts-064-if-at-least-one-party-is-not-a-merchant-how-are",
+      "subject": "Contracts",
+      "front": "If at least one party is not a merchant, how are additional terms in a UCC acceptance treated?",
+      "back": "As proposals for addition that must be separately accepted to become part of the contract."
+    },
+    {
+      "id": "contracts-065-between-merchants-an-additional-term-in-an-accep",
+      "subject": "Contracts",
+      "front": "Between merchants, an additional term in an acceptance automatically becomes part of the contract unless it _____ the original agreement.",
+      "back": "Materially alters"
+    },
+    {
+      "id": "contracts-066-in-a-battle-of-the-forms-between-merchants-list",
+      "subject": "Contracts",
+      "front": "In a battle of the forms between merchants, list the three exceptions where an additional term does NOT automatically join the contract.",
+      "back": "Material alteration, offer expressly limits terms, or the offeror objects within a reasonable time."
+    },
+    {
+      "id": "contracts-067-term-knock-out-rule",
+      "subject": "Contracts",
+      "front": "Term: Knock-out Rule",
+      "back": "Definition: A majority rule where different terms in an offer and acceptance nullify each other and are replaced by UCC gap-fillers."
+    },
+    {
+      "id": "contracts-068-what-defines-a-material-alteration-of-a-contract",
+      "subject": "Contracts",
+      "front": "What defines a 'material alteration' of a contract in a UCC battle of the forms?",
+      "back": "A term that results in surprise or hardship if incorporated without the other party's express awareness."
+    },
+    {
+      "id": "contracts-069-term-consideration",
+      "subject": "Contracts",
+      "front": "Term: Consideration",
+      "back": "Definition: A bargained-for benefit received by a promisor from a promisee, evidenced by a change in legal position."
+    },
+    {
+      "id": "contracts-070-under-the-majority-rule-consideration-exists-if",
+      "subject": "Contracts",
+      "front": "Under the Majority Rule, consideration exists if there is a _____ to the promisee.",
+      "back": "Detriment"
+    },
+    {
+      "id": "contracts-071-how-does-the-second-restatement-define-the-exist",
+      "subject": "Contracts",
+      "front": "How does the Second Restatement define the existence of consideration?",
+      "back": "As the simple existence of a bargained-for exchange."
+    },
+    {
+      "id": "contracts-072-why-is-a-promise-to-make-a-gift-generally-unenfo",
+      "subject": "Contracts",
+      "front": "Why is a promise to make a gift generally unenforceable in contract law?",
+      "back": "It lacks bargained-for consideration."
+    },
+    {
+      "id": "contracts-073-is-a-party-s-subjective-desire-for-an-item-relev",
+      "subject": "Contracts",
+      "front": "Is a party's subjective desire for an item relevant to the 'adequacy of consideration' in a contract challenge?",
+      "back": "No, because a difference in economic value is not grounds for finding consideration inadequate."
+    },
+    {
+      "id": "contracts-074-term-preexisting-duty-rule",
+      "subject": "Contracts",
+      "front": "Term: Preexisting-duty Rule",
+      "back": "Definition: A common law rule stating that a promise to perform an act one is already legally bound to do is not consideration."
+    },
+    {
+      "id": "contracts-075-when-is-a-promise-to-perform-a-preexisting-contr",
+      "subject": "Contracts",
+      "front": "When is a promise to perform a preexisting contractual duty considered sufficient consideration?",
+      "back": "When the promise is made to a third party rather than the original counterparty."
+    },
+    {
+      "id": "contracts-076-why-is-past-consideration-generally-insufficient",
+      "subject": "Contracts",
+      "front": "Why is 'past consideration' generally insufficient to support a new contract under common law?",
+      "back": "It could not have been bargained for in exchange for the current promise."
+    },
+    {
+      "id": "contracts-077-term-executory-contract",
+      "subject": "Contracts",
+      "front": "Term: Executory Contract",
+      "back": "Definition: A contract where terms are to be performed by both parties at a later date or in an ongoing manner."
+    },
+    {
+      "id": "contracts-078-what-constitutes-consideration-in-an-executory-c",
+      "subject": "Contracts",
+      "front": "What constitutes consideration in an executory contract?",
+      "back": "The exchange of mutual promises."
+    },
+    {
+      "id": "contracts-079-what-is-required-to-modify-an-existing-contract",
+      "subject": "Contracts",
+      "front": "What is required to modify an existing contract under the common law?",
+      "back": "New consideration."
+    },
+    {
+      "id": "contracts-080-under-the-ucc-what-is-the-primary-requirement-fo",
+      "subject": "Contracts",
+      "front": "Under the UCC, what is the primary requirement for a valid contract modification?",
+      "back": "Good faith (no consideration is required)."
+    },
+    {
+      "id": "contracts-081-under-common-law-when-can-a-contract-be-modified",
+      "subject": "Contracts",
+      "front": "Under common law, when can a contract be modified without new consideration due to performance difficulties?",
+      "back": "When unanticipated difficulties arise and the modification is fair and equitable."
+    },
+    {
+      "id": "contracts-082-term-accord-and-satisfaction",
+      "subject": "Contracts",
+      "front": "Term: Accord and Satisfaction",
+      "back": "Definition: The tender and acceptance of an alternative performance to discharge an existing contractual obligation."
+    }
+  ]
+}

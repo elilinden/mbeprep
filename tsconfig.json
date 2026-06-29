@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
-    "target": "ES2023",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "target": "ES2018",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": false,
     "skipLibCheck": true,
     "strict": true,
@@ -18,9 +22,10 @@
         "name": "next"
       }
     ],
-    "ignoreDeprecations": "6.0",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": [
+        "./*"
+      ]
     }
   },
   "include": [
@@ -28,15 +33,9 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "vitest.setup.ts",
     ".next/dev/types/**/*.ts"
   ],
   "exclude": [
-    "node_modules",
-    "node_modules.corrupt*",
-    ".next-stale*",
-    "coverage",
-    "playwright-report",
-    "test-results"
+    "node_modules"
   ]
 }

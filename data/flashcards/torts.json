@@ -1,0 +1,511 @@
+{
+  "id": "torts",
+  "title": "Torts",
+  "subject": "Torts",
+  "cards": [
+    {
+      "id": "torts-001-what-are-the-three-essential-elements-of-a-prima",
+      "subject": "Torts",
+      "front": "What are the three essential elements of a prima facie case for any intentional tort?",
+      "back": "i) Tortious conduct, ii) Requisite mental state (intent), and iii) Causation."
+    },
+    {
+      "id": "torts-002-for-the-tort-of-assault-what-must-the-defendant",
+      "subject": "Torts",
+      "front": "For the tort of assault, what must the defendant intend the plaintiff to anticipate?",
+      "back": "An imminent harmful or offensive contact with the plaintiff's person."
+    },
+    {
+      "id": "torts-003-is-coming-to-the-nuisance-a-complete-defense-to",
+      "subject": "Torts",
+      "front": "Is 'coming to the nuisance' a complete defense to a private nuisance action?",
+      "back": "No, but it is a factor the jury may consider in determining if the interference is unreasonable."
+    },
+    {
+      "id": "torts-004-under-the-third-restatement-what-two-conditions",
+      "subject": "Torts",
+      "front": "Under the Third Restatement, what two conditions define a defendant acting 'intentionally'?",
+      "back": "Acting with the purpose of causing a consequence or knowing the consequence is substantially certain to result."
+    },
+    {
+      "id": "torts-005-is-a-person-who-hires-an-independent-contractor",
+      "subject": "Torts",
+      "front": "Is a person who hires an independent contractor generally liable for the contractor's torts?",
+      "back": "No, subject to exceptions like nondelegable duties or abnormally dangerous activities."
+    },
+    {
+      "id": "torts-006-what-are-the-three-core-requirements-for-liabili",
+      "subject": "Torts",
+      "front": "What are the three core requirements for liability in false imprisonment?",
+      "back": "i) Intent to confine; ii) Conduct causing confinement or failure to release; and iii) Plaintiff’s consciousness of or harm from confinement."
+    },
+    {
+      "id": "torts-007-under-the-bystander-rule-for-iied-what-is-requir",
+      "subject": "Torts",
+      "front": "Under the 'bystander rule' for IIED, what is required for a close family member to recover?",
+      "back": "They must contemporaneously perceive the defendant's extreme and outrageous conduct."
+    },
+    {
+      "id": "torts-008-rule-respondeat-superior",
+      "subject": "Torts",
+      "front": "Rule: Respondeat Superior",
+      "back": "Definition: An employer is vicariously liable for an employee's torts committed within the scope of employment."
+    },
+    {
+      "id": "torts-009-under-the-fresh-pursuit-exception-when-can-a-def",
+      "subject": "Torts",
+      "front": "Under the 'fresh pursuit' exception, when can a defendant use force to regain personal property?",
+      "back": "When the property was wrongfully taken and the defendant acts promptly to recover it."
+    },
+    {
+      "id": "torts-010-true-or-false-a-plaintiff-must-feel-fear-to-reco",
+      "subject": "Torts",
+      "front": "True or False: A plaintiff must feel fear to recover for assault.",
+      "back": "False (they only need to anticipate or apprehend the contact)."
+    },
+    {
+      "id": "torts-011-what-is-contribution-in-the-context-of-multiple",
+      "subject": "Torts",
+      "front": "What is 'contribution' in the context of multiple tortfeasors?",
+      "back": "The right of a defendant who paid more than their fair share to recover the excess from other liable defendants."
+    },
+    {
+      "id": "torts-012-rule-last-clear-chance-doctrine",
+      "subject": "Torts",
+      "front": "Rule: Last Clear Chance Doctrine",
+      "back": "Definition: In contributory negligence jurisdictions, a negligent plaintiff can recover if the defendant had the final opportunity to avoid the harm and failed to do so."
+    },
+    {
+      "id": "torts-013-what-are-the-four-elements-of-intentional-inflic",
+      "subject": "Torts",
+      "front": "What are the four elements of intentional infliction of emotional distress (IIED)?",
+      "back": "i) Extreme and outrageous conduct; ii) Intent or recklessness; iii) Causation; and iv) Severe emotional distress."
+    },
+    {
+      "id": "torts-014-under-the-majority-rule-for-assault-is-the-stand",
+      "subject": "Torts",
+      "front": "Under the majority rule for assault, is the standard for 'anticipation' objective or subjective?",
+      "back": "Objective (the anticipation must be reasonable for a person of ordinary courage)."
+    },
+    {
+      "id": "torts-015-a-defendant-is-not-liable-for-an-intentional-tor",
+      "subject": "Torts",
+      "front": "A defendant is not liable for an intentional tort if the plaintiff gave _____ consent.",
+      "back": "Legally effective"
+    },
+    {
+      "id": "torts-016-what-is-nondeadly-force",
+      "subject": "Torts",
+      "front": "What is 'nondeadly force'?",
+      "back": "Force that is neither intended nor likely to cause death or serious bodily harm."
+    },
+    {
+      "id": "torts-017-may-a-defendant-use-deadly-force-solely-to-prote",
+      "subject": "Torts",
+      "front": "May a defendant use deadly force solely to protect personal property from intrusion?",
+      "back": "No."
+    },
+    {
+      "id": "torts-018-concept-offensive-contact-battery",
+      "subject": "Torts",
+      "front": "Concept: Offensive Contact (Battery)",
+      "back": "Definition: Contact that a person of ordinary sensibilities would find offensive, or contact the defendant knows is highly offensive to the specific plaintiff."
+    },
+    {
+      "id": "torts-019-what-defines-harmful-contact-in-the-context-of-b",
+      "subject": "Torts",
+      "front": "What defines 'harmful contact' in the context of battery?",
+      "back": "Contact causing physical injury, illness, disease, impairment of bodily function, or death."
+    },
+    {
+      "id": "torts-020-when-do-mere-words-satisfy-the-conduct-requireme",
+      "subject": "Torts",
+      "front": "When do 'mere words' satisfy the conduct requirement for assault?",
+      "back": "When coupled with other acts or circumstances that cause a reasonable anticipation of imminent contact."
+    },
+    {
+      "id": "torts-021-what-standard-must-a-public-figure-meet-to-recov",
+      "subject": "Torts",
+      "front": "What standard must a public figure meet to recover for IIED based on a publication?",
+      "back": "They must show the publication contained a false statement of fact made with 'actual malice.'"
+    },
+    {
+      "id": "torts-022-under-the-emergency-doctrine-when-is-consent-to",
+      "subject": "Torts",
+      "front": "Under the 'emergency doctrine,' when is consent to medical treatment presumed?",
+      "back": "When conduct is necessary to prevent a risk to life or health and obtaining actual consent is impracticable."
+    },
+    {
+      "id": "torts-023-what-is-the-primary-difference-between-trespass",
+      "subject": "Torts",
+      "front": "What is the primary difference between 'trespass to chattels' and 'conversion'?",
+      "back": "The degree of seriousness of the interference with the plaintiff's right of possession."
+    },
+    {
+      "id": "torts-024-what-is-the-alternative-causation-doctrine-e-g-s",
+      "subject": "Torts",
+      "front": "What is the 'alternative causation' doctrine (e.g., Summers v. Tice)?",
+      "back": "When multiple defendants are tortious but it is unclear which one caused the harm, the burden shifts to each defendant to prove they did not cause it."
+    },
+    {
+      "id": "torts-025-how-is-the-standard-of-care-adjusted-for-a-defen",
+      "subject": "Torts",
+      "front": "How is the standard of care adjusted for a defendant with a physical disability?",
+      "back": "They are held to the standard of a reasonably careful person with the same disability."
+    },
+    {
+      "id": "torts-026-what-is-the-procedural-effect-of-successfully-pl",
+      "subject": "Torts",
+      "front": "What is the procedural effect of successfully pleading 'res ipsa loquitur'?",
+      "back": "It creates an inference of negligence sufficient to avoid a directed verdict, letting the case go to the jury."
+    },
+    {
+      "id": "torts-027-to-which-specific-torts-does-the-doctrine-of-tra",
+      "subject": "Torts",
+      "front": "To which specific torts does the doctrine of transferred intent generally NOT apply?",
+      "back": "Intentional infliction of emotional distress (under most circumstances) and torts involving harm to property."
+    },
+    {
+      "id": "torts-028-what-is-the-measure-of-damages-for-conversion",
+      "subject": "Torts",
+      "front": "What is the measure of damages for conversion?",
+      "back": "The full fair market value of the chattel at the time of the conversion."
+    },
+    {
+      "id": "torts-029-what-is-the-difference-between-a-wrongful-death",
+      "subject": "Torts",
+      "front": "What is the difference between a 'wrongful-death action' and a 'survival action'?",
+      "back": "Wrongful-death recovers losses of survivors (e.g., support); survival actions pursue claims the decedent had at death (e.g., pain and suffering)."
+    },
+    {
+      "id": "torts-030-what-are-the-five-requirements-of-the-attractive",
+      "subject": "Torts",
+      "front": "What are the five requirements of the 'attractive nuisance' doctrine?",
+      "back": "i) Dangerous artificial condition; ii) Known/likely child trespassers; iii) Child cannot appreciate danger; iv) Slight burden to fix vs. risk; v) Failure to exercise reasonable care."
+    },
+    {
+      "id": "torts-031-under-the-doctrine-of-private-necessity-is-a-def",
+      "subject": "Torts",
+      "front": "Under the doctrine of 'private necessity,' is a defendant liable for nominal damages for trespassing?",
+      "back": "No, but they are liable for any actual damages caused to the property."
+    },
+    {
+      "id": "torts-032-under-the-majority-single-intent-rule-for-batter",
+      "subject": "Torts",
+      "front": "Under the majority 'single-intent' rule for battery, what must the defendant intend?",
+      "back": "The defendant need only intend to cause a contact."
+    },
+    {
+      "id": "torts-033-how-do-professionals-e-g-doctors-establish-the-s",
+      "subject": "Torts",
+      "front": "How do professionals (e.g., doctors) establish the standard of care in a negligence case?",
+      "back": "Through expert testimony regarding the skill and care of an ordinary practitioner in the same community/specialty."
+    },
+    {
+      "id": "torts-034-what-duty-does-a-gratuitous-bailor-owe-to-a-bail",
+      "subject": "Torts",
+      "front": "What duty does a 'gratuitous bailor' owe to a bailee regarding property defects?",
+      "back": "A duty to inform the bailee of known dangerous defects."
+    },
+    {
+      "id": "torts-035-rule-negligence-per-se",
+      "subject": "Torts",
+      "front": "Rule: Negligence Per Se",
+      "back": "Definition: A violation of a statute constitutes negligence as a matter of law if the plaintiff is in the protected class and the harm is the type the statute intended to prevent."
+    },
+    {
+      "id": "torts-036-when-does-a-psychotherapist-have-an-affirmative",
+      "subject": "Torts",
+      "front": "When does a psychotherapist have an affirmative duty to warn a third party?",
+      "back": "When a patient has made a credible, serious threat of physical violence against an ascertainable victim."
+    },
+    {
+      "id": "torts-037-under-the-majority-stand-your-ground-laws-when-c",
+      "subject": "Torts",
+      "front": "Under the majority 'Stand Your Ground' laws, when can a defendant use deadly force?",
+      "back": "When they reasonably believe it is necessary to prevent death, serious bodily harm, or rape, without a duty to retreat."
+    },
+    {
+      "id": "torts-038-what-three-elements-are-required-for-a-bystander",
+      "subject": "Torts",
+      "front": "What three elements are required for a 'bystander' to recover for Negligent Infliction of Emotional Distress (NIED)?",
+      "back": "i) Close relation to the victim; ii) Presence at the scene; and iii) Personal observation/perception of the injury."
+    },
+    {
+      "id": "torts-039-what-is-the-primary-difference-between-the-secon",
+      "subject": "Torts",
+      "front": "What is the primary difference between the Second and Third Restatements regarding the effect of an assault?",
+      "back": "The Second Restatement uses the term 'apprehend,' while the Third Restatement uses 'anticipate.'"
+    },
+    {
+      "id": "torts-040-concept-merchant-s-privilege",
+      "subject": "Torts",
+      "front": "Concept: Merchant’s Privilege",
+      "back": "Definition: A merchant may use reasonable, nondeadly force to detain a person for a reasonable time to investigate suspected theft on the premises."
+    },
+    {
+      "id": "torts-041-standard-of-care-the-reasonably-prudent-person-r",
+      "subject": "Torts",
+      "front": "Standard of Care: The Reasonably Prudent Person (RPP)",
+      "back": "An objective standard measured by how a person of ordinary prudence would act under the same circumstances."
+    },
+    {
+      "id": "torts-042-in-most-jurisdictions-is-there-a-duty-to-retreat",
+      "subject": "Torts",
+      "front": "In most jurisdictions, is there a 'duty to retreat' before using nondeadly force in self-defense?",
+      "back": "No."
+    },
+    {
+      "id": "torts-043-list-the-four-elements-of-a-prima-facie-case-of",
+      "subject": "Torts",
+      "front": "List the four elements of a prima facie case of negligence.",
+      "back": "i) Duty, ii) Breach, iii) Causation, and iv) Damages."
+    },
+    {
+      "id": "torts-044-rule-collateral-source-rule",
+      "subject": "Torts",
+      "front": "Rule: Collateral-Source Rule",
+      "back": "Definition: Payments made to a plaintiff from outside sources (like insurance) are not credited against the defendant's liability."
+    },
+    {
+      "id": "torts-045-in-false-imprisonment-how-does-a-plaintiff-s-sub",
+      "subject": "Torts",
+      "front": "In false imprisonment, how does a plaintiff's submission to an assertion of legal authority affect liability?",
+      "back": "It constitutes confinement if the plaintiff believes they have a duty to comply or will face adverse consequences for failure to comply."
+    },
+    {
+      "id": "torts-046-concept-superseding-cause",
+      "subject": "Torts",
+      "front": "Concept: Superseding Cause",
+      "back": "Definition: An unforeseeable intervening event that breaks the chain of proximate causation, relieving the original defendant of liability."
+    },
+    {
+      "id": "torts-047-a-defendant-is-liable-for-battery-if-they-intend",
+      "subject": "Torts",
+      "front": "A defendant is liable for battery if they intend to cause a contact, their conduct causes contact, and the contact is either _____ or _____.",
+      "back": "Harmful; offensive"
+    },
+    {
+      "id": "torts-048-rule-thin-skull-rule",
+      "subject": "Torts",
+      "front": "Rule: Thin-Skull Rule",
+      "back": "Definition: A defendant is liable for the full extent of damages caused by their tortious act, even if the extent is unforeseeable due to a plaintiff's vulnerability."
+    },
+    {
+      "id": "torts-049-does-a-plaintiff-s-knowledge-of-a-safe-and-reaso",
+      "subject": "Torts",
+      "front": "Does a plaintiff's knowledge of a safe and reasonable exit preclude a claim for false imprisonment?",
+      "back": "Yes."
+    },
+    {
+      "id": "torts-050-what-must-a-private-plaintiff-prove-to-recover-f",
+      "subject": "Torts",
+      "front": "What must a private plaintiff prove to recover for a 'public nuisance'?",
+      "back": "That they suffered a harm different in kind from that suffered by the general public."
+    },
+    {
+      "id": "torts-051-under-public-necessity-when-is-a-defendant-s-pri",
+      "subject": "Torts",
+      "front": "Under 'public necessity,' when is a defendant's privilege to destroy private property absolute?",
+      "back": "When it is reasonably necessary to protect a large number of people from a public calamity."
+    },
+    {
+      "id": "torts-052-in-negligence-what-is-the-proximate-cause-requir",
+      "subject": "Torts",
+      "front": "In negligence, what is the 'proximate cause' requirement?",
+      "back": "The plaintiff's harm must be a foreseeable result of the defendant's conduct."
+    },
+    {
+      "id": "torts-053-does-a-defendant-need-to-know-they-are-on-anothe",
+      "subject": "Torts",
+      "front": "Does a defendant need to know they are on another's property to be liable for 'trespass to land'?",
+      "back": "No; they only need the intent to enter the land."
+    },
+    {
+      "id": "torts-054-how-does-pure-comparative-negligence-affect-a-pl",
+      "subject": "Torts",
+      "front": "How does 'pure comparative negligence' affect a plaintiff's recovery?",
+      "back": "The plaintiff's damages are reduced by their percentage of fault, regardless of how high that percentage is."
+    },
+    {
+      "id": "torts-055-in-assault-what-defines-the-requirement-of-immin",
+      "subject": "Torts",
+      "front": "In assault, what defines the requirement of 'imminence'?",
+      "back": "The threatened harm must be expected without significant delay."
+    },
+    {
+      "id": "torts-056-what-is-the-castle-doctrine",
+      "subject": "Torts",
+      "front": "What is the 'Castle Doctrine'?",
+      "back": "The rule that there is no duty to retreat from an attacker in one’s own home."
+    },
+    {
+      "id": "torts-057-what-is-the-majority-cardozo-view-on-the-foresee",
+      "subject": "Torts",
+      "front": "What is the majority (Cardozo) view on the 'foreseeability of the plaintiff'?",
+      "back": "A duty of care is owed only to plaintiffs located within the 'zone of foreseeable harm.'"
+    },
+    {
+      "id": "torts-058-in-vicarious-liability-what-is-the-difference-be",
+      "subject": "Torts",
+      "front": "In vicarious liability, what is the difference between a 'detour' and a 'frolic'?",
+      "back": "A detour is a minor deviation (employer liable); a frolic is a substantial deviation (employer not liable)."
+    },
+    {
+      "id": "torts-059-does-a-plaintiff-need-to-be-aware-of-the-contact",
+      "subject": "Torts",
+      "front": "Does a plaintiff need to be aware of the contact at the time it occurs to recover for battery?",
+      "back": "No."
+    },
+    {
+      "id": "torts-060-what-constitutes-contact-with-a-plaintiff-s-pers",
+      "subject": "Torts",
+      "front": "What constitutes contact with a 'plaintiff’s person' for battery purposes?",
+      "back": "Anything connected to the person, such as clothing, a pet on a leash, or a bicycle being ridden."
+    },
+    {
+      "id": "torts-061-in-the-majority-of-jurisdictions-who-bears-the-b",
+      "subject": "Torts",
+      "front": "In the majority of jurisdictions, who bears the burden of proof regarding lack of consent in a battery case?",
+      "back": "The plaintiff."
+    },
+    {
+      "id": "torts-062-in-self-defense-a-defendant-may-use-force-that-t",
+      "subject": "Torts",
+      "front": "In self-defense, a defendant may use force that they reasonably believe is both _____ and _____.",
+      "back": "Necessary; proportionate"
+    },
+    {
+      "id": "torts-063-traditional-rule-duty-to-an-invitee",
+      "subject": "Torts",
+      "front": "Traditional Rule: Duty to an Invitee",
+      "back": "The land possessor must exercise reasonable care to inspect the property, discover dangers, and protect the invitee."
+    },
+    {
+      "id": "torts-064-under-the-public-duty-rule-when-is-a-municipalit",
+      "subject": "Torts",
+      "front": "Under the 'public-duty rule,' when is a municipality liable for failing to fulfill a duty to the general public?",
+      "back": "Only when a 'special relationship' exists between the municipality and the injured citizen."
+    },
+    {
+      "id": "torts-065-in-a-modified-comparative-fault-jurisdiction-whe",
+      "subject": "Torts",
+      "front": "In a 'modified comparative fault' jurisdiction, when is a plaintiff completely barred from recovery?",
+      "back": "When the plaintiff's fault exceeds a specific threshold (usually $50\\%$ or $51\\%$)."
+    },
+    {
+      "id": "torts-066-under-the-firefighter-s-rule-what-prevents-emerg",
+      "subject": "Torts",
+      "front": "Under the 'firefighter’s rule,' what prevents emergency professionals from recovering for injuries?",
+      "back": "The fact that the injury resulted from a risk inherent in their job."
+    },
+    {
+      "id": "torts-067-true-or-false-subsequent-medical-malpractice-is",
+      "subject": "Torts",
+      "front": "True or False: Subsequent medical malpractice is generally considered a superseding cause.",
+      "back": "False (it is considered a foreseeable intervening cause)."
+    },
+    {
+      "id": "torts-068-when-is-apparent-consent-a-valid-defense",
+      "subject": "Torts",
+      "front": "When is 'apparent consent' a valid defense?",
+      "back": "When the defendant reasonably believes the plaintiff actually consents, even if the plaintiff does not."
+    },
+    {
+      "id": "torts-069-what-conditions-allow-a-parent-to-use-force-agai",
+      "subject": "Torts",
+      "front": "What conditions allow a parent to use force against their minor child without tort liability?",
+      "back": "The force must be reasonable and used to discipline, educate, or promote the child's welfare."
+    },
+    {
+      "id": "torts-070-how-is-extreme-and-outrageous-conduct-defined-fo",
+      "subject": "Torts",
+      "front": "How is 'extreme and outrageous conduct' defined for IIED?",
+      "back": "Conduct exceeding all possible limits of human decency so as to be intolerable in a civilized society."
+    },
+    {
+      "id": "torts-071-traditional-rule-duty-to-a-licensee",
+      "subject": "Torts",
+      "front": "Traditional Rule: Duty to a Licensee",
+      "back": "The land possessor must warn of or correct concealed dangers known to the possessor; there is no duty to inspect."
+    },
+    {
+      "id": "torts-072-name-four-methods-of-confinement-that-can-consti",
+      "subject": "Torts",
+      "front": "Name four methods of confinement that can constitute false imprisonment.",
+      "back": "Physical barriers, physical force/restraint, threats of force, or duress."
+    },
+    {
+      "id": "torts-073-what-defines-a-private-nuisance",
+      "subject": "Torts",
+      "front": "What defines a 'private nuisance'?",
+      "back": "A thing or activity that substantially and unreasonably interferes with another's use and enjoyment of land."
+    },
+    {
+      "id": "torts-074-can-a-plaintiff-recover-nominal-damages-in-a-neg",
+      "subject": "Torts",
+      "front": "Can a plaintiff recover nominal damages in a negligence action?",
+      "back": "No; actual physical harm or property damage is required."
+    },
+    {
+      "id": "torts-075-when-might-abusive-language-that-is-usually-non",
+      "subject": "Torts",
+      "front": "When might abusive language that is usually non-actionable satisfy the 'outrageous' standard for IIED?",
+      "back": "When the defendant is in a position of authority or the plaintiff belongs to a known vulnerable group."
+    },
+    {
+      "id": "torts-076-what-is-exculpatory-clause-assumption-of-the-ris",
+      "subject": "Torts",
+      "front": "What is 'exculpatory clause' assumption of the risk?",
+      "back": "An express agreement, usually in a contract, where a party agrees to disclaim liability for negligence."
+    },
+    {
+      "id": "torts-077-under-the-but-for-test-when-is-a-defendant-s-con",
+      "subject": "Torts",
+      "front": "Under the 'but-for' test, when is a defendant's conduct the factual cause of harm?",
+      "back": "When the injury would not have occurred without the defendant's negligent conduct."
+    },
+    {
+      "id": "torts-078-doctrine-transferred-intent",
+      "subject": "Torts",
+      "front": "Doctrine: Transferred Intent",
+      "back": "Definition: Intent to commit a tort against one person satisfies the intent requirement when the tort is committed against a different person."
+    },
+    {
+      "id": "torts-079-what-is-the-standard-of-care-for-a-child-engaged",
+      "subject": "Torts",
+      "front": "What is the standard of care for a child engaged in an adult activity, such as driving a car?",
+      "back": "The same standard of care as an adult."
+    },
+    {
+      "id": "torts-080-rule-joint-and-several-liability",
+      "subject": "Torts",
+      "front": "Rule: Joint and Several Liability",
+      "back": "Definition: Each of two or more tortfeasors liable for an indivisible harm is subject to liability for the entire amount of the judgment."
+    },
+    {
+      "id": "torts-081-how-does-apparent-ability-affect-liability-for-a",
+      "subject": "Torts",
+      "front": "How does 'apparent ability' affect liability for assault?",
+      "back": "A defendant can be liable if they appear to have the ability to cause harm, even if they actually do not (e.g., using a toy gun)."
+    },
+    {
+      "id": "torts-082-under-the-minority-dual-intent-rule-for-battery",
+      "subject": "Torts",
+      "front": "Under the minority 'dual-intent' rule for battery, what two things must the defendant intend?",
+      "back": "To cause a contact and that the contact be harmful or offensive."
+    },
+    {
+      "id": "torts-083-how-is-intent-established-for-a-minor-or-mentall",
+      "subject": "Torts",
+      "front": "How is 'intent' established for a minor or mentally impaired individual in most jurisdictions?",
+      "back": "They are held liable if they act with the requisite mental state, regardless of age or impairment."
+    },
+    {
+      "id": "torts-084-when-do-courts-apply-the-substantial-factor-test",
+      "subject": "Torts",
+      "front": "When do courts apply the 'substantial factor' test for factual causation?",
+      "back": "When multiple acts occur, any of which alone would have caused the indivisible injury."
+    }
+  ]
+}

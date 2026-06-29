@@ -1,0 +1,307 @@
+{
+  "id": "partnerships",
+  "title": "Partnerships",
+  "subject": "Partnerships",
+  "cards": [
+    {
+      "id": "partnerships-001-what-is-the-legal-definition-of-a-partnership-un",
+      "subject": "Partnerships",
+      "front": "What is the legal definition of a partnership under RUPA?",
+      "back": "An association of two or more persons to carry on as co-owners a business for profit."
+    },
+    {
+      "id": "partnerships-002-what-is-the-requirement-for-formal-documentation",
+      "subject": "Partnerships",
+      "front": "What is the requirement for formal documentation or 'magic words' to form a general partnership?",
+      "back": "There is no requirement for a written agreement or specific language to form a partnership."
+    },
+    {
+      "id": "partnerships-003-how-does-the-law-determine-if-a-partnership-exis",
+      "subject": "Partnerships",
+      "front": "How does the law determine if a partnership exists when the parties' labels contradict their actions?",
+      "back": "The law prioritizes the actual conduct of the parties over the labels they use for themselves."
+    },
+    {
+      "id": "partnerships-004-what-legal-presumption-arises-when-two-or-more-p",
+      "subject": "Partnerships",
+      "front": "What legal presumption arises when two or more people share the profits of a business?",
+      "back": "Sharing profits creates a presumption that the individuals have formed a partnership."
+    },
+    {
+      "id": "partnerships-005-how-does-sharing-gross-revenue-differ-from-shari",
+      "subject": "Partnerships",
+      "front": "How does sharing 'gross revenue' differ from sharing 'profits' regarding partnership formation?",
+      "back": "Sharing gross revenue does not automatically create a presumption of partnership, whereas sharing profits does."
+    },
+    {
+      "id": "partnerships-006-under-the-mnemonic-drawing-name-one-instance-whe",
+      "subject": "Partnerships",
+      "front": "Under the mnemonic 'DRAWING', name one instance where profit sharing does NOT create a partnership presumption.",
+      "back": "Profit sharing used for debt payments, rent, annuities, wages, interest, or goodwill does not presume partnership."
+    },
+    {
+      "id": "partnerships-007-why-is-joint-ownership-of-property-alone-insuffi",
+      "subject": "Partnerships",
+      "front": "Why is joint ownership of property alone insufficient to establish a partnership?",
+      "back": "Joint ownership does not necessarily mean the owners are carrying on a business together for profit."
+    },
+    {
+      "id": "partnerships-008-what-is-the-doctrine-of-partner-by-estoppel",
+      "subject": "Partnerships",
+      "front": "What is the doctrine of 'partner by estoppel'?",
+      "back": "A person is liable as a partner if they represent themselves as one and a third party reasonably relies on that representation."
+    },
+    {
+      "id": "partnerships-009-how-does-rupa-characterize-the-legal-status-of-a",
+      "subject": "Partnerships",
+      "front": "How does RUPA characterize the legal status of a partnership in relation to its partners?",
+      "back": "A partnership is a separate legal entity distinct from the individual partners."
+    },
+    {
+      "id": "partnerships-010-what-is-the-default-rule-regarding-the-personal",
+      "subject": "Partnerships",
+      "front": "What is the default rule regarding the personal liability of general partners for partnership debts?",
+      "back": "General partners are personally, jointly, and severally liable for all partnership obligations."
+    },
+    {
+      "id": "partnerships-011-to-what-extent-can-a-partnership-agreement-waive",
+      "subject": "Partnerships",
+      "front": "To what extent can a partnership agreement waive the duty of loyalty or good faith?",
+      "back": "A partnership agreement generally cannot completely eliminate the mandatory duties of loyalty or good faith."
+    },
+    {
+      "id": "partnerships-012-under-what-circumstances-can-a-single-partner-bi",
+      "subject": "Partnerships",
+      "front": "Under what circumstances can a single partner bind the partnership to a contract?",
+      "back": "A partner binds the partnership when acting with actual or apparent authority for partnership business."
+    },
+    {
+      "id": "partnerships-013-define-actual-authority-within-the-context-of-a",
+      "subject": "Partnerships",
+      "front": "Define 'actual authority' within the context of a partnership.",
+      "back": "Actual authority is the permission specifically granted to a partner by the partnership."
+    },
+    {
+      "id": "partnerships-014-define-apparent-authority-regarding-a-partner-s",
+      "subject": "Partnerships",
+      "front": "Define 'apparent authority' regarding a partner's interactions with third parties.",
+      "back": "Apparent authority exists when a third party reasonably believes a partner is authorized because the act is in the ordinary course of business."
+    },
+    {
+      "id": "partnerships-015-what-is-the-voting-requirement-for-decisions-inv",
+      "subject": "Partnerships",
+      "front": "What is the voting requirement for decisions involving ordinary partnership business?",
+      "back": "Decisions on ordinary business matters require the consent of a majority of the partners."
+    },
+    {
+      "id": "partnerships-016-what-is-the-voting-requirement-for-decisions-inv",
+      "subject": "Partnerships",
+      "front": "What is the voting requirement for decisions involving extraordinary partnership business?",
+      "back": "Decisions on extraordinary business matters require the unanimous consent of all partners."
+    },
+    {
+      "id": "partnerships-017-how-are-management-rights-distributed-among-part",
+      "subject": "Partnerships",
+      "front": "How are management rights distributed among partners if the partnership agreement is silent?",
+      "back": "Each partner has equal management rights regardless of the amount of capital they contributed."
+    },
+    {
+      "id": "partnerships-018-what-is-the-default-rule-for-sharing-profits-if",
+      "subject": "Partnerships",
+      "front": "What is the default rule for sharing profits if the partnership agreement does not specify a split?",
+      "back": "Profits are shared equally among all partners."
+    },
+    {
+      "id": "partnerships-019-how-are-partnership-losses-shared-if-the-agreeme",
+      "subject": "Partnerships",
+      "front": "How are partnership losses shared if the agreement only specifies the distribution of profits?",
+      "back": "Losses are shared in the same proportion as profits."
+    },
+    {
+      "id": "partnerships-020-what-is-the-default-rule-regarding-partner-compe",
+      "subject": "Partnerships",
+      "front": "What is the default rule regarding partner compensation for labor performed for the partnership?",
+      "back": "Partners are generally not entitled to a salary unless there is an agreement to the contrary."
+    },
+    {
+      "id": "partnerships-021-when-is-a-partner-legally-entitled-to-reasonable",
+      "subject": "Partnerships",
+      "front": "When is a partner legally entitled to 'reasonable compensation' for services rendered?",
+      "back": "A partner may receive reasonable compensation for services rendered in winding up the partnership business."
+    },
+    {
+      "id": "partnerships-022-what-is-the-partnership-s-obligation-when-a-part",
+      "subject": "Partnerships",
+      "front": "What is the partnership's obligation when a partner spends personal money on ordinary business supplies?",
+      "back": "The partnership must reimburse the partner for expenses incurred in the ordinary course of business."
+    },
+    {
+      "id": "partnerships-023-what-is-indemnification-in-the-context-of-partne",
+      "subject": "Partnerships",
+      "front": "What is 'indemnification' in the context of partner liability?",
+      "back": "Indemnification is the partnership's duty to cover a loss or liability incurred by a partner doing partnership business."
+    },
+    {
+      "id": "partnerships-024-who-owns-property-that-is-purchased-using-partne",
+      "subject": "Partnerships",
+      "front": "Who owns property that is purchased using partnership funds?",
+      "back": "Property purchased with partnership assets is presumed to be partnership property, not the property of individual partners."
+    },
+    {
+      "id": "partnerships-025-what-specific-rights-are-included-in-a-partner-s",
+      "subject": "Partnerships",
+      "front": "What specific rights are included in a partner's transferable 'partnership interest'?",
+      "back": "The partnership interest consists of the partner's right to share in profits, losses, and distributions."
+    },
+    {
+      "id": "partnerships-026-what-is-the-legal-effect-of-a-partner-transferri",
+      "subject": "Partnerships",
+      "front": "What is the legal effect of a partner transferring their economic interest to a third party?",
+      "back": "The transferee receives the right to distributions but does not become a partner or gain management rights."
+    },
+    {
+      "id": "partnerships-027-what-level-of-consent-is-required-to-admit-a-new",
+      "subject": "Partnerships",
+      "front": "What level of consent is required to admit a new partner into an existing partnership?",
+      "back": "The admission of a new partner requires the unanimous consent of all existing partners."
+    },
+    {
+      "id": "partnerships-028-list-the-three-primary-fiduciary-duties-partners",
+      "subject": "Partnerships",
+      "front": "List the three primary fiduciary duties partners owe to one another.",
+      "back": "The duties of loyalty, care, and good faith and fair dealing."
+    },
+    {
+      "id": "partnerships-029-what-is-the-standard-for-breaching-the-duty-of-c",
+      "subject": "Partnerships",
+      "front": "What is the standard for breaching the duty of care under RUPA?",
+      "back": "A partner breaches the duty of care by engaging in gross negligence, reckless conduct, or intentional misconduct."
+    },
+    {
+      "id": "partnerships-030-how-does-the-duty-of-loyalty-restrict-a-partner",
+      "subject": "Partnerships",
+      "front": "How does the duty of loyalty restrict a partner's outside business activities?",
+      "back": "A partner is prohibited from competing with the partnership or taking business opportunities that belong to the partnership."
+    },
+    {
+      "id": "partnerships-031-under-what-condition-is-a-partnership-liable-for",
+      "subject": "Partnerships",
+      "front": "Under what condition is a partnership liable for a tort committed by one of its partners?",
+      "back": "The partnership is liable if the tort was committed in the ordinary course of business or with partnership authority."
+    },
+    {
+      "id": "partnerships-032-what-step-must-a-creditor-usually-take-before-se",
+      "subject": "Partnerships",
+      "front": "What step must a creditor usually take before seizing a partner's personal assets for a partnership debt?",
+      "back": "The creditor must generally exhaust partnership assets and obtain a judgment against the partner personally."
+    },
+    {
+      "id": "partnerships-033-to-what-extent-is-an-incoming-partner-liable-for",
+      "subject": "Partnerships",
+      "front": "To what extent is an incoming partner liable for partnership debts incurred before their joinder?",
+      "back": "The incoming partner is not personally liable for pre-existing debts, though their capital contribution may be used to pay them."
+    },
+    {
+      "id": "partnerships-034-distinguish-between-dissociation-and-dissolution",
+      "subject": "Partnerships",
+      "front": "Distinguish between 'dissociation' and 'dissolution'.",
+      "back": "Dissociation is the withdrawal of a specific partner, while dissolution is the commencement of the partnership's end."
+    },
+    {
+      "id": "partnerships-035-when-is-a-partner-s-dissociation-considered-wron",
+      "subject": "Partnerships",
+      "front": "When is a partner's dissociation considered 'wrongful'?",
+      "back": "Dissociation is wrongful if it breaches an express provision of the partnership agreement or occurs before the expiration of a term."
+    },
+    {
+      "id": "partnerships-036-how-long-does-a-dissociated-partner-s-apparent-a",
+      "subject": "Partnerships",
+      "front": "How long does a dissociated partner's apparent authority to bind the partnership typically last?",
+      "back": "Apparent authority can last for up to two years unless third parties are notified otherwise."
+    },
+    {
+      "id": "partnerships-037-how-does-filing-a-statement-of-dissociation-affe",
+      "subject": "Partnerships",
+      "front": "How does filing a 'statement of dissociation' affect the liability of the partnership for a former partner's acts?",
+      "back": "It provides constructive notice that cuts off apparent authority 90 days after filing."
+    },
+    {
+      "id": "partnerships-038-what-is-winding-up-in-the-life-cycle-of-a-partne",
+      "subject": "Partnerships",
+      "front": "What is 'winding up' in the life cycle of a partnership?",
+      "back": "Winding up is the process of settling accounts, liquidating assets, and paying creditors after dissolution."
+    },
+    {
+      "id": "partnerships-039-how-is-a-partnership-at-will-dissolved",
+      "subject": "Partnerships",
+      "front": "How is a 'partnership at will' dissolved?",
+      "back": "A partnership at will is dissolved when any partner gives notice of their express will to withdraw."
+    },
+    {
+      "id": "partnerships-040-what-defines-a-partnership-for-a-particular-unde",
+      "subject": "Partnerships",
+      "front": "What defines a 'partnership for a particular undertaking'?",
+      "back": "It is a partnership formed to complete a specific, defined project rather than to operate indefinitely."
+    },
+    {
+      "id": "partnerships-041-in-what-order-are-assets-distributed-during-the",
+      "subject": "Partnerships",
+      "front": "In what order are assets distributed during the winding up process?",
+      "back": "Creditors (including partners who are creditors) are paid first, followed by the settlement of partner accounts."
+    },
+    {
+      "id": "partnerships-042-what-is-the-primary-benefit-of-a-limited-liabili",
+      "subject": "Partnerships",
+      "front": "What is the primary benefit of a Limited Liability Partnership (LLP)?",
+      "back": "An LLP provides partners with a liability shield that protects them from personal liability for partnership obligations."
+    },
+    {
+      "id": "partnerships-043-does-becoming-an-llp-protect-a-partner-from-liab",
+      "subject": "Partnerships",
+      "front": "Does becoming an LLP protect a partner from liability for their own professional malpractice?",
+      "back": "No, a partner in an LLP remains personally liable for their own misconduct or malpractice."
+    },
+    {
+      "id": "partnerships-044-what-are-the-two-types-of-partners-required-in-a",
+      "subject": "Partnerships",
+      "front": "What are the two types of partners required in a Limited Partnership (LP)?",
+      "back": "A Limited Partnership must have at least one general partner and at least one limited partner."
+    },
+    {
+      "id": "partnerships-045-contrast-the-liability-of-a-general-partner-vs-a",
+      "subject": "Partnerships",
+      "front": "Contrast the liability of a general partner vs. a limited partner in an LP.",
+      "back": "General partners have personal liability for obligations, while limited partners generally have limited liability."
+    },
+    {
+      "id": "partnerships-046-how-can-a-limited-partner-lose-their-limited-lia",
+      "subject": "Partnerships",
+      "front": "How can a limited partner lose their limited liability protection?",
+      "back": "A limited partner may lose protection if they participate in the control of the business and mislead third parties."
+    },
+    {
+      "id": "partnerships-047-name-one-safe-harbor-activity-a-limited-partner",
+      "subject": "Partnerships",
+      "front": "Name one 'safe harbor' activity a limited partner can perform without losing limited liability.",
+      "back": "Safe harbors include consulting with the general partner, voting on major matters, or reviewing financial records."
+    },
+    {
+      "id": "partnerships-048-what-is-the-difference-between-a-conversion-and",
+      "subject": "Partnerships",
+      "front": "What is the difference between a 'conversion' and a 'merger' of business entities?",
+      "back": "Conversion changes the form of one entity, while a merger combines two or more entities into a single survivor."
+    },
+    {
+      "id": "partnerships-049-what-happens-to-a-partner-s-duty-not-to-compete",
+      "subject": "Partnerships",
+      "front": "What happens to a partner's duty not to compete upon their dissociation?",
+      "back": "The partner's duty not to compete with the partnership terminates upon dissociation."
+    },
+    {
+      "id": "partnerships-050-if-a-partner-has-a-negative-account-balance-duri",
+      "subject": "Partnerships",
+      "front": "If a partner has a negative account balance during winding up, what is their obligation?",
+      "back": "The partner must contribute money to the partnership to satisfy the negative balance."
+    }
+  ]
+}
