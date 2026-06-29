@@ -1,110 +1,145 @@
 "use client";
 
-export type LocalAccount = {
+import { getBrowserSupabaseClient } from "@/lib/supabase";
+
+export type Account = {
   id: string;
   email: string;
   name: string;
-  createdAt: string;
-  lastSignedInAt: string;
+};
+
+export type SignUpResult = {
+  account: Account | null;
+  needsEmailConfirmation: boolean;
 };
 
 export const authChangedEvent = "mbe-auth-changed";
-const accountsKey = "mbe-prep-local-accounts-v1";
 const currentUserIdKey = "mbe-prep-current-user-id";
-
-function normalizeEmail(email: string) {
-  return email.trim().toLowerCase();
-}
-
-function readAccounts(): LocalAccount[] {
-  if (typeof window === "undefined") {
-    return [];
-  }
-
-  try {
-    const stored = window.localStorage.getItem(accountsKey);
-    return stored ? JSON.parse(stored) as LocalAccount[] : [];
-  } catch {
-    return [];
-  }
-}
-
-function writeAccounts(accounts: LocalAccount[]) {
-  window.localStorage.setItem(accountsKey, JSON.stringify(accounts));
-}
 
 function notifyAuthChanged() {
   window.dispatchEvent(new Event(authChangedEvent));
 }
 
-export function getCurrentAccount() {
-  if (typeof window === "undefined") {
-    return null;
-  }
+function accountFromUser(user: {
+  id: string;
+  email?: string;
+  user_metadata?: { name?: unknown; full_name?: unknown };
+}): Account {
+  const email = user.email || "";
+  const rawName = user.user_metadata?.name || user.user_metadata?.full_name;
+  const name = typeof rawName === "string" && rawName.trim() ? rawName.trim() : email.split("@")[0] || "Student";
 
-  const currentId = window.localStorage.getItem(currentUserIdKey);
-  if (!currentId) {
-    return null;
-  }
-
-  return readAccounts().find((account) => account.id === currentId) || null;
+  return {
+    id: user.id,
+    email,
+    name
+  };
 }
 
-export function createLocalAccount({ email, name }: { email: string; name: string }) {
-  const cleanEmail = normalizeEmail(email);
-  const cleanName = name.trim() || cleanEmail.split("@")[0] || "Student";
+function rememberUserId(account: Account | null) {
+  if (account) {
+    window.localStorage.setItem(currentUserIdKey, account.id);
+  } else {
+    window.localStorage.removeItem(currentUserIdKey);
+  }
+}
 
-  if (!cleanEmail.includes("@")) {
-    throw new Error("Enter a valid email address.");
+function requireSupabase() {
+  const supabase = getBrowserSupabaseClient();
+
+  if (!supabase) {
+    throw new Error("Supabase is not configured yet. Add NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY in Vercel.");
   }
 
-  const accounts = readAccounts();
-  const existing = accounts.find((account) => account.email === cleanEmail);
-  const now = new Date().toISOString();
+  return supabase;
+}
 
-  if (existing) {
-    const updated = { ...existing, name: cleanName || existing.name, lastSignedInAt: now };
-    writeAccounts(accounts.map((account) => account.id === existing.id ? updated : account));
-    window.localStorage.setItem(currentUserIdKey, updated.id);
-    notifyAuthChanged();
-    return updated;
+export async function getCurrentAccount() {
+  const supabase = getBrowserSupabaseClient();
+
+  if (!supabase) {
+    rememberUserId(null);
+    return null;
   }
 
-  const account: LocalAccount = {
-    id: crypto.randomUUID(),
-    email: cleanEmail,
-    name: cleanName,
-    createdAt: now,
-    lastSignedInAt: now
+  const { data, error } = await supabase.auth.getSession();
+
+  if (error || !data.session?.user) {
+    rememberUserId(null);
+    return null;
+  }
+
+  const account = accountFromUser(data.session.user);
+  rememberUserId(account);
+  return account;
+}
+
+export async function createAccount({
+  email,
+  password,
+  name
+}: {
+  email: string;
+  password: string;
+  name: string;
+}): Promise<SignUpResult> {
+  const supabase = requireSupabase();
+  const cleanName = name.trim() || email.split("@")[0] || "Student";
+  const { data, error } = await supabase.auth.signUp({
+    email: email.trim().toLowerCase(),
+    password,
+    options: {
+      data: {
+        name: cleanName,
+        full_name: cleanName
+      },
+      emailRedirectTo: window.location.origin
+    }
+  });
+
+  if (error) {
+    throw new Error(error.message);
+  }
+
+  const account = data.user ? accountFromUser(data.user) : null;
+  const signedIn = Boolean(data.session && account);
+  rememberUserId(signedIn ? account : null);
+  notifyAuthChanged();
+
+  return {
+    account: signedIn ? account : null,
+    needsEmailConfirmation: !signedIn
   };
+}
 
-  writeAccounts([...accounts, account]);
-  window.localStorage.setItem(currentUserIdKey, account.id);
+export async function signInAccount({ email, password }: { email: string; password: string }) {
+  const supabase = requireSupabase();
+  const { data, error } = await supabase.auth.signInWithPassword({
+    email: email.trim().toLowerCase(),
+    password
+  });
+
+  if (error) {
+    throw new Error(error.message);
+  }
+
+  if (!data.user) {
+    throw new Error("Unable to sign in.");
+  }
+
+  const account = accountFromUser(data.user);
+  rememberUserId(account);
   notifyAuthChanged();
   return account;
 }
 
-export function signInLocalAccount(email: string) {
-  const cleanEmail = normalizeEmail(email);
-  const accounts = readAccounts();
-  const account = accounts.find((item) => item.email === cleanEmail);
+export async function signOutAccount() {
+  const supabase = getBrowserSupabaseClient();
 
-  if (!account) {
-    throw new Error("No account found for that email. Create one first.");
+  if (supabase) {
+    await supabase.auth.signOut();
   }
 
-  const updated = { ...account, lastSignedInAt: new Date().toISOString() };
-  writeAccounts(accounts.map((item) => item.id === updated.id ? updated : item));
-  window.localStorage.setItem(currentUserIdKey, updated.id);
-  notifyAuthChanged();
-  return updated;
-}
-
-export function signOutLocalAccount() {
-  if (typeof window === "undefined") {
-    return;
-  }
-
-  window.localStorage.removeItem(currentUserIdKey);
+  rememberUserId(null);
   notifyAuthChanged();
 }

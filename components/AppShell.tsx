@@ -6,7 +6,7 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useEffect, useState, type ReactNode } from "react";
 import { clsx } from "clsx";
-import { authChangedEvent, getCurrentAccount, signOutLocalAccount, type LocalAccount } from "@/lib/auth";
+import { authChangedEvent, getCurrentAccount, signOutAccount, type Account } from "@/lib/auth";
 import { GlassCard } from "@/components/GlassCard";
 
 const nav = [
@@ -21,20 +21,31 @@ const nav = [
 export function AppShell({ children }: { children: ReactNode }) {
   const pathname = usePathname();
   const router = useRouter();
-  const [account, setAccount] = useState<LocalAccount | null>(null);
+  const [account, setAccount] = useState<Account | null>(null);
   const [loaded, setLoaded] = useState(false);
   const signedIn = Boolean(account);
   const isHome = pathname === "/";
 
   useEffect(() => {
-    function refreshAccount() {
-      setAccount(getCurrentAccount());
+    let active = true;
+
+    async function refreshAccount() {
+      const currentAccount = await getCurrentAccount();
+
+      if (!active) {
+        return;
+      }
+
+      setAccount(currentAccount);
       setLoaded(true);
     }
 
     refreshAccount();
     window.addEventListener(authChangedEvent, refreshAccount);
-    return () => window.removeEventListener(authChangedEvent, refreshAccount);
+    return () => {
+      active = false;
+      window.removeEventListener(authChangedEvent, refreshAccount);
+    };
   }, []);
 
   useEffect(() => {
@@ -43,8 +54,8 @@ export function AppShell({ children }: { children: ReactNode }) {
     }
   }, [isHome, loaded, router, signedIn]);
 
-  function signOut() {
-    signOutLocalAccount();
+  async function signOut() {
+    await signOutAccount();
     router.push("/");
   }
 

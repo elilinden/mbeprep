@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { FormEvent, useState } from "react";
 import { GlassCard } from "@/components/GlassCard";
-import { createLocalAccount, signInLocalAccount } from "@/lib/auth";
+import { createAccount, signInAccount } from "@/lib/auth";
 
 type Mode = "signin" | "signup";
 
@@ -14,22 +14,34 @@ export function SignInClient() {
   const [mode, setMode] = useState<Mode>("signin");
   const [email, setEmail] = useState("");
   const [name, setName] = useState("");
+  const [password, setPassword] = useState("");
   const [error, setError] = useState("");
+  const [message, setMessage] = useState("");
+  const [submitting, setSubmitting] = useState(false);
 
-  function submit(event: FormEvent<HTMLFormElement>) {
+  async function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     setError("");
+    setMessage("");
+    setSubmitting(true);
 
     try {
       if (mode === "signup") {
-        createLocalAccount({ email, name });
+        const result = await createAccount({ email, password, name });
+
+        if (result.needsEmailConfirmation) {
+          setMessage("Check your email to confirm your account, then come back and sign in.");
+          return;
+        }
       } else {
-        signInLocalAccount(email);
+        await signInAccount({ email, password });
       }
 
       router.push("/practice");
     } catch (authError) {
       setError(authError instanceof Error ? authError.message : "Unable to sign in.");
+    } finally {
+      setSubmitting(false);
     }
   }
 
@@ -45,7 +57,7 @@ export function SignInClient() {
             Your MBE prep, saved to your account.
           </h1>
           <p className="mt-5 max-w-2xl text-xl leading-8 text-slate-950/66">
-            Practice questions, weak areas, flashcards, outlines, and podcast notes stay tied to the account you use on this device.
+            Practice questions, weak areas, flashcards, outlines, and podcast notes stay tied to your Supabase account.
           </p>
         </div>
         <div className="grid max-w-2xl gap-3 sm:grid-cols-3">
@@ -121,24 +133,44 @@ export function SignInClient() {
             />
           </label>
 
+          <label className="block space-y-2">
+            <span className="text-sm font-medium text-slate-950/62">Password</span>
+            <input
+              type="password"
+              value={password}
+              onChange={(event) => setPassword(event.target.value)}
+              placeholder={mode === "signup" ? "Create a password" : "Your password"}
+              minLength={6}
+              required
+              className="w-full rounded-2xl border border-slate-200 bg-white/78 px-4 py-3 outline-none focus:border-indigo-400"
+            />
+          </label>
+
           {error ? (
             <div className="rounded-2xl border border-red-200 bg-red-50 px-4 py-3 text-sm font-medium text-red-700">
               {error}
             </div>
           ) : null}
 
+          {message ? (
+            <div className="rounded-2xl border border-indigo-200 bg-indigo-50 px-4 py-3 text-sm font-medium text-indigo-800">
+              {message}
+            </div>
+          ) : null}
+
           <button
             type="submit"
+            disabled={submitting}
             className="flex w-full items-center justify-center gap-2 rounded-2xl bg-indigo-600 px-5 py-4 font-semibold text-white shadow-lg shadow-slate-900/15 hover:bg-indigo-700"
           >
             {mode === "signin" ? <LockKeyhole className="h-4 w-4" /> : <UserPlus className="h-4 w-4" />}
-            {mode === "signin" ? "Sign in" : "Create account"}
+            {submitting ? "Working..." : mode === "signin" ? "Sign in" : "Create account"}
             <ArrowRight className="h-4 w-4" />
           </button>
         </form>
 
         <p className="text-sm leading-6 text-slate-950/55">
-          This is local account storage for now. Supabase can replace it later for secure cloud accounts and cross-device sync.
+          Your account is handled by Supabase Auth. Study progress is still saved in this browser under your Supabase user id until cloud progress sync is added.
         </p>
       </GlassCard>
     </div>
