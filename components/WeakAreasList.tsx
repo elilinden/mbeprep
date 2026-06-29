@@ -38,9 +38,9 @@ export function WeakAreasList({ areas, title = "Your highest priority areas" }: 
       {areas.length ? (
         <div className="space-y-3">
           {areas.map((area) => (
-            <div key={area.id} className="rounded-3xl bg-white/62 p-4">
-              <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
-                <div>
+            <div key={area.id} className="rounded-3xl bg-white/62 p-5">
+              <div className="grid gap-5 md:grid-cols-[minmax(0,1fr)_11rem] md:items-center">
+                <div className="min-w-0">
                   <p className="text-sm font-semibold text-indigo-700">{area.subject}</p>
                   <h3 className="mt-1 text-lg font-semibold">{area.subtopic}</h3>
                   <p className="mt-1 text-sm text-slate-950/62">{area.category}</p>
@@ -53,13 +53,13 @@ export function WeakAreasList({ areas, title = "Your highest priority areas" }: 
                     {area.correctRecovery ? <span className="rounded-full bg-emerald-50 px-3 py-1.5 text-emerald-800">{area.correctRecovery} later correct</span> : null}
                   </div>
                 </div>
-                <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-                  <div className={`rounded-2xl px-4 py-3 text-sm font-semibold ${priorityStyle(area.score)}`}>
+                <div className="grid gap-2 sm:grid-cols-2 md:grid-cols-1">
+                  <div className={`inline-flex min-h-12 items-center justify-center whitespace-nowrap rounded-2xl px-4 py-3 text-center text-sm font-semibold ${priorityStyle(area.score)}`}>
                     {priorityLabel(area.score)}
                   </div>
                   <Link
                     href={`/practice?mode=weak&subtopic=${encodeURIComponent(area.subtopic)}`}
-                    className="rounded-2xl bg-indigo-600 px-4 py-2 text-sm font-semibold text-white hover:bg-indigo-700"
+                    className="inline-flex min-h-12 items-center justify-center whitespace-nowrap rounded-2xl bg-indigo-600 px-4 py-3 text-center text-sm font-semibold text-white hover:bg-indigo-700"
                   >
                     Practice this area
                   </Link>
