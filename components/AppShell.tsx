@@ -1,6 +1,6 @@
 "use client";
 
-import { BarChart3, BookOpenCheck, BookOpenText, Headphones, Layers, LayoutDashboard, LogOut } from "lucide-react";
+import { BarChart3, BookOpenCheck, BookOpenText, Headphones, Layers, LayoutDashboard, Lightbulb, LogOut } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
@@ -15,7 +15,8 @@ const nav = [
   { href: "/review", label: "Review", icon: BarChart3 },
   { href: "/flashcards", label: "Flashcards", icon: Layers },
   { href: "/outlines", label: "Outlines", icon: BookOpenText },
-  { href: "/podcasts", label: "Podcasts", icon: Headphones }
+  { href: "/podcasts", label: "Podcasts", icon: Headphones },
+  { href: "/suggestions", label: "Suggest", icon: Lightbulb }
 ];
 
 export function AppShell({ children }: { children: ReactNode }) {
@@ -80,7 +81,7 @@ export function AppShell({ children }: { children: ReactNode }) {
             </Link>
             {signedIn ? (
               <div className="flex flex-col gap-2 lg:flex-row lg:items-center">
-                <nav className="grid grid-cols-3 gap-1 rounded-2xl bg-white/45 p-1 sm:grid-cols-6">
+                <nav className="grid grid-cols-4 gap-1 rounded-2xl bg-white/45 p-1 sm:grid-cols-7">
                   {nav.map((item) => {
                     const Icon = item.icon;
                     const active = pathname === item.href;
