@@ -1,0 +1,595 @@
+{
+  "id": "corporations",
+  "title": "Corporations & LLCs",
+  "subject": "Corporations",
+  "cards": [
+    {
+      "id": "corporations-001-what-is-the-defining-legal-characteristic-of-a-corpo",
+      "subject": "Corporations",
+      "front": "What is the defining legal characteristic of a corporation regarding its relationship to its owners?",
+      "back": "It is a legal entity entirely separate from its owners (shareholders)."
+    },
+    {
+      "id": "corporations-002-in-the-big-picture-of-corporate-roles-what-is-the-pr",
+      "subject": "Corporations",
+      "front": "In the 'big picture' of corporate roles, what is the primary function of shareholders?",
+      "back": "Shareholders own the corporation."
+    },
+    {
+      "id": "corporations-003-what-is-the-primary-management-responsibility-of-the",
+      "subject": "Corporations",
+      "front": "What is the primary management responsibility of the Board of Directors?",
+      "back": "Managing the corporation at a high level by setting policy and appointing officers."
+    },
+    {
+      "id": "corporations-004-which-group-is-responsible-for-the-day-to-day-operat",
+      "subject": "Corporations",
+      "front": "Which group is responsible for the day-to-day operations of a corporation?",
+      "back": "Officers (e.g., CEO, CFO, Secretary)."
+    },
+    {
+      "id": "corporations-005-to-create-a-de-jure-corporation-what-document-must-t",
+      "subject": "Corporations",
+      "front": "To create a de jure corporation, what document must the incorporator file with the state?",
+      "back": "Articles of Incorporation (also known as a Charter)."
+    },
+    {
+      "id": "corporations-006-what-are-the-two-most-common-items-required-to-be-in",
+      "subject": "Corporations",
+      "front": "What are the two most common items required to be included in the Articles of Incorporation?",
+      "back": "The corporate name and the number of authorized shares."
+    },
+    {
+      "id": "corporations-007-what-is-the-default-duration-of-a-corporation-if-the",
+      "subject": "Corporations",
+      "front": "What is the default duration of a corporation if the Articles of Incorporation are silent?",
+      "back": "Perpetual existence."
+    },
+    {
+      "id": "corporations-008-term-incorporator",
+      "subject": "Corporations",
+      "front": "Term: Incorporator",
+      "back": "Definition: The person who signs and files the articles of incorporation with the state."
+    },
+    {
+      "id": "corporations-009-term-promoter",
+      "subject": "Corporations",
+      "front": "Term: Promoter",
+      "back": "Definition: A person who acts on behalf of a corporation before it has been legally formed."
+    },
+    {
+      "id": "corporations-010-under-the-general-rule-when-is-a-promoter-personally",
+      "subject": "Corporations",
+      "front": "Under the general rule, when is a promoter personally liable for a pre-incorporation contract?",
+      "back": "When they knowingly act for a corporation that does not yet exist."
+    },
+    {
+      "id": "corporations-011-what-specific-legal-agreement-is-required-to-release",
+      "subject": "Corporations",
+      "front": "What specific legal agreement is required to release a promoter from personal liability on a pre-incorporation contract?",
+      "back": "A novation."
+    },
+    {
+      "id": "corporations-012-how-does-a-corporation-typically-become-liable-for-a",
+      "subject": "Corporations",
+      "front": "How does a corporation typically become liable for a contract entered into by a promoter before formation?",
+      "back": "By adopting the contract, either expressly (board approval) or impliedly (accepting benefits)."
+    },
+    {
+      "id": "corporations-013-does-a-corporation-s-adoption-of-a-pre-incorporation",
+      "subject": "Corporations",
+      "front": "Does a corporation's adoption of a pre-incorporation contract automatically release the promoter from liability?",
+      "back": "No, the promoter remains liable until there is a novation."
+    },
+    {
+      "id": "corporations-014-what-fiduciary-duty-does-a-promoter-owe-to-a-future",
+      "subject": "Corporations",
+      "front": "What fiduciary duty does a promoter owe to a future corporation regarding pre-incorporation deals?",
+      "back": "The duty not to secretly profit from those transactions."
+    },
+    {
+      "id": "corporations-015-concept-de-jure-corporation",
+      "subject": "Corporations",
+      "front": "Concept: De Jure Corporation",
+      "back": "Definition: A corporation that has satisfied all statutory incorporation requirements."
+    },
+    {
+      "id": "corporations-016-what-is-the-legal-consequence-for-individuals-who-co",
+      "subject": "Corporations",
+      "front": "What is the legal consequence for individuals who conduct business as a corporation without making a good-faith effort to incorporate?",
+      "back": "They are personally liable for the obligations incurred."
+    },
+    {
+      "id": "corporations-017-what-are-the-requirements-for-a-business-to-be-treat",
+      "subject": "Corporations",
+      "front": "What are the requirements for a business to be treated as a 'de facto corporation'?",
+      "back": "A good-faith effort to incorporate, a valid law for incorporation, acting as a corporation, and lack of knowledge that filing failed."
+    },
+    {
+      "id": "corporations-018-rule-corporation-by-estoppel",
+      "subject": "Corporations",
+      "front": "Rule: Corporation by Estoppel",
+      "back": "Definition: A party who deals with a business as if it were a corporation is prevented from denying its existence to hold owners personally liable."
+    },
+    {
+      "id": "corporations-019-in-modern-corporate-law-what-are-the-three-specific",
+      "subject": "Corporations",
+      "front": "In modern corporate law, what are the three specific parties that can challenge an 'ultra vires' act?",
+      "back": "A shareholder (to enjoin), the corporation (suing the actor), or the state (to enjoin)."
+    },
+    {
+      "id": "corporations-020-what-is-the-primary-difference-between-common-stock",
+      "subject": "Corporations",
+      "front": "What is the primary difference between common stock and preferred stock?",
+      "back": "Common stock has basic voting/ownership rights; preferred stock has priority for distributions or liquidation."
+    },
+    {
+      "id": "corporations-021-stock-issued-for-less-than-its-stated-par-value-is-k",
+      "subject": "Corporations",
+      "front": "Stock issued for less than its stated par value is known as _____.",
+      "back": "Watered stock."
+    },
+    {
+      "id": "corporations-022-what-is-the-default-duration-for-which-a-pre-incorpo",
+      "subject": "Corporations",
+      "front": "What is the default duration for which a pre-incorporation stock subscription is irrevocable?",
+      "back": "$6$ months."
+    },
+    {
+      "id": "corporations-023-what-is-the-purpose-of-preemptive-rights-for-existin",
+      "subject": "Corporations",
+      "front": "What is the purpose of 'preemptive rights' for existing shareholders?",
+      "back": "To allow them to buy new shares to maintain their current ownership percentage."
+    },
+    {
+      "id": "corporations-024-under-the-rmbca-when-do-shareholders-possess-preempt",
+      "subject": "Corporations",
+      "front": "Under the RMBCA, when do shareholders possess preemptive rights?",
+      "back": "Only if the Articles of Incorporation specifically provide for them."
+    },
+    {
+      "id": "corporations-025-who-has-the-legal-authority-to-declare-a-distributio",
+      "subject": "Corporations",
+      "front": "Who has the legal authority to declare a distribution or dividend?",
+      "back": "The Board of Directors."
+    },
+    {
+      "id": "corporations-026-under-what-conditions-can-a-court-compel-the-board-t",
+      "subject": "Corporations",
+      "front": "Under what conditions can a court compel the board to declare a dividend?",
+      "back": "If funds are legally available and the directors refused to declare it in bad faith."
+    },
+    {
+      "id": "corporations-027-what-are-the-two-solvency-tests-a-corporation-must-p",
+      "subject": "Corporations",
+      "front": "What are the two solvency tests a corporation must pass to make a distribution?",
+      "back": "The Equity test (paying debts as due) and the Balance-sheet test (assets exceed liabilities)."
+    },
+    {
+      "id": "corporations-028-who-is-personally-liable-to-the-corporation-for-auth",
+      "subject": "Corporations",
+      "front": "Who is personally liable to the corporation for authorizing an unlawful distribution?",
+      "back": "A director who voted for or assented to the distribution."
+    },
+    {
+      "id": "corporations-029-why-are-stock-dividends-generally-not-treated-as-dis",
+      "subject": "Corporations",
+      "front": "Why are stock dividends generally not treated as 'distributions' in the legal sense?",
+      "back": "They do not change the corporation's actual assets or liabilities."
+    },
+    {
+      "id": "corporations-030-to-be-enforceable-against-a-buyer-where-should-a-sto",
+      "subject": "Corporations",
+      "front": "To be enforceable against a buyer, where should a stock transfer restriction be noted on a stock certificate?",
+      "back": "It must be conspicuously noted on the certificate."
+    },
+    {
+      "id": "corporations-031-which-federal-rule-is-the-primary-mechanism-for-puni",
+      "subject": "Corporations",
+      "front": "Which federal rule is the primary mechanism for punishing fraud in the purchase or sale of securities?",
+      "back": "Rule $10b-5$."
+    },
+    {
+      "id": "corporations-032-what-is-the-scienter-requirement-for-a-private-plain",
+      "subject": "Corporations",
+      "front": "What is the 'scienter' requirement for a private plaintiff to succeed in a Rule $10b-5$ action?",
+      "back": "The defendant must have acted with intent or recklessness (negligence is insufficient)."
+    },
+    {
+      "id": "corporations-033-how-does-the-fraud-on-the-market-theory-affect-a-rul",
+      "subject": "Corporations",
+      "front": "How does the 'fraud-on-the-market' theory affect a Rule $10b-5$ claim?",
+      "back": "It creates a presumption of reliance if the fraud affected the market price of publicly traded stock."
+    },
+    {
+      "id": "corporations-034-what-is-the-disclose-or-abstain-rule-in-the-context",
+      "subject": "Corporations",
+      "front": "What is the 'disclose or abstain' rule in the context of insider trading?",
+      "back": "A person with material nonpublic information must either disclose it before trading or refrain from trading."
+    },
+    {
+      "id": "corporations-035-who-is-considered-a-constructive-insider-for-purpose",
+      "subject": "Corporations",
+      "front": "Who is considered a 'constructive insider' for purposes of securities law?",
+      "back": "Outsiders temporarily trusted with confidential info, such as lawyers, accountants, or consultants."
+    },
+    {
+      "id": "corporations-036-under-what-condition-is-a-tippee-liable-for-insider",
+      "subject": "Corporations",
+      "front": "Under what condition is a 'tippee' liable for insider trading?",
+      "back": "When the tipper breached a duty for personal benefit and the tippee knew or should have known of the breach."
+    },
+    {
+      "id": "corporations-037-rule-section-16-b-short-swing-profits",
+      "subject": "Corporations",
+      "front": "Rule: Section $16(b)$ Short-Swing Profits",
+      "back": "Definition: Insiders must return profits from buying and selling company stock within any $6$-month period."
+    },
+    {
+      "id": "corporations-038-what-threshold-of-ownership-triggers-section-16-b-li",
+      "subject": "Corporations",
+      "front": "What threshold of ownership triggers Section $16(b)$ liability for a shareholder?",
+      "back": "Owning more than $10\\%$ of a class of stock."
+    },
+    {
+      "id": "corporations-039-a-person-who-acquires-more-than-5-of-a-class-of-stoc",
+      "subject": "Corporations",
+      "front": "A person who acquires more than $5\\%$ of a class of stock via tender offer must file a disclosure statement with which agency?",
+      "back": "The Securities and Exchange Commission (SEC)."
+    },
+    {
+      "id": "corporations-040-if-a-corporation-s-bylaws-conflict-with-its-articles",
+      "subject": "Corporations",
+      "front": "If a corporation's bylaws conflict with its Articles of Incorporation, which document controls?",
+      "back": "The Articles of Incorporation."
+    },
+    {
+      "id": "corporations-041-what-is-required-to-amend-the-articles-of-incorporat",
+      "subject": "Corporations",
+      "front": "What is required to amend the Articles of Incorporation after stock has been issued?",
+      "back": "Board adoption followed by a majority vote of the shareholders."
+    },
+    {
+      "id": "corporations-042-what-is-the-primary-purpose-of-a-corporation-s-organ",
+      "subject": "Corporations",
+      "front": "What is the primary purpose of a corporation's organizational meeting?",
+      "back": "To set up the corporation by appointing officers, adopting bylaws, and approving initial contracts."
+    },
+    {
+      "id": "corporations-043-how-often-is-a-corporation-legally-required-to-hold",
+      "subject": "Corporations",
+      "front": "How often is a corporation legally required to hold a shareholder meeting?",
+      "back": "Once per year (the annual meeting)."
+    },
+    {
+      "id": "corporations-044-who-is-typically-authorized-to-call-a-special-shareh",
+      "subject": "Corporations",
+      "front": "Who is typically authorized to call a special shareholder meeting?",
+      "back": "The Board of Directors or shareholders owning at least $10\\%$ of voting shares."
+    },
+    {
+      "id": "corporations-045-for-a-special-shareholder-meeting-what-information-m",
+      "subject": "Corporations",
+      "front": "For a special shareholder meeting, what information must the notice include beyond time and place?",
+      "back": "The specific purpose of the meeting."
+    },
+    {
+      "id": "corporations-046-what-is-the-standard-notice-window-for-a-shareholder",
+      "subject": "Corporations",
+      "front": "What is the standard 'notice window' for a shareholder meeting?",
+      "back": "Between $10$ and $60$ days before the meeting date."
+    },
+    {
+      "id": "corporations-047-the-right-to-vote-at-a-shareholder-meeting-belongs-t",
+      "subject": "Corporations",
+      "front": "The right to vote at a shareholder meeting belongs to the person who owned the shares on the _____.",
+      "back": "Record date."
+    },
+    {
+      "id": "corporations-048-define-quorum-in-the-context-of-shareholder-voting",
+      "subject": "Corporations",
+      "front": "Define 'Quorum' in the context of shareholder voting.",
+      "back": "The minimum number of shares (usually a majority) that must be present for a vote to be valid."
+    },
+    {
+      "id": "corporations-049-what-is-the-benefit-of-cumulative-voting-for-minorit",
+      "subject": "Corporations",
+      "front": "What is the benefit of 'cumulative voting' for minority shareholders?",
+      "back": "It allows them to concentrate their votes to gain representation on the Board of Directors."
+    },
+    {
+      "id": "corporations-050-unless-stated-otherwise-for-how-long-is-a-shareholde",
+      "subject": "Corporations",
+      "front": "Unless stated otherwise, for how long is a shareholder proxy valid?",
+      "back": "$11$ months."
+    },
+    {
+      "id": "corporations-051-what-are-the-two-requirements-to-make-a-shareholder",
+      "subject": "Corporations",
+      "front": "What are the two requirements to make a shareholder proxy irrevocable?",
+      "back": "The proxy must state it is irrevocable and be coupled with an interest."
+    },
+    {
+      "id": "corporations-052-compare-voting-pool-vs-voting-trust-regarding-legal",
+      "subject": "Corporations",
+      "front": "Compare 'Voting Pool' vs 'Voting Trust' regarding legal ownership of shares.",
+      "back": "In a pool, shareholders keep legal ownership; in a trust, legal title is transferred to a trustee."
+    },
+    {
+      "id": "corporations-053-what-type-of-corporation-typically-uses-a-shareholde",
+      "subject": "Corporations",
+      "front": "What type of corporation typically uses a 'Shareholder Management Agreement' to bypass board power?",
+      "back": "A closely held (or 'close') corporation."
+    },
+    {
+      "id": "corporations-054-to-inspect-board-minutes-or-accounting-records-what",
+      "subject": "Corporations",
+      "front": "To inspect board minutes or accounting records, what must a shareholder provide?",
+      "back": "A good-faith proper purpose related to their interest as a shareholder."
+    },
+    {
+      "id": "corporations-055-what-is-the-difference-between-a-direct-action-and-a",
+      "subject": "Corporations",
+      "front": "What is the difference between a direct action and a derivative action?",
+      "back": "A direct action enforces a shareholder's personal rights; a derivative action enforces the corporation's rights."
+    },
+    {
+      "id": "corporations-056-who-receives-the-recovery-damages-in-a-successful-de",
+      "subject": "Corporations",
+      "front": "Who receives the recovery (damages) in a successful derivative lawsuit?",
+      "back": "The corporation."
+    },
+    {
+      "id": "corporations-057-what-is-the-contemporaneous-ownership-rule-for-deriv",
+      "subject": "Corporations",
+      "front": "What is the 'contemporaneous ownership' rule for derivative standing?",
+      "back": "The plaintiff must have owned shares at the time the alleged wrong occurred."
+    },
+    {
+      "id": "corporations-058-under-the-rmbca-how-long-must-a-shareholder-generall",
+      "subject": "Corporations",
+      "front": "Under the RMBCA, how long must a shareholder generally wait after making a demand on the board before filing a derivative suit?",
+      "back": "$90$ days."
+    },
+    {
+      "id": "corporations-059-under-what-circumstances-can-a-corporation-successfu",
+      "subject": "Corporations",
+      "front": "Under what circumstances can a corporation successfully dismiss a derivative action?",
+      "back": "If disinterested directors determine in good faith after reasonable inquiry that the suit is not in the corporation's best interest."
+    },
+    {
+      "id": "corporations-060-concept-piercing-the-corporate-veil",
+      "subject": "Corporations",
+      "front": "Concept: Piercing the Corporate Veil",
+      "back": "Definition: A court ignores the limited liability shield and holds shareholders personally liable for corporate debts."
+    },
+    {
+      "id": "corporations-061-what-is-undercapitalization-in-the-context-of-pierci",
+      "subject": "Corporations",
+      "front": "What is 'undercapitalization' in the context of piercing the corporate veil?",
+      "back": "The failure to provide enough capital or insurance to meet foreseeable corporate liabilities."
+    },
+    {
+      "id": "corporations-062-when-does-a-controlling-shareholder-owe-a-fiduciary",
+      "subject": "Corporations",
+      "front": "When does a controlling shareholder owe a fiduciary duty to minority shareholders?",
+      "back": "When they use their control to sell the company, freeze out the minority, or receive benefits denied to others."
+    },
+    {
+      "id": "corporations-063-what-is-the-minimum-number-of-directors-required-for",
+      "subject": "Corporations",
+      "front": "What is the minimum number of directors required for a modern corporation?",
+      "back": "One."
+    },
+    {
+      "id": "corporations-064-under-what-conditions-can-a-director-be-removed-by-s",
+      "subject": "Corporations",
+      "front": "Under what conditions can a director be removed by shareholders?",
+      "back": "Usually with or without cause, provided the meeting notice specifies removal as a purpose."
+    },
+    {
+      "id": "corporations-065-how-can-a-board-of-directors-take-action-without-hol",
+      "subject": "Corporations",
+      "front": "How can a Board of Directors take action without holding a formal meeting?",
+      "back": "By unanimous written consent."
+    },
+    {
+      "id": "corporations-066-unlike-shareholders-can-a-director-vote-by-proxy-at",
+      "subject": "Corporations",
+      "front": "Unlike shareholders, can a director vote by proxy at a board meeting?",
+      "back": "No, directors must exercise independent judgment and cannot use proxies."
+    },
+    {
+      "id": "corporations-067-how-does-a-director-present-at-a-meeting-avoid-liabi",
+      "subject": "Corporations",
+      "front": "How does a director present at a meeting avoid liability for improper board action?",
+      "back": "By properly dissenting and ensuring the dissent or abstention is recorded in the minutes."
+    },
+    {
+      "id": "corporations-068-what-are-the-two-primary-fiduciary-duties-owed-by-di",
+      "subject": "Corporations",
+      "front": "What are the two primary fiduciary duties owed by directors to the corporation?",
+      "back": "The Duty of Care and the Duty of Loyalty."
+    },
+    {
+      "id": "corporations-069-rule-business-judgment-rule-bjr",
+      "subject": "Corporations",
+      "front": "Rule: Business Judgment Rule (BJR)",
+      "back": "Definition: A presumption that directors acted in good faith, were reasonably informed, and acted in the corporation's best interest."
+    },
+    {
+      "id": "corporations-070-how-can-a-plaintiff-overcome-the-protection-of-the-b",
+      "subject": "Corporations",
+      "front": "How can a plaintiff overcome the protection of the Business Judgment Rule?",
+      "back": "By showing bad faith, lack of information, conflict of interest, or a total failure of oversight."
+    },
+    {
+      "id": "corporations-071-are-exculpatory-provisions-in-the-articles-of-incorp",
+      "subject": "Corporations",
+      "front": "Are exculpatory provisions in the Articles of Incorporation allowed to protect directors from loyalty breaches?",
+      "back": "No, they usually only cover duty of care breaches (money damages)."
+    },
+    {
+      "id": "corporations-072-what-constitutes-a-conflict-of-interest-transaction",
+      "subject": "Corporations",
+      "front": "What constitutes a 'conflict-of-interest transaction' for a director?",
+      "back": "A transaction between the corporation and a director where the director has a material financial interest."
+    },
+    {
+      "id": "corporations-073-what-are-the-three-safe-harbors-that-can-validate-a",
+      "subject": "Corporations",
+      "front": "What are the three 'safe harbors' that can validate a conflict-of-interest transaction?",
+      "back": "Approval by disinterested directors, approval by disinterested shareholders, or proving the transaction was fair."
+    },
+    {
+      "id": "corporations-074-under-the-corporate-opportunity-doctrine-what-must-a",
+      "subject": "Corporations",
+      "front": "Under the Corporate Opportunity Doctrine, what must a director do before taking a business lead for themselves?",
+      "back": "They must first disclose the opportunity and offer it to the corporation."
+    },
+    {
+      "id": "corporations-075-when-is-a-corporation-mandated-to-indemnify-a-direct",
+      "subject": "Corporations",
+      "front": "When is a corporation *mandated* to indemnify a director for legal expenses?",
+      "back": "When the director successfully defends a proceeding related to their corporate service."
+    },
+    {
+      "id": "corporations-076-a-corporation-is-prohibited-from-indemnifying-a-dire",
+      "subject": "Corporations",
+      "front": "A corporation is *prohibited* from indemnifying a director in what specific scenario?",
+      "back": "When the director is held liable for receiving an improper personal benefit."
+    },
+    {
+      "id": "corporations-077-who-generally-has-the-power-to-appoint-and-remove-co",
+      "subject": "Corporations",
+      "front": "Who generally has the power to appoint and remove corporate officers?",
+      "back": "The Board of Directors."
+    },
+    {
+      "id": "corporations-078-what-form-of-authority-allows-an-officer-to-bind-a-c",
+      "subject": "Corporations",
+      "front": "What form of authority allows an officer to bind a corporation to ordinary tasks related to their specific role?",
+      "back": "Implied actual authority."
+    },
+    {
+      "id": "corporations-079-under-sarbanes-oxley-which-two-officers-must-certify",
+      "subject": "Corporations",
+      "front": "Under Sarbanes-Oxley, which two officers must certify the accuracy of public financial reports?",
+      "back": "The CEO and the CFO."
+    },
+    {
+      "id": "corporations-080-what-is-the-legal-effect-of-a-merger-on-the-assets-a",
+      "subject": "Corporations",
+      "front": "What is the legal effect of a merger on the assets and liabilities of the merged corporation?",
+      "back": "They are all transferred to and assumed by the surviving corporation."
+    },
+    {
+      "id": "corporations-081-rule-parent-subsidiary-short-form-merger",
+      "subject": "Corporations",
+      "front": "Rule: Parent-Subsidiary Short-Form Merger",
+      "back": "Definition: A parent owning $90\\%$ of a subsidiary can merge with it without subsidiary shareholder approval."
+    },
+    {
+      "id": "corporations-082-when-is-a-sale-of-assets-considered-a-fundamental-co",
+      "subject": "Corporations",
+      "front": "When is a sale of assets considered a 'fundamental corporate change' requiring shareholder approval?",
+      "back": "When it involves all or substantially all assets outside the ordinary course of business."
+    },
+    {
+      "id": "corporations-083-term-appraisal-rights",
+      "subject": "Corporations",
+      "front": "Term: Appraisal Rights",
+      "back": "Definition: The right of a dissenting shareholder to force the corporation to buy their shares at fair value following major changes."
+    },
+    {
+      "id": "corporations-084-what-is-the-market-out-exception-to-appraisal-rights",
+      "subject": "Corporations",
+      "front": "What is the 'market-out exception' to appraisal rights?",
+      "back": "Appraisal rights are unavailable if the shares are traded on a liquid, reliable public market."
+    },
+    {
+      "id": "corporations-085-after-corporate-dissolution-in-what-order-are-assets",
+      "subject": "Corporations",
+      "front": "After corporate dissolution, in what order are assets distributed to creditors and shareholders?",
+      "back": "$1$. Creditors; $2$. Shareholders with liquidation preferences; $3$. Common shareholders."
+    },
+    {
+      "id": "corporations-086-on-what-grounds-can-a-state-administratively-dissolv",
+      "subject": "Corporations",
+      "front": "On what grounds can a state administratively dissolve a corporation?",
+      "back": "Failure to pay taxes, failure to file reports, or abuse of corporate powers."
+    },
+    {
+      "id": "corporations-087-what-is-the-internal-affairs-doctrine-regarding-fore",
+      "subject": "Corporations",
+      "front": "What is the 'internal affairs doctrine' regarding foreign corporations?",
+      "back": "The law of the state of incorporation governs the corporation's internal affairs."
+    },
+    {
+      "id": "corporations-088-rule-professional-corporation-liability",
+      "subject": "Corporations",
+      "front": "Rule: Professional Corporation Liability",
+      "back": "Definition: Professionals remain liable for their own malpractice but are shielded from the malpractice of their associates."
+    },
+    {
+      "id": "corporations-089-what-is-the-primary-tax-benefit-of-an-s-corporation",
+      "subject": "Corporations",
+      "front": "What is the primary tax benefit of an S Corporation?",
+      "back": "Pass-through taxation (income and losses pass directly to shareholders, avoiding double tax)."
+    },
+    {
+      "id": "corporations-090-what-are-the-owners-of-a-limited-liability-company-l",
+      "subject": "Corporations",
+      "front": "What are the owners of a Limited Liability Company (LLC) called?",
+      "back": "Members."
+    },
+    {
+      "id": "corporations-091-what-document-governs-the-internal-operations-and-re",
+      "subject": "Corporations",
+      "front": "What document governs the internal operations and relationships within an LLC?",
+      "back": "The Operating Agreement."
+    },
+    {
+      "id": "corporations-092-in-an-llc-what-is-the-default-management-structure-i",
+      "subject": "Corporations",
+      "front": "In an LLC, what is the default management structure if the operating agreement is silent?",
+      "back": "Member-managed."
+    },
+    {
+      "id": "corporations-093-what-rights-does-a-transferee-of-an-llc-membership-i",
+      "subject": "Corporations",
+      "front": "What rights does a transferee of an LLC membership interest typically receive without unanimous consent?",
+      "back": "Only economic rights (distributions/profits), not management or voting rights."
+    },
+    {
+      "id": "corporations-094-term-charging-order",
+      "subject": "Corporations",
+      "front": "Term: Charging Order",
+      "back": "Definition: A court order that allows a creditor to receive an LLC member's distributions."
+    },
+    {
+      "id": "corporations-095-in-a-manager-managed-llc-do-individual-members-have",
+      "subject": "Corporations",
+      "front": "In a manager-managed LLC, do individual members have the authority to bind the company?",
+      "back": "Generally no; authority rests with the managers."
+    },
+    {
+      "id": "corporations-096-under-the-default-rule-how-are-llc-profits-and-losse",
+      "subject": "Corporations",
+      "front": "Under the default rule, how are LLC profits and losses allocated among members?",
+      "back": "Based on the value of their contributions."
+    },
+    {
+      "id": "corporations-097-what-is-the-duty-of-care-standard-for-an-llc-manager",
+      "subject": "Corporations",
+      "front": "What is the 'Duty of Care' standard for an LLC manager?",
+      "back": "Avoiding gross negligence, reckless conduct, or intentional misconduct."
+    },
+    {
+      "id": "corporations-098-does-a-member-s-dissociation-from-an-llc-automatical",
+      "subject": "Corporations",
+      "front": "Does a member's dissociation from an LLC automatically trigger the dissolution of the entity?",
+      "back": "No, the LLC usually continues existing after a member leaves."
+    }
+  ]
+}
