@@ -46,21 +46,21 @@ export function SignInClient() {
   }
 
   return (
-    <div className="mx-auto grid min-h-[calc(100vh-10rem)] max-w-6xl items-center gap-8 lg:grid-cols-[1fr_0.92fr]">
-      <div className="space-y-6">
+    <div className="mx-auto grid max-w-6xl items-start gap-6 lg:min-h-[calc(100vh-10rem)] lg:grid-cols-[1fr_0.92fr] lg:items-center lg:gap-8">
+      <div className="space-y-5 lg:space-y-6">
         <div className="inline-flex items-center gap-3 rounded-full border border-slate-200 bg-white/70 px-4 py-2 text-sm font-semibold text-slate-700">
           <LockKeyhole className="h-4 w-4 text-indigo-600" />
           Sign in to save your progress
         </div>
         <div>
-          <h1 className="max-w-3xl text-5xl font-semibold tracking-tight text-slate-950 sm:text-6xl">
+          <h1 className="max-w-3xl text-4xl font-semibold tracking-tight text-slate-950 sm:text-6xl">
             Your MBE prep, saved to your account.
           </h1>
-          <p className="mt-5 max-w-2xl text-xl leading-8 text-slate-950/66">
+          <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-950/66 sm:mt-5 sm:text-xl">
             Practice questions, weak areas, flashcards, outlines, and podcast notes stay tied to your Supabase account.
           </p>
         </div>
-        <div className="grid max-w-2xl gap-3 sm:grid-cols-3">
+        <div className="hidden max-w-2xl gap-3 sm:grid sm:grid-cols-3">
           {["Adaptive questions", "Flashcard progress", "Listening notes"].map((item) => (
             <div key={item} className="rounded-3xl border border-slate-200 bg-white/62 p-4 text-sm font-semibold text-slate-700">
               {item}
@@ -69,19 +69,19 @@ export function SignInClient() {
         </div>
       </div>
 
-      <GlassCard strong className="space-y-6">
-        <div className="flex items-center gap-4">
+      <GlassCard strong className="space-y-5 sm:space-y-6">
+        <div className="flex items-center gap-3 sm:gap-4">
           <Image
             src="/brand/mbe-prep-logo.png"
             alt="MBE Prep logo"
             width={64}
             height={64}
             priority
-            className="h-16 w-16 rounded-3xl object-cover shadow-lg shadow-slate-900/15"
+            className="h-14 w-14 rounded-2xl object-cover shadow-lg shadow-slate-900/15 sm:h-16 sm:w-16 sm:rounded-3xl"
           />
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.18em] text-indigo-700/70">MBE Prep</p>
-            <h2 className="text-2xl font-semibold tracking-tight">{mode === "signin" ? "Welcome back" : "Create your account"}</h2>
+            <h2 className="text-xl font-semibold tracking-tight sm:text-2xl">{mode === "signin" ? "Welcome back" : "Create your account"}</h2>
           </div>
         </div>
 

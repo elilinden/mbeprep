@@ -192,13 +192,13 @@ export function PracticeClient() {
         </p>
       </div>
 
-      <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+      <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
         {modeOptions.map(({ value, label, icon: Icon }) => (
           <button
             key={String(value)}
             type="button"
             onClick={() => setMode(value as PracticeMode)}
-            className={`rounded-3xl p-5 text-left shadow-sm ${mode === value ? "bg-indigo-600 text-white" : "glass hover:bg-white/80"}`}
+            className={`rounded-3xl p-4 text-left shadow-sm sm:p-5 ${mode === value ? "bg-indigo-600 text-white" : "glass hover:bg-white/80"}`}
           >
             <Icon className="h-5 w-5" />
             <span className="mt-4 block font-semibold">{label}</span>
