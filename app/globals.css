@@ -65,3 +65,28 @@ summary:focus-visible {
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
 }
+
+.audio-range {
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.audio-range::-webkit-slider-thumb {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 3px solid #ffffff;
+  border-radius: 999px;
+  background: var(--accent);
+  box-shadow: 0 6px 18px rgba(79, 70, 229, 0.28);
+}
+
+.audio-range::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border: 3px solid #ffffff;
+  border-radius: 999px;
+  background: var(--accent);
+  box-shadow: 0 6px 18px rgba(79, 70, 229, 0.28);
+}

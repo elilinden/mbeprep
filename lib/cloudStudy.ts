@@ -128,28 +128,20 @@ export async function deleteFlashcardProgressFromCloud(cardIds: string[]) {
 }
 
 export async function hydratePodcastStateFromCloud(
-  localNotes: Record<string, PodcastNoteRecord>,
-  localBookmarks: string[]
+  localNotes: Record<string, PodcastNoteRecord>
 ) {
   const cloud = await getCloudUser();
 
   if (!cloud) {
-    return { notes: localNotes, bookmarks: localBookmarks };
+    return localNotes;
   }
 
-  const [{ data: noteRows, error: notesError }, { data: bookmarkRows, error: bookmarksError }] = await Promise.all([
-    cloud.supabase
-      .from("podcast_notes")
-      .select("episode_id, note, updated_at")
-      .eq("user_id", cloud.user.id),
-    cloud.supabase
-      .from("podcast_bookmarks")
-      .select("episode_id")
-      .eq("user_id", cloud.user.id)
-  ]);
+  const { data: noteRows, error: notesError } = await cloud.supabase
+    .from("podcast_notes")
+    .select("episode_id, note, updated_at")
+    .eq("user_id", cloud.user.id);
 
   logCloudWarning("Load podcast notes", notesError);
-  logCloudWarning("Load podcast bookmarks", bookmarksError);
 
   const notes = { ...localNotes };
   (noteRows || []).forEach((row) => {
@@ -163,17 +155,9 @@ export async function hydratePodcastStateFromCloud(
     }
   });
 
-  const bookmarks = Array.from(new Set([
-    ...localBookmarks,
-    ...(bookmarkRows || []).map((row) => row.episode_id)
-  ]));
+  await Promise.all(Object.values(notes).map((note) => savePodcastNoteToCloud(note)));
 
-  await Promise.all([
-    ...Object.values(notes).map((note) => savePodcastNoteToCloud(note)),
-    ...bookmarks.map((episodeId) => savePodcastBookmarkToCloud(episodeId, true))
-  ]);
-
-  return { notes, bookmarks };
+  return notes;
 }
 
 export async function savePodcastNoteToCloud(note: PodcastNoteRecord) {
@@ -192,31 +176,4 @@ export async function savePodcastNoteToCloud(note: PodcastNoteRecord) {
       updated_at: note.updatedAt
     }, { onConflict: "user_id,episode_id" });
   logCloudWarning("Save podcast note", error);
-}
-
-export async function savePodcastBookmarkToCloud(episodeId: string, bookmarked: boolean) {
-  const cloud = await getCloudUser();
-
-  if (!cloud) {
-    return;
-  }
-
-  if (!bookmarked) {
-    const { error } = await cloud.supabase
-      .from("podcast_bookmarks")
-      .delete()
-      .eq("user_id", cloud.user.id)
-      .eq("episode_id", episodeId);
-    logCloudWarning("Delete podcast bookmark", error);
-    return;
-  }
-
-  const { error } = await cloud.supabase
-    .from("podcast_bookmarks")
-    .upsert({
-      user_id: cloud.user.id,
-      episode_id: episodeId,
-      updated_at: new Date().toISOString()
-    }, { onConflict: "user_id,episode_id" });
-  logCloudWarning("Save podcast bookmark", error);
 }
