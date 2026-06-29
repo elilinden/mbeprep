@@ -1,6 +1,6 @@
 "use client";
 
-import { Bookmark, FileWarning, Headphones, NotebookPen, PlayCircle } from "lucide-react";
+import { Bookmark, Headphones, NotebookPen, PlayCircle } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { GlassCard } from "@/components/GlassCard";
 import type { PodcastEpisode } from "@/lib/types";
@@ -92,8 +92,6 @@ export function PodcastsClient({ episodes }: { episodes: PodcastEpisode[] }) {
           <h2 className="text-xl font-semibold">Library</h2>
           {episodes.map((episode) => {
             const active = selected.id === episode.id;
-            const isEmpty = episode.sizeBytes === 0;
-
             return (
               <button
                 key={episode.id}
@@ -111,10 +109,7 @@ export function PodcastsClient({ episodes }: { episodes: PodcastEpisode[] }) {
                     <h3 className="mt-1 text-lg font-semibold">{episode.title}</h3>
                     <p className="mt-2 text-sm leading-6 text-slate-950/62">{episode.topic}</p>
                   </div>
-                  {isEmpty ? <FileWarning className="h-5 w-5 shrink-0 text-amber-700" /> : <Headphones className="h-5 w-5 shrink-0 text-indigo-600" />}
-                </div>
-                <div className="mt-4 flex flex-wrap gap-2 text-xs font-semibold text-slate-950/58">
-                  {isEmpty ? <span className="rounded-full bg-amber-100 px-3 py-1.5 text-amber-900">Audio file empty</span> : null}
+                  <Headphones className="h-5 w-5 shrink-0 text-indigo-600" />
                 </div>
               </button>
             );
@@ -140,29 +135,15 @@ export function PodcastsClient({ episodes }: { episodes: PodcastEpisode[] }) {
             </button>
           </div>
 
-          {selected.sizeBytes === 0 ? (
-            <div className="rounded-3xl border-2 border-amber-300 bg-amber-50 p-5 text-amber-950">
-              <div className="flex gap-3">
-                <FileWarning className="mt-1 h-5 w-5 shrink-0" />
-                <div>
-                  <p className="font-semibold">This audio file is empty right now.</p>
-                  <p className="mt-2 leading-7">
-                    Replace <span className="font-semibold">podcasts/{selected.fileName}</span>, then copy it to <span className="font-semibold">public/podcasts/{selected.fileName}</span> or rerun the copy command.
-                  </p>
-                </div>
-              </div>
+          <div className="rounded-3xl border border-slate-200 bg-white/68 p-5">
+            <div className="mb-4 flex items-center gap-3 text-slate-950/70">
+              <PlayCircle className="h-5 w-5 text-indigo-600" />
+              <span className="text-sm font-semibold">Now playing</span>
             </div>
-          ) : (
-            <div className="rounded-3xl border border-slate-200 bg-white/68 p-5">
-              <div className="mb-4 flex items-center gap-3 text-slate-950/70">
-                <PlayCircle className="h-5 w-5 text-indigo-600" />
-                <span className="text-sm font-semibold">Now playing</span>
-              </div>
-              <audio controls preload="metadata" className="w-full" src={selected.src}>
-                <track kind="captions" />
-              </audio>
-            </div>
-          )}
+            <audio controls preload="metadata" className="w-full" src={selected.src}>
+              <track kind="captions" />
+            </audio>
+          </div>
 
           <div className="rounded-3xl border border-slate-200 bg-white/62 p-5">
             <div className="flex items-center gap-2">

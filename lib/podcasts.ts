@@ -1,5 +1,3 @@
-import { existsSync, statSync } from "fs";
-import path from "path";
 import type { PodcastEpisode } from "@/lib/types";
 
 const podcastFiles = [
@@ -37,15 +35,9 @@ const podcastFiles = [
   }
 ];
 
-function getPublicPodcastSize(fileName: string) {
-  const filePath = path.join(process.cwd(), "public", "podcasts", fileName);
-  return existsSync(filePath) ? statSync(filePath).size : 0;
-}
-
 export function getPodcastEpisodes(): PodcastEpisode[] {
   return podcastFiles.map((episode) => ({
     ...episode,
-    src: `/podcasts/${episode.fileName}`,
-    sizeBytes: getPublicPodcastSize(episode.fileName)
+    src: `/podcasts/${episode.fileName}`
   }));
 }

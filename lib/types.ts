@@ -118,7 +118,6 @@ export type PodcastEpisode = {
   description: string;
   src: string;
   fileName: string;
-  sizeBytes: number;
 };
 
 export type Flashcard = {
