@@ -10,6 +10,14 @@ const podcastFiles = [
     description: "Listen through the recurring Contracts patterns, then jump into related practice."
   },
   {
+    id: "corporations",
+    fileName: "corporations.mp3",
+    title: "Corporations & LLCs",
+    subject: "Corporations",
+    topic: "Formation, fiduciary duties, shareholder rights, veil piercing, and LLC rules",
+    description: "Review Corporations and LLC rules in audio form before drilling flashcards or outlines."
+  },
+  {
     id: "real-property",
     fileName: "real-property.mp3",
     title: "Real Property",
