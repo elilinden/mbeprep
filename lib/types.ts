@@ -107,7 +107,6 @@ export type PracticeMode =
   | "subject"
   | "weak"
   | "saved"
-  | "timed"
   | "single";
 
 export type PodcastEpisode = {

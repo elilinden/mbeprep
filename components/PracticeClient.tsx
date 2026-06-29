@@ -1,6 +1,6 @@
 "use client";
 
-import { BookOpenCheck, Clock, ListChecks, Target, type LucideIcon } from "lucide-react";
+import { BookOpenCheck, ListChecks, Target, type LucideIcon } from "lucide-react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
@@ -21,8 +21,7 @@ const modeOptions: ModeOption[] = [
   { value: "mixed", label: "Mixed Practice", icon: BookOpenCheck },
   { value: "subject", label: "Subject Practice", icon: ListChecks },
   { value: "weak", label: "Weak Areas", icon: Target },
-  { value: "saved", label: "Saved Questions", icon: BookOpenCheck },
-  { value: "timed", label: "Timed Set", icon: Clock }
+  { value: "saved", label: "Saved Questions", icon: BookOpenCheck }
 ];
 
 function shuffle<T>(items: T[]) {
@@ -68,7 +67,12 @@ function pickQuestions(mode: PracticeMode, subject: string, count: number, targe
 export function PracticeClient() {
   const params = useSearchParams();
   const requestedId = params.get("question") || undefined;
-  const requestedMode = (params.get("mode") as PracticeMode | null) || (requestedId ? "single" : "mixed");
+  const rawRequestedMode = params.get("mode");
+  const requestedMode: PracticeMode = rawRequestedMode === "subject" || rawRequestedMode === "weak" || rawRequestedMode === "saved"
+    ? rawRequestedMode
+    : requestedId
+      ? "single"
+      : "mixed";
   const requestedSubtopic = params.get("subtopic") || undefined;
   const requestedSubject = params.get("subject") || "";
   const subjects = getSubjects();
@@ -188,7 +192,7 @@ export function PracticeClient() {
         </p>
       </div>
 
-      <div className="grid gap-4 lg:grid-cols-5">
+      <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
         {modeOptions.map(({ value, label, icon: Icon }) => (
           <button
             key={String(value)}
@@ -204,17 +208,25 @@ export function PracticeClient() {
 
       <GlassCard strong className="space-y-5">
         <div className="grid gap-4 md:grid-cols-2">
-          <label className="space-y-2">
-            <span className="text-sm font-medium text-slate-950/62">Subject</span>
-            <select
-              value={subject}
-              onChange={(event) => setSubject(event.target.value)}
-              disabled={mode !== "subject"}
-              className="w-full rounded-2xl border border-slate-200 bg-white/78 px-4 py-3 disabled:opacity-45"
-            >
-              {subjects.map((item) => <option key={item}>{item}</option>)}
-            </select>
-          </label>
+          {mode === "subject" ? (
+            <label className="space-y-2">
+              <span className="text-sm font-medium text-slate-950/62">Subject</span>
+              <select
+                value={subject}
+                onChange={(event) => setSubject(event.target.value)}
+                className="w-full rounded-2xl border border-slate-200 bg-white/78 px-4 py-3"
+              >
+                {subjects.map((item) => <option key={item}>{item}</option>)}
+              </select>
+            </label>
+          ) : (
+            <div className="space-y-2">
+              <span className="text-sm font-medium text-slate-950/62">Subjects</span>
+              <div className="rounded-2xl border border-slate-200 bg-white/78 px-4 py-3 text-slate-950">
+                Mixed from all subjects
+              </div>
+            </div>
+          )}
           <label className="space-y-2">
             <span className="text-sm font-medium text-slate-950/62">Number of questions</span>
             <select
@@ -227,7 +239,7 @@ export function PracticeClient() {
           </label>
         </div>
         <p className="text-sm leading-6 text-slate-950/58">
-          {mode === "timed" ? "The timer keeps running until you finish the set." : "Feedback appears immediately after each answer."}
+          Every set has a running timer and immediate feedback after each answer.
         </p>
         <button
           type="button"
