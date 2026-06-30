@@ -1,6 +1,6 @@
 "use client";
 
-import { ArrowLeft, ArrowRight, CalendarClock, CheckCircle2, RotateCcw, Sparkles } from "lucide-react";
+import { ArrowLeft, ArrowRight, CalendarClock, CheckCircle2, Info, RotateCcw, Sparkles } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { GlassCard } from "@/components/GlassCard";
 import { deleteFlashcardProgressFromCloud, hydrateFlashcardProgressFromCloud, saveFlashcardProgressToCloud } from "@/lib/cloudStudy";
@@ -9,6 +9,7 @@ import type { FlashcardDeck, FlashcardProgress, FlashcardRating } from "@/lib/ty
 import { readJsonStorage, scopedStorageKey, writeJsonStorage } from "@/lib/userStorage";
 
 const flashcardProgressBaseKey = "mbe-prep-flashcard-progress-v1";
+const smartReviewDescription = "Shows missed cards sooner and mastered cards less often.";
 type ReviewMode = "all" | "spaced";
 
 function loadProgress() {
@@ -168,7 +169,7 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
 
   const progressPercent = Math.round((deckStats.reviewed / deckCards.length) * 100);
   const filteredTitle = activeFilter === "got-it" ? "Got it cards" : activeFilter === "needs-work" ? "Needs work cards" : null;
-  const modeTitle = reviewMode === "spaced" ? "Spaced review" : null;
+  const modeTitle = reviewMode === "spaced" ? "Smart Review" : null;
 
   if (!current) {
     return (
@@ -183,7 +184,7 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
           </h2>
           <p className="text-slate-950/64">
             {reviewMode === "spaced"
-              ? "You can switch back to all cards, or come back when more cards are due for review."
+              ? "You can switch back to all cards, or come back when Smart Review has more cards ready."
               : `Mark some cards as ${activeFilter === "got-it" ? "Got It" : "Needs Work"}, then this view will collect them here.`}
           </p>
           <button
@@ -228,7 +229,13 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
             }`}
           >
             <CalendarClock className="mr-2 inline h-4 w-4" />
-            Spaced Review
+            Smart Review
+            <span className="group/info relative ml-2 inline-flex align-middle" title={smartReviewDescription}>
+              <Info className="h-4 w-4" aria-hidden="true" />
+              <span className="pointer-events-none absolute right-0 top-7 z-20 hidden w-56 rounded-2xl border border-slate-200 bg-white px-3 py-2 text-left text-xs font-semibold leading-5 text-slate-700 shadow-xl shadow-slate-900/10 group-hover/info:block">
+                {smartReviewDescription}
+              </span>
+            </span>
           </button>
         </div>
       </div>
@@ -270,7 +277,7 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
                 aria-pressed={reviewMode === "spaced"}
               >
                 <p className="font-semibold">{deckStats.due}</p>
-                <p>Due for spaced review</p>
+                <p>Due for Smart Review</p>
               </button>
               <button
                 type="button"
