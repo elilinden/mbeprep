@@ -1,13 +1,15 @@
 "use client";
 
-import { ArrowLeft, ArrowRight, CheckCircle2, RotateCcw, Sparkles } from "lucide-react";
+import { ArrowLeft, ArrowRight, CalendarClock, CheckCircle2, RotateCcw, Sparkles } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { GlassCard } from "@/components/GlassCard";
 import { deleteFlashcardProgressFromCloud, hydrateFlashcardProgressFromCloud, saveFlashcardProgressToCloud } from "@/lib/cloudStudy";
+import { applySpacedRepetition, dueLabel, isFlashcardDue } from "@/lib/spacedRepetition";
 import type { FlashcardDeck, FlashcardProgress, FlashcardRating } from "@/lib/types";
 import { readJsonStorage, scopedStorageKey, writeJsonStorage } from "@/lib/userStorage";
 
 const flashcardProgressBaseKey = "mbe-prep-flashcard-progress-v1";
+type ReviewMode = "all" | "spaced";
 
 function loadProgress() {
   return readJsonStorage<Record<string, FlashcardProgress>>(scopedStorageKey(flashcardProgressBaseKey), {});
@@ -23,6 +25,7 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
   const [index, setIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [activeFilter, setActiveFilter] = useState<FlashcardRating | null>(null);
+  const [reviewMode, setReviewMode] = useState<ReviewMode>("all");
   const [progress, setProgress] = useState<Record<string, FlashcardProgress>>(() => loadProgress());
 
   useEffect(() => {
@@ -51,11 +54,29 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
   const deckCards = useMemo(() => selectedDeck?.cards || [], [selectedDeck]);
   const cards = useMemo(() => {
     if (!activeFilter) {
+      if (reviewMode === "spaced") {
+        const now = new Date();
+        return deckCards
+          .filter((card) => isFlashcardDue(progress[card.id], now))
+          .sort((first, second) => {
+            const firstProgress = progress[first.id];
+            const secondProgress = progress[second.id];
+            const firstDue = firstProgress?.nextReviewAt ? new Date(firstProgress.nextReviewAt).getTime() : 0;
+            const secondDue = secondProgress?.nextReviewAt ? new Date(secondProgress.nextReviewAt).getTime() : 0;
+            const firstNeedsWork = firstProgress?.lastRating === "needs-work" ? 1 : 0;
+            const secondNeedsWork = secondProgress?.lastRating === "needs-work" ? 1 : 0;
+            const firstLapses = firstProgress?.lapses || 0;
+            const secondLapses = secondProgress?.lapses || 0;
+
+            return secondNeedsWork - firstNeedsWork || secondLapses - firstLapses || firstDue - secondDue;
+          });
+      }
+
       return deckCards;
     }
 
     return deckCards.filter((card) => progress[card.id]?.lastRating === activeFilter);
-  }, [activeFilter, deckCards, progress]);
+  }, [activeFilter, deckCards, progress, reviewMode]);
   const safeIndex = cards.length ? Math.min(index, cards.length - 1) : 0;
   const current = cards[safeIndex];
 
@@ -63,7 +84,8 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
     const reviewed = deckCards.filter((card) => progress[card.id]);
     const gotIt = reviewed.filter((card) => progress[card.id].lastRating === "got-it").length;
     const needsWork = reviewed.filter((card) => progress[card.id].lastRating === "needs-work").length;
-    return { reviewed: reviewed.length, gotIt, needsWork };
+    const due = deckCards.filter((card) => isFlashcardDue(progress[card.id])).length;
+    return { reviewed: reviewed.length, gotIt, needsWork, due };
   }, [deckCards, progress]);
 
   function chooseDeck(deckId: string) {
@@ -81,7 +103,15 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
   function toggleFilter(filter: FlashcardRating) {
     setIndex(0);
     setRevealed(false);
+    setReviewMode("all");
     setActiveFilter((value) => value === filter ? null : filter);
+  }
+
+  function chooseReviewMode(nextMode: ReviewMode) {
+    setIndex(0);
+    setRevealed(false);
+    setActiveFilter(null);
+    setReviewMode(nextMode);
   }
 
   function rateCard(rating: FlashcardRating) {
@@ -90,6 +120,8 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
     }
 
     const existing = progress[current.id];
+    const reviewedAt = new Date();
+    const schedule = applySpacedRepetition(existing, rating, reviewedAt);
     const next = {
       ...progress,
       [current.id]: {
@@ -98,7 +130,8 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
         gotIt: (existing?.gotIt || 0) + (rating === "got-it" ? 1 : 0),
         needsWork: (existing?.needsWork || 0) + (rating === "needs-work" ? 1 : 0),
         lastRating: rating,
-        lastReviewedAt: new Date().toISOString()
+        lastReviewedAt: reviewedAt.toISOString(),
+        ...schedule
       }
     };
 
@@ -135,6 +168,7 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
 
   const progressPercent = Math.round((deckStats.reviewed / deckCards.length) * 100);
   const filteredTitle = activeFilter === "got-it" ? "Got it cards" : activeFilter === "needs-work" ? "Needs work cards" : null;
+  const modeTitle = reviewMode === "spaced" ? "Spaced review" : null;
 
   if (!current) {
     return (
@@ -144,13 +178,17 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
           <h1 className="mt-2 text-4xl font-semibold tracking-tight">Review by recall</h1>
         </div>
         <GlassCard strong className="space-y-4">
-          <h2 className="text-2xl font-semibold tracking-tight">No cards in this filter yet.</h2>
+          <h2 className="text-2xl font-semibold tracking-tight">
+            {reviewMode === "spaced" ? "No cards are due right now." : "No cards in this filter yet."}
+          </h2>
           <p className="text-slate-950/64">
-            Mark some cards as {activeFilter === "got-it" ? "Got It" : "Needs Work"}, then this view will collect them here.
+            {reviewMode === "spaced"
+              ? "You can switch back to all cards, or come back when more cards are due for review."
+              : `Mark some cards as ${activeFilter === "got-it" ? "Got It" : "Needs Work"}, then this view will collect them here.`}
           </p>
           <button
             type="button"
-            onClick={() => setActiveFilter(null)}
+            onClick={() => chooseReviewMode("all")}
             className="w-fit rounded-2xl bg-indigo-600 px-5 py-3 font-semibold text-white hover:bg-indigo-700"
           >
             Show All Cards
@@ -172,8 +210,26 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
             Work the front first, reveal the answer, then mark whether it needs another pass.
           </p>
         </div>
-        <div className="rounded-2xl bg-white/70 px-4 py-3 text-sm font-semibold text-slate-950/68">
-          {activeFilter ? `${cards.length} ${filteredTitle?.toLowerCase()}` : `${deckStats.reviewed} of ${deckCards.length} reviewed`}
+        <div className="flex flex-wrap gap-2">
+          <button
+            type="button"
+            onClick={() => chooseReviewMode("all")}
+            className={`rounded-2xl px-4 py-3 text-sm font-semibold ${
+              reviewMode === "all" && !activeFilter ? "bg-indigo-600 text-white" : "bg-white/70 text-slate-950/68 hover:bg-white"
+            }`}
+          >
+            All cards
+          </button>
+          <button
+            type="button"
+            onClick={() => chooseReviewMode("spaced")}
+            className={`rounded-2xl px-4 py-3 text-sm font-semibold ${
+              reviewMode === "spaced" ? "bg-indigo-600 text-white" : "bg-white/70 text-slate-950/68 hover:bg-white"
+            }`}
+          >
+            <CalendarClock className="mr-2 inline h-4 w-4" />
+            Spaced Review
+          </button>
         </div>
       </div>
 
@@ -205,6 +261,17 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
               <div className="h-full rounded-full bg-indigo-600" style={{ width: `${progressPercent}%` }} />
             </div>
             <div className="mt-4 grid grid-cols-2 gap-2 text-sm">
+              <button
+                type="button"
+                onClick={() => chooseReviewMode("spaced")}
+                className={`col-span-2 rounded-2xl border p-3 text-left text-indigo-900 transition hover:-translate-y-0.5 ${
+                  reviewMode === "spaced" ? "border-indigo-300 bg-indigo-100" : "border-transparent bg-indigo-50 hover:border-indigo-200"
+                }`}
+                aria-pressed={reviewMode === "spaced"}
+              >
+                <p className="font-semibold">{deckStats.due}</p>
+                <p>Due for spaced review</p>
+              </button>
               <button
                 type="button"
                 onClick={() => toggleFilter("needs-work")}
@@ -248,16 +315,23 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
                   {selectedDeck.subject}
                 </p>
                 <h2 className="mt-1 text-2xl font-semibold tracking-tight">
-                  {filteredTitle ? `${filteredTitle}: ` : ""}Card {safeIndex + 1} of {cards.length}
+                  {filteredTitle ? `${filteredTitle}: ` : modeTitle ? `${modeTitle}: ` : ""}Card {safeIndex + 1} of {cards.length}
                 </h2>
               </div>
-              {currentProgress ? (
-                <span className={`w-fit rounded-full px-3 py-1.5 text-xs font-semibold ${
-                  currentProgress.lastRating === "got-it" ? "bg-emerald-50 text-emerald-800" : "bg-amber-50 text-amber-900"
-                }`}>
-                  {currentProgress.lastRating === "got-it" ? "Last marked got it" : "Last marked needs work"}
-                </span>
-              ) : null}
+              <div className="flex flex-wrap gap-2">
+                {reviewMode === "spaced" ? (
+                  <span className="w-fit rounded-full bg-indigo-50 px-3 py-1.5 text-xs font-semibold text-indigo-700">
+                    {dueLabel(currentProgress)}
+                  </span>
+                ) : null}
+                {currentProgress ? (
+                  <span className={`w-fit rounded-full px-3 py-1.5 text-xs font-semibold ${
+                    currentProgress.lastRating === "got-it" ? "bg-emerald-50 text-emerald-800" : "bg-amber-50 text-amber-900"
+                  }`}>
+                    {currentProgress.lastRating === "got-it" ? "Last marked got it" : "Last marked needs work"}
+                  </span>
+                ) : null}
+              </div>
             </div>
 
             <button

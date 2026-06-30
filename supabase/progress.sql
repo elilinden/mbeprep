@@ -73,9 +73,21 @@ create table if not exists public.flashcard_progress (
   needs_work integer not null default 0,
   last_rating text not null check (last_rating in ('got-it', 'needs-work')),
   last_reviewed_at timestamptz not null,
+  ease_factor numeric not null default 2.5,
+  interval_days integer not null default 0,
+  repetitions integer not null default 0,
+  lapses integer not null default 0,
+  next_review_at timestamptz,
   updated_at timestamptz not null default now(),
   primary key (user_id, card_id)
 );
+
+alter table public.flashcard_progress
+  add column if not exists ease_factor numeric not null default 2.5,
+  add column if not exists interval_days integer not null default 0,
+  add column if not exists repetitions integer not null default 0,
+  add column if not exists lapses integer not null default 0,
+  add column if not exists next_review_at timestamptz;
 
 create table if not exists public.podcast_notes (
   user_id uuid not null references auth.users(id) on delete cascade,

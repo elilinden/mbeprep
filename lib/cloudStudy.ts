@@ -14,6 +14,20 @@ type CloudError = {
   message?: string;
 };
 
+type FlashcardProgressRow = {
+  card_id: string;
+  attempts: number | null;
+  got_it: number | null;
+  needs_work: number | null;
+  last_rating: FlashcardProgress["lastRating"];
+  last_reviewed_at: string;
+  ease_factor?: number | null;
+  interval_days?: number | null;
+  repetitions?: number | null;
+  lapses?: number | null;
+  next_review_at?: string | null;
+};
+
 function logCloudWarning(area: string, error: CloudError | null) {
   if (!error) {
     return;
@@ -49,6 +63,15 @@ function newerFlashcardProgress(local?: FlashcardProgress, cloud?: FlashcardProg
   return new Date(cloud.lastReviewedAt).getTime() > new Date(local.lastReviewedAt).getTime() ? cloud : local;
 }
 
+function isMissingColumnError(error: CloudError | null) {
+  if (!error) {
+    return false;
+  }
+
+  const message = error.message?.toLowerCase() || "";
+  return error.code === "42703" || message.includes("column") || message.includes("schema cache");
+}
+
 export async function hydrateFlashcardProgressFromCloud(localProgress: Record<string, FlashcardProgress>) {
   const cloud = await getCloudUser();
 
@@ -56,10 +79,21 @@ export async function hydrateFlashcardProgressFromCloud(localProgress: Record<st
     return localProgress;
   }
 
-  const { data, error } = await cloud.supabase
+  const advancedResult = await cloud.supabase
     .from("flashcard_progress")
-    .select("card_id, attempts, got_it, needs_work, last_rating, last_reviewed_at")
+    .select("card_id, attempts, got_it, needs_work, last_rating, last_reviewed_at, ease_factor, interval_days, repetitions, lapses, next_review_at")
     .eq("user_id", cloud.user.id);
+  let data = advancedResult.data as FlashcardProgressRow[] | null;
+  let error = advancedResult.error;
+
+  if (isMissingColumnError(error)) {
+    const fallback = await cloud.supabase
+      .from("flashcard_progress")
+      .select("card_id, attempts, got_it, needs_work, last_rating, last_reviewed_at")
+      .eq("user_id", cloud.user.id);
+    data = fallback.data as FlashcardProgressRow[] | null;
+    error = fallback.error;
+  }
 
   if (error) {
     logCloudWarning("Load flashcards", error);
@@ -75,7 +109,12 @@ export async function hydrateFlashcardProgressFromCloud(localProgress: Record<st
       gotIt: row.got_it || 0,
       needsWork: row.needs_work || 0,
       lastRating: row.last_rating,
-      lastReviewedAt: row.last_reviewed_at
+      lastReviewedAt: row.last_reviewed_at,
+      easeFactor: row.ease_factor ?? undefined,
+      intervalDays: row.interval_days ?? undefined,
+      repetitions: row.repetitions ?? undefined,
+      lapses: row.lapses ?? undefined,
+      nextReviewAt: row.next_review_at ?? undefined
     };
     merged[row.card_id] = newerFlashcardProgress(merged[row.card_id], cloudProgress) || cloudProgress;
   });
@@ -99,6 +138,11 @@ export async function saveFlashcardProgressToCloud(progress: Record<string, Flas
     needs_work: item.needsWork,
     last_rating: item.lastRating,
     last_reviewed_at: item.lastReviewedAt,
+    ease_factor: item.easeFactor,
+    interval_days: item.intervalDays,
+    repetitions: item.repetitions,
+    lapses: item.lapses,
+    next_review_at: item.nextReviewAt,
     updated_at: new Date().toISOString()
   }));
 
@@ -109,6 +153,25 @@ export async function saveFlashcardProgressToCloud(progress: Record<string, Flas
   const { error } = await cloud.supabase
     .from("flashcard_progress")
     .upsert(rows, { onConflict: "user_id,card_id" });
+
+  if (isMissingColumnError(error)) {
+    const fallbackRows = Object.values(progress).map((item) => ({
+      user_id: cloud.user.id,
+      card_id: item.cardId,
+      attempts: item.attempts,
+      got_it: item.gotIt,
+      needs_work: item.needsWork,
+      last_rating: item.lastRating,
+      last_reviewed_at: item.lastReviewedAt,
+      updated_at: new Date().toISOString()
+    }));
+    const { error: fallbackError } = await cloud.supabase
+      .from("flashcard_progress")
+      .upsert(fallbackRows, { onConflict: "user_id,card_id" });
+    logCloudWarning("Save flashcards", fallbackError);
+    return;
+  }
+
   logCloudWarning("Save flashcards", error);
 }
 

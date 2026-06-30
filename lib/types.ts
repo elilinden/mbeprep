@@ -142,4 +142,9 @@ export type FlashcardProgress = {
   needsWork: number;
   lastRating: FlashcardRating;
   lastReviewedAt: string;
+  easeFactor?: number;
+  intervalDays?: number;
+  repetitions?: number;
+  lapses?: number;
+  nextReviewAt?: string;
 };
