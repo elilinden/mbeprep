@@ -40,11 +40,16 @@ function formatElapsed(totalSeconds: number) {
   return `${minutes}:${String(seconds).padStart(2, "0")}`;
 }
 
-function pickQuestions(mode: PracticeMode, subject: string, count: number, targetId?: string, subtopic?: string): Question[] {
+function pickQuestions(mode: PracticeMode, subject: string, count: number, targetId?: string, subtopic?: string, targetIds: string[] = []): Question[] {
   const progress = getProgress();
 
   if (targetId) {
     return questions.filter((question) => question.id === targetId);
+  }
+
+  if (targetIds.length) {
+    const requested = new Set(targetIds);
+    return questions.filter((question) => requested.has(question.id));
   }
 
   if (mode === "weak") {
@@ -83,6 +88,10 @@ function practiceModeSummary(mode: PracticeMode, subject: string) {
 export function PracticeClient() {
   const params = useSearchParams();
   const requestedId = params.get("question") || undefined;
+  const requestedIds = (params.get("ids") || "")
+    .split(",")
+    .map((id) => id.trim())
+    .filter(Boolean);
   const rawRequestedMode = params.get("mode");
   const requestedMode: PracticeMode = rawRequestedMode === "subject" || rawRequestedMode === "weak" || rawRequestedMode === "saved"
     ? rawRequestedMode
@@ -96,9 +105,9 @@ export function PracticeClient() {
   const [mode, setMode] = useState<PracticeMode>(requestedMode);
   const [subject, setSubject] = useState(requestedSubject || subjects[0] || "");
   const [count, setCount] = useState(10);
-  const [started, setStarted] = useState(Boolean(requestedId || requestedSubtopic));
+  const [started, setStarted] = useState(Boolean(requestedId || requestedSubtopic || requestedIds.length));
   const [sessionQuestions, setSessionQuestions] = useState<Question[]>(() => (
-    requestedId || requestedSubtopic ? pickQuestions(requestedMode, subject, count, requestedId, requestedSubtopic) : []
+    requestedId || requestedSubtopic || requestedIds.length ? pickQuestions(requestedMode, subject, count, requestedId, requestedSubtopic, requestedIds) : []
   ));
   const [index, setIndex] = useState(0);
   const [attempts, setAttempts] = useState<Attempt[]>([]);
@@ -121,7 +130,7 @@ export function PracticeClient() {
   }, [ended, started]);
 
   function startSession() {
-    const picked = pickQuestions(mode, subject, count, requestedId, requestedSubtopic);
+    const picked = pickQuestions(mode, subject, count, requestedId, requestedSubtopic, requestedIds);
     setSessionQuestions(picked);
     setIndex(0);
     setAttempts([]);
