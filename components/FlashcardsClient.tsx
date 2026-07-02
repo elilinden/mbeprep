@@ -254,8 +254,7 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
                   : "border-transparent bg-white/62 hover:border-indigo-200 hover:bg-white"
               }`}
             >
-              <span className="text-sm font-semibold text-indigo-700/75">{deck.subject}</span>
-              <span className="mt-1 block text-lg font-semibold">{deck.title}</span>
+              <span className="block text-lg font-semibold">{deck.title}</span>
             </button>
           ))}
 

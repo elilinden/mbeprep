@@ -202,8 +202,7 @@ export function PodcastsClient({ episodes }: { episodes: PodcastEpisode[] }) {
               >
                 <div className="flex items-start justify-between gap-3">
                   <div>
-                    <p className="text-sm font-semibold text-indigo-700">{episode.subject}</p>
-                    <h3 className="mt-1 text-lg font-semibold">{episode.title}</h3>
+                    <h3 className="text-lg font-semibold">{episode.title}</h3>
                     <p className="mt-2 text-sm leading-6 text-slate-950/62">{episode.topic}</p>
                   </div>
                   <Headphones className="h-5 w-5 shrink-0 text-indigo-600" />
