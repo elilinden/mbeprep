@@ -186,7 +186,7 @@ export function PracticeClient() {
     <div className="space-y-6">
       <div>
         <p className="text-sm font-semibold uppercase tracking-[0.18em] text-indigo-700/70">Practice</p>
-        <h1 className="mt-2 text-4xl font-semibold tracking-tight">Choose your next set</h1>
+        <h1 className="mt-2 text-4xl font-semibold tracking-tight">Start a Practice Set</h1>
         <p className="mt-3 max-w-2xl text-slate-950/64">
           Pick a focused set, answer one question at a time, and use the timer to keep your pacing honest.
         </p>
