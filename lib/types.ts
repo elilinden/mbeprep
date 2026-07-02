@@ -91,10 +91,12 @@ export type WeakArea = {
 export type DashboardStats = {
   totalQuestions: number;
   attempted: number;
+  totalAttempts: number;
   correct: number;
   incorrect: number;
   accuracy: number;
   streak: number;
+  averageTime: number;
   subjectStats: SubjectStats[];
   weakAreas: WeakArea[];
   recentMistakes: Attempt[];

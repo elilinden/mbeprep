@@ -1,6 +1,6 @@
 "use client";
 
-import { BarChart3, BookOpenCheck, BookOpenText, Headphones, Layers, LayoutDashboard, Lightbulb, LogOut } from "lucide-react";
+import { BarChart3, BookOpenCheck, BookOpenText, ChevronDown, Headphones, Layers, LayoutDashboard, Lightbulb, LogOut, RotateCcw } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
@@ -8,11 +8,12 @@ import { useEffect, useState, type ReactNode } from "react";
 import { clsx } from "clsx";
 import { authChangedEvent, getCurrentAccount, signOutAccount, type Account } from "@/lib/auth";
 import { hydrateQuestionProgressFromCloud } from "@/lib/cloudProgress";
+import { resetProgress } from "@/lib/progress";
 import { GlassCard } from "@/components/GlassCard";
 
 const nav = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { href: "/practice", label: "Questions", icon: BookOpenCheck },
+  { href: "/practice", label: "Practice Questions", icon: BookOpenCheck },
   { href: "/review", label: "Review", icon: BarChart3 },
   { href: "/flashcards", label: "Flashcards", icon: Layers },
   { href: "/outlines", label: "Outlines", icon: BookOpenText },
@@ -25,6 +26,8 @@ export function AppShell({ children }: { children: ReactNode }) {
   const router = useRouter();
   const [account, setAccount] = useState<Account | null>(null);
   const [loaded, setLoaded] = useState(false);
+  const [profileOpen, setProfileOpen] = useState(false);
+  const [resetOpen, setResetOpen] = useState(false);
   const signedIn = Boolean(account);
   const isHome = pathname === "/";
 
@@ -61,8 +64,15 @@ export function AppShell({ children }: { children: ReactNode }) {
   }, [isHome, loaded, router, signedIn]);
 
   async function signOut() {
+    setProfileOpen(false);
     await signOutAccount();
     router.push("/");
+  }
+
+  function confirmResetProgress() {
+    resetProgress();
+    setResetOpen(false);
+    setProfileOpen(false);
   }
 
   return (
@@ -85,16 +95,6 @@ export function AppShell({ children }: { children: ReactNode }) {
                   {signedIn ? <span className="block truncate text-xs text-slate-950/52 sm:max-w-60">{account?.email}</span> : null}
                 </span>
               </Link>
-              {signedIn ? (
-                <button
-                  type="button"
-                  onClick={signOut}
-                  className="shrink-0 rounded-2xl border border-slate-200 bg-white/60 px-3 py-2 text-xs font-semibold text-slate-700 hover:bg-white lg:hidden"
-                >
-                  <LogOut className="mr-1 inline h-3.5 w-3.5" />
-                  Sign out
-                </button>
-              ) : null}
             </div>
             {signedIn ? (
               <div className="flex flex-col gap-2 lg:flex-row lg:items-center">
@@ -118,18 +118,68 @@ export function AppShell({ children }: { children: ReactNode }) {
                     );
                   })}
                 </nav>
-                <button
-                  type="button"
-                  onClick={signOut}
-                  className="hidden rounded-2xl border border-slate-200 bg-white/60 px-4 py-3 text-sm font-semibold text-slate-700 hover:bg-white lg:block"
-                >
-                  <LogOut className="mr-2 inline h-4 w-4" />
-                  Sign out
-                </button>
+                <div className="relative">
+                  <button
+                    type="button"
+                    onClick={() => setProfileOpen((value) => !value)}
+                    className="flex w-full items-center justify-center gap-2 rounded-2xl border border-slate-200 bg-white/60 px-4 py-3 text-sm font-semibold text-slate-700 hover:bg-white lg:w-auto"
+                    aria-expanded={profileOpen}
+                  >
+                    Account
+                    <ChevronDown className="h-4 w-4" />
+                  </button>
+                  {profileOpen ? (
+                    <div className="absolute right-0 top-full z-40 mt-2 w-72 rounded-3xl border border-slate-200 bg-white p-3 shadow-2xl shadow-slate-900/12">
+                      <p className="truncate px-3 py-2 text-xs font-semibold text-slate-500">{account?.email}</p>
+                      <button
+                        type="button"
+                        onClick={() => setResetOpen(true)}
+                        className="flex w-full items-center rounded-2xl px-3 py-3 text-left text-sm font-semibold text-red-700 hover:bg-red-50"
+                      >
+                        <RotateCcw className="mr-2 h-4 w-4" />
+                        Reset Progress
+                      </button>
+                      <button
+                        type="button"
+                        onClick={signOut}
+                        className="flex w-full items-center rounded-2xl px-3 py-3 text-left text-sm font-semibold text-slate-700 hover:bg-slate-50"
+                      >
+                        <LogOut className="mr-2 h-4 w-4" />
+                        Sign out
+                      </button>
+                    </div>
+                  ) : null}
+                </div>
               </div>
             ) : null}
           </div>
         </header>
+        {resetOpen ? (
+          <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/35 px-4">
+            <div className="w-full max-w-md rounded-[2rem] border border-slate-200 bg-white p-6 shadow-2xl shadow-slate-950/20">
+              <h2 className="text-2xl font-semibold tracking-tight">Reset all progress?</h2>
+              <p className="mt-3 leading-7 text-slate-600">
+                This will permanently delete your answers, accuracy history, weak areas, and streaks. This cannot be undone.
+              </p>
+              <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:justify-end">
+                <button
+                  type="button"
+                  onClick={() => setResetOpen(false)}
+                  className="rounded-2xl border border-slate-200 bg-white px-5 py-3 font-semibold text-slate-700 hover:bg-slate-50"
+                >
+                  Cancel
+                </button>
+                <button
+                  type="button"
+                  onClick={confirmResetProgress}
+                  className="rounded-2xl bg-red-600 px-5 py-3 font-semibold text-white hover:bg-red-700"
+                >
+                  Reset All Progress
+                </button>
+              </div>
+            </div>
+          </div>
+        ) : null}
         <main className="flex-1">
           {!loaded ? (
             <GlassCard>Loading account...</GlassCard>

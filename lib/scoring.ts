@@ -93,6 +93,7 @@ export function buildDashboardStats(progress: UserProgress): DashboardStats {
   const correct = progress.attempts.filter((attempt) => attempt.isCorrect).length;
   const incorrect = progress.attempts.length - correct;
   const weakAreas = calculateWeakAreas(progress);
+  const totalTime = progress.attempts.reduce((total, attempt) => total + attempt.timeSpent, 0);
 
   const bySubject = new Map<string, { attempted: number; correct: number; missedSubtopics: Map<string, number> }>();
   progress.attempts.forEach((attempt) => {
@@ -137,10 +138,12 @@ export function buildDashboardStats(progress: UserProgress): DashboardStats {
   return {
     totalQuestions: questions.length,
     attempted: attemptedQuestionIds.size,
+    totalAttempts: progress.attempts.length,
     correct,
     incorrect,
     accuracy: progress.attempts.length ? Math.round((correct / progress.attempts.length) * 100) : 0,
     streak: currentStreak(progress.attempts),
+    averageTime: progress.attempts.length ? Math.round(totalTime / progress.attempts.length) : 0,
     subjectStats,
     weakAreas,
     recentMistakes: progress.attempts.filter((attempt) => !attempt.isCorrect).slice(-5).reverse(),

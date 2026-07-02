@@ -1,12 +1,37 @@
 import { GlassCard } from "@/components/GlassCard";
 import { ProgressBar } from "@/components/ProgressBar";
+import { cleanTopicTitle } from "@/lib/display";
 import type { SubjectStats } from "@/lib/types";
+
+function sampleStatus(subject: SubjectStats) {
+  if (subject.attempted === 0) {
+    return "Not started";
+  }
+
+  if (subject.attempted < 5) {
+    return "More data needed";
+  }
+
+  if (subject.attempted < 10) {
+    return "Early results";
+  }
+
+  if (subject.weaknessScore >= 50) {
+    return "Needs review";
+  }
+
+  if (subject.weaknessScore >= 25) {
+    return "Watch closely";
+  }
+
+  return "On track";
+}
 
 export function SubjectMastery({ subjects }: { subjects: SubjectStats[] }) {
   if (!subjects.length) {
     return (
       <GlassCard>
-        <h2 className="text-xl font-semibold">Subject mastery</h2>
+        <h2 className="text-xl font-semibold">Subject Performance</h2>
         <p className="mt-3 text-slate-950/62">Answer a few questions and your subject map will appear here.</p>
       </GlassCard>
     );
@@ -15,8 +40,8 @@ export function SubjectMastery({ subjects }: { subjects: SubjectStats[] }) {
   return (
     <GlassCard className="space-y-5">
       <div>
-        <h2 className="text-xl font-semibold">Subject mastery</h2>
-        <p className="mt-1 text-sm text-slate-950/58">Accuracy by subject, plus where your weak subtopics need attention.</p>
+        <h2 className="text-xl font-semibold">Subject Performance</h2>
+        <p className="mt-1 text-sm text-slate-950/58">Accuracy by subject, with sample size shown clearly.</p>
       </div>
       <div className="space-y-4">
         {subjects.map((subject) => (
@@ -25,16 +50,19 @@ export function SubjectMastery({ subjects }: { subjects: SubjectStats[] }) {
               <div>
                 <p className="font-semibold">{subject.subject}</p>
                 <p className="text-sm text-slate-950/58">
-                  {subject.attempted} attempted · {subject.weaknessScore >= 50 ? "urgent attention" : subject.weaknessScore >= 25 ? "high attention" : "steady progress"}
+                  {subject.attempted} answered · {sampleStatus(subject)}
                 </p>
               </div>
-              <p className="text-lg font-semibold">{subject.accuracy}%</p>
+              <div className="text-left sm:text-right">
+                <p className="text-lg font-semibold">{subject.accuracy}%</p>
+                <p className="text-xs font-medium text-slate-950/52">{subject.correct} of {subject.attempted} correct</p>
+              </div>
             </div>
             <div className="mt-3">
               <ProgressBar value={subject.accuracy} />
             </div>
             {subject.topMissedSubtopics.length ? (
-              <p className="mt-3 text-sm text-slate-950/62">Top misses: {subject.topMissedSubtopics.join(", ")}</p>
+              <p className="mt-3 text-sm text-slate-950/62">Top misses: {subject.topMissedSubtopics.map(cleanTopicTitle).join(", ")}</p>
             ) : null}
           </div>
         ))}
