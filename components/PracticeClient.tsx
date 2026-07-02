@@ -64,6 +64,22 @@ function pickQuestions(mode: PracticeMode, subject: string, count: number, targe
   return shuffle(questions).slice(0, count);
 }
 
+function practiceModeSummary(mode: PracticeMode, subject: string) {
+  if (mode === "subject") {
+    return subject || "Selected subject";
+  }
+
+  if (mode === "weak") {
+    return "Weak areas";
+  }
+
+  if (mode === "saved") {
+    return "Saved questions";
+  }
+
+  return "Mixed subjects";
+}
+
 export function PracticeClient() {
   const params = useSearchParams();
   const requestedId = params.get("question") || undefined;
@@ -90,6 +106,7 @@ export function PracticeClient() {
   const [elapsed, setElapsed] = useState(0);
 
   const current = sessionQuestions[index];
+  const practiceSummary = `${count} questions · ${practiceModeSummary(mode, subject)} · Timed · Explanations after each answer`;
   const sessionAccuracy = attempts.length ? Math.round((attempts.filter((attempt) => attempt.isCorrect).length / attempts.length) * 100) : 0;
   const missed = useMemo(() => attempts.filter((attempt) => !attempt.isCorrect), [attempts]);
   const weakTopics = Array.from(new Set(missed.map((attempt) => attempt.subtopic))).slice(0, 4);
@@ -238,9 +255,7 @@ export function PracticeClient() {
             </select>
           </label>
         </div>
-        <p className="text-sm leading-6 text-slate-950/58">
-          Every set has a running timer and immediate feedback after each answer.
-        </p>
+        <p className="text-sm leading-6 text-slate-950/58">{practiceSummary}</p>
         <button
           type="button"
           onClick={startSession}
