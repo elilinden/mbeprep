@@ -18,6 +18,14 @@ const podcastFiles = [
     description: "Review Corporations and LLC rules in audio form before drilling flashcards or outlines."
   },
   {
+    id: "civil-procedure",
+    fileName: "civil-procedure.mp3",
+    title: "Civil Procedure",
+    subject: "Civil Procedure",
+    topic: "Federal jurisdiction, pleadings, joinder, discovery, motions, trial, and preclusion",
+    description: "Review Federal Civil Procedure rules in audio form before drilling flashcards or outlines."
+  },
+  {
     id: "real-property",
     fileName: "real-property.mp3",
     title: "Real Property",
