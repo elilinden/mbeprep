@@ -11,13 +11,13 @@ import { hydrateQuestionProgressFromCloud } from "@/lib/cloudProgress";
 import { GlassCard } from "@/components/GlassCard";
 
 const nav = [
-  { href: "/practice", label: "Questions", icon: BookOpenCheck },
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
+  { href: "/practice", label: "Questions", icon: BookOpenCheck },
   { href: "/review", label: "Review", icon: BarChart3 },
   { href: "/flashcards", label: "Flashcards", icon: Layers },
   { href: "/outlines", label: "Outlines", icon: BookOpenText },
   { href: "/podcasts", label: "Podcasts", icon: Headphones },
-  { href: "/suggestions", label: "Suggest", icon: Lightbulb }
+  { href: "/suggestions", label: "Feedback", icon: Lightbulb }
 ];
 
 export function AppShell({ children }: { children: ReactNode }) {
