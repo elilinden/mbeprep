@@ -165,8 +165,7 @@ export function OutlinesClient({ outlines }: { outlines: Outline[] }) {
                   : "border-transparent bg-white/62 text-slate-950 hover:border-indigo-200 hover:bg-white"
               }`}
             >
-              <span className="text-sm font-semibold text-indigo-700/75">{outline.subject}</span>
-              <span className="mt-1 block text-lg font-semibold">{outline.title}</span>
+              <span className="block text-lg font-semibold">{outline.title}</span>
             </button>
           ))}
         </GlassCard>
