@@ -1,0 +1,679 @@
+{
+  "id": "civil-procedure",
+  "title": "Civil Procedure",
+  "subject": "Civil Procedure",
+  "cards": [
+    {
+      "id": "civil-procedure-001-what-three-separate-questions-must-be-addressed-when",
+      "subject": "Civil Procedure",
+      "front": "What three separate questions must be addressed whenever a lawsuit is filed in federal court?",
+      "back": "Does the court have subject matter jurisdiction, does it have personal jurisdiction, and is venue proper?"
+    },
+    {
+      "id": "civil-procedure-002-subject-matter-jurisdiction-asks-whether",
+      "subject": "Civil Procedure",
+      "front": "Subject matter jurisdiction asks whether _____.",
+      "back": "The specific type of case belongs in federal court."
+    },
+    {
+      "id": "civil-procedure-003-personal-jurisdiction-asks-whether",
+      "subject": "Civil Procedure",
+      "front": "Personal jurisdiction asks whether _____.",
+      "back": "A particular defendant can be forced to defend in the state where the court sits."
+    },
+    {
+      "id": "civil-procedure-004-under-what-circumstances-can-subject-matter-jurisdic",
+      "subject": "Civil Procedure",
+      "front": "Under what circumstances can subject matter jurisdiction be created by party agreement or waiver?",
+      "back": "Subject matter jurisdiction can never be created by agreement, consent, or waiver."
+    },
+    {
+      "id": "civil-procedure-005-at-what-point-in-a-litigation-can-a-party-or-the-cou",
+      "subject": "Civil Procedure",
+      "front": "At what point in a litigation can a party or the court raise a lack of subject matter jurisdiction?",
+      "back": "At any time, including for the first time on appeal."
+    },
+    {
+      "id": "civil-procedure-006-which-abstention-doctrine-applies-when-a-federal-con",
+      "subject": "Civil Procedure",
+      "front": "Which abstention doctrine applies when a federal constitutional issue might be resolved by a state court's clarification of uncertain state law?",
+      "back": "Pullman Abstention"
+    },
+    {
+      "id": "civil-procedure-007-which-abstention-doctrine-allows-federal-courts-to-d",
+      "subject": "Civil Procedure",
+      "front": "Which abstention doctrine allows federal courts to defer to complex state administrative or regulatory systems involving strong state interests?",
+      "back": "Burford Abstention"
+    },
+    {
+      "id": "civil-procedure-008-a-federal-court-generally-avoids-interfering-with-on",
+      "subject": "Civil Procedure",
+      "front": "A federal court generally avoids interfering with ongoing state criminal or contempt proceedings under the _____ doctrine.",
+      "back": "Younger Abstention"
+    },
+    {
+      "id": "civil-procedure-009-when-a-federal-court-lacks-jurisdiction-it-may-trans",
+      "subject": "Civil Procedure",
+      "front": "When a federal court lacks jurisdiction, it may transfer the action to another federal court if the transfer is _____.",
+      "back": "In the interest of justice."
+    },
+    {
+      "id": "civil-procedure-010-how-is-federal-question-jurisdiction-defined-under-f",
+      "subject": "Civil Procedure",
+      "front": "How is federal question jurisdiction defined under federal statutes?",
+      "back": "Jurisdiction exists when the plaintiff's claim arises under the U.S. Constitution, federal statutes, or federal treaties."
+    },
+    {
+      "id": "civil-procedure-011-what-is-the-minimum-amount-in-controversy-required-f",
+      "subject": "Civil Procedure",
+      "front": "What is the minimum 'amount in controversy' required for federal question jurisdiction?",
+      "back": "There is no minimum amount in controversy requirement for federal question jurisdiction."
+    },
+    {
+      "id": "civil-procedure-012-the-rule-that-federal-question-jurisdiction-must-be",
+      "subject": "Civil Procedure",
+      "front": "The rule that federal question jurisdiction must be evident from the plaintiff's own claim, rather than anticipated defenses, is the _____.",
+      "back": "Well-Pleaded Complaint Rule"
+    },
+    {
+      "id": "civil-procedure-013-under-what-condition-does-a-state-law-claim-create-f",
+      "subject": "Civil Procedure",
+      "front": "Under what condition does a state-law claim create federal question jurisdiction because of an 'embedded' federal issue?",
+      "back": "The federal issue must be necessarily raised, actually disputed, substantial, and capable of resolution without disrupting the federal-state balance."
+    },
+    {
+      "id": "civil-procedure-014-how-is-federal-jurisdiction-determined-in-a-declarat",
+      "subject": "Civil Procedure",
+      "front": "How is federal jurisdiction determined in a declaratory judgment action?",
+      "back": "The court analyzes the nature of the coercive lawsuit that would have been brought if the request for declaratory relief had not been filed."
+    },
+    {
+      "id": "civil-procedure-015-what-are-the-two-primary-requirements-for-diversity",
+      "subject": "Civil Procedure",
+      "front": "What are the two primary requirements for diversity jurisdiction?",
+      "back": "Complete diversity of citizenship and an amount in controversy exceeding $\\$75,000$."
+    },
+    {
+      "id": "civil-procedure-016-in-the-context-of-diversity-jurisdiction-complete-di",
+      "subject": "Civil Procedure",
+      "front": "In the context of diversity jurisdiction, 'complete diversity' means that _____.",
+      "back": "No plaintiff may be a citizen of the same state as any defendant."
+    },
+    {
+      "id": "civil-procedure-017-what-is-the-threshold-for-minimal-diversity",
+      "subject": "Civil Procedure",
+      "front": "What is the threshold for 'minimal diversity'?",
+      "back": "At least one plaintiff is a citizen of a different state than at least one defendant."
+    },
+    {
+      "id": "civil-procedure-018-at-what-specific-time-is-the-citizenship-of-the-part",
+      "subject": "Civil Procedure",
+      "front": "At what specific time is the citizenship of the parties measured for diversity purposes?",
+      "back": "At the time the lawsuit is filed."
+    },
+    {
+      "id": "civil-procedure-019-an-individual-is-a-citizen-of-the-state-where-they-a",
+      "subject": "Civil Procedure",
+      "front": "An individual is a citizen of the state where they are _____.",
+      "back": "Domiciled"
+    },
+    {
+      "id": "civil-procedure-020-what-are-the-two-requirements-to-establish-a-new-dom",
+      "subject": "Civil Procedure",
+      "front": "What are the two requirements to establish a new domicile?",
+      "back": "Physical presence in the new state and the intent to remain there indefinitely."
+    },
+    {
+      "id": "civil-procedure-021-what-is-the-diversity-status-of-a-u-s-citizen-domici",
+      "subject": "Civil Procedure",
+      "front": "What is the diversity status of a U.S. citizen domiciled in a foreign country?",
+      "back": "They are considered 'stateless' and generally cannot sue or be sued in federal court based on diversity jurisdiction."
+    },
+    {
+      "id": "civil-procedure-022-for-diversity-purposes-a-corporation-is-a-citizen-of",
+      "subject": "Civil Procedure",
+      "front": "For diversity purposes, a corporation is a citizen of _____.",
+      "back": "Every state where it is incorporated and the one state where it has its principal place of business."
+    },
+    {
+      "id": "civil-procedure-023-a-corporation-s-principal-place-of-business-is-deter",
+      "subject": "Civil Procedure",
+      "front": "A corporation's 'principal place of business' is determined by the _____ test.",
+      "back": "Nerve Center"
+    },
+    {
+      "id": "civil-procedure-024-how-is-the-citizenship-of-an-llc-or-a-partnership-de",
+      "subject": "Civil Procedure",
+      "front": "How is the citizenship of an LLC or a partnership determined for diversity jurisdiction?",
+      "back": "It is a citizen of every state where any of its members or partners are citizens."
+    },
+    {
+      "id": "civil-procedure-025-the-legal-representative-of-a-decedent-s-estate-is-t",
+      "subject": "Civil Procedure",
+      "front": "The legal representative of a decedent's estate is treated as having the citizenship of _____.",
+      "back": "The decedent"
+    },
+    {
+      "id": "civil-procedure-026-what-are-the-five-core-domestic-relations-and-probat",
+      "subject": "Civil Procedure",
+      "front": "What are the five core domestic relations and probate matters generally excluded from federal diversity jurisdiction?",
+      "back": "Probating a will, administering an estate, granting a divorce, awarding child custody, and setting support obligations."
+    },
+    {
+      "id": "civil-procedure-027-to-satisfy-diversity-jurisdiction-the-amount-in-cont",
+      "subject": "Civil Procedure",
+      "front": "To satisfy diversity jurisdiction, the amount in controversy must be at least _____.",
+      "back": "$\\$75,000.01$"
+    },
+    {
+      "id": "civil-procedure-028-under-the-legal-certainty-test-a-plaintiff-s-good-fa",
+      "subject": "Civil Procedure",
+      "front": "Under the 'legal certainty test,' a plaintiff's good-faith allegation of damages controls unless _____.",
+      "back": "It is legally certain that the plaintiff cannot recover more than $\\$75,000$."
+    },
+    {
+      "id": "civil-procedure-029-can-one-plaintiff-aggregate-multiple-unrelated-claim",
+      "subject": "Civil Procedure",
+      "front": "Can one plaintiff aggregate multiple unrelated claims against a single defendant to meet the amount in controversy?",
+      "back": "Yes, one plaintiff may add together all claims against one defendant."
+    },
+    {
+      "id": "civil-procedure-030-when-can-a-plaintiff-aggregate-claims-against-multip",
+      "subject": "Civil Procedure",
+      "front": "When can a plaintiff aggregate claims against multiple defendants to reach the $\\$75,000$ threshold?",
+      "back": "Only when the defendants are jointly liable for the same obligation."
+    },
+    {
+      "id": "civil-procedure-031-supplemental-jurisdiction-requires-that-the-addition",
+      "subject": "Civil Procedure",
+      "front": "Supplemental jurisdiction requires that the additional claim arise from a _____ with the original claim.",
+      "back": "Common nucleus of operative fact"
+    },
+    {
+      "id": "civil-procedure-032-under-28-u-s-c-s-1367-b-in-a-diversity-only-case-the",
+      "subject": "Civil Procedure",
+      "front": "Under $28$ U.S.C. $\\S 1367(b)$, in a diversity-only case, the court generally lacks supplemental jurisdiction over claims by _____ against parties joined under Rule $14, 19, 20,$ or $24$.",
+      "back": "Plaintiffs"
+    },
+    {
+      "id": "civil-procedure-033-what-is-the-standard-period-for-tolling-the-statute",
+      "subject": "Civil Procedure",
+      "front": "What is the standard period for tolling the statute of limitations for a state claim dismissed from federal court under supplemental jurisdiction?",
+      "back": "The period it was pending in federal court plus at least $30$ days after dismissal."
+    },
+    {
+      "id": "civil-procedure-034-which-party-has-the-right-to-remove-a-case-from-stat",
+      "subject": "Civil Procedure",
+      "front": "Which party has the right to remove a case from state court to federal court?",
+      "back": "The defendant only."
+    },
+    {
+      "id": "civil-procedure-035-the-forum-defendant-rule-prohibits-removal-based-on",
+      "subject": "Civil Procedure",
+      "front": "The 'forum-defendant rule' prohibits removal based on diversity if _____.",
+      "back": "Any properly joined and served defendant is a citizen of the forum state."
+    },
+    {
+      "id": "civil-procedure-036-what-is-the-general-deadline-for-a-defendant-to-file",
+      "subject": "Civil Procedure",
+      "front": "What is the general deadline for a defendant to file a notice of removal?",
+      "back": "Within $30$ days after receiving the initial pleading or summons showing the case is removable."
+    },
+    {
+      "id": "civil-procedure-037-what-is-the-absolute-time-limit-for-removing-a-case",
+      "subject": "Civil Procedure",
+      "front": "What is the absolute time limit for removing a case based on diversity jurisdiction if it was not initially removable?",
+      "back": "One year after the action was commenced (unless the plaintiff acted in bad faith)."
+    },
+    {
+      "id": "civil-procedure-038-how-long-does-a-plaintiff-have-to-move-to-remand-a-c",
+      "subject": "Civil Procedure",
+      "front": "How long does a plaintiff have to move to remand a case based on a procedural defect in removal?",
+      "back": "Within $30$ days after the notice of removal was filed."
+    },
+    {
+      "id": "civil-procedure-039-what-are-the-two-requirements-for-personal-jurisdict",
+      "subject": "Civil Procedure",
+      "front": "What are the two requirements for personal jurisdiction to be valid?",
+      "back": "Statutory authorization (long-arm statute) and constitutional due process."
+    },
+    {
+      "id": "civil-procedure-040-what-is-the-effect-of-tag-jurisdiction",
+      "subject": "Civil Procedure",
+      "front": "What is the effect of 'tag jurisdiction'?",
+      "back": "A court has personal jurisdiction over an individual who is voluntarily present and personally served within the forum state."
+    },
+    {
+      "id": "civil-procedure-041-how-does-a-defendant-waive-an-objection-to-personal",
+      "subject": "Civil Procedure",
+      "front": "How does a defendant waive an objection to personal jurisdiction?",
+      "back": "By failing to raise it in the first Rule $12$ motion or the answer."
+    },
+    {
+      "id": "civil-procedure-042-to-satisfy-due-process-for-personal-jurisdiction-a-n",
+      "subject": "Civil Procedure",
+      "front": "To satisfy due process for personal jurisdiction, a nonresident defendant must have _____ with the forum state.",
+      "back": "Minimum contacts"
+    },
+    {
+      "id": "civil-procedure-043-purposeful-availment-requires-that-the-defendant",
+      "subject": "Civil Procedure",
+      "front": "Purposeful availment requires that the defendant _____.",
+      "back": "Deliberately reached into or targeted the forum state."
+    },
+    {
+      "id": "civil-procedure-044-specific-personal-jurisdiction-is-applicable-when-th",
+      "subject": "Civil Procedure",
+      "front": "Specific personal jurisdiction is applicable when the lawsuit _____.",
+      "back": "Arises out of or relates to the defendant's specific contacts with the forum."
+    },
+    {
+      "id": "civil-procedure-045-general-personal-jurisdiction-exists-only-where-the",
+      "subject": "Civil Procedure",
+      "front": "General personal jurisdiction exists only where the defendant is _____.",
+      "back": "At home"
+    },
+    {
+      "id": "civil-procedure-046-a-corporation-is-at-home-for-general-jurisdiction-pu",
+      "subject": "Civil Procedure",
+      "front": "A corporation is 'at home' for general jurisdiction purposes in _____.",
+      "back": "Its state of incorporation and its principal place of business."
+    },
+    {
+      "id": "civil-procedure-047-the-federal-bulge-provision-rule-4-k-1-b-allows-serv",
+      "subject": "Civil Procedure",
+      "front": "The 'Federal Bulge Provision' (Rule $4(k)(1)(B)$) allows service on Rule $14$ or Rule $19$ parties within _____ of the courthouse.",
+      "back": "$100$ miles"
+    },
+    {
+      "id": "civil-procedure-048-under-rule-4-k-2-a-federal-court-can-exercise-jurisd",
+      "subject": "Civil Procedure",
+      "front": "Under Rule $4(k)(2)$, a federal court can exercise jurisdiction over a foreign defendant if the claim arises under federal law, no state has jurisdiction, and _____.",
+      "back": "The defendant has sufficient contacts with the United States as a whole."
+    },
+    {
+      "id": "civil-procedure-049-what-is-the-constitutional-standard-for-notice-under",
+      "subject": "Civil Procedure",
+      "front": "What is the constitutional standard for notice under the Due Process Clause?",
+      "back": "Notice must be reasonably calculated, under all circumstances, to apprise interested parties of the action."
+    },
+    {
+      "id": "civil-procedure-050-where-is-venue-proper-under-the-general-federal-venu",
+      "subject": "Civil Procedure",
+      "front": "Where is venue proper under the general federal venue statute?",
+      "back": "A district where any defendant resides (if all reside in the same state) or where a substantial part of the events occurred."
+    },
+    {
+      "id": "civil-procedure-051-when-a-case-is-transferred-from-a-proper-venue-for-c",
+      "subject": "Civil Procedure",
+      "front": "When a case is transferred from a proper venue for convenience, which state's choice-of-law rules does the transferee court apply?",
+      "back": "The choice-of-law rules of the transferor court (the state where the case was originally filed)."
+    },
+    {
+      "id": "civil-procedure-052-if-a-case-is-transferred-because-the-original-venue",
+      "subject": "Civil Procedure",
+      "front": "If a case is transferred because the original venue was improper, which state's law does the transferee court apply?",
+      "back": "The state law of the state in which the transferee court sits."
+    },
+    {
+      "id": "civil-procedure-053-the-doctrine-that-allows-a-court-to-dismiss-a-case-b",
+      "subject": "Civil Procedure",
+      "front": "The doctrine that allows a court to dismiss a case because a much more appropriate forum exists in a different judicial system (like a foreign country) is _____.",
+      "back": "Forum Non Conveniens"
+    },
+    {
+      "id": "civil-procedure-054-what-is-the-big-picture-goal-of-the-erie-doctrine",
+      "subject": "Civil Procedure",
+      "front": "What is the 'Big Picture' goal of the Erie Doctrine?",
+      "back": "A federal court sitting in diversity applies federal procedural law and state substantive law."
+    },
+    {
+      "id": "civil-procedure-055-if-a-valid-federal-rule-of-civil-procedure-directly",
+      "subject": "Civil Procedure",
+      "front": "If a valid Federal Rule of Civil Procedure directly conflicts with a state law, which one applies in federal court?",
+      "back": "The Federal Rule of Civil Procedure."
+    },
+    {
+      "id": "civil-procedure-056-under-erie-are-statutes-of-limitations-considered-su",
+      "subject": "Civil Procedure",
+      "front": "Under Erie, are statutes of limitations considered substantive or procedural?",
+      "back": "Substantive (state law applies)."
+    },
+    {
+      "id": "civil-procedure-057-a-federal-court-in-a-diversity-case-applies-the-choi",
+      "subject": "Civil Procedure",
+      "front": "A federal court in a diversity case applies the choice-of-law rules of _____.",
+      "back": "The state in which the federal court sits."
+    },
+    {
+      "id": "civil-procedure-058-what-is-the-general-time-limit-for-serving-a-summons",
+      "subject": "Civil Procedure",
+      "front": "What is the general time limit for serving a summons and complaint after filing?",
+      "back": "$90$ days"
+    },
+    {
+      "id": "civil-procedure-059-a-domestic-defendant-who-waives-formal-service-of-pr",
+      "subject": "Civil Procedure",
+      "front": "A domestic defendant who waives formal service of process is granted _____ days to answer the complaint instead of the usual $21$ days.",
+      "back": "$60$"
+    },
+    {
+      "id": "civil-procedure-060-what-are-the-requirements-for-a-court-to-issue-a-tem",
+      "subject": "Civil Procedure",
+      "front": "What are the requirements for a court to issue a Temporary Restraining Order (TRO) without notice (ex parte)?",
+      "back": "Specific facts showing immediate and irreparable injury, attorney certification of notice efforts, and posting of security."
+    },
+    {
+      "id": "civil-procedure-061-what-is-the-maximum-duration-of-an-ex-parte-tro",
+      "subject": "Civil Procedure",
+      "front": "What is the maximum duration of an ex parte TRO?",
+      "back": "$14$ days (unless extended for good cause)."
+    },
+    {
+      "id": "civil-procedure-062-to-obtain-a-preliminary-injunction-a-movant-must-sho",
+      "subject": "Civil Procedure",
+      "front": "To obtain a preliminary injunction, a movant must show a likelihood of success on the merits and _____.",
+      "back": "Likelihood of irreparable harm, that the balance of equities favors them, and that the injunction is in the public interest."
+    },
+    {
+      "id": "civil-procedure-063-the-modern-pleading-standard-requires-that-a-complai",
+      "subject": "Civil Procedure",
+      "front": "The modern pleading standard requires that a complaint contain enough facts to state a _____ claim.",
+      "back": "Plausible"
+    },
+    {
+      "id": "civil-procedure-064-which-two-types-of-claims-must-be-pleaded-with-parti",
+      "subject": "Civil Procedure",
+      "front": "Which two types of claims must be pleaded with 'particularity' under Rule $9$?",
+      "back": "Fraud and mistake."
+    },
+    {
+      "id": "civil-procedure-065-list-the-four-rule-12-b-defenses-that-are-waived-if",
+      "subject": "Civil Procedure",
+      "front": "List the four Rule $12(b)$ defenses that are waived if not raised in the defendant's first response.",
+      "back": "Lack of personal jurisdiction, improper venue, insufficient process, and insufficient service of process."
+    },
+    {
+      "id": "civil-procedure-066-failure-to-deny-a-factual-allegation-in-an-answer-ot",
+      "subject": "Civil Procedure",
+      "front": "Failure to deny a factual allegation in an answer (other than damages) results in _____.",
+      "back": "An admission of the allegation."
+    },
+    {
+      "id": "civil-procedure-067-a-party-may-amend-a-pleading-once-as-a-matter-of-cou",
+      "subject": "Civil Procedure",
+      "front": "A party may amend a pleading once 'as a matter of course' within _____ days of serving it or being served with a responsive pleading/Rule $12$ motion.",
+      "back": "$21$"
+    },
+    {
+      "id": "civil-procedure-068-an-amendment-relates-back-to-the-original-filing-dat",
+      "subject": "Civil Procedure",
+      "front": "An amendment 'relates back' to the original filing date if it arises from the same _____.",
+      "back": "Conduct, transaction, or occurrence."
+    },
+    {
+      "id": "civil-procedure-069-by-signing-a-filing-an-attorney-certifies-under-rule",
+      "subject": "Civil Procedure",
+      "front": "By signing a filing, an attorney certifies under Rule $11$ that it is not for an improper purpose and that the legal arguments are _____.",
+      "back": "Nonfrivolous"
+    },
+    {
+      "id": "civil-procedure-070-the-safe-harbor-provision-of-rule-11-gives-a-party-d",
+      "subject": "Civil Procedure",
+      "front": "The 'safe harbor' provision of Rule $11$ gives a party _____ days to withdraw a challenged filing before a sanctions motion is filed with the court.",
+      "back": "$21$"
+    },
+    {
+      "id": "civil-procedure-071-under-rule-20-parties-may-be-joined-if-their-claims",
+      "subject": "Civil Procedure",
+      "front": "Under Rule $20$, parties may be joined if their claims arise from the same transaction or occurrence and share at least one _____.",
+      "back": "Common question of law or fact."
+    },
+    {
+      "id": "civil-procedure-072-what-is-the-result-if-a-required-party-cannot-be-joi",
+      "subject": "Civil Procedure",
+      "front": "What is the result if a 'required party' cannot be joined and the court determines they are 'indispensable' under Rule $19$?",
+      "back": "The court must dismiss the action."
+    },
+    {
+      "id": "civil-procedure-073-a-nonparty-has-a-right-to-intervene-if-they-have-an",
+      "subject": "Civil Procedure",
+      "front": "A nonparty has a right to intervene if they have an interest in the property or transaction that may be impaired and _____.",
+      "back": "Their interest is not adequately represented by existing parties."
+    },
+    {
+      "id": "civil-procedure-074-statutory-interpleader-requires-diversity-between-at",
+      "subject": "Civil Procedure",
+      "front": "Statutory interpleader requires _____ diversity between at least two adverse claimants.",
+      "back": "Minimal"
+    },
+    {
+      "id": "civil-procedure-075-what-is-the-minimum-amount-in-controversy-for-statut",
+      "subject": "Civil Procedure",
+      "front": "What is the minimum amount in controversy for Statutory Interpleader?",
+      "back": "$\\$500$"
+    },
+    {
+      "id": "civil-procedure-076-a-counterclaim-is-compulsory-if-it-arises-from-the-s",
+      "subject": "Civil Procedure",
+      "front": "A counterclaim is 'compulsory' if it arises from the same _____ as the opposing party's claim.",
+      "back": "Transaction or occurrence"
+    },
+    {
+      "id": "civil-procedure-077-a-crossclaim-is-a-claim-asserted-against-a",
+      "subject": "Civil Procedure",
+      "front": "A 'crossclaim' is a claim asserted against a _____.",
+      "back": "Coparty (someone on the same side of the 'v')."
+    },
+    {
+      "id": "civil-procedure-078-rule-14-impleader-is-used-when-a-defending-party-see",
+      "subject": "Civil Procedure",
+      "front": "Rule $14$ impleader is used when a defending party seeks to bring in a third party who is _____ to them for the plaintiff's claim.",
+      "back": "Derivatively liable"
+    },
+    {
+      "id": "civil-procedure-079-what-are-the-four-prerequisites-for-a-class-action-u",
+      "subject": "Civil Procedure",
+      "front": "What are the four prerequisites for a class action under Rule $23(a)$?",
+      "back": "Numerosity, commonality, typicality, and adequacy (NCTA)."
+    },
+    {
+      "id": "civil-procedure-080-which-type-of-class-action-requires-predominance-of",
+      "subject": "Civil Procedure",
+      "front": "Which type of class action requires 'predominance' of common questions and 'superiority' of the class mechanism?",
+      "back": "Rule $23(b)(3)$ (Damages Class)."
+    },
+    {
+      "id": "civil-procedure-081-under-cafa-federal-courts-have-jurisdiction-over-cla",
+      "subject": "Civil Procedure",
+      "front": "Under CAFA, federal courts have jurisdiction over class actions with at least $100$ members, minimal diversity, and an aggregate amount in controversy exceeding _____.",
+      "back": "$\\$5$ million"
+    },
+    {
+      "id": "civil-procedure-082-a-petition-to-appeal-a-class-certification-order-mus",
+      "subject": "Civil Procedure",
+      "front": "A petition to appeal a class certification order must be filed within _____ days of the order.",
+      "back": "$14$"
+    },
+    {
+      "id": "civil-procedure-083-in-a-shareholder-derivative-suit-the-shareholder-mus",
+      "subject": "Civil Procedure",
+      "front": "In a shareholder derivative suit, the shareholder must have owned shares _____.",
+      "back": "At the time the challenged conduct occurred."
+    },
+    {
+      "id": "civil-procedure-084-initial-disclosures-must-include-individuals-with-di",
+      "subject": "Civil Procedure",
+      "front": "Initial disclosures must include individuals with discoverable info, supporting documents, insurance agreements, and _____.",
+      "back": "Damages computations"
+    },
+    {
+      "id": "civil-procedure-085-the-identity-and-written-report-of-a-testifying-expe",
+      "subject": "Civil Procedure",
+      "front": "The identity and written report of a testifying expert must generally be disclosed at least _____ days before trial.",
+      "back": "$90$"
+    },
+    {
+      "id": "civil-procedure-086-the-rule-26-f-discovery-conference-must-take-place-a",
+      "subject": "Civil Procedure",
+      "front": "The Rule $26(f)$ discovery conference must take place at least _____ days before the Rule $16$ scheduling conference.",
+      "back": "$21$"
+    },
+    {
+      "id": "civil-procedure-087-the-scope-of-discovery-includes-any-nonprivileged-ma",
+      "subject": "Civil Procedure",
+      "front": "The scope of discovery includes any nonprivileged matter that is relevant and _____ to the needs of the case.",
+      "back": "Proportional"
+    },
+    {
+      "id": "civil-procedure-088-to-discover-ordinary-work-product-a-party-must-show",
+      "subject": "Civil Procedure",
+      "front": "To discover 'ordinary' work product, a party must show substantial need and _____.",
+      "back": "Inability to obtain the equivalent without undue hardship."
+    },
+    {
+      "id": "civil-procedure-089-are-the-mental-impressions-of-an-attorney-opinion-wo",
+      "subject": "Civil Procedure",
+      "front": "Are the 'mental impressions' of an attorney (opinion work product) discoverable?",
+      "back": "No, they receive near-absolute protection."
+    },
+    {
+      "id": "civil-procedure-090-what-is-the-default-limit-on-the-number-of-depositio",
+      "subject": "Civil Procedure",
+      "front": "What is the default limit on the number of depositions per side?",
+      "back": "$10$"
+    },
+    {
+      "id": "civil-procedure-091-the-maximum-number-of-interrogatories-a-party-may-se",
+      "subject": "Civil Procedure",
+      "front": "The maximum number of interrogatories a party may serve on another party is _____.",
+      "back": "$25$"
+    },
+    {
+      "id": "civil-procedure-092-a-court-order-for-a-physical-or-mental-exam-requires",
+      "subject": "Civil Procedure",
+      "front": "A court order for a physical or mental exam requires that the person's condition is in controversy and that there is _____.",
+      "back": "Good cause"
+    },
+    {
+      "id": "civil-procedure-093-if-a-party-fails-to-respond-to-a-request-for-admissi",
+      "subject": "Civil Procedure",
+      "front": "If a party fails to respond to a Request for Admission within $30$ days, the matter is _____.",
+      "back": "Deemed admitted"
+    },
+    {
+      "id": "civil-procedure-094-a-subpoena-cannot-command-a-person-to-travel-more-th",
+      "subject": "Civil Procedure",
+      "front": "A subpoena cannot command a person to travel more than _____ miles from where they reside or work.",
+      "back": "$100$"
+    },
+    {
+      "id": "civil-procedure-095-under-the-two-dismissal-rule-a-second-voluntary-noti",
+      "subject": "Civil Procedure",
+      "front": "Under the 'two-dismissal rule,' a second voluntary notice of dismissal of the same claim operates as _____.",
+      "back": "An adjudication on the merits (with prejudice)."
+    },
+    {
+      "id": "civil-procedure-096-summary-judgment-is-appropriate-if-there-is-no-and-t",
+      "subject": "Civil Procedure",
+      "front": "Summary judgment is appropriate if there is no _____ and the movant is entitled to judgment as a matter of law.",
+      "back": "Genuine dispute of material fact"
+    },
+    {
+      "id": "civil-procedure-097-the-seventh-amendment-preserves-the-right-to-a-jury",
+      "subject": "Civil Procedure",
+      "front": "The Seventh Amendment preserves the right to a jury trial for _____ claims.",
+      "back": "Legal (as opposed to equitable)"
+    },
+    {
+      "id": "civil-procedure-098-a-party-must-demand-a-jury-trial-within-days-after-t",
+      "subject": "Civil Procedure",
+      "front": "A party must demand a jury trial within _____ days after the last pleading directed to the issue is served.",
+      "back": "$14$"
+    },
+    {
+      "id": "civil-procedure-099-how-many-peremptory-challenges-is-each-side-usually",
+      "subject": "Civil Procedure",
+      "front": "How many peremptory challenges is each side usually granted in a federal civil trial?",
+      "back": "$3$"
+    },
+    {
+      "id": "civil-procedure-100-a-motion-for-judgment-as-a-matter-of-law-jmol-can-be",
+      "subject": "Civil Procedure",
+      "front": "A motion for Judgment as a Matter of Law (JMOL) can be made only after _____.",
+      "back": "The opposing party has been fully heard on the issue."
+    },
+    {
+      "id": "civil-procedure-101-what-is-the-deadline-for-filing-a-renewed-jmol-or-a",
+      "subject": "Civil Procedure",
+      "front": "What is the deadline for filing a Renewed JMOL or a motion for a new trial?",
+      "back": "$28$ days after entry of judgment."
+    },
+    {
+      "id": "civil-procedure-102-which-post-trial-practice-is-unconstitutional-in-fed",
+      "subject": "Civil Procedure",
+      "front": "Which post-trial practice is unconstitutional in federal court?",
+      "back": "Additur (increasing a jury's damage award)."
+    },
+    {
+      "id": "civil-procedure-103-a-rule-60-b-motion-for-relief-from-judgment-based-on",
+      "subject": "Civil Procedure",
+      "front": "A Rule $60(b)$ motion for relief from judgment based on fraud or newly discovered evidence must be made within _____.",
+      "back": "One year"
+    },
+    {
+      "id": "civil-procedure-104-the-final-judgment-rule-means-that-an-appeal-is-gene",
+      "subject": "Civil Procedure",
+      "front": "The 'Final Judgment Rule' means that an appeal is generally only allowed after _____.",
+      "back": "The district court has ended the litigation on the merits."
+    },
+    {
+      "id": "civil-procedure-105-the-collateral-order-doctrine-allows-immediate-appea",
+      "subject": "Civil Procedure",
+      "front": "The 'Collateral Order Doctrine' allows immediate appeal of an order that is conclusive, resolves an important separate issue, and is _____.",
+      "back": "Effectively unreviewable after final judgment."
+    },
+    {
+      "id": "civil-procedure-106-what-is-the-general-deadline-for-filing-a-notice-of",
+      "subject": "Civil Procedure",
+      "front": "What is the general deadline for filing a notice of appeal in a civil case?",
+      "back": "$30$ days after entry of the judgment or order appealed from."
+    },
+    {
+      "id": "civil-procedure-107-what-standard-of-review-does-an-appellate-court-use",
+      "subject": "Civil Procedure",
+      "front": "What standard of review does an appellate court use for a district court's legal conclusions?",
+      "back": "De Novo"
+    },
+    {
+      "id": "civil-procedure-108-a-judge-s-findings-of-fact-in-a-bench-trial-are-revi",
+      "subject": "Civil Procedure",
+      "front": "A judge's findings of fact in a bench trial are reviewed under the _____ standard.",
+      "back": "Clearly Erroneous"
+    },
+    {
+      "id": "civil-procedure-109-claim-preclusion-res-judicata-requires-the-same-part",
+      "subject": "Civil Procedure",
+      "front": "Claim preclusion (res judicata) requires the same parties, a valid final judgment on the merits, and the same _____.",
+      "back": "Claim or transaction"
+    },
+    {
+      "id": "civil-procedure-110-issue-preclusion-collateral-estoppel-requires-that-t",
+      "subject": "Civil Procedure",
+      "front": "Issue preclusion (collateral estoppel) requires that the issue was actually litigated, actually determined, and _____ to the judgment.",
+      "back": "Essential"
+    },
+    {
+      "id": "civil-procedure-111-in-offensive-nonmutual-issue-preclusion-a-seeks-to-b",
+      "subject": "Civil Procedure",
+      "front": "In 'offensive' nonmutual issue preclusion, a _____ seeks to bind a defendant to a prior loss.",
+      "back": "New plaintiff"
+    },
+    {
+      "id": "civil-procedure-112-rule-16-1-effective-december-1-2025-governs-the-mana",
+      "subject": "Civil Procedure",
+      "front": "Rule $16.1$, effective December $1, 2025$, governs the management of _____.",
+      "back": "Multidistrict Litigation (MDL)"
+    }
+  ]
+}
