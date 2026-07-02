@@ -152,7 +152,7 @@ export function OutlinesClient({ outlines }: { outlines: Outline[] }) {
       </div>
 
       <div className="grid gap-6 lg:grid-cols-[0.35fr_1fr]">
-        <GlassCard className="space-y-3 self-start lg:sticky lg:top-28">
+        <GlassCard className="space-y-3 self-start lg:sticky lg:top-28 lg:max-h-[calc(100vh-8rem)] lg:overflow-y-auto lg:overscroll-contain">
           <h2 className="text-lg font-semibold">Topics</h2>
           {outlines.map((outline) => (
             <button
