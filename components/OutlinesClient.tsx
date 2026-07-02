@@ -74,11 +74,12 @@ function renderBlock(block: OutlineBlock, section: OutlineSection, index: number
   if (block.type === "chartHeader" || block.type === "chartRow") {
     const cells = block.text.split(" — ");
     const isHeader = block.type === "chartHeader";
+    const columnClass = cells.length === 4 ? "md:grid-cols-4" : cells.length === 2 ? "md:grid-cols-2" : "md:grid-cols-3";
 
     return (
       <div
         key={`${section.id}-${index}`}
-        className={`grid gap-2 rounded-2xl p-4 text-sm ${cells.length === 4 ? "md:grid-cols-4" : "md:grid-cols-3"} ${
+        className={`grid gap-2 rounded-2xl p-4 text-sm ${columnClass} ${
           isHeader ? "bg-slate-950 font-semibold text-white" : "bg-white/70"
         }`}
       >
