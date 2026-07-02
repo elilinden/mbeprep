@@ -13,7 +13,7 @@ import { GlassCard } from "@/components/GlassCard";
 
 const nav = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { href: "/practice", label: "Practice Questions", icon: BookOpenCheck },
+  { href: "/practice", label: "MC Questions", icon: BookOpenCheck },
   { href: "/review", label: "Review", icon: BarChart3 },
   { href: "/flashcards", label: "Flashcards", icon: Layers },
   { href: "/outlines", label: "Outlines", icon: BookOpenText },
@@ -113,7 +113,7 @@ export function AppShell({ children }: { children: ReactNode }) {
                         aria-current={active ? "page" : undefined}
                       >
                         <Icon className="h-4 w-4" aria-hidden="true" />
-                        <span>{item.label}</span>
+                        <span className="whitespace-nowrap">{item.label}</span>
                       </Link>
                     );
                   })}
