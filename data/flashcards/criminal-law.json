@@ -1,0 +1,613 @@
+{
+  "id": "criminal-law",
+  "title": "Criminal Law",
+  "subject": "Criminal Law",
+  "cards": [
+    {
+      "id": "criminal-law-001-what-are-the-six-general-requirements-for-criminal-liability",
+      "subject": "Criminal Law",
+      "front": "What are the six general requirements for criminal liability?",
+      "back": "Voluntary act/omission, mens rea, concurrence, causation, proof beyond a reasonable doubt, and no complete defense."
+    },
+    {
+      "id": "criminal-law-002-under-the-criminal-law-attack-plan-which-doctrine-should-be-checked-to-s",
+      "subject": "Criminal Law",
+      "front": "Under the criminal law attack plan, which doctrine should be checked to see if it limits multiple convictions or punishments?",
+      "back": "Merger rules."
+    },
+    {
+      "id": "criminal-law-003-true-or-false-a-bad-thought-alone-is-punishable-as-a-crime",
+      "subject": "Criminal Law",
+      "front": "True or False: A bad thought alone is punishable as a crime.",
+      "back": "False."
+    },
+    {
+      "id": "criminal-law-004-when-can-speech-constitute-the-actus-reus-of-a-crime",
+      "subject": "Criminal Law",
+      "front": "When can speech constitute the actus reus of a crime?",
+      "back": "When the offense is committed through words, such as solicitation, perjury, or extortion."
+    },
+    {
+      "id": "criminal-law-005-what-is-the-requirement-for-possession-to-count-as-a-voluntary-act",
+      "subject": "Criminal Law",
+      "front": "What is the requirement for 'possession' to count as a voluntary act?",
+      "back": "The defendant must knowingly control the item long enough to terminate possession."
+    },
+    {
+      "id": "criminal-law-006-which-category-of-conduct-includes-reflexes-and-convulsions",
+      "subject": "Criminal Law",
+      "front": "Which category of conduct includes reflexes and convulsions?",
+      "back": "Involuntary acts."
+    },
+    {
+      "id": "criminal-law-007-how-can-a-defendant-be-liable-for-an-act-committed-during-an-involuntary",
+      "subject": "Criminal Law",
+      "front": "How can a defendant be liable for an act committed during an involuntary state like a seizure?",
+      "back": "If an earlier voluntary act, such as choosing to drive while knowing seizures are likely, created the danger."
+    },
+    {
+      "id": "criminal-law-008-what-does-the-memory-line-look-backward-for-the-last-voluntary-act-refer",
+      "subject": "Criminal Law",
+      "front": "What does the memory line 'Look backward for the last voluntary act' refer to?",
+      "back": "Determining liability when the immediate criminal act was involuntary but preceded by a voluntary one."
+    },
+    {
+      "id": "criminal-law-009-what-are-the-four-requirements-for-an-omission-to-be-criminal",
+      "subject": "Criminal Law",
+      "front": "What are the four requirements for an omission to be criminal?",
+      "back": "Legal duty, knowledge of facts creating duty, possibility of performance, and causation of the result."
+    },
+    {
+      "id": "criminal-law-010-what-does-the-mnemonic-scarc-stand-for-regarding-legal-duties-to-act",
+      "subject": "Criminal Law",
+      "front": "What does the mnemonic SCARC stand for regarding legal duties to act?",
+      "back": "Statute, Contract, Assumption of care, Relationship, and Creation of peril."
+    },
+    {
+      "id": "criminal-law-011-what-is-the-general-duty-of-a-mere-bystander-to-rescue-someone-in-peril",
+      "subject": "Criminal Law",
+      "front": "What is the general duty of a mere bystander to rescue someone in peril?",
+      "back": "A mere bystander generally has no duty to rescue."
+    },
+    {
+      "id": "criminal-law-012-what-is-the-principle-of-concurrence-in-criminal-law",
+      "subject": "Criminal Law",
+      "front": "What is the principle of concurrence in criminal law?",
+      "back": "The required mens rea must exist at the same time the defendant commits the actus reus."
+    },
+    {
+      "id": "criminal-law-013-what-mnemonic-is-used-to-remember-major-common-law-specific-intent-crime",
+      "subject": "Criminal Law",
+      "front": "What mnemonic is used to remember major common-law specific intent crimes?",
+      "back": "FIAT (First-degree murder, Inchoate offenses, Assault with intent to commit battery, Theft offenses)."
+    },
+    {
+      "id": "criminal-law-014-why-is-the-distinction-of-specific-intent-important-for-defenses",
+      "subject": "Criminal Law",
+      "front": "Why is the distinction of 'specific intent' important for defenses?",
+      "back": "Specific intent can be negated by voluntary intoxication or an unreasonable mistake of fact."
+    },
+    {
+      "id": "criminal-law-015-which-two-common-law-crimes-are-categorized-as-malice-crimes",
+      "subject": "Criminal Law",
+      "front": "Which two common-law crimes are categorized as 'malice' crimes?",
+      "back": "Murder and arson."
+    },
+    {
+      "id": "criminal-law-016-in-the-context-of-malice-crimes-what-does-malice-encompass-besides-inten",
+      "subject": "Criminal Law",
+      "front": "In the context of malice crimes, what does 'malice' encompass besides intentional wrongdoing?",
+      "back": "Reckless disregard of a high risk."
+    },
+    {
+      "id": "criminal-law-017-name-the-common-law-general-intent-crimes-mentioned-in-the-guide",
+      "subject": "Criminal Law",
+      "front": "Name the common-law general-intent crimes mentioned in the guide.",
+      "back": "Battery, rape, kidnapping, and false imprisonment."
+    },
+    {
+      "id": "criminal-law-018-how-does-motive-differ-from-mens-rea",
+      "subject": "Criminal Law",
+      "front": "How does 'motive' differ from 'mens rea'?",
+      "back": "Motive explains why a defendant acted, while mens rea is the legally required mental state."
+    },
+    {
+      "id": "criminal-law-019-what-is-the-highest-level-of-mental-state-under-the-model-penal-code-mpc",
+      "subject": "Criminal Law",
+      "front": "What is the highest level of mental state under the Model Penal Code (MPC)?",
+      "back": "Purposely (conscious objective)."
+    },
+    {
+      "id": "criminal-law-020-under-the-mpc-which-mental-state-involves-an-awareness-of-practical-cert",
+      "subject": "Criminal Law",
+      "front": "Under the MPC, which mental state involves an awareness of 'practical certainty' that a result will occur?",
+      "back": "Knowingly."
+    },
+    {
+      "id": "criminal-law-021-define-recklessly-according-to-the-mpc",
+      "subject": "Criminal Law",
+      "front": "Define 'Recklessly' according to the MPC.",
+      "back": "The conscious disregard of a substantial and unjustifiable risk."
+    },
+    {
+      "id": "criminal-law-022-what-is-the-lowest-level-of-mental-state-under-the-mpc",
+      "subject": "Criminal Law",
+      "front": "What is the lowest level of mental state under the MPC?",
+      "back": "Negligently (failure to perceive a substantial and unjustifiable risk)."
+    },
+    {
+      "id": "criminal-law-023-if-an-mpc-statute-is-silent-on-the-required-mental-state-which-state-is-",
+      "subject": "Criminal Law",
+      "front": "If an MPC statute is silent on the required mental state, which state is usually sufficient?",
+      "back": "Recklessness."
+    },
+    {
+      "id": "criminal-law-024-which-type-of-crime-requires-no-mens-rea-for-the-relevant-element",
+      "subject": "Criminal Law",
+      "front": "Which type of crime requires no mens rea for the relevant element?",
+      "back": "Strict-liability crimes."
+    },
+    {
+      "id": "criminal-law-025-list-three-common-examples-of-strict-liability-crimes",
+      "subject": "Criminal Law",
+      "front": "List three common examples of strict-liability crimes.",
+      "back": "Statutory rape, bigamy, and public-welfare offenses."
+    },
+    {
+      "id": "criminal-law-026-what-is-the-effect-of-a-mistake-of-fact-on-a-strict-liability-offense",
+      "subject": "Criminal Law",
+      "front": "What is the effect of a mistake of fact on a strict-liability offense?",
+      "back": "Mistake of fact is generally no defense."
+    },
+    {
+      "id": "criminal-law-027-when-may-a-corporation-be-held-liable-for-a-crime",
+      "subject": "Criminal Law",
+      "front": "When may a corporation be held liable for a crime?",
+      "back": "When an employee acts in scope, an agent authorizes it, a duty is violated, or a statute imposes it."
+    },
+    {
+      "id": "criminal-law-028-to-negate-a-specific-intent-crime-what-kind-of-mistake-of-fact-is-requir",
+      "subject": "Criminal Law",
+      "front": "To negate a specific intent crime, what kind of mistake of fact is required?",
+      "back": "An honest mistake, even if it is unreasonable."
+    },
+    {
+      "id": "criminal-law-029-to-negate-a-general-intent-or-malice-crime-what-kind-of-mistake-of-fact-",
+      "subject": "Criminal Law",
+      "front": "To negate a general intent or malice crime, what kind of mistake of fact is required?",
+      "back": "An honest and reasonable mistake."
+    },
+    {
+      "id": "criminal-law-030-under-the-mpc-what-must-a-mistake-of-fact-accomplish-to-be-a-defense",
+      "subject": "Criminal Law",
+      "front": "Under the MPC, what must a mistake of fact accomplish to be a defense?",
+      "back": "It must negate the required mental state."
+    },
+    {
+      "id": "criminal-law-031-what-is-the-general-rule-regarding-mistake-of-law",
+      "subject": "Criminal Law",
+      "front": "What is the general rule regarding 'Mistake of Law'?",
+      "back": "Ignorance of the law is no excuse."
+    },
+    {
+      "id": "criminal-law-032-when-does-transferred-intent-commonlly-apply",
+      "subject": "Criminal Law",
+      "front": "When does 'transferred intent' commonlly apply?",
+      "back": "Homicide, battery, and arson."
+    },
+    {
+      "id": "criminal-law-033-if-a-shoots-at-b-but-misses-and-hits-c-why-is-a-not-guilty-of-attempted-",
+      "subject": "Criminal Law",
+      "front": "If A shoots at B but misses and hits C, why is A not guilty of 'attempted murder' of C under transferred intent?",
+      "back": "Transferred intent applies to completed harms, not inchoate crimes against unintended victims."
+    },
+    {
+      "id": "criminal-law-034-what-is-an-innocent-instrumentality-in-the-context-of-a-principal-in-the",
+      "subject": "Criminal Law",
+      "front": "What is an 'innocent instrumentality' in the context of a principal in the first degree?",
+      "back": "An object or person through which a principal commits the actus reus without that person being liable."
+    },
+    {
+      "id": "criminal-law-035-what-are-the-three-requirements-for-accomplice-liability",
+      "subject": "Criminal Law",
+      "front": "What are the three requirements for accomplice liability?",
+      "back": "Aiding/encouraging/soliciting, acting before or during the offense, and having the required mental state."
+    },
+    {
+      "id": "criminal-law-036-under-the-mpc-what-specific-mental-state-is-generally-required-for-an-ac",
+      "subject": "Criminal Law",
+      "front": "Under the MPC, what specific mental state is generally required for an accomplice?",
+      "back": "The purpose of promoting or facilitating the crime."
+    },
+    {
+      "id": "criminal-law-037-are-mere-presence-or-mere-knowledge-enough-to-establish-accomplice-liabi",
+      "subject": "Criminal Law",
+      "front": "Are mere presence or mere knowledge enough to establish accomplice liability?",
+      "back": "No."
+    },
+    {
+      "id": "criminal-law-038-under-traditional-rules-an-accomplice-is-liable-for-the-intended-crime-a",
+      "subject": "Criminal Law",
+      "front": "Under traditional rules, an accomplice is liable for the intended crime and what other crimes?",
+      "back": "Additional crimes that are natural and probable consequences."
+    },
+    {
+      "id": "criminal-law-039-what-is-required-for-effective-withdrawal-by-an-accomplice",
+      "subject": "Criminal Law",
+      "front": "What is required for effective withdrawal by an accomplice?",
+      "back": "Repudiating encouragement, neutralizing aid if possible, communicating withdrawal, and acting before the crime is unstoppable."
+    },
+    {
+      "id": "criminal-law-040-how-does-an-accessory-after-the-fact-differ-from-an-accomplice",
+      "subject": "Criminal Law",
+      "front": "How does an 'accessory after the fact' differ from an accomplice?",
+      "back": "An accessory after the fact is a separate offense for assisting a felon after the crime is completed."
+    },
+    {
+      "id": "criminal-law-041-which-insanity-test-asks-if-the-defendant-did-not-know-the-nature-of-the",
+      "subject": "Criminal Law",
+      "front": "Which insanity test asks if the defendant did not know the nature of the act or that it was wrong?",
+      "back": "The M’Naghten test."
+    },
+    {
+      "id": "criminal-law-042-which-insanity-test-focuses-on-whether-the-defendant-could-control-their",
+      "subject": "Criminal Law",
+      "front": "Which insanity test focuses on whether the defendant could control their conduct or conform to the law?",
+      "back": "The Irresistible Impulse test."
+    },
+    {
+      "id": "criminal-law-043-under-the-mpc-insanity-test-what-two-things-must-a-defendant-lack-the-ca",
+      "subject": "Criminal Law",
+      "front": "Under the MPC insanity test, what two things must a defendant lack the capacity to do?",
+      "back": "Appreciate wrongfulness or conform conduct to the law."
+    },
+    {
+      "id": "criminal-law-044-what-is-the-difference-between-insanity-and-competency",
+      "subject": "Criminal Law",
+      "front": "What is the difference between insanity and competency?",
+      "back": "Insanity concerns the time of the crime; competency concerns the ability to understand current proceedings."
+    },
+    {
+      "id": "criminal-law-045-voluntary-intoxication-is-not-a-defense-to-which-categories-of-crimes",
+      "subject": "Criminal Law",
+      "front": "Voluntary intoxication is NOT a defense to which categories of crimes?",
+      "back": "General intent, malice, recklessness, negligence, or strict liability."
+    },
+    {
+      "id": "criminal-law-046-what-are-the-common-law-age-brackets-for-infancy-and-criminal-capability",
+      "subject": "Criminal Law",
+      "front": "What are the common-law age brackets for infancy and criminal capability?",
+      "back": "Under 7 (incapable), 7–13 (rebuttably presumed incapable), 14+ (treated as capable)."
+    },
+    {
+      "id": "criminal-law-047-in-homicide-what-is-the-substantial-factor-test",
+      "subject": "Criminal Law",
+      "front": "In homicide, what is the 'substantial factor' test?",
+      "back": "It applies when two independent acts are each sufficient to cause death."
+    },
+    {
+      "id": "criminal-law-048-what-does-the-eggshell-skull-rule-imply-for-actual-causation-in-homicide",
+      "subject": "Criminal Law",
+      "front": "What does the 'eggshell skull' rule imply for actual causation in homicide?",
+      "back": "The defendant takes the victim as found; a preexisting weakness does not break causation."
+    },
+    {
+      "id": "criminal-law-049-when-does-an-intervening-event-break-the-chain-of-proximate-causation-in",
+      "subject": "Criminal Law",
+      "front": "When does an intervening event break the chain of proximate causation in homicide?",
+      "back": "Only when the intervening event is extraordinary."
+    },
+    {
+      "id": "criminal-law-050-do-ordinary-medical-negligence-or-foreseeable-rescue-break-the-chain-of-",
+      "subject": "Criminal Law",
+      "front": "Do ordinary medical negligence or foreseeable rescue break the chain of proximate causation?",
+      "back": "No."
+    },
+    {
+      "id": "criminal-law-051-what-is-the-common-law-definition-of-murder",
+      "subject": "Criminal Law",
+      "front": "What is the common-law definition of murder?",
+      "back": "The unlawful killing of another human being with malice aforethought."
+    },
+    {
+      "id": "criminal-law-052-what-mnemonic-represents-the-four-ways-to-establish-malice-for-common-la",
+      "subject": "Criminal Law",
+      "front": "What mnemonic represents the four ways to establish malice for common-law murder?",
+      "back": "IK-SBI-DH-FM (Intent to Kill, Intent Serious Bodily Injury, Depraved Heart, Felony Murder)."
+    },
+    {
+      "id": "criminal-law-053-how-is-depraved-heart-murder-distinguished-from-involuntary-manslaughter",
+      "subject": "Criminal Law",
+      "front": "How is depraved-heart murder distinguished from involuntary manslaughter?",
+      "back": "It requires a conscious disregard of an extremely high risk to human life and greater blameworthiness."
+    },
+    {
+      "id": "criminal-law-054-what-mnemonic-represents-the-inherently-dangerous-felonies-for-felony-mu",
+      "subject": "Criminal Law",
+      "front": "What mnemonic represents the inherently dangerous felonies for felony murder?",
+      "back": "BARRK (Burglary, Arson, Rape, Robbery, Kidnapping)."
+    },
+    {
+      "id": "criminal-law-055-what-is-the-felony-murder-merger-rule",
+      "subject": "Criminal Law",
+      "front": "What is the felony-murder merger rule?",
+      "back": "An assaultive felony that causes death merges into the homicide and cannot be the predicate felony."
+    },
+    {
+      "id": "criminal-law-056-according-to-agency-theory-is-a-felon-liable-if-a-police-officer-kills-a",
+      "subject": "Criminal Law",
+      "front": "According to 'Agency Theory,' is a felon liable if a police officer kills a bystander during the crime?",
+      "back": "Generally no, because the police officer is not the felon's agent."
+    },
+    {
+      "id": "criminal-law-057-what-is-the-primary-requirement-to-elevate-murder-to-first-degree-murder",
+      "subject": "Criminal Law",
+      "front": "What is the primary requirement to elevate murder to first-degree murder in most statutes?",
+      "back": "Deliberation and premeditation."
+    },
+    {
+      "id": "criminal-law-058-what-are-the-two-ways-a-murder-is-mitigated-to-voluntary-manslaughter",
+      "subject": "Criminal Law",
+      "front": "What are the two ways a murder is mitigated to voluntary manslaughter?",
+      "back": "Adequate provocation (heat of passion) or imperfect self-defense."
+    },
+    {
+      "id": "criminal-law-059-list-the-four-requirements-for-heat-of-passion-mitigation",
+      "subject": "Criminal Law",
+      "front": "List the four requirements for 'heat of passion' mitigation.",
+      "back": "Adequate provocation, actual heat of passion, no cooling time, and a causal connection."
+    },
+    {
+      "id": "criminal-law-060-are-mere-insulting-words-traditionally-sufficient-for-adequate-provocati",
+      "subject": "Criminal Law",
+      "front": "Are mere insulting words traditionally sufficient for adequate provocation?",
+      "back": "No."
+    },
+    {
+      "id": "criminal-law-061-what-is-imperfect-self-defense",
+      "subject": "Criminal Law",
+      "front": "What is 'imperfect self-defense'?",
+      "back": "An honest but unreasonable belief in the need for deadly force that reduces murder to voluntary manslaughter."
+    },
+    {
+      "id": "criminal-law-062-how-is-involuntary-manslaughter-defined",
+      "subject": "Criminal Law",
+      "front": "How is involuntary manslaughter defined?",
+      "back": "An unintentional killing caused by criminal negligence, MPC recklessness, or certain lower-level crimes."
+    },
+    {
+      "id": "criminal-law-063-what-are-the-six-elements-of-common-law-larceny",
+      "subject": "Criminal Law",
+      "front": "What are the six elements of common-law larceny?",
+      "back": "Trespassory taking, carrying away, personal property, of another, with intent to permanently deprive."
+    },
+    {
+      "id": "criminal-law-064-in-larceny-what-is-the-difference-between-caption-and-asportation",
+      "subject": "Criminal Law",
+      "front": "In larceny, what is the difference between 'caption' and 'asportation'?",
+      "back": "Caption is obtaining control; asportation is any slight movement."
+    },
+    {
+      "id": "criminal-law-065-why-can-a-title-owner-commit-larceny-against-a-lawful-possessor",
+      "subject": "Criminal Law",
+      "front": "Why can a title owner commit larceny against a lawful possessor?",
+      "back": "Because larceny protects possession, not just legal title."
+    },
+    {
+      "id": "criminal-law-066-what-kind-of-theft-does-a-low-level-employee-commit-if-they-take-employe",
+      "subject": "Criminal Law",
+      "front": "What kind of theft does a low-level employee commit if they take employer property they only had 'custody' over?",
+      "back": "Larceny."
+    },
+    {
+      "id": "criminal-law-067-when-can-finding-lost-property-constitute-larceny",
+      "subject": "Criminal Law",
+      "front": "When can finding lost property constitute larceny?",
+      "back": "When the finder can identify the owner and intends to keep the property permanently at the time of finding."
+    },
+    {
+      "id": "criminal-law-068-does-an-intent-to-return-property-eventually-satisfy-the-intent-element-",
+      "subject": "Criminal Law",
+      "front": "Does an intent to return property 'eventually' satisfy the intent element of larceny?",
+      "back": "No, there must be intent to permanently deprive."
+    },
+    {
+      "id": "criminal-law-069-what-is-the-effect-of-an-honest-claim-of-right-on-a-larceny-charge",
+      "subject": "Criminal Law",
+      "front": "What is the effect of an honest 'claim of right' on a larceny charge?",
+      "back": "It negates the required intent to steal."
+    },
+    {
+      "id": "criminal-law-070-explain-the-continuing-trespass-doctrine",
+      "subject": "Criminal Law",
+      "front": "Explain the 'continuing trespass' doctrine.",
+      "back": "If an initial taking is wrongful but without intent to steal, later-formed intent satisfies concurrence."
+    },
+    {
+      "id": "criminal-law-071-how-do-larceny-by-trick-and-false-pretenses-differ-regarding-what-the-vi",
+      "subject": "Criminal Law",
+      "front": "How do 'larceny by trick' and 'false pretenses' differ regarding what the victim transfers?",
+      "back": "Larceny by trick involves transfer of possession; false pretenses involves transfer of title."
+    },
+    {
+      "id": "criminal-law-072-what-is-the-defining-characteristic-of-embezzlement",
+      "subject": "Criminal Law",
+      "front": "What is the defining characteristic of embezzlement?",
+      "back": "Fraudulent conversion of property by one already in lawful possession."
+    },
+    {
+      "id": "criminal-law-073-what-are-the-four-elements-of-forgery",
+      "subject": "Criminal Law",
+      "front": "What are the four elements of forgery?",
+      "back": "Making/altering a false writing, with legal significance, and intent to defraud."
+    },
+    {
+      "id": "criminal-law-074-what-elevates-larceny-to-robbery",
+      "subject": "Criminal Law",
+      "front": "What elevates larceny to robbery?",
+      "back": "The property is taken from the person or presence by force or intimidation."
+    },
+    {
+      "id": "criminal-law-075-does-pickpocketing-without-the-victim-s-awareness-usually-constitute-rob",
+      "subject": "Criminal Law",
+      "front": "Does pickpocketing without the victim's awareness usually constitute robbery?",
+      "back": "No, it is usually larceny because it lacks the required force or intimidation."
+    },
+    {
+      "id": "criminal-law-076-what-is-the-main-difference-between-robbery-and-extortion-regarding-the-",
+      "subject": "Criminal Law",
+      "front": "What is the main difference between robbery and extortion regarding the threat?",
+      "back": "Robbery involve immediate threats; extortion involves future or nonphysical threats."
+    },
+    {
+      "id": "criminal-law-077-what-are-the-six-elements-of-common-law-burglary",
+      "subject": "Criminal Law",
+      "front": "What are the six elements of common-law burglary?",
+      "back": "Breaking, entering, dwelling, of another, at night, with intent to commit a felony inside."
+    },
+    {
+      "id": "criminal-law-078-in-common-law-burglary-is-entering-through-a-wide-open-door-considered-a",
+      "subject": "Criminal Law",
+      "front": "In common-law burglary, is entering through a wide-open door considered a 'breaking'?",
+      "back": "No."
+    },
+    {
+      "id": "criminal-law-079-when-must-the-intent-to-commit-a-felony-exist-for-a-burglary-conviction",
+      "subject": "Criminal Law",
+      "front": "When must the intent to commit a felony exist for a burglary conviction?",
+      "back": "At the time of entry."
+    },
+    {
+      "id": "criminal-law-080-what-level-of-damage-is-required-to-a-structure-to-satisfy-common-law-ar",
+      "subject": "Criminal Law",
+      "front": "What level of damage is required to a structure to satisfy common-law arson?",
+      "back": "Burning (charring) is required; smoke or scorching is insufficient."
+    },
+    {
+      "id": "criminal-law-081-what-is-the-difference-between-an-attempted-battery-assault-and-an-appre",
+      "subject": "Criminal Law",
+      "front": "What is the difference between an attempted-battery assault and an apprehension assault?",
+      "back": "Attempted-battery does not require victim awareness; apprehension assault does."
+    },
+    {
+      "id": "criminal-law-082-what-elevates-false-imprisonment-to-kidnapping",
+      "subject": "Criminal Law",
+      "front": "What elevates false imprisonment to kidnapping?",
+      "back": "Movement (asportation) or secret concealment."
+    },
+    {
+      "id": "criminal-law-083-regarding-rape-what-is-fraud-in-the-factum",
+      "subject": "Criminal Law",
+      "front": "Regarding rape, what is 'fraud in the factum'?",
+      "back": "Deception about the nature of the act itself, which negates consent."
+    },
+    {
+      "id": "criminal-law-084-what-are-the-three-inchoate-crimes",
+      "subject": "Criminal Law",
+      "front": "What are the three inchoate crimes?",
+      "back": "Solicitation, conspiracy, and attempt."
+    },
+    {
+      "id": "criminal-law-085-which-inchoate-crime-does-not-merge-into-the-completed-offense",
+      "subject": "Criminal Law",
+      "front": "Which inchoate crime does NOT merge into the completed offense?",
+      "back": "Conspiracy."
+    },
+    {
+      "id": "criminal-law-086-at-what-point-is-the-crime-of-solicitation-complete",
+      "subject": "Criminal Law",
+      "front": "At what point is the crime of solicitation complete?",
+      "back": "As soon as the request is made."
+    },
+    {
+      "id": "criminal-law-087-how-do-the-bilateral-and-unilateral-approaches-to-conspiracy-differ",
+      "subject": "Criminal Law",
+      "front": "How do the bilateral and unilateral approaches to conspiracy differ?",
+      "back": "Bilateral requires two guilty parties; unilateral (MPC) allows agreement with an undercover officer."
+    },
+    {
+      "id": "criminal-law-088-what-is-wharton-s-rule",
+      "subject": "Criminal Law",
+      "front": "What is Wharton’s Rule?",
+      "back": "If a crime requires two people, there is no conspiracy unless more people agree than necessary."
+    },
+    {
+      "id": "criminal-law-089-what-is-pinkerton-liability",
+      "subject": "Criminal Law",
+      "front": "What is 'Pinkerton Liability'?",
+      "back": "A conspirator is liable for foreseeable crimes committed by co-conspirators in furtherance of the objective."
+    },
+    {
+      "id": "criminal-law-090-how-can-a-conspirator-cut-off-liability-for-future-pinkerton-crimes",
+      "subject": "Criminal Law",
+      "front": "How can a conspirator cut off liability for future 'Pinkerton' crimes?",
+      "back": "By communicating withdrawal to co-conspirators or informing law enforcement."
+    },
+    {
+      "id": "criminal-law-091-what-is-the-substantial-step-test-for-attempt",
+      "subject": "Criminal Law",
+      "front": "What is the 'Substantial Step' test for attempt?",
+      "back": "An MPC test requiring an act that strongly corroborates criminal purpose."
+    },
+    {
+      "id": "criminal-law-092-how-does-the-common-law-dangerous-proximity-test-differ-from-the-mpc-sub",
+      "subject": "Criminal Law",
+      "front": "How does the common-law 'Dangerous Proximity' test differ from the MPC 'Substantial Step' test?",
+      "back": "Dangerous proximity is stricter, requiring the defendant to be very near completion."
+    },
+    {
+      "id": "criminal-law-093-is-factual-impossibility-a-defense-to-attempt",
+      "subject": "Criminal Law",
+      "front": "Is factual impossibility a defense to attempt?",
+      "back": "No."
+    },
+    {
+      "id": "criminal-law-094-when-is-legal-impossibility-a-valid-defense-to-attempt",
+      "subject": "Criminal Law",
+      "front": "When is 'legal impossibility' a valid defense to attempt?",
+      "back": "When the intended conduct is not actually prohibited by law."
+    },
+    {
+      "id": "criminal-law-095-what-are-the-requirements-for-self-defense",
+      "subject": "Criminal Law",
+      "front": "What are the requirements for self-defense?",
+      "back": "Honest and reasonable belief in the need for proportionate force to prevent imminent unlawful harm."
+    },
+    {
+      "id": "criminal-law-096-can-deadly-force-be-used-solely-to-protect-property",
+      "subject": "Criminal Law",
+      "front": "Can deadly force be used solely to protect property?",
+      "back": "No."
+    },
+    {
+      "id": "criminal-law-097-how-can-an-initial-aggressor-regain-the-right-to-self-defense",
+      "subject": "Criminal Law",
+      "front": "How can an initial aggressor regain the right to self-defense?",
+      "back": "By completely withdrawing and communicating it, or if the victim escalates nondeadly force to deadly force."
+    },
+    {
+      "id": "criminal-law-098-what-is-the-difference-between-duress-and-necessity-regarding-the-source",
+      "subject": "Criminal Law",
+      "front": "What is the difference between duress and necessity regarding the source of the threat?",
+      "back": "Duress comes from human threats; necessity usually comes from natural forces or circumstances."
+    },
+    {
+      "id": "criminal-law-099-is-duress-a-defense-to-intentional-murder",
+      "subject": "Criminal Law",
+      "front": "Is duress a defense to intentional murder?",
+      "back": "No."
+    },
+    {
+      "id": "criminal-law-100-what-are-the-two-tests-for-entrapment",
+      "subject": "Criminal Law",
+      "front": "What are the two tests for entrapment?",
+      "back": "The subjective test (focus on predisposition) and the objective test (focus on government methods)."
+    },
+    {
+      "id": "criminal-law-101-is-an-alibi-an-affirmative-defense",
+      "subject": "Criminal Law",
+      "front": "Is an alibi an affirmative defense?",
+      "back": "No; it raises doubt about identity, and the prosecution retains the burden of proof."
+    }
+  ]
+}
