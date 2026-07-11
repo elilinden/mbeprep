@@ -26,6 +26,14 @@ const podcastFiles = [
     description: "Review Federal Civil Procedure rules in audio form before drilling flashcards or outlines."
   },
   {
+    id: "evidence",
+    fileName: "evidence.mp3",
+    title: "Evidence",
+    subject: "Evidence",
+    topic: "Purpose first, rule second, and the evidence strategy that connects them",
+    description: "Work through a practical Evidence approach before moving into flashcards, outlines, or questions."
+  },
+  {
     id: "real-property",
     fileName: "real-property.mp3",
     title: "Real Property",
