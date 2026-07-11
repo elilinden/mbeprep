@@ -1,0 +1,3488 @@
+{
+  "id": "criminal-law",
+  "title": "Criminal Law",
+  "subject": "Criminal Law",
+  "summary": "Criminal Law covers criminal liability, homicide, property crimes, inchoate offenses, defenses, and party liability.",
+  "sections": [
+    {
+      "id": "big-picture",
+      "title": "Big Picture",
+      "body": [
+        "Criminal liability usually requires:",
+        "A voluntary act or legally punishable omission",
+        "The required mens rea",
+        "Concurrence between act and mental state",
+        "Actual and proximate causation when a result is required",
+        "Proof of every element beyond a reasonable doubt",
+        "No complete defense",
+        "The MBE may apply common law, a modern statutory rule, the Model Penal Code, or a statute supplied in the question."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Criminal liability usually requires:"
+        },
+        {
+          "type": "compact",
+          "text": "A voluntary act or legally punishable omission"
+        },
+        {
+          "type": "compact",
+          "text": "The required mens rea"
+        },
+        {
+          "type": "compact",
+          "text": "Concurrence between act and mental state"
+        },
+        {
+          "type": "compact",
+          "text": "Actual and proximate causation when a result is required"
+        },
+        {
+          "type": "compact",
+          "text": "Proof of every element beyond a reasonable doubt"
+        },
+        {
+          "type": "compact",
+          "text": "No complete defense"
+        },
+        {
+          "type": "paragraph",
+          "text": "The MBE may apply common law, a modern statutory rule, the Model Penal Code, or a statute supplied in the question."
+        }
+      ]
+    },
+    {
+      "id": "1-criminal-law-attack-plan",
+      "title": "1. Criminal Law Attack Plan",
+      "body": [
+        "Ask:",
+        "What offense is being tested?",
+        "What is the actus reus?",
+        "Was the act voluntary?",
+        "What mens rea applies?",
+        "Did act and intent coincide?",
+        "Is causation required?",
+        "Is the defendant a principal, accomplice, conspirator, or accessory after the fact?",
+        "Is there an inchoate offense?",
+        "Does a defense negate, justify, or excuse?",
+        "Do merger rules limit conviction or punishment?",
+        "Memory line: Act, mind, cause, crime, party, defense, merger."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ask:"
+        },
+        {
+          "type": "compact",
+          "text": "What offense is being tested?"
+        },
+        {
+          "type": "compact",
+          "text": "What is the actus reus?"
+        },
+        {
+          "type": "compact",
+          "text": "Was the act voluntary?"
+        },
+        {
+          "type": "compact",
+          "text": "What mens rea applies?"
+        },
+        {
+          "type": "compact",
+          "text": "Did act and intent coincide?"
+        },
+        {
+          "type": "compact",
+          "text": "Is causation required?"
+        },
+        {
+          "type": "compact",
+          "text": "Is the defendant a principal, accomplice, conspirator, or accessory after the fact?"
+        },
+        {
+          "type": "compact",
+          "text": "Is there an inchoate offense?"
+        },
+        {
+          "type": "compact",
+          "text": "Does a defense negate, justify, or excuse?"
+        },
+        {
+          "type": "compact",
+          "text": "Do merger rules limit conviction or punishment?"
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Act, mind, cause, crime, party, defense, merger."
+        }
+      ]
+    },
+    {
+      "id": "2-actus-reus",
+      "title": "2. Actus Reus",
+      "body": [
+        "A crime generally requires a voluntary physical act.",
+        "A bad thought alone is not punishable.",
+        "Speech may be the act when the offense is committed through words, such as solicitation, perjury, extortion, fraud, or threats.",
+        "Possession may count when the defendant knowingly controls the item long enough to terminate possession."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A crime generally requires a voluntary physical act."
+        },
+        {
+          "type": "paragraph",
+          "text": "A bad thought alone is not punishable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speech may be the act when the offense is committed through words, such as solicitation, perjury, extortion, fraud, or threats."
+        },
+        {
+          "type": "paragraph",
+          "text": "Possession may count when the defendant knowingly controls the item long enough to terminate possession."
+        }
+      ]
+    },
+    {
+      "id": "3-involuntary-conduct",
+      "title": "3. Involuntary Conduct",
+      "body": [
+        "The following are generally not voluntary acts:",
+        "Reflexes",
+        "Convulsions",
+        "Conduct during unconsciousness",
+        "Sleepwalking",
+        "Acts caused by direct physical compulsion",
+        "A defendant may still be liable when an earlier voluntary act created the danger.",
+        "Example: A person who knows uncontrolled seizures are likely chooses to drive and later causes a fatal collision during a seizure.",
+        "Memory line: Look backward for the last voluntary act."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The following are generally not voluntary acts:"
+        },
+        {
+          "type": "compact",
+          "text": "Reflexes"
+        },
+        {
+          "type": "compact",
+          "text": "Convulsions"
+        },
+        {
+          "type": "compact",
+          "text": "Conduct during unconsciousness"
+        },
+        {
+          "type": "compact",
+          "text": "Sleepwalking"
+        },
+        {
+          "type": "compact",
+          "text": "Acts caused by direct physical compulsion"
+        },
+        {
+          "type": "paragraph",
+          "text": "A defendant may still be liable when an earlier voluntary act created the danger."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: A person who knows uncontrolled seizures are likely chooses to drive and later causes a fatal collision during a seizure."
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Look backward for the last voluntary act."
+        }
+      ]
+    },
+    {
+      "id": "4-omissions",
+      "title": "4. Omissions",
+      "body": [
+        "Failure to act is criminal only when:",
+        "A legal duty exists",
+        "The defendant knows the facts creating the duty",
+        "Performance is reasonably possible",
+        "The omission causes the prohibited result",
+        "Use SCARC:",
+        "Statute",
+        "Contract",
+        "Assumption of care",
+        "Relationship",
+        "Creation of peril",
+        "A mere bystander generally has no duty to rescue."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Failure to act is criminal only when:"
+        },
+        {
+          "type": "compact",
+          "text": "A legal duty exists"
+        },
+        {
+          "type": "compact",
+          "text": "The defendant knows the facts creating the duty"
+        },
+        {
+          "type": "compact",
+          "text": "Performance is reasonably possible"
+        },
+        {
+          "type": "compact",
+          "text": "The omission causes the prohibited result"
+        },
+        {
+          "type": "paragraph",
+          "text": "Use SCARC:"
+        },
+        {
+          "type": "compact",
+          "text": "Statute"
+        },
+        {
+          "type": "compact",
+          "text": "Contract"
+        },
+        {
+          "type": "compact",
+          "text": "Assumption of care"
+        },
+        {
+          "type": "compact",
+          "text": "Relationship"
+        },
+        {
+          "type": "compact",
+          "text": "Creation of peril"
+        },
+        {
+          "type": "paragraph",
+          "text": "A mere bystander generally has no duty to rescue."
+        }
+      ]
+    },
+    {
+      "id": "5-concurrence",
+      "title": "5. Concurrence",
+      "body": [
+        "The required mens rea must exist when the defendant commits the actus reus.",
+        "A later guilty thought ordinarily cannot transform an innocent act into a crime unless a doctrine such as continuing trespass applies."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The required mens rea must exist when the defendant commits the actus reus."
+        },
+        {
+          "type": "paragraph",
+          "text": "A later guilty thought ordinarily cannot transform an innocent act into a crime unless a doctrine such as continuing trespass applies."
+        }
+      ]
+    },
+    {
+      "id": "6-common-law-mens-rea-categories",
+      "title": "6. Common-Law Mens Rea Categories",
+      "body": [
+        "Specific Intent",
+        "Use FIAT:",
+        "First-degree premeditated murder",
+        "Inchoate offenses",
+        "Assault with intent to commit battery",
+        "Theft offenses",
+        "Specific intent matters because voluntary intoxication and an unreasonable mistake of fact may negate it.",
+        "Malice",
+        "Common-law murder and arson are malice crimes.",
+        "Malice does not mean hatred. It includes intentional wrongdoing or reckless disregard of a high risk.",
+        "General Intent",
+        "Traditional general-intent crimes include:",
+        "Battery",
+        "Rape",
+        "Kidnapping",
+        "False imprisonment",
+        "Memory line: FIAT is specific; murder and arson are malice; ordinary intentional acts are general intent."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Specific Intent"
+        },
+        {
+          "type": "paragraph",
+          "text": "Use FIAT:"
+        },
+        {
+          "type": "compact",
+          "text": "First-degree premeditated murder"
+        },
+        {
+          "type": "compact",
+          "text": "Inchoate offenses"
+        },
+        {
+          "type": "compact",
+          "text": "Assault with intent to commit battery"
+        },
+        {
+          "type": "compact",
+          "text": "Theft offenses"
+        },
+        {
+          "type": "paragraph",
+          "text": "Specific intent matters because voluntary intoxication and an unreasonable mistake of fact may negate it."
+        },
+        {
+          "type": "subheading",
+          "text": "Malice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Common-law murder and arson are malice crimes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Malice does not mean hatred. It includes intentional wrongdoing or reckless disregard of a high risk."
+        },
+        {
+          "type": "subheading",
+          "text": "General Intent"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traditional general-intent crimes include:"
+        },
+        {
+          "type": "compact",
+          "text": "Battery"
+        },
+        {
+          "type": "compact",
+          "text": "Rape"
+        },
+        {
+          "type": "compact",
+          "text": "Kidnapping"
+        },
+        {
+          "type": "compact",
+          "text": "False imprisonment"
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: FIAT is specific; murder and arson are malice; ordinary intentional acts are general intent."
+        }
+      ]
+    },
+    {
+      "id": "7-motive",
+      "title": "7. Motive",
+      "body": [
+        "Motive explains why the defendant acted.",
+        "Mens rea identifies the legally required mental state.",
+        "A sympathetic motive does not automatically eliminate criminal intent."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Motive explains why the defendant acted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mens rea identifies the legally required mental state."
+        },
+        {
+          "type": "paragraph",
+          "text": "A sympathetic motive does not automatically eliminate criminal intent."
+        }
+      ]
+    },
+    {
+      "id": "8-mpc-mental-states",
+      "title": "8. MPC Mental States",
+      "body": [
+        "From highest to lowest:",
+        "Purposely — conscious objective",
+        "Knowingly — awareness or practical certainty",
+        "Recklessly — conscious disregard of a substantial and unjustifiable risk",
+        "Negligently — failure to perceive a substantial and unjustifiable risk",
+        "Proof of a higher level generally satisfies a lower one.",
+        "When the MPC statute is silent, recklessness is usually sufficient."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "From highest to lowest:"
+        },
+        {
+          "type": "compact",
+          "text": "Purposely — conscious objective"
+        },
+        {
+          "type": "compact",
+          "text": "Knowingly — awareness or practical certainty"
+        },
+        {
+          "type": "compact",
+          "text": "Recklessly — conscious disregard of a substantial and unjustifiable risk"
+        },
+        {
+          "type": "compact",
+          "text": "Negligently — failure to perceive a substantial and unjustifiable risk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Proof of a higher level generally satisfies a lower one."
+        },
+        {
+          "type": "paragraph",
+          "text": "When the MPC statute is silent, recklessness is usually sufficient."
+        }
+      ]
+    },
+    {
+      "id": "9-strict-liability",
+      "title": "9. Strict Liability",
+      "body": [
+        "Strict-liability crimes require no mens rea for the relevant element.",
+        "Common examples include:",
+        "Statutory rape",
+        "Bigamy",
+        "Public-welfare offenses",
+        "Mistake of fact is generally no defense.",
+        "Courts disfavor strict liability for serious crimes carrying severe punishment."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Strict-liability crimes require no mens rea for the relevant element."
+        },
+        {
+          "type": "paragraph",
+          "text": "Common examples include:"
+        },
+        {
+          "type": "compact",
+          "text": "Statutory rape"
+        },
+        {
+          "type": "compact",
+          "text": "Bigamy"
+        },
+        {
+          "type": "compact",
+          "text": "Public-welfare offenses"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mistake of fact is generally no defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "Courts disfavor strict liability for serious crimes carrying severe punishment."
+        }
+      ]
+    },
+    {
+      "id": "10-vicarious-and-corporate-liability",
+      "title": "10. Vicarious and Corporate Liability",
+      "body": [
+        "Vicarious liability attributes another person’s criminal act to the defendant.",
+        "Corporate liability may arise when:",
+        "An employee acts within the scope of employment",
+        "A high-ranking agent authorizes or recklessly tolerates the conduct",
+        "The corporation violates a legal duty",
+        "A statute imposes liability",
+        "The responsible individual may also be convicted."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Vicarious liability attributes another person’s criminal act to the defendant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Corporate liability may arise when:"
+        },
+        {
+          "type": "compact",
+          "text": "An employee acts within the scope of employment"
+        },
+        {
+          "type": "compact",
+          "text": "A high-ranking agent authorizes or recklessly tolerates the conduct"
+        },
+        {
+          "type": "compact",
+          "text": "The corporation violates a legal duty"
+        },
+        {
+          "type": "compact",
+          "text": "A statute imposes liability"
+        },
+        {
+          "type": "paragraph",
+          "text": "The responsible individual may also be convicted."
+        }
+      ]
+    },
+    {
+      "id": "11-mistake-of-fact",
+      "title": "11. Mistake of Fact",
+      "body": [
+        "Offense Type — Required Mistake",
+        "Specific intent — Honest, even if unreasonable",
+        "General intent — Honest and reasonable",
+        "Malice — Honest and reasonable",
+        "Strict liability — No defense",
+        "MPC — Must negate the required mental state",
+        "The defendant bears a burden of production, but the prosecution retains the burden to prove mens rea."
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Offense Type — Required Mistake"
+        },
+        {
+          "type": "chartRow",
+          "text": "Specific intent — Honest, even if unreasonable"
+        },
+        {
+          "type": "chartRow",
+          "text": "General intent — Honest and reasonable"
+        },
+        {
+          "type": "chartRow",
+          "text": "Malice — Honest and reasonable"
+        },
+        {
+          "type": "chartRow",
+          "text": "Strict liability — No defense"
+        },
+        {
+          "type": "chartRow",
+          "text": "MPC — Must negate the required mental state"
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant bears a burden of production, but the prosecution retains the burden to prove mens rea."
+        }
+      ]
+    },
+    {
+      "id": "12-mistake-of-law",
+      "title": "12. Mistake of Law",
+      "body": [
+        "The general rule is:",
+        "Ignorance of the law is no excuse.",
+        "Possible exceptions include:",
+        "The offense requires knowledge of illegality",
+        "Reasonable reliance on an official interpretation later found wrong",
+        "The law was not reasonably available for a malum prohibitum offense",
+        "The mistake negates a separate required mental element",
+        "Reliance on private legal advice ordinarily is not itself a complete defense."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The general rule is:"
+        },
+        {
+          "type": "quote",
+          "text": "Ignorance of the law is no excuse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Possible exceptions include:"
+        },
+        {
+          "type": "compact",
+          "text": "The offense requires knowledge of illegality"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonable reliance on an official interpretation later found wrong"
+        },
+        {
+          "type": "compact",
+          "text": "The law was not reasonably available for a malum prohibitum offense"
+        },
+        {
+          "type": "compact",
+          "text": "The mistake negates a separate required mental element"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reliance on private legal advice ordinarily is not itself a complete defense."
+        }
+      ]
+    },
+    {
+      "id": "13-transferred-intent",
+      "title": "13. Transferred Intent",
+      "body": [
+        "Intent transfers when the defendant aims at one victim but causes the same type of completed harm to another.",
+        "It commonly applies to:",
+        "Homicide",
+        "Battery",
+        "Arson",
+        "It does not create attempted murder of the unintended victim.",
+        "Example: A shoots at B, misses, and wounds C. A may be guilty of attempted murder of B and battery of C, but not attempted murder of C."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Intent transfers when the defendant aims at one victim but causes the same type of completed harm to another."
+        },
+        {
+          "type": "paragraph",
+          "text": "It commonly applies to:"
+        },
+        {
+          "type": "compact",
+          "text": "Homicide"
+        },
+        {
+          "type": "compact",
+          "text": "Battery"
+        },
+        {
+          "type": "compact",
+          "text": "Arson"
+        },
+        {
+          "type": "paragraph",
+          "text": "It does not create attempted murder of the unintended victim."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: A shoots at B, misses, and wounds C. A may be guilty of attempted murder of B and battery of C, but not attempted murder of C."
+        }
+      ]
+    },
+    {
+      "id": "14-principals",
+      "title": "14. Principals",
+      "body": [
+        "A principal directly commits the actus reus, acts through an innocent instrumentality, or is constructively present through a controlled mechanism.",
+        "Multiple direct actors may be joint principals."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A principal directly commits the actus reus, acts through an innocent instrumentality, or is constructively present through a controlled mechanism."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multiple direct actors may be joint principals."
+        }
+      ]
+    },
+    {
+      "id": "15-accomplice-liability",
+      "title": "15. Accomplice Liability",
+      "body": [
+        "An accomplice:",
+        "Aids, encourages, solicits, or attempts to aid",
+        "Before or during the offense",
+        "With the required mental state",
+        "The majority and MPC generally require the purpose of promoting or facilitating the crime.",
+        "Mere presence or knowledge is not enough."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An accomplice:"
+        },
+        {
+          "type": "compact",
+          "text": "Aids, encourages, solicits, or attempts to aid"
+        },
+        {
+          "type": "compact",
+          "text": "Before or during the offense"
+        },
+        {
+          "type": "compact",
+          "text": "With the required mental state"
+        },
+        {
+          "type": "paragraph",
+          "text": "The majority and MPC generally require the purpose of promoting or facilitating the crime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mere presence or knowledge is not enough."
+        }
+      ]
+    },
+    {
+      "id": "16-scope-of-accomplice-liability",
+      "title": "16. Scope of Accomplice Liability",
+      "body": [
+        "Traditionally, an accomplice is liable for:",
+        "The intended crime",
+        "Additional crimes that are natural and probable consequences",
+        "The MPC is narrower and generally requires accomplice culpability for each offense.",
+        "A person protected by the statute ordinarily cannot be an accomplice to the offense against that protected class."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Traditionally, an accomplice is liable for:"
+        },
+        {
+          "type": "compact",
+          "text": "The intended crime"
+        },
+        {
+          "type": "compact",
+          "text": "Additional crimes that are natural and probable consequences"
+        },
+        {
+          "type": "paragraph",
+          "text": "The MPC is narrower and generally requires accomplice culpability for each offense."
+        },
+        {
+          "type": "paragraph",
+          "text": "A person protected by the statute ordinarily cannot be an accomplice to the offense against that protected class."
+        }
+      ]
+    },
+    {
+      "id": "17-accomplice-withdrawal",
+      "title": "17. Accomplice Withdrawal",
+      "body": [
+        "Effective withdrawal generally requires:",
+        "Repudiating prior encouragement",
+        "Neutralizing prior aid when possible",
+        "Communicating withdrawal",
+        "Acting before the crime becomes unstoppable",
+        "Simply leaving or changing one’s mind is insufficient."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Effective withdrawal generally requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Repudiating prior encouragement"
+        },
+        {
+          "type": "compact",
+          "text": "Neutralizing prior aid when possible"
+        },
+        {
+          "type": "compact",
+          "text": "Communicating withdrawal"
+        },
+        {
+          "type": "compact",
+          "text": "Acting before the crime becomes unstoppable"
+        },
+        {
+          "type": "paragraph",
+          "text": "Simply leaving or changing one’s mind is insufficient."
+        }
+      ]
+    },
+    {
+      "id": "18-accessory-after-the-fact",
+      "title": "18. Accessory After the Fact",
+      "body": [
+        "An accessory after the fact:",
+        "Knows a felony was completed",
+        "Intentionally assists the felon afterward",
+        "Helps the felon avoid apprehension, trial, or punishment",
+        "This is a separate offense, not liability for the original felony."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An accessory after the fact:"
+        },
+        {
+          "type": "compact",
+          "text": "Knows a felony was completed"
+        },
+        {
+          "type": "compact",
+          "text": "Intentionally assists the felon afterward"
+        },
+        {
+          "type": "compact",
+          "text": "Helps the felon avoid apprehension, trial, or punishment"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a separate offense, not liability for the original felony."
+        }
+      ]
+    },
+    {
+      "id": "19-insanity-tests",
+      "title": "19. Insanity Tests",
+      "body": [
+        "Test — Rule",
+        "M’Naghten — Defendant did not know the nature of the act or that it was wrong",
+        "Irresistible impulse — Defendant could not control conduct or conform to law",
+        "Durham — Crime was the product of mental disease or defect",
+        "MPC — Defendant lacked substantial capacity to appreciate wrongfulness or conform conduct",
+        "Insanity concerns the defendant’s condition at the time of the crime.",
+        "Competency concerns present ability to understand proceedings and assist counsel."
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Test — Rule"
+        },
+        {
+          "type": "chartRow",
+          "text": "M’Naghten — Defendant did not know the nature of the act or that it was wrong"
+        },
+        {
+          "type": "chartRow",
+          "text": "Irresistible impulse — Defendant could not control conduct or conform to law"
+        },
+        {
+          "type": "chartRow",
+          "text": "Durham — Crime was the product of mental disease or defect"
+        },
+        {
+          "type": "chartRow",
+          "text": "MPC — Defendant lacked substantial capacity to appreciate wrongfulness or conform conduct"
+        },
+        {
+          "type": "paragraph",
+          "text": "Insanity concerns the defendant’s condition at the time of the crime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Competency concerns present ability to understand proceedings and assist counsel."
+        }
+      ]
+    },
+    {
+      "id": "20-intoxication",
+      "title": "20. Intoxication",
+      "body": [
+        "Voluntary Intoxication",
+        "May negate specific intent or, under the MPC, purpose or knowledge.",
+        "It is not a defense to:",
+        "General intent",
+        "Malice",
+        "Recklessness",
+        "Negligence",
+        "Strict liability",
+        "Involuntary Intoxication",
+        "May negate mens rea, eliminate a voluntary act, or satisfy an insanity test.",
+        "Memory line: Voluntary intoxication is narrow; involuntary intoxication is broad."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Voluntary Intoxication"
+        },
+        {
+          "type": "paragraph",
+          "text": "May negate specific intent or, under the MPC, purpose or knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is not a defense to:"
+        },
+        {
+          "type": "compact",
+          "text": "General intent"
+        },
+        {
+          "type": "compact",
+          "text": "Malice"
+        },
+        {
+          "type": "compact",
+          "text": "Recklessness"
+        },
+        {
+          "type": "compact",
+          "text": "Negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Strict liability"
+        },
+        {
+          "type": "subheading",
+          "text": "Involuntary Intoxication"
+        },
+        {
+          "type": "paragraph",
+          "text": "May negate mens rea, eliminate a voluntary act, or satisfy an insanity test."
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Voluntary intoxication is narrow; involuntary intoxication is broad."
+        }
+      ]
+    },
+    {
+      "id": "21-infancy",
+      "title": "21. Infancy",
+      "body": [
+        "Common law:",
+        "Under 7: conclusively incapable",
+        "Ages 7–13: rebuttably presumed incapable",
+        "Age 14 and older: treated as capable",
+        "Modern statutes control in actual jurisdictions."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Common law:"
+        },
+        {
+          "type": "compact",
+          "text": "Under 7: conclusively incapable"
+        },
+        {
+          "type": "compact",
+          "text": "Ages 7–13: rebuttably presumed incapable"
+        },
+        {
+          "type": "compact",
+          "text": "Age 14 and older: treated as capable"
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern statutes control in actual jurisdictions."
+        }
+      ]
+    },
+    {
+      "id": "22-homicide-framework",
+      "title": "22. Homicide Framework",
+      "body": [
+        "For any death, ask:",
+        "Was the victim alive?",
+        "Did the defendant actually cause death?",
+        "Did the defendant proximately cause death?",
+        "What mental state existed?",
+        "Was there mitigation?",
+        "Was there a dangerous felony?"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For any death, ask:"
+        },
+        {
+          "type": "compact",
+          "text": "Was the victim alive?"
+        },
+        {
+          "type": "compact",
+          "text": "Did the defendant actually cause death?"
+        },
+        {
+          "type": "compact",
+          "text": "Did the defendant proximately cause death?"
+        },
+        {
+          "type": "compact",
+          "text": "What mental state existed?"
+        },
+        {
+          "type": "compact",
+          "text": "Was there mitigation?"
+        },
+        {
+          "type": "compact",
+          "text": "Was there a dangerous felony?"
+        }
+      ]
+    },
+    {
+      "id": "23-actual-causation",
+      "title": "23. Actual Causation",
+      "body": [
+        "Actual cause generally requires but-for causation.",
+        "When two independent acts are each sufficient to cause death, each may be treated as a substantial factor.",
+        "The defendant takes the victim as found. A preexisting weakness does not break causation."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Actual cause generally requires but-for causation."
+        },
+        {
+          "type": "paragraph",
+          "text": "When two independent acts are each sufficient to cause death, each may be treated as a substantial factor."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant takes the victim as found. A preexisting weakness does not break causation."
+        }
+      ]
+    },
+    {
+      "id": "24-proximate-causation",
+      "title": "24. Proximate Causation",
+      "body": [
+        "Death must be a natural and probable consequence of the defendant’s conduct.",
+        "An intervening event generally breaks causation only when it is extraordinary.",
+        "Ordinary medical negligence, foreseeable rescue, and reasonable victim escape usually do not break the chain."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Death must be a natural and probable consequence of the defendant’s conduct."
+        },
+        {
+          "type": "paragraph",
+          "text": "An intervening event generally breaks causation only when it is extraordinary."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ordinary medical negligence, foreseeable rescue, and reasonable victim escape usually do not break the chain."
+        }
+      ]
+    },
+    {
+      "id": "25-common-law-murder",
+      "title": "25. Common-Law Murder",
+      "body": [
+        "Murder is the unlawful killing of another human being with malice aforethought.",
+        "Malice exists through:",
+        "Intent to kill",
+        "Intent to cause serious bodily injury",
+        "Depraved-heart recklessness",
+        "Felony murder",
+        "Use IK-SBI-DH-FM."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Murder is the unlawful killing of another human being with malice aforethought."
+        },
+        {
+          "type": "paragraph",
+          "text": "Malice exists through:"
+        },
+        {
+          "type": "compact",
+          "text": "Intent to kill"
+        },
+        {
+          "type": "compact",
+          "text": "Intent to cause serious bodily injury"
+        },
+        {
+          "type": "compact",
+          "text": "Depraved-heart recklessness"
+        },
+        {
+          "type": "compact",
+          "text": "Felony murder"
+        },
+        {
+          "type": "paragraph",
+          "text": "Use IK-SBI-DH-FM."
+        }
+      ]
+    },
+    {
+      "id": "26-depraved-heart-murder",
+      "title": "26. Depraved-Heart Murder",
+      "body": [
+        "This is an unintentional killing caused by conscious disregard of an extremely high risk to human life.",
+        "It requires greater blameworthiness than involuntary manslaughter.",
+        "Example: Firing repeatedly into an occupied building without aiming at a particular person."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This is an unintentional killing caused by conscious disregard of an extremely high risk to human life."
+        },
+        {
+          "type": "paragraph",
+          "text": "It requires greater blameworthiness than involuntary manslaughter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: Firing repeatedly into an occupied building without aiming at a particular person."
+        }
+      ]
+    },
+    {
+      "id": "27-felony-murder",
+      "title": "27. Felony Murder",
+      "body": [
+        "Felony murder is an unintended killing during an inherently dangerous felony.",
+        "Use BARRK:",
+        "Burglary",
+        "Arson",
+        "Rape",
+        "Robbery",
+        "Kidnapping",
+        "Requirements include:",
+        "Valid predicate felony",
+        "Independent felony",
+        "Proximate causation",
+        "Death during the felony or immediate flight",
+        "No arrival at temporary safety"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Felony murder is an unintended killing during an inherently dangerous felony."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use BARRK:"
+        },
+        {
+          "type": "compact",
+          "text": "Burglary"
+        },
+        {
+          "type": "compact",
+          "text": "Arson"
+        },
+        {
+          "type": "compact",
+          "text": "Rape"
+        },
+        {
+          "type": "compact",
+          "text": "Robbery"
+        },
+        {
+          "type": "compact",
+          "text": "Kidnapping"
+        },
+        {
+          "type": "paragraph",
+          "text": "Requirements include:"
+        },
+        {
+          "type": "compact",
+          "text": "Valid predicate felony"
+        },
+        {
+          "type": "compact",
+          "text": "Independent felony"
+        },
+        {
+          "type": "compact",
+          "text": "Proximate causation"
+        },
+        {
+          "type": "compact",
+          "text": "Death during the felony or immediate flight"
+        },
+        {
+          "type": "compact",
+          "text": "No arrival at temporary safety"
+        }
+      ]
+    },
+    {
+      "id": "28-felony-murder-merger",
+      "title": "28. Felony-Murder Merger",
+      "body": [
+        "An assaultive felony that directly causes the death generally merges into the homicide and cannot serve as the independent predicate felony.",
+        "Memory line: The felony must be independent of the killing itself."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An assaultive felony that directly causes the death generally merges into the homicide and cannot serve as the independent predicate felony."
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: The felony must be independent of the killing itself."
+        }
+      ]
+    },
+    {
+      "id": "29-police-or-victim-killings-during-a-felony",
+      "title": "29. Police or Victim Killings During a Felony",
+      "body": [
+        "Agency Theory",
+        "Majority rule: a felon is generally not liable for felony murder when police or the victim fires the fatal shot.",
+        "Proximate-Cause Theory",
+        "Minority rule: liability may attach if the death was a foreseeable consequence of the felony.",
+        "Apply agency theory unless the question specifies otherwise."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Agency Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Majority rule: a felon is generally not liable for felony murder when police or the victim fires the fatal shot."
+        },
+        {
+          "type": "subheading",
+          "text": "Proximate-Cause Theory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minority rule: liability may attach if the death was a foreseeable consequence of the felony."
+        },
+        {
+          "type": "paragraph",
+          "text": "Apply agency theory unless the question specifies otherwise."
+        }
+      ]
+    },
+    {
+      "id": "30-first-degree-murder",
+      "title": "30. First-Degree Murder",
+      "body": [
+        "Degrees are statutory.",
+        "First-degree murder commonly includes:",
+        "Deliberate and premeditated killing",
+        "Enumerated felony murder",
+        "Heinous methods such as torture, poison, or lying in wait",
+        "Premeditation may be brief, but actual reflection is required."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Degrees are statutory."
+        },
+        {
+          "type": "paragraph",
+          "text": "First-degree murder commonly includes:"
+        },
+        {
+          "type": "compact",
+          "text": "Deliberate and premeditated killing"
+        },
+        {
+          "type": "compact",
+          "text": "Enumerated felony murder"
+        },
+        {
+          "type": "compact",
+          "text": "Heinous methods such as torture, poison, or lying in wait"
+        },
+        {
+          "type": "paragraph",
+          "text": "Premeditation may be brief, but actual reflection is required."
+        }
+      ]
+    },
+    {
+      "id": "31-second-degree-murder",
+      "title": "31. Second-Degree Murder",
+      "body": [
+        "Second-degree murder generally includes murder not classified as first degree, including:",
+        "Intent to kill without premeditation",
+        "Serious-bodily-injury murder",
+        "Depraved-heart murder",
+        "Some nonenumerated felony murders"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Second-degree murder generally includes murder not classified as first degree, including:"
+        },
+        {
+          "type": "compact",
+          "text": "Intent to kill without premeditation"
+        },
+        {
+          "type": "compact",
+          "text": "Serious-bodily-injury murder"
+        },
+        {
+          "type": "compact",
+          "text": "Depraved-heart murder"
+        },
+        {
+          "type": "compact",
+          "text": "Some nonenumerated felony murders"
+        }
+      ]
+    },
+    {
+      "id": "32-voluntary-manslaughter",
+      "title": "32. Voluntary Manslaughter",
+      "body": [
+        "Voluntary manslaughter is an intentional killing mitigated by:",
+        "Adequate provocation and heat of passion",
+        "Imperfect self-defense"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Voluntary manslaughter is an intentional killing mitigated by:"
+        },
+        {
+          "type": "compact",
+          "text": "Adequate provocation and heat of passion"
+        },
+        {
+          "type": "compact",
+          "text": "Imperfect self-defense"
+        }
+      ]
+    },
+    {
+      "id": "33-heat-of-passion",
+      "title": "33. Heat of Passion",
+      "body": [
+        "The defendant must show:",
+        "Adequate provocation",
+        "Actual heat of passion",
+        "No sufficient cooling time",
+        "Causal connection between provocation, passion, and killing",
+        "Traditional adequate provocation includes:",
+        "Serious battery",
+        "Threat of deadly force",
+        "Discovering a spouse in adultery",
+        "Mere insulting words are traditionally insufficient."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The defendant must show:"
+        },
+        {
+          "type": "compact",
+          "text": "Adequate provocation"
+        },
+        {
+          "type": "compact",
+          "text": "Actual heat of passion"
+        },
+        {
+          "type": "compact",
+          "text": "No sufficient cooling time"
+        },
+        {
+          "type": "compact",
+          "text": "Causal connection between provocation, passion, and killing"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traditional adequate provocation includes:"
+        },
+        {
+          "type": "compact",
+          "text": "Serious battery"
+        },
+        {
+          "type": "compact",
+          "text": "Threat of deadly force"
+        },
+        {
+          "type": "compact",
+          "text": "Discovering a spouse in adultery"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mere insulting words are traditionally insufficient."
+        }
+      ]
+    },
+    {
+      "id": "34-imperfect-self-defense",
+      "title": "34. Imperfect Self-Defense",
+      "body": [
+        "An honest but unreasonable belief in the need for deadly force may reduce murder to voluntary manslaughter in jurisdictions recognizing the doctrine.",
+        "It mitigates but does not justify."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An honest but unreasonable belief in the need for deadly force may reduce murder to voluntary manslaughter in jurisdictions recognizing the doctrine."
+        },
+        {
+          "type": "paragraph",
+          "text": "It mitigates but does not justify."
+        }
+      ]
+    },
+    {
+      "id": "35-involuntary-manslaughter",
+      "title": "35. Involuntary Manslaughter",
+      "body": [
+        "Involuntary manslaughter is an unintentional killing caused by:",
+        "Criminal negligence",
+        "MPC recklessness",
+        "A malum in se misdemeanor",
+        "A felony not supporting felony murder",
+        "Criminal negligence is more serious than ordinary tort negligence."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Involuntary manslaughter is an unintentional killing caused by:"
+        },
+        {
+          "type": "compact",
+          "text": "Criminal negligence"
+        },
+        {
+          "type": "compact",
+          "text": "MPC recklessness"
+        },
+        {
+          "type": "compact",
+          "text": "A malum in se misdemeanor"
+        },
+        {
+          "type": "compact",
+          "text": "A felony not supporting felony murder"
+        },
+        {
+          "type": "paragraph",
+          "text": "Criminal negligence is more serious than ordinary tort negligence."
+        }
+      ]
+    },
+    {
+      "id": "36-larceny",
+      "title": "36. Larceny",
+      "body": [
+        "Larceny is:",
+        "Trespassory",
+        "Taking",
+        "Carrying away",
+        "Personal property",
+        "Of another",
+        "With intent to permanently deprive",
+        "Memory line: Wrongful possession change + movement + intent to steal."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Larceny is:"
+        },
+        {
+          "type": "compact",
+          "text": "Trespassory"
+        },
+        {
+          "type": "compact",
+          "text": "Taking"
+        },
+        {
+          "type": "compact",
+          "text": "Carrying away"
+        },
+        {
+          "type": "compact",
+          "text": "Personal property"
+        },
+        {
+          "type": "compact",
+          "text": "Of another"
+        },
+        {
+          "type": "compact",
+          "text": "With intent to permanently deprive"
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Wrongful possession change + movement + intent to steal."
+        }
+      ]
+    },
+    {
+      "id": "37-caption-and-asportation",
+      "title": "37. Caption and Asportation",
+      "body": [
+        "Caption means obtaining control.",
+        "Asportation means any slight movement.",
+        "The MPC generally focuses on unauthorized control rather than movement."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Caption means obtaining control."
+        },
+        {
+          "type": "paragraph",
+          "text": "Asportation means any slight movement."
+        },
+        {
+          "type": "paragraph",
+          "text": "The MPC generally focuses on unauthorized control rather than movement."
+        }
+      ]
+    },
+    {
+      "id": "38-property-of-another",
+      "title": "38. Property of Another",
+      "body": [
+        "Larceny protects possession.",
+        "Therefore:",
+        "A title owner may steal from a lawful possessor",
+        "A thief may have possession protected against a stranger",
+        "A joint owner ordinarily cannot steal jointly owned property from a co-owner"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Larceny protects possession."
+        },
+        {
+          "type": "paragraph",
+          "text": "Therefore:"
+        },
+        {
+          "type": "compact",
+          "text": "A title owner may steal from a lawful possessor"
+        },
+        {
+          "type": "compact",
+          "text": "A thief may have possession protected against a stranger"
+        },
+        {
+          "type": "compact",
+          "text": "A joint owner ordinarily cannot steal jointly owned property from a co-owner"
+        }
+      ]
+    },
+    {
+      "id": "39-employees-custody-vs-possession",
+      "title": "39. Employees: Custody vs. Possession",
+      "body": [
+        "A low-level employee usually has custody, while the employer retains possession.",
+        "Misappropriation by the low-level employee is usually larceny.",
+        "A high-level employee may have lawful possession, making misappropriation embezzlement."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A low-level employee usually has custody, while the employer retains possession."
+        },
+        {
+          "type": "paragraph",
+          "text": "Misappropriation by the low-level employee is usually larceny."
+        },
+        {
+          "type": "paragraph",
+          "text": "A high-level employee may have lawful possession, making misappropriation embezzlement."
+        }
+      ]
+    },
+    {
+      "id": "40-lost-and-abandoned-property",
+      "title": "40. Lost and Abandoned Property",
+      "body": [
+        "Abandoned property cannot be stolen.",
+        "Lost property can be larceny when, at the time of finding:",
+        "The finder knows or can identify the owner",
+        "The finder intends to keep it permanently",
+        "Mistaken delivery follows the same timing principle."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Abandoned property cannot be stolen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lost property can be larceny when, at the time of finding:"
+        },
+        {
+          "type": "compact",
+          "text": "The finder knows or can identify the owner"
+        },
+        {
+          "type": "compact",
+          "text": "The finder intends to keep it permanently"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mistaken delivery follows the same timing principle."
+        }
+      ]
+    },
+    {
+      "id": "41-intent-to-permanently-deprive",
+      "title": "41. Intent to Permanently Deprive",
+      "body": [
+        "Intent exists when the defendant plans to:",
+        "Keep the property",
+        "Destroy it",
+        "Abandon it",
+        "Sell it back",
+        "Pawn it without ability to redeem",
+        "Create a substantial risk of permanent loss",
+        "Temporary borrowing with ability and intent to return generally is not larceny."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Intent exists when the defendant plans to:"
+        },
+        {
+          "type": "compact",
+          "text": "Keep the property"
+        },
+        {
+          "type": "compact",
+          "text": "Destroy it"
+        },
+        {
+          "type": "compact",
+          "text": "Abandon it"
+        },
+        {
+          "type": "compact",
+          "text": "Sell it back"
+        },
+        {
+          "type": "compact",
+          "text": "Pawn it without ability to redeem"
+        },
+        {
+          "type": "compact",
+          "text": "Create a substantial risk of permanent loss"
+        },
+        {
+          "type": "paragraph",
+          "text": "Temporary borrowing with ability and intent to return generally is not larceny."
+        }
+      ]
+    },
+    {
+      "id": "42-claim-of-right",
+      "title": "42. Claim of Right",
+      "body": [
+        "An honest belief that the specific property belongs to the defendant negates larcenous intent.",
+        "Claim of right is more limited for robbery because modern law disfavors forcible self-help."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An honest belief that the specific property belongs to the defendant negates larcenous intent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Claim of right is more limited for robbery because modern law disfavors forcible self-help."
+        }
+      ]
+    },
+    {
+      "id": "43-continuing-trespass",
+      "title": "43. Continuing Trespass",
+      "body": [
+        "When the original taking is wrongful but lacks intent to steal, later intent may satisfy concurrence because the trespass is treated as continuing.",
+        "The original taking must have been wrongful."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When the original taking is wrongful but lacks intent to steal, later intent may satisfy concurrence because the trespass is treated as continuing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The original taking must have been wrongful."
+        }
+      ]
+    },
+    {
+      "id": "44-larceny-by-trick",
+      "title": "44. Larceny by Trick",
+      "body": [
+        "Larceny by trick occurs when fraud causes the victim to transfer possession but not title.",
+        "The victim must actually rely on the material misrepresentation."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Larceny by trick occurs when fraud causes the victim to transfer possession but not title."
+        },
+        {
+          "type": "paragraph",
+          "text": "The victim must actually rely on the material misrepresentation."
+        }
+      ]
+    },
+    {
+      "id": "45-false-pretenses",
+      "title": "45. False Pretenses",
+      "body": [
+        "False pretenses occurs when fraud causes the victim to transfer title.",
+        "Crime — Victim Transfers",
+        "Larceny by trick — Possession",
+        "False pretenses — Title"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "False pretenses occurs when fraud causes the victim to transfer title."
+        },
+        {
+          "type": "chartHeader",
+          "text": "Crime — Victim Transfers"
+        },
+        {
+          "type": "chartRow",
+          "text": "Larceny by trick — Possession"
+        },
+        {
+          "type": "chartRow",
+          "text": "False pretenses — Title"
+        }
+      ]
+    },
+    {
+      "id": "46-embezzlement",
+      "title": "46. Embezzlement",
+      "body": [
+        "Embezzlement is fraudulent conversion of property of another by one already in lawful possession.",
+        "Conversion may include:",
+        "Selling",
+        "Destroying",
+        "Pledging",
+        "Unreasonably withholding",
+        "Using for an unauthorized purpose",
+        "Intent to return equivalent property or money does not excuse conversion of the specific entrusted property."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Embezzlement is fraudulent conversion of property of another by one already in lawful possession."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conversion may include:"
+        },
+        {
+          "type": "compact",
+          "text": "Selling"
+        },
+        {
+          "type": "compact",
+          "text": "Destroying"
+        },
+        {
+          "type": "compact",
+          "text": "Pledging"
+        },
+        {
+          "type": "compact",
+          "text": "Unreasonably withholding"
+        },
+        {
+          "type": "compact",
+          "text": "Using for an unauthorized purpose"
+        },
+        {
+          "type": "paragraph",
+          "text": "Intent to return equivalent property or money does not excuse conversion of the specific entrusted property."
+        }
+      ]
+    },
+    {
+      "id": "47-forgery",
+      "title": "47. Forgery",
+      "body": [
+        "Forgery requires:",
+        "Making or materially altering",
+        "A false writing",
+        "With apparent legal significance",
+        "With intent to defraud",
+        "The writing itself must be false, not merely contain false information."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Forgery requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Making or materially altering"
+        },
+        {
+          "type": "compact",
+          "text": "A false writing"
+        },
+        {
+          "type": "compact",
+          "text": "With apparent legal significance"
+        },
+        {
+          "type": "compact",
+          "text": "With intent to defraud"
+        },
+        {
+          "type": "paragraph",
+          "text": "The writing itself must be false, not merely contain false information."
+        }
+      ]
+    },
+    {
+      "id": "48-robbery",
+      "title": "48. Robbery",
+      "body": [
+        "Robbery is larceny:",
+        "From the person or presence",
+        "By force or intimidation",
+        "The threat generally must involve immediate serious physical harm.",
+        "Future or nonphysical threats usually indicate extortion."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Robbery is larceny:"
+        },
+        {
+          "type": "compact",
+          "text": "From the person or presence"
+        },
+        {
+          "type": "compact",
+          "text": "By force or intimidation"
+        },
+        {
+          "type": "paragraph",
+          "text": "The threat generally must involve immediate serious physical harm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Future or nonphysical threats usually indicate extortion."
+        }
+      ]
+    },
+    {
+      "id": "49-force-in-robbery",
+      "title": "49. Force in Robbery",
+      "body": [
+        "Pickpocketing without awareness is usually larceny.",
+        "Purse-snatching becomes robbery when additional force:",
+        "Overcomes resistance",
+        "Knocks the victim down",
+        "Injures the victim",
+        "Exceeds what is needed merely to move the property"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pickpocketing without awareness is usually larceny."
+        },
+        {
+          "type": "paragraph",
+          "text": "Purse-snatching becomes robbery when additional force:"
+        },
+        {
+          "type": "compact",
+          "text": "Overcomes resistance"
+        },
+        {
+          "type": "compact",
+          "text": "Knocks the victim down"
+        },
+        {
+          "type": "compact",
+          "text": "Injures the victim"
+        },
+        {
+          "type": "compact",
+          "text": "Exceeds what is needed merely to move the property"
+        }
+      ]
+    },
+    {
+      "id": "50-extortion",
+      "title": "50. Extortion",
+      "body": [
+        "Modern extortion involves obtaining or seeking property through threats.",
+        "Unlike robbery:",
+        "The threat may concern future harm",
+        "The threat need not be physical",
+        "The property need not be in the victim’s presence"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Modern extortion involves obtaining or seeking property through threats."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unlike robbery:"
+        },
+        {
+          "type": "compact",
+          "text": "The threat may concern future harm"
+        },
+        {
+          "type": "compact",
+          "text": "The threat need not be physical"
+        },
+        {
+          "type": "compact",
+          "text": "The property need not be in the victim’s presence"
+        }
+      ]
+    },
+    {
+      "id": "51-burglary",
+      "title": "51. Burglary",
+      "body": [
+        "Common-law burglary is:",
+        "Breaking",
+        "Entering",
+        "Dwelling",
+        "Of another",
+        "At night",
+        "With intent to commit a felony inside",
+        "Modern statutes commonly eliminate breaking, dwelling, or nighttime requirements."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Common-law burglary is:"
+        },
+        {
+          "type": "compact",
+          "text": "Breaking"
+        },
+        {
+          "type": "compact",
+          "text": "Entering"
+        },
+        {
+          "type": "compact",
+          "text": "Dwelling"
+        },
+        {
+          "type": "compact",
+          "text": "Of another"
+        },
+        {
+          "type": "compact",
+          "text": "At night"
+        },
+        {
+          "type": "compact",
+          "text": "With intent to commit a felony inside"
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern statutes commonly eliminate breaking, dwelling, or nighttime requirements."
+        }
+      ]
+    },
+    {
+      "id": "52-breaking-and-entry",
+      "title": "52. Breaking and Entry",
+      "body": [
+        "Breaking may be slight, such as opening an unlocked closed door.",
+        "Entering through a fully open door is not a common-law breaking.",
+        "Entry occurs when:",
+        "Any body part crosses the boundary",
+        "An instrument used to commit the felony crosses the boundary",
+        "The felony intent must exist at entry."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Breaking may be slight, such as opening an unlocked closed door."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entering through a fully open door is not a common-law breaking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entry occurs when:"
+        },
+        {
+          "type": "compact",
+          "text": "Any body part crosses the boundary"
+        },
+        {
+          "type": "compact",
+          "text": "An instrument used to commit the felony crosses the boundary"
+        },
+        {
+          "type": "paragraph",
+          "text": "The felony intent must exist at entry."
+        }
+      ]
+    },
+    {
+      "id": "53-arson",
+      "title": "53. Arson",
+      "body": [
+        "Common-law arson is malicious burning of the dwelling of another.",
+        "Requirements:",
+        "Fire damage",
+        "Damage to the structure",
+        "Charring is sufficient",
+        "Smoke or scorching alone is insufficient",
+        "Modern statutes are broader."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Common-law arson is malicious burning of the dwelling of another."
+        },
+        {
+          "type": "paragraph",
+          "text": "Requirements:"
+        },
+        {
+          "type": "compact",
+          "text": "Fire damage"
+        },
+        {
+          "type": "compact",
+          "text": "Damage to the structure"
+        },
+        {
+          "type": "compact",
+          "text": "Charring is sufficient"
+        },
+        {
+          "type": "compact",
+          "text": "Smoke or scorching alone is insufficient"
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern statutes are broader."
+        }
+      ]
+    },
+    {
+      "id": "54-receiving-stolen-property",
+      "title": "54. Receiving Stolen Property",
+      "body": [
+        "The offense generally requires:",
+        "Receiving or controlling stolen property",
+        "Knowing it is stolen",
+        "Intent to deprive the owner",
+        "The property must still be stolen when received."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The offense generally requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Receiving or controlling stolen property"
+        },
+        {
+          "type": "compact",
+          "text": "Knowing it is stolen"
+        },
+        {
+          "type": "compact",
+          "text": "Intent to deprive the owner"
+        },
+        {
+          "type": "paragraph",
+          "text": "The property must still be stolen when received."
+        }
+      ]
+    },
+    {
+      "id": "55-battery",
+      "title": "55. Battery",
+      "body": [
+        "Battery is unlawful harmful or offensive contact with another.",
+        "Force may be:",
+        "Direct",
+        "Indirect",
+        "Applied through an object",
+        "Applied to something attached to the victim",
+        "Battery is traditionally a general-intent crime."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Battery is unlawful harmful or offensive contact with another."
+        },
+        {
+          "type": "paragraph",
+          "text": "Force may be:"
+        },
+        {
+          "type": "compact",
+          "text": "Direct"
+        },
+        {
+          "type": "compact",
+          "text": "Indirect"
+        },
+        {
+          "type": "compact",
+          "text": "Applied through an object"
+        },
+        {
+          "type": "compact",
+          "text": "Applied to something attached to the victim"
+        },
+        {
+          "type": "paragraph",
+          "text": "Battery is traditionally a general-intent crime."
+        }
+      ]
+    },
+    {
+      "id": "56-assault",
+      "title": "56. Assault",
+      "body": [
+        "Assault is either:",
+        "Attempted battery, or",
+        "Intentional creation of reasonable apprehension of imminent bodily harm",
+        "Attempted-battery assault does not require victim awareness.",
+        "Apprehension assault does."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Assault is either:"
+        },
+        {
+          "type": "compact",
+          "text": "Attempted battery, or"
+        },
+        {
+          "type": "compact",
+          "text": "Intentional creation of reasonable apprehension of imminent bodily harm"
+        },
+        {
+          "type": "paragraph",
+          "text": "Attempted-battery assault does not require victim awareness."
+        },
+        {
+          "type": "paragraph",
+          "text": "Apprehension assault does."
+        }
+      ]
+    },
+    {
+      "id": "57-kidnapping-and-false-imprisonment",
+      "title": "57. Kidnapping and False Imprisonment",
+      "body": [
+        "False Imprisonment",
+        "Unlawful confinement without valid consent.",
+        "Kidnapping",
+        "False imprisonment plus:",
+        "Movement, or",
+        "Secret concealment",
+        "Movement incidental to another crime generally must exceed what is necessary for that crime."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "False Imprisonment"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unlawful confinement without valid consent."
+        },
+        {
+          "type": "subheading",
+          "text": "Kidnapping"
+        },
+        {
+          "type": "paragraph",
+          "text": "False imprisonment plus:"
+        },
+        {
+          "type": "compact",
+          "text": "Movement, or"
+        },
+        {
+          "type": "compact",
+          "text": "Secret concealment"
+        },
+        {
+          "type": "paragraph",
+          "text": "Movement incidental to another crime generally must exceed what is necessary for that crime."
+        }
+      ]
+    },
+    {
+      "id": "58-rape",
+      "title": "58. Rape",
+      "body": [
+        "Traditional common-law rape required intercourse with a woman by force or threat and without consent.",
+        "Modern statutes are generally gender-neutral and focus on absence of valid consent.",
+        "Resistance is not required.",
+        "Fraud in the factum may negate consent; fraud in the inducement generally does not."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Traditional common-law rape required intercourse with a woman by force or threat and without consent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern statutes are generally gender-neutral and focus on absence of valid consent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resistance is not required."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fraud in the factum may negate consent; fraud in the inducement generally does not."
+        }
+      ]
+    },
+    {
+      "id": "59-statutory-rape",
+      "title": "59. Statutory Rape",
+      "body": [
+        "Statutory rape is generally strict liability as to the victim’s age.",
+        "Consent and reasonable mistake of age are ordinarily not defenses unless the statute provides otherwise."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Statutory rape is generally strict liability as to the victim’s age."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consent and reasonable mistake of age are ordinarily not defenses unless the statute provides otherwise."
+        }
+      ]
+    },
+    {
+      "id": "60-perjury-and-bribery",
+      "title": "60. Perjury and Bribery",
+      "body": [
+        "Perjury",
+        "Requires a knowingly false, material statement under oath.",
+        "Bribery",
+        "Modern bribery is completed by the corrupt offer, giving, solicitation, or receipt of value to influence official or legal action.",
+        "The desired action need not occur."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Perjury"
+        },
+        {
+          "type": "paragraph",
+          "text": "Requires a knowingly false, material statement under oath."
+        },
+        {
+          "type": "subheading",
+          "text": "Bribery"
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern bribery is completed by the corrupt offer, giving, solicitation, or receipt of value to influence official or legal action."
+        },
+        {
+          "type": "paragraph",
+          "text": "The desired action need not occur."
+        }
+      ]
+    },
+    {
+      "id": "61-inchoate-crimes",
+      "title": "61. Inchoate Crimes",
+      "body": [
+        "The three inchoate crimes are:",
+        "Solicitation",
+        "Conspiracy",
+        "Attempt",
+        "All require specific intent."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The three inchoate crimes are:"
+        },
+        {
+          "type": "compact",
+          "text": "Solicitation"
+        },
+        {
+          "type": "compact",
+          "text": "Conspiracy"
+        },
+        {
+          "type": "compact",
+          "text": "Attempt"
+        },
+        {
+          "type": "paragraph",
+          "text": "All require specific intent."
+        }
+      ]
+    },
+    {
+      "id": "62-merger",
+      "title": "62. Merger",
+      "body": [
+        "Solicitation merges into the completed offense",
+        "Attempt merges into the completed offense",
+        "Conspiracy does not merge",
+        "A defendant generally cannot receive multiple punishments for a completed offense and its lesser included offense."
+      ],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Solicitation merges into the completed offense"
+        },
+        {
+          "type": "compact",
+          "text": "Attempt merges into the completed offense"
+        },
+        {
+          "type": "compact",
+          "text": "Conspiracy does not merge"
+        },
+        {
+          "type": "paragraph",
+          "text": "A defendant generally cannot receive multiple punishments for a completed offense and its lesser included offense."
+        }
+      ]
+    },
+    {
+      "id": "63-solicitation",
+      "title": "63. Solicitation",
+      "body": [
+        "Solicitation is asking, encouraging, commanding, or enticing another person to commit a crime with intent that the crime occur.",
+        "The crime is complete when the request is made.",
+        "The other person need not agree."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Solicitation is asking, encouraging, commanding, or enticing another person to commit a crime with intent that the crime occur."
+        },
+        {
+          "type": "paragraph",
+          "text": "The crime is complete when the request is made."
+        },
+        {
+          "type": "paragraph",
+          "text": "The other person need not agree."
+        }
+      ]
+    },
+    {
+      "id": "64-solicitation-defenses",
+      "title": "64. Solicitation Defenses",
+      "body": [
+        "Factual impossibility is not a defense.",
+        "At common law, renunciation is not a defense.",
+        "Under the MPC, voluntary renunciation may be a defense if the defendant prevents the solicited crime."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Factual impossibility is not a defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "At common law, renunciation is not a defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under the MPC, voluntary renunciation may be a defense if the defendant prevents the solicited crime."
+        }
+      ]
+    },
+    {
+      "id": "65-conspiracy",
+      "title": "65. Conspiracy",
+      "body": [
+        "Conspiracy generally requires:",
+        "Agreement",
+        "Criminal objective",
+        "Intent to agree",
+        "Intent to achieve the objective",
+        "Overt act when required",
+        "The agreement may be inferred from coordinated conduct."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Conspiracy generally requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Agreement"
+        },
+        {
+          "type": "compact",
+          "text": "Criminal objective"
+        },
+        {
+          "type": "compact",
+          "text": "Intent to agree"
+        },
+        {
+          "type": "compact",
+          "text": "Intent to achieve the objective"
+        },
+        {
+          "type": "compact",
+          "text": "Overt act when required"
+        },
+        {
+          "type": "paragraph",
+          "text": "The agreement may be inferred from coordinated conduct."
+        }
+      ]
+    },
+    {
+      "id": "66-bilateral-and-unilateral-conspiracy",
+      "title": "66. Bilateral and Unilateral Conspiracy",
+      "body": [
+        "Common law and federal law generally require two genuinely guilty parties.",
+        "The MPC and many states permit unilateral conspiracy, including agreement with an undercover officer."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Common law and federal law generally require two genuinely guilty parties."
+        },
+        {
+          "type": "paragraph",
+          "text": "The MPC and many states permit unilateral conspiracy, including agreement with an undercover officer."
+        }
+      ]
+    },
+    {
+      "id": "67-wharton-s-rule",
+      "title": "67. Wharton’s Rule",
+      "body": [
+        "When a crime necessarily requires two participants, there is ordinarily no separate conspiracy unless more people agree than are necessary to commit the crime.",
+        "The rule generally does not apply under the MPC unilateral approach."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When a crime necessarily requires two participants, there is ordinarily no separate conspiracy unless more people agree than are necessary to commit the crime."
+        },
+        {
+          "type": "paragraph",
+          "text": "The rule generally does not apply under the MPC unilateral approach."
+        }
+      ]
+    },
+    {
+      "id": "68-conspiracy-mens-rea",
+      "title": "68. Conspiracy Mens Rea",
+      "body": [
+        "Mere knowledge is generally insufficient.",
+        "The defendant must intend:",
+        "To agree",
+        "To achieve the criminal objective",
+        "A supplier becomes a conspirator only when facts show shared criminal purpose."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mere knowledge is generally insufficient."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant must intend:"
+        },
+        {
+          "type": "compact",
+          "text": "To agree"
+        },
+        {
+          "type": "compact",
+          "text": "To achieve the criminal objective"
+        },
+        {
+          "type": "paragraph",
+          "text": "A supplier becomes a conspirator only when facts show shared criminal purpose."
+        }
+      ]
+    },
+    {
+      "id": "69-overt-act",
+      "title": "69. Overt Act",
+      "body": [
+        "Common law required no overt act.",
+        "Federal law and the modern majority generally do.",
+        "The overt act may be:",
+        "Lawful",
+        "Minor",
+        "Performed by any conspirator",
+        "It must further the conspiracy."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Common law required no overt act."
+        },
+        {
+          "type": "paragraph",
+          "text": "Federal law and the modern majority generally do."
+        },
+        {
+          "type": "paragraph",
+          "text": "The overt act may be:"
+        },
+        {
+          "type": "compact",
+          "text": "Lawful"
+        },
+        {
+          "type": "compact",
+          "text": "Minor"
+        },
+        {
+          "type": "compact",
+          "text": "Performed by any conspirator"
+        },
+        {
+          "type": "paragraph",
+          "text": "It must further the conspiracy."
+        }
+      ]
+    },
+    {
+      "id": "70-pinkerton-liability",
+      "title": "70. Pinkerton Liability",
+      "body": [
+        "Under the traditional rule, a conspirator may be liable for substantive crimes committed by another conspirator when they are:",
+        "In furtherance",
+        "Within the conspiracy’s scope",
+        "Reasonably foreseeable",
+        "The MPC generally requires accomplice liability instead."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Under the traditional rule, a conspirator may be liable for substantive crimes committed by another conspirator when they are:"
+        },
+        {
+          "type": "compact",
+          "text": "In furtherance"
+        },
+        {
+          "type": "compact",
+          "text": "Within the conspiracy’s scope"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonably foreseeable"
+        },
+        {
+          "type": "paragraph",
+          "text": "The MPC generally requires accomplice liability instead."
+        }
+      ]
+    },
+    {
+      "id": "71-conspiracy-withdrawal",
+      "title": "71. Conspiracy Withdrawal",
+      "body": [
+        "Withdrawal ordinarily does not erase liability for an already completed conspiracy.",
+        "It may cut off liability for later Pinkerton crimes if the defendant:",
+        "Communicates withdrawal to co-conspirators, or",
+        "Timely informs law enforcement",
+        "Prior accomplice aid may still need to be neutralized."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Withdrawal ordinarily does not erase liability for an already completed conspiracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "It may cut off liability for later Pinkerton crimes if the defendant:"
+        },
+        {
+          "type": "compact",
+          "text": "Communicates withdrawal to co-conspirators, or"
+        },
+        {
+          "type": "compact",
+          "text": "Timely informs law enforcement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prior accomplice aid may still need to be neutralized."
+        }
+      ]
+    },
+    {
+      "id": "72-attempt",
+      "title": "72. Attempt",
+      "body": [
+        "Attempt requires:",
+        "Specific intent to complete the target crime",
+        "Conduct sufficiently close to completion",
+        "Attempt is specific intent even when the completed offense is general intent, malice, or strict liability.",
+        "There is generally no attempt to commit an unintentional crime."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Attempt requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Specific intent to complete the target crime"
+        },
+        {
+          "type": "compact",
+          "text": "Conduct sufficiently close to completion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Attempt is specific intent even when the completed offense is general intent, malice, or strict liability."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is generally no attempt to commit an unintentional crime."
+        }
+      ]
+    },
+    {
+      "id": "73-substantial-step",
+      "title": "73. Substantial Step",
+      "body": [
+        "Under the MPC, a substantial step must strongly corroborate criminal purpose.",
+        "Examples include:",
+        "Lying in wait",
+        "Following the victim",
+        "Unlawful entry",
+        "Possessing specially designed tools",
+        "Possessing materials near the crime scene",
+        "Enticing the victim to the planned location"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Under the MPC, a substantial step must strongly corroborate criminal purpose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples include:"
+        },
+        {
+          "type": "compact",
+          "text": "Lying in wait"
+        },
+        {
+          "type": "compact",
+          "text": "Following the victim"
+        },
+        {
+          "type": "compact",
+          "text": "Unlawful entry"
+        },
+        {
+          "type": "compact",
+          "text": "Possessing specially designed tools"
+        },
+        {
+          "type": "compact",
+          "text": "Possessing materials near the crime scene"
+        },
+        {
+          "type": "compact",
+          "text": "Enticing the victim to the planned location"
+        }
+      ]
+    },
+    {
+      "id": "74-dangerous-proximity",
+      "title": "74. Dangerous Proximity",
+      "body": [
+        "The common-law dangerous-proximity test requires the defendant to be very near completion.",
+        "It is stricter than the MPC substantial-step test.",
+        "Memory line: Common law asks how close; MPC asks how strongly the act confirms intent."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The common-law dangerous-proximity test requires the defendant to be very near completion."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is stricter than the MPC substantial-step test."
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Common law asks how close; MPC asks how strongly the act confirms intent."
+        }
+      ]
+    },
+    {
+      "id": "75-impossibility",
+      "title": "75. Impossibility",
+      "body": [
+        "Factual Impossibility",
+        "Not a defense to attempt, conspiracy, or solicitation.",
+        "Legal Impossibility",
+        "A defense when the intended conduct is not criminal.",
+        "Example: Picking an empty pocket is attempted larceny. Trying to import an item mistakenly believed illegal is not attempt when importation is lawful."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Factual Impossibility"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not a defense to attempt, conspiracy, or solicitation."
+        },
+        {
+          "type": "subheading",
+          "text": "Legal Impossibility"
+        },
+        {
+          "type": "paragraph",
+          "text": "A defense when the intended conduct is not criminal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: Picking an empty pocket is attempted larceny. Trying to import an item mistakenly believed illegal is not attempt when importation is lawful."
+        }
+      ]
+    },
+    {
+      "id": "76-abandonment",
+      "title": "76. Abandonment",
+      "body": [
+        "At common law, abandonment is no defense once attempt is complete.",
+        "The MPC recognizes voluntary and complete renunciation.",
+        "Renunciation is not voluntary when motivated by:",
+        "Fear of detection",
+        "Increased difficulty",
+        "Delay until a better time",
+        "Selection of another victim"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "At common law, abandonment is no defense once attempt is complete."
+        },
+        {
+          "type": "paragraph",
+          "text": "The MPC recognizes voluntary and complete renunciation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Renunciation is not voluntary when motivated by:"
+        },
+        {
+          "type": "compact",
+          "text": "Fear of detection"
+        },
+        {
+          "type": "compact",
+          "text": "Increased difficulty"
+        },
+        {
+          "type": "compact",
+          "text": "Delay until a better time"
+        },
+        {
+          "type": "compact",
+          "text": "Selection of another victim"
+        }
+      ]
+    },
+    {
+      "id": "77-self-defense",
+      "title": "77. Self-Defense",
+      "body": [
+        "A nonaggressor may use reasonable force to prevent imminent unlawful harm.",
+        "The belief generally must be:",
+        "Honest",
+        "Reasonable",
+        "Related to immediate danger",
+        "The response must be proportionate."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A nonaggressor may use reasonable force to prevent imminent unlawful harm."
+        },
+        {
+          "type": "paragraph",
+          "text": "The belief generally must be:"
+        },
+        {
+          "type": "compact",
+          "text": "Honest"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonable"
+        },
+        {
+          "type": "compact",
+          "text": "Related to immediate danger"
+        },
+        {
+          "type": "paragraph",
+          "text": "The response must be proportionate."
+        }
+      ]
+    },
+    {
+      "id": "78-deadly-force",
+      "title": "78. Deadly Force",
+      "body": [
+        "Deadly force is justified only when reasonably necessary to prevent:",
+        "Death",
+        "Serious bodily injury",
+        "Certain dangerous felonies",
+        "Deadly force cannot be used solely to protect property."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Deadly force is justified only when reasonably necessary to prevent:"
+        },
+        {
+          "type": "compact",
+          "text": "Death"
+        },
+        {
+          "type": "compact",
+          "text": "Serious bodily injury"
+        },
+        {
+          "type": "compact",
+          "text": "Certain dangerous felonies"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deadly force cannot be used solely to protect property."
+        }
+      ]
+    },
+    {
+      "id": "79-retreat-and-castle-doctrine",
+      "title": "79. Retreat and Castle Doctrine",
+      "body": [
+        "The majority imposes no duty to retreat before using deadly force.",
+        "A minority requires safe retreat.",
+        "Even retreat jurisdictions generally impose no retreat duty in the home."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The majority imposes no duty to retreat before using deadly force."
+        },
+        {
+          "type": "paragraph",
+          "text": "A minority requires safe retreat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even retreat jurisdictions generally impose no retreat duty in the home."
+        }
+      ]
+    },
+    {
+      "id": "80-initial-aggressor",
+      "title": "80. Initial Aggressor",
+      "body": [
+        "An initial aggressor may regain self-defense when:",
+        "The aggressor completely withdraws and communicates withdrawal, or",
+        "The aggressor used nondeadly force and the victim unexpectedly escalates to deadly force"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An initial aggressor may regain self-defense when:"
+        },
+        {
+          "type": "compact",
+          "text": "The aggressor completely withdraws and communicates withdrawal, or"
+        },
+        {
+          "type": "compact",
+          "text": "The aggressor used nondeadly force and the victim unexpectedly escalates to deadly force"
+        }
+      ]
+    },
+    {
+      "id": "81-defense-of-others",
+      "title": "81. Defense of Others",
+      "body": [
+        "A person may use force when reasonably believing another person has the right of self-defense.",
+        "The modern rule protects reasonable mistakes."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A person may use force when reasonably believing another person has the right of self-defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "The modern rule protects reasonable mistakes."
+        }
+      ]
+    },
+    {
+      "id": "82-defense-of-property",
+      "title": "82. Defense of Property",
+      "body": [
+        "Reasonable nondeadly force may protect property from immediate unlawful interference.",
+        "Deadly force may sometimes protect an occupied dwelling against a violent felony, but not ordinary property.",
+        "Deadly mechanical traps are prohibited."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reasonable nondeadly force may protect property from immediate unlawful interference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deadly force may sometimes protect an occupied dwelling against a violent felony, but not ordinary property."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deadly mechanical traps are prohibited."
+        }
+      ]
+    },
+    {
+      "id": "83-arrest",
+      "title": "83. Arrest",
+      "body": [
+        "Police may use reasonable nondeadly force to make a lawful arrest.",
+        "Deadly force generally requires a serious threat to the officer or others.",
+        "Citizen arrest rules are stricter and often require that the crime actually occurred."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may use reasonable nondeadly force to make a lawful arrest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deadly force generally requires a serious threat to the officer or others."
+        },
+        {
+          "type": "paragraph",
+          "text": "Citizen arrest rules are stricter and often require that the crime actually occurred."
+        }
+      ]
+    },
+    {
+      "id": "84-duress",
+      "title": "84. Duress",
+      "body": [
+        "Duress requires:",
+        "Human threat",
+        "Death or serious bodily injury",
+        "Imminence",
+        "Reasonable belief compliance is necessary",
+        "No safe alternative",
+        "Duress is generally not a defense to intentional murder.",
+        "It may defeat felony murder by defeating the predicate felony."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Duress requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Human threat"
+        },
+        {
+          "type": "compact",
+          "text": "Death or serious bodily injury"
+        },
+        {
+          "type": "compact",
+          "text": "Imminence"
+        },
+        {
+          "type": "compact",
+          "text": "Reasonable belief compliance is necessary"
+        },
+        {
+          "type": "compact",
+          "text": "No safe alternative"
+        },
+        {
+          "type": "paragraph",
+          "text": "Duress is generally not a defense to intentional murder."
+        },
+        {
+          "type": "paragraph",
+          "text": "It may defeat felony murder by defeating the predicate felony."
+        }
+      ]
+    },
+    {
+      "id": "85-necessity",
+      "title": "85. Necessity",
+      "body": [
+        "Necessity applies when circumstances force the defendant to choose the lesser evil.",
+        "Usually required:",
+        "Imminent harm",
+        "Greater harm avoided",
+        "No reasonable legal alternative",
+        "Defendant did not create the emergency",
+        "Traditional necessity arises from natural forces; the MPC is broader."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Necessity applies when circumstances force the defendant to choose the lesser evil."
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually required:"
+        },
+        {
+          "type": "compact",
+          "text": "Imminent harm"
+        },
+        {
+          "type": "compact",
+          "text": "Greater harm avoided"
+        },
+        {
+          "type": "compact",
+          "text": "No reasonable legal alternative"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant did not create the emergency"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traditional necessity arises from natural forces; the MPC is broader."
+        }
+      ]
+    },
+    {
+      "id": "86-consent",
+      "title": "86. Consent",
+      "body": [
+        "Consent is effective only when:",
+        "Freely given",
+        "Informed",
+        "Not obtained by fraud or duress",
+        "Given by a legally competent person",
+        "The law permits waiver of the protected interest",
+        "Consent generally does not excuse serious bodily harm outside recognized activities."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consent is effective only when:"
+        },
+        {
+          "type": "compact",
+          "text": "Freely given"
+        },
+        {
+          "type": "compact",
+          "text": "Informed"
+        },
+        {
+          "type": "compact",
+          "text": "Not obtained by fraud or duress"
+        },
+        {
+          "type": "compact",
+          "text": "Given by a legally competent person"
+        },
+        {
+          "type": "compact",
+          "text": "The law permits waiver of the protected interest"
+        },
+        {
+          "type": "paragraph",
+          "text": "Consent generally does not excuse serious bodily harm outside recognized activities."
+        }
+      ]
+    },
+    {
+      "id": "87-entrapment",
+      "title": "87. Entrapment",
+      "body": [
+        "Entrapment requires government involvement.",
+        "Subjective Majority Test",
+        "Government inducement",
+        "No predisposition",
+        "Objective MPC Test",
+        "Government methods create a substantial risk that an ordinarily law-abiding person would commit the crime.",
+        "A private citizen cannot create entrapment."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Entrapment requires government involvement."
+        },
+        {
+          "type": "subheading",
+          "text": "Subjective Majority Test"
+        },
+        {
+          "type": "compact",
+          "text": "Government inducement"
+        },
+        {
+          "type": "compact",
+          "text": "No predisposition"
+        },
+        {
+          "type": "subheading",
+          "text": "Objective MPC Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "Government methods create a substantial risk that an ordinarily law-abiding person would commit the crime."
+        },
+        {
+          "type": "paragraph",
+          "text": "A private citizen cannot create entrapment."
+        }
+      ]
+    },
+    {
+      "id": "88-alibi",
+      "title": "88. Alibi",
+      "body": [
+        "Alibi is not an affirmative defense.",
+        "The defendant raises doubt about presence or identity.",
+        "The prosecution retains the burden to prove the defendant committed the offense."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Alibi is not an affirmative defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant raises doubt about presence or identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "The prosecution retains the burden to prove the defendant committed the offense."
+        }
+      ]
+    },
+    {
+      "id": "89-property-crime-comparison",
+      "title": "89. Property-Crime Comparison",
+      "body": [
+        "Crime — Initial Status — What Changes — Method",
+        "Larceny — Victim possesses — Possession — Trespass",
+        "Larceny by trick — Victim possesses — Possession — Fraud",
+        "False pretenses — Victim has title — Title — Fraud",
+        "Embezzlement — Defendant lawfully possesses — Conversion — Breach of trust",
+        "Robbery — Victim possesses — Possession — Force or intimidation"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Crime — Initial Status — What Changes — Method"
+        },
+        {
+          "type": "chartRow",
+          "text": "Larceny — Victim possesses — Possession — Trespass"
+        },
+        {
+          "type": "chartRow",
+          "text": "Larceny by trick — Victim possesses — Possession — Fraud"
+        },
+        {
+          "type": "chartRow",
+          "text": "False pretenses — Victim has title — Title — Fraud"
+        },
+        {
+          "type": "chartRow",
+          "text": "Embezzlement — Defendant lawfully possesses — Conversion — Breach of trust"
+        },
+        {
+          "type": "chartRow",
+          "text": "Robbery — Victim possesses — Possession — Force or intimidation"
+        }
+      ]
+    },
+    {
+      "id": "90-homicide-comparison",
+      "title": "90. Homicide Comparison",
+      "body": [
+        "Circumstance — Offense",
+        "Intent to kill — Murder",
+        "Intent serious bodily injury — Murder",
+        "Extreme reckless indifference — Depraved-heart murder",
+        "Dangerous felony causing death — Felony murder",
+        "Adequate provocation — Voluntary manslaughter",
+        "Imperfect self-defense — Voluntary manslaughter",
+        "Criminal negligence — Involuntary manslaughter",
+        "Malum in se misdemeanor causing death — Involuntary manslaughter"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Circumstance — Offense"
+        },
+        {
+          "type": "chartRow",
+          "text": "Intent to kill — Murder"
+        },
+        {
+          "type": "chartRow",
+          "text": "Intent serious bodily injury — Murder"
+        },
+        {
+          "type": "chartRow",
+          "text": "Extreme reckless indifference — Depraved-heart murder"
+        },
+        {
+          "type": "chartRow",
+          "text": "Dangerous felony causing death — Felony murder"
+        },
+        {
+          "type": "chartRow",
+          "text": "Adequate provocation — Voluntary manslaughter"
+        },
+        {
+          "type": "chartRow",
+          "text": "Imperfect self-defense — Voluntary manslaughter"
+        },
+        {
+          "type": "chartRow",
+          "text": "Criminal negligence — Involuntary manslaughter"
+        },
+        {
+          "type": "chartRow",
+          "text": "Malum in se misdemeanor causing death — Involuntary manslaughter"
+        }
+      ]
+    },
+    {
+      "id": "91-inchoate-comparison",
+      "title": "91. Inchoate Comparison",
+      "body": [
+        "Offense — Act — Mens Rea — Merger",
+        "Solicitation — Request or encouragement — Intent crime occur — Merges",
+        "Conspiracy — Agreement, often overt act — Intent to agree and achieve objective — Does not merge",
+        "Attempt — Substantial step or dangerous proximity — Intent to complete crime — Merges"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Offense — Act — Mens Rea — Merger"
+        },
+        {
+          "type": "chartRow",
+          "text": "Solicitation — Request or encouragement — Intent crime occur — Merges"
+        },
+        {
+          "type": "chartRow",
+          "text": "Conspiracy — Agreement, often overt act — Intent to agree and achieve objective — Does not merge"
+        },
+        {
+          "type": "chartRow",
+          "text": "Attempt — Substantial step or dangerous proximity — Intent to complete crime — Merges"
+        }
+      ]
+    },
+    {
+      "id": "92-core-mbe-traps",
+      "title": "92. Core MBE Traps",
+      "body": [
+        "A bad thought is not an act.",
+        "A bystander usually has no duty to rescue.",
+        "Motive is not mens rea.",
+        "Strict liability eliminates mistake defenses.",
+        "Mere knowledge does not make an accomplice or conspirator.",
+        "Accessory after the fact is a separate offense.",
+        "Ordinary medical negligence usually does not break homicide causation.",
+        "Felony murder needs an independent felony.",
+        "Larceny protects possession, not merely title.",
+        "Larceny by trick transfers possession; false pretenses transfers title.",
+        "Embezzlement starts with lawful possession.",
+        "Burglary intent must exist at entry.",
+        "Solicitation is complete upon the request.",
+        "Conspiracy does not merge.",
+        "Attempt requires specific intent.",
+        "Factual impossibility is not a defense.",
+        "Deadly force cannot protect property alone.",
+        "Duress comes from human threats; necessity comes from circumstances.",
+        "Entrapment requires government involvement.",
+        "Alibi leaves the burden on the prosecution."
+      ],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "A bad thought is not an act."
+        },
+        {
+          "type": "compact",
+          "text": "A bystander usually has no duty to rescue."
+        },
+        {
+          "type": "compact",
+          "text": "Motive is not mens rea."
+        },
+        {
+          "type": "compact",
+          "text": "Strict liability eliminates mistake defenses."
+        },
+        {
+          "type": "compact",
+          "text": "Mere knowledge does not make an accomplice or conspirator."
+        },
+        {
+          "type": "compact",
+          "text": "Accessory after the fact is a separate offense."
+        },
+        {
+          "type": "compact",
+          "text": "Ordinary medical negligence usually does not break homicide causation."
+        },
+        {
+          "type": "compact",
+          "text": "Felony murder needs an independent felony."
+        },
+        {
+          "type": "compact",
+          "text": "Larceny protects possession, not merely title."
+        },
+        {
+          "type": "compact",
+          "text": "Larceny by trick transfers possession; false pretenses transfers title."
+        },
+        {
+          "type": "compact",
+          "text": "Embezzlement starts with lawful possession."
+        },
+        {
+          "type": "compact",
+          "text": "Burglary intent must exist at entry."
+        },
+        {
+          "type": "compact",
+          "text": "Solicitation is complete upon the request."
+        },
+        {
+          "type": "compact",
+          "text": "Conspiracy does not merge."
+        },
+        {
+          "type": "compact",
+          "text": "Attempt requires specific intent."
+        },
+        {
+          "type": "compact",
+          "text": "Factual impossibility is not a defense."
+        },
+        {
+          "type": "compact",
+          "text": "Deadly force cannot protect property alone."
+        },
+        {
+          "type": "compact",
+          "text": "Duress comes from human threats; necessity comes from circumstances."
+        },
+        {
+          "type": "compact",
+          "text": "Entrapment requires government involvement."
+        },
+        {
+          "type": "compact",
+          "text": "Alibi leaves the burden on the prosecution."
+        }
+      ]
+    },
+    {
+      "id": "93-final-criminal-law-checklist",
+      "title": "93. Final Criminal Law Checklist",
+      "body": [
+        "For a full analysis, write:",
+        "Actus reus",
+        "Voluntariness or legal duty",
+        "Mens rea",
+        "Concurrence",
+        "Causation",
+        "Completed offense",
+        "Party liability",
+        "Inchoate liability",
+        "Defense",
+        "Merger"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For a full analysis, write:"
+        },
+        {
+          "type": "compact",
+          "text": "Actus reus"
+        },
+        {
+          "type": "compact",
+          "text": "Voluntariness or legal duty"
+        },
+        {
+          "type": "compact",
+          "text": "Mens rea"
+        },
+        {
+          "type": "compact",
+          "text": "Concurrence"
+        },
+        {
+          "type": "compact",
+          "text": "Causation"
+        },
+        {
+          "type": "compact",
+          "text": "Completed offense"
+        },
+        {
+          "type": "compact",
+          "text": "Party liability"
+        },
+        {
+          "type": "compact",
+          "text": "Inchoate liability"
+        },
+        {
+          "type": "compact",
+          "text": "Defense"
+        },
+        {
+          "type": "compact",
+          "text": "Merger"
+        }
+      ]
+    },
+    {
+      "id": "final-one-sentence-summary",
+      "title": "Final One-Sentence Summary",
+      "body": [
+        "Criminal law asks whether a voluntary act, required guilty mind, and legally caused harm satisfy an offense, and whether party liability, inchoate doctrines, or a defense changes the result."
+      ],
+      "blocks": [
+        {
+          "type": "quote",
+          "text": "Criminal law asks whether a voluntary act, required guilty mind, and legally caused harm satisfy an offense, and whether party liability, inchoate doctrines, or a defense changes the result."
+        }
+      ]
+    }
+  ]
+}
