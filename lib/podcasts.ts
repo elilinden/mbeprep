@@ -26,6 +26,14 @@ const podcastFiles = [
     description: "Review Federal Civil Procedure rules in audio form before drilling flashcards or outlines."
   },
   {
+    id: "criminal-law",
+    fileName: "criminal-law.mp3",
+    title: "Criminal Law",
+    subject: "Criminal Law",
+    topic: "A practical attack plan for criminal liability, offenses, parties, and defenses",
+    description: "Use this guided Criminal Law pass before reviewing the outline, flashcards, or questions."
+  },
+  {
     id: "evidence",
     fileName: "evidence.mp3",
     title: "Evidence",
