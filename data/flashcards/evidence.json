@@ -1,0 +1,613 @@
+{
+  "id": "evidence",
+  "title": "Evidence",
+  "subject": "Evidence",
+  "cards": [
+    {
+      "id": "evidence-001-in-which-type-of-proceedings-do-the-federal-rules-of-evidence-generally-",
+      "subject": "Evidence",
+      "front": "In which type of proceedings do the Federal Rules of Evidence generally not apply, except for privilege rules?",
+      "back": "Preliminary proceedings such as sentencing, grand juries, and bail hearings."
+    },
+    {
+      "id": "evidence-002-what-is-the-standard-of-proof-used-by-a-judge-when-deciding-preliminary-",
+      "subject": "Evidence",
+      "front": "What is the standard of proof used by a judge when deciding preliminary questions of admissibility under Rule 104(a)?",
+      "back": "Preponderance of the evidence."
+    },
+    {
+      "id": "evidence-003-true-or-false-a-judge-is-bound-by-the-federal-rules-of-evidence-when-dec",
+      "subject": "Evidence",
+      "front": "True or False: A judge is bound by the Federal Rules of Evidence when deciding preliminary questions of admissibility.",
+      "back": "False, the judge is generally not bound by the Rules except for those regarding privilege."
+    },
+    {
+      "id": "evidence-004-what-standard-must-the-proponent-meet-for-the-court-to-admit-evidence-un",
+      "subject": "Evidence",
+      "front": "What standard must the proponent meet for the court to admit evidence under the doctrine of conditional relevance?",
+      "back": "Evidence sufficient to support a finding that the connecting fact exists."
+    },
+    {
+      "id": "evidence-005-when-is-a-preliminary-hearing-regarding-the-admissibility-of-evidence-re",
+      "subject": "Evidence",
+      "front": "When is a preliminary hearing regarding the admissibility of evidence required to be held outside the jury's presence?",
+      "back": "When it involves the admissibility of a confession."
+    },
+    {
+      "id": "evidence-006-does-a-criminal-defendant-become-subject-to-cross-examination-on-the-ent",
+      "subject": "Evidence",
+      "front": "Does a criminal defendant become subject to cross-examination on the entire case by testifying on a preliminary admissibility issue?",
+      "back": "No, the defendant does not automatically open the door to the whole case."
+    },
+    {
+      "id": "evidence-007-what-must-a-party-do-to-preserve-an-objection-to-evidence-that-has-alrea",
+      "subject": "Evidence",
+      "front": "What must a party do to preserve an objection to evidence that has already been admitted?",
+      "back": "Make a timely objection or motion to strike and state the specific ground."
+    },
+    {
+      "id": "evidence-008-what-is-required-to-preserve-an-error-for-appeal-when-the-trial-court-ex",
+      "subject": "Evidence",
+      "front": "What is required to preserve an error for appeal when the trial court excludes evidence?",
+      "back": "The proponent must make an offer of proof."
+    },
+    {
+      "id": "evidence-009-under-the-plain-error-doctrine-when-may-an-appellate-court-reverse-an-ev",
+      "subject": "Evidence",
+      "front": "Under the 'plain error' doctrine, when may an appellate court reverse an evidentiary ruling despite a lack of objection?",
+      "back": "When an obvious error affects a party's substantial rights."
+    },
+    {
+      "id": "evidence-010-what-is-the-court-s-duty-when-evidence-is-admitted-for-one-purpose-but-i",
+      "subject": "Evidence",
+      "front": "What is the court's duty when evidence is admitted for one purpose but is inadmissible for another purpose?",
+      "back": "The court must, upon timely request, give a limiting instruction to the jury."
+    },
+    {
+      "id": "evidence-011-according-to-the-rule-of-completeness-what-can-an-opponent-require-when-",
+      "subject": "Evidence",
+      "front": "According to the Rule of Completeness, what can an opponent require when a party introduces only part of a recorded statement?",
+      "back": "The introduction of any other part that in fairness ought to be considered at the same time."
+    },
+    {
+      "id": "evidence-012-what-are-the-two-requirements-for-a-fact-to-be-subject-to-judicial-notic",
+      "subject": "Evidence",
+      "front": "What are the two requirements for a fact to be subject to judicial notice?",
+      "back": "It must be generally known within the jurisdiction or accurately determined from unquestionable sources."
+    },
+    {
+      "id": "evidence-013-what-is-the-effect-of-judicial-notice-on-the-jury-in-a-civil-case",
+      "subject": "Evidence",
+      "front": "What is the effect of judicial notice on the jury in a civil case?",
+      "back": "The jury must accept the noticed fact as conclusive."
+    },
+    {
+      "id": "evidence-014-in-a-criminal-case-what-instruction-does-the-judge-give-the-jury-regardi",
+      "subject": "Evidence",
+      "front": "In a criminal case, what instruction does the judge give the jury regarding a judicially noticed fact?",
+      "back": "The jury may, but is not required to, accept the fact as conclusive."
+    },
+    {
+      "id": "evidence-015-how-does-an-illustrative-aid-differ-from-substantive-evidence",
+      "subject": "Evidence",
+      "front": "How does an 'illustrative aid' differ from substantive evidence?",
+      "back": "An illustrative aid helps the factfinder understand testimony but is not itself evidence."
+    },
+    {
+      "id": "evidence-016-what-is-the-general-limit-on-the-scope-of-cross-examination-in-federal-c",
+      "subject": "Evidence",
+      "front": "What is the general limit on the scope of cross-examination in federal court?",
+      "back": "It is limited to the subject matter of the direct examination and witness credibility."
+    },
+    {
+      "id": "evidence-017-when-are-leading-questions-generally-permitted-during-direct-examination",
+      "subject": "Evidence",
+      "front": "When are leading questions generally permitted during direct examination?",
+      "back": "For preliminary matters, with hostile witnesses, or for witnesses with communication difficulties."
+    },
+    {
+      "id": "evidence-018-which-individuals-are-exempt-from-a-court-s-order-to-be-excluded-from-th",
+      "subject": "Evidence",
+      "front": "Which individuals are exempt from a court's order to be excluded from the courtroom (sequestration)?",
+      "back": "A natural-person party, a designated representative of an entity, or a person essential to the case."
+    },
+    {
+      "id": "evidence-019-what-is-the-no-impeachment-rule-regarding-juror-testimony-after-a-verdic",
+      "subject": "Evidence",
+      "front": "What is the 'No-Impeachment Rule' regarding juror testimony after a verdict?",
+      "back": "Jurors generally cannot testify about statements or mental processes during deliberations."
+    },
+    {
+      "id": "evidence-020-what-is-the-exception-to-the-no-impeachment-rule-for-racial-animus",
+      "subject": "Evidence",
+      "front": "What is the exception to the No-Impeachment Rule for racial animus?",
+      "back": "A juror may testify that racial animus was a significant motivating factor in a criminal conviction."
+    },
+    {
+      "id": "evidence-021-define-probative-evidence-under-rule-401",
+      "subject": "Evidence",
+      "front": "Define 'probative' evidence under Rule 401.",
+      "back": "Evidence having any tendency to make a fact more or less probable than it would be without the evidence."
+    },
+    {
+      "id": "evidence-022-define-material-evidence-under-rule-401",
+      "subject": "Evidence",
+      "front": "Define 'material' evidence under Rule 401.",
+      "back": "Evidence that is of consequence in determining the legal dispute."
+    },
+    {
+      "id": "evidence-023-what-is-the-balancing-test-for-excluding-relevant-evidence-under-rule-40",
+      "subject": "Evidence",
+      "front": "What is the balancing test for excluding relevant evidence under Rule 403?",
+      "back": "Evidence is excluded if its probative value is substantially outweighed by dangers like unfair prejudice."
+    },
+    {
+      "id": "evidence-024-what-is-curative-admission",
+      "subject": "Evidence",
+      "front": "What is 'curative admission'?",
+      "back": "A discretionary doctrine allowing inadmissible rebuttal evidence to cure the error of wrongly admitted evidence."
+    },
+    {
+      "id": "evidence-025-what-is-the-general-rule-regarding-character-evidence-offered-to-prove-c",
+      "subject": "Evidence",
+      "front": "What is the general rule regarding character evidence offered to prove conforming conduct?",
+      "back": "It is generally inadmissible to prove that a person acted in conformity with a trait on a specific occasion."
+    },
+    {
+      "id": "evidence-026-in-which-civil-claims-is-character-evidence-admissible-as-an-essential-e",
+      "subject": "Evidence",
+      "front": "In which civil claims is character evidence admissible as an essential element?",
+      "back": "Defamation, negligent hiring/entrustment, and child custody."
+    },
+    {
+      "id": "evidence-027-what-three-methods-of-proof-are-allowed-when-character-is-an-essential-e",
+      "subject": "Evidence",
+      "front": "What three methods of proof are allowed when character is an essential element of a claim?",
+      "back": "Reputation, opinion, and specific acts."
+    },
+    {
+      "id": "evidence-028-under-the-mercy-rule-what-may-a-criminal-defendant-introduce-regarding-t",
+      "subject": "Evidence",
+      "front": "Under the 'Mercy Rule,' what may a criminal defendant introduce regarding their own character?",
+      "back": "Evidence of a pertinent good-character trait via reputation or opinion testimony."
+    },
+    {
+      "id": "evidence-029-how-can-the-prosecution-rebut-a-criminal-defendant-s-evidence-of-their-o",
+      "subject": "Evidence",
+      "front": "How can the prosecution rebut a criminal defendant's evidence of their own good character?",
+      "back": "By offering evidence of the defendant's bad character for the same trait or cross-examining about specific acts."
+    },
+    {
+      "id": "evidence-030-what-may-the-prosecution-offer-if-a-criminal-defendant-attacks-the-chara",
+      "subject": "Evidence",
+      "front": "What may the prosecution offer if a criminal defendant attacks the character of the alleged victim?",
+      "back": "Evidence of the victim's good character or the defendant's bad character for that same trait."
+    },
+    {
+      "id": "evidence-031-in-a-homicide-case-what-triggers-the-prosecution-s-ability-to-offer-evid",
+      "subject": "Evidence",
+      "front": "In a homicide case, what triggers the prosecution's ability to offer evidence of the victim's peacefulness?",
+      "back": "The defendant offering evidence that the victim was the first aggressor."
+    },
+    {
+      "id": "evidence-032-what-are-the-five-common-non-propensity-purposes-for-other-acts-evidence",
+      "subject": "Evidence",
+      "front": "What are the five common non-propensity purposes for 'other acts' evidence (MIMIC)?",
+      "back": "Motive, Intent, Mistake (Absence of), Identity, and Common plan."
+    },
+    {
+      "id": "evidence-033-in-a-criminal-case-what-must-the-prosecution-provide-before-using-other-",
+      "subject": "Evidence",
+      "front": "In a criminal case, what must the prosecution provide before using 'other acts' evidence under Rule 404(b)?",
+      "back": "Reasonable written notice of the evidence and the non-propensity reasoning supporting it."
+    },
+    {
+      "id": "evidence-034-what-distinguishes-habit-evidence-from-character-evidence",
+      "subject": "Evidence",
+      "front": "What distinguishes 'habit' evidence from 'character' evidence?",
+      "back": "Habit is a specific, automatic response to a repeated situation, while character is a general disposition."
+    },
+    {
+      "id": "evidence-035-what-are-the-three-core-requirements-for-a-witness-to-be-competent-to-te",
+      "subject": "Evidence",
+      "front": "What are the three core requirements for a witness to be competent to testify?",
+      "back": "Personal knowledge, ability to communicate, and taking an oath or affirmation."
+    },
+    {
+      "id": "evidence-036-true-or-false-a-witness-may-be-impeached-through-extrinsic-evidence-of-t",
+      "subject": "Evidence",
+      "front": "True or False: A witness may be impeached through extrinsic evidence of their religious beliefs to show truthfulness.",
+      "back": "False, religious beliefs cannot be used to attack or support credibility."
+    },
+    {
+      "id": "evidence-037-when-is-extrinsic-evidence-of-a-witness-s-prior-inconsistent-statement-a",
+      "subject": "Evidence",
+      "front": "When is extrinsic evidence of a witness's prior inconsistent statement admissible for impeachment?",
+      "back": "Only if the witness is given an opportunity to explain or deny the statement."
+    },
+    {
+      "id": "evidence-038-when-is-a-prior-inconsistent-statement-admissible-as-substantive-evidenc",
+      "subject": "Evidence",
+      "front": "When is a prior inconsistent statement admissible as substantive evidence?",
+      "back": "When it was made under penalty of perjury at a formal trial, hearing, or deposition."
+    },
+    {
+      "id": "evidence-039-what-must-the-examiner-have-before-asking-a-witness-about-a-specific-act",
+      "subject": "Evidence",
+      "front": "What must the examiner have before asking a witness about a specific act of untruthfulness on cross-examination?",
+      "back": "A good-faith basis."
+    },
+    {
+      "id": "evidence-040-is-extrinsic-evidence-allowed-to-prove-a-witness-s-specific-act-of-untru",
+      "subject": "Evidence",
+      "front": "Is extrinsic evidence allowed to prove a witness's specific act of untruthfulness if the witness denies it?",
+      "back": "No, extrinsic evidence is generally barred under Rule 608(b) for truthfulness impeachment."
+    },
+    {
+      "id": "evidence-041-which-criminal-convictions-must-be-admitted-for-impeachment-regardless-o",
+      "subject": "Evidence",
+      "front": "Which criminal convictions must be admitted for impeachment regardless of punishment level?",
+      "back": "Convictions where proving the offense required establishing a dishonest act or false statement."
+    },
+    {
+      "id": "evidence-042-what-is-the-balancing-test-for-impeaching-a-criminal-defendant-with-a-fe",
+      "subject": "Evidence",
+      "front": "What is the balancing test for impeaching a criminal defendant with a felony conviction not involving dishonesty?",
+      "back": "Admissible only if its probative value outweighs its prejudicial effect to the defendant."
+    },
+    {
+      "id": "evidence-043-when-does-the-10-year-clock-begin-for-the-purpose-of-stale-conviction-im",
+      "subject": "Evidence",
+      "front": "When does the 10-year clock begin for the purpose of stale conviction impeachment?",
+      "back": "From the date of conviction or the date of release from confinement, whichever is later."
+    },
+    {
+      "id": "evidence-044-what-is-the-standard-for-admitting-a-conviction-older-than-10-years-for-",
+      "subject": "Evidence",
+      "front": "What is the standard for admitting a conviction older than 10 years for impeachment?",
+      "back": "Probative value must substantially outweigh prejudice, with notice and specific supporting facts."
+    },
+    {
+      "id": "evidence-045-how-can-a-party-prove-a-witness-s-prior-conviction-for-impeachment",
+      "subject": "Evidence",
+      "front": "How can a party prove a witness's prior conviction for impeachment?",
+      "back": "By the witness's admission or by an official record of the conviction."
+    },
+    {
+      "id": "evidence-046-what-is-the-difference-between-present-recollection-refreshed-and-past-r",
+      "subject": "Evidence",
+      "front": "What is the difference between 'Present Recollection Refreshed' and 'Past Recollection Recorded' regarding the record itself?",
+      "back": "Refreshed uses the record to awaken memory (record is not evidence); Recorded reads the record into evidence."
+    },
+    {
+      "id": "evidence-047-under-rule-701-what-are-the-requirements-for-lay-opinion-testimony",
+      "subject": "Evidence",
+      "front": "Under Rule 701, what are the requirements for lay opinion testimony?",
+      "back": "Rationally based on perception, helpful to the factfinder, and not based on specialized knowledge."
+    },
+    {
+      "id": "evidence-048-what-is-the-judge-s-role-as-a-gatekeeper-for-expert-testimony",
+      "subject": "Evidence",
+      "front": "What is the judge's role as a 'gatekeeper' for expert testimony?",
+      "back": "Ensuring the expert is qualified and that their methods are reliable and reliably applied."
+    },
+    {
+      "id": "evidence-049-in-a-criminal-case-what-is-the-ultimate-issue-exception-for-expert-witne",
+      "subject": "Evidence",
+      "front": "In a criminal case, what is the 'ultimate issue' exception for expert witnesses?",
+      "back": "The expert cannot state whether the defendant had the required mental state as an element of the crime."
+    },
+    {
+      "id": "evidence-050-true-or-false-an-expert-may-base-an-opinion-on-facts-that-are-themselves",
+      "subject": "Evidence",
+      "front": "True or False: An expert may base an opinion on facts that are themselves inadmissible in court.",
+      "back": "True, if experts in the field reasonably rely on those types of facts."
+    },
+    {
+      "id": "evidence-051-what-is-the-threshold-for-authenticating-an-item-of-evidence",
+      "subject": "Evidence",
+      "front": "What is the threshold for authenticating an item of evidence?",
+      "back": "Evidence sufficient to support a finding that the item is what the proponent claims it is."
+    },
+    {
+      "id": "evidence-052-how-does-a-lay-witness-authenticate-handwriting",
+      "subject": "Evidence",
+      "front": "How does a lay witness authenticate handwriting?",
+      "back": "Based on familiarity that was not acquired for the purpose of the litigation."
+    },
+    {
+      "id": "evidence-053-what-are-the-requirements-for-ancient-document-authentication",
+      "subject": "Evidence",
+      "front": "What are the requirements for 'Ancient Document' authentication?",
+      "back": "The document is at least 20 years old, in unsuspicious condition, and found in a likely place."
+    },
+    {
+      "id": "evidence-054-what-does-the-best-evidence-rule-require-when-proving-the-contents-of-a-",
+      "subject": "Evidence",
+      "front": "What does the 'Best Evidence Rule' require when proving the contents of a writing?",
+      "back": "Production of the original or an admissible duplicate."
+    },
+    {
+      "id": "evidence-055-when-is-a-duplicate-not-admissible-under-the-best-evidence-rule",
+      "subject": "Evidence",
+      "front": "When is a 'duplicate' not admissible under the Best Evidence Rule?",
+      "back": "When the authenticity of the original is genuinely disputed or admission would be unfair."
+    },
+    {
+      "id": "evidence-056-what-is-a-rule-1006-summary",
+      "subject": "Evidence",
+      "front": "What is a 'Rule 1006 Summary'?",
+      "back": "A chart or calculation used to prove the contents of voluminous admissible records."
+    },
+    {
+      "id": "evidence-057-which-spousal-privilege-applies-only-in-criminal-proceedings-and-allows-",
+      "subject": "Evidence",
+      "front": "Which spousal privilege applies only in criminal proceedings and allows a witness to refuse to testify against their spouse?",
+      "back": "Spousal Immunity."
+    },
+    {
+      "id": "evidence-058-who-holds-the-privilege-in-spousal-immunity-cases",
+      "subject": "Evidence",
+      "front": "Who holds the privilege in Spousal Immunity cases?",
+      "back": "The witness-spouse."
+    },
+    {
+      "id": "evidence-059-which-marital-privilege-survives-the-end-of-the-marriage",
+      "subject": "Evidence",
+      "front": "Which marital privilege survives the end of the marriage?",
+      "back": "Confidential Marital Communications privilege."
+    },
+    {
+      "id": "evidence-060-what-are-the-three-elements-of-the-attorney-client-privilege",
+      "subject": "Evidence",
+      "front": "What are the three elements of the Attorney-Client Privilege?",
+      "back": "Communication, between attorney and client, intended to be confidential, for legal assistance."
+    },
+    {
+      "id": "evidence-061-does-the-attorney-client-privilege-protect-the-underlying-facts-that-a-c",
+      "subject": "Evidence",
+      "front": "Does the Attorney-Client Privilege protect the underlying facts that a client tells their lawyer?",
+      "back": "No, it only protects the communication itself."
+    },
+    {
+      "id": "evidence-062-what-is-the-crime-fraud-exception-to-attorney-client-privilege",
+      "subject": "Evidence",
+      "front": "What is the 'Crime-Fraud Exception' to Attorney-Client Privilege?",
+      "back": "It does not protect communications made to further a future or ongoing crime or fraud."
+    },
+    {
+      "id": "evidence-063-under-rule-502-when-does-an-inadvertent-disclosure-not-waive-privilege",
+      "subject": "Evidence",
+      "front": "Under Rule 502, when does an inadvertent disclosure not waive privilege?",
+      "back": "If the holder took reasonable steps to prevent disclosure and prompt steps to correct it."
+    },
+    {
+      "id": "evidence-064-what-is-the-work-product-doctrine",
+      "subject": "Evidence",
+      "front": "What is the 'Work-Product Doctrine'?",
+      "back": "Protection for documents prepared in anticipation of litigation by a party or their representative."
+    },
+    {
+      "id": "evidence-065-is-there-a-general-federal-common-law-physician-patient-privilege",
+      "subject": "Evidence",
+      "front": "Is there a general federal common-law physician-patient privilege?",
+      "back": "No, federal law does not recognize a general physician-patient privilege."
+    },
+    {
+      "id": "evidence-066-true-or-false-in-a-civil-case-a-jury-may-draw-an-adverse-inference-from-",
+      "subject": "Evidence",
+      "front": "True or False: In a civil case, a jury may draw an adverse inference from a party's assertion of the Fifth Amendment.",
+      "back": "True."
+    },
+    {
+      "id": "evidence-067-for-what-purposes-are-subsequent-remedial-measures-admissible",
+      "subject": "Evidence",
+      "front": "For what purposes are 'Subsequent Remedial Measures' admissible?",
+      "back": "To prove ownership, control, or feasibility of precaution (if disputed) or for impeachment."
+    },
+    {
+      "id": "evidence-068-what-is-required-for-settlement-negotiations-to-be-excluded-under-rule-4",
+      "subject": "Evidence",
+      "front": "What is required for 'Settlement Negotiations' to be excluded under Rule 408?",
+      "back": "There must be an actual dispute as to the validity or amount of the claim."
+    },
+    {
+      "id": "evidence-069-how-do-rule-408-settlement-and-rule-409-medical-expenses-differ-regardin",
+      "subject": "Evidence",
+      "front": "How do Rule 408 (Settlement) and Rule 409 (Medical Expenses) differ regarding factual admissions?",
+      "back": "Rule 408 excludes the whole negotiation; Rule 409 excludes the offer but not accompanying admissions of fact."
+    },
+    {
+      "id": "evidence-070-under-the-rape-shield-rule-rule-412-when-is-an-alleged-victim-s-sexual-b",
+      "subject": "Evidence",
+      "front": "Under the 'Rape Shield Rule' (Rule 412), when is an alleged victim's sexual behavior admissible in a civil case?",
+      "back": "When its probative value substantially outweighs the danger of harm to the victim or unfair prejudice."
+    },
+    {
+      "id": "evidence-071-what-is-the-special-propensity-rule-for-criminal-defendants-in-sexual-as",
+      "subject": "Evidence",
+      "front": "What is the special propensity rule for criminal defendants in sexual assault cases under Rules 413-415?",
+      "back": "Evidence of the defendant's other sexual assaults is admissible for any relevant purpose, including propensity."
+    },
+    {
+      "id": "evidence-072-what-are-the-three-components-of-the-definition-of-hearsay",
+      "subject": "Evidence",
+      "front": "What are the three components of the definition of hearsay?",
+      "back": "An out-of-court statement, made by a declarant, offered for the truth of the matter asserted."
+    },
+    {
+      "id": "evidence-073-can-a-machine-like-a-radar-gun-be-a-declarant-for-hearsay-purposes",
+      "subject": "Evidence",
+      "front": "Can a machine (like a radar gun) be a 'declarant' for hearsay purposes?",
+      "back": "No, a declarant must be a person."
+    },
+    {
+      "id": "evidence-074-what-is-a-verbal-act-or-legally-operative-language-in-hearsay-analysis",
+      "subject": "Evidence",
+      "front": "What is a 'Verbal Act' (or legally operative language) in hearsay analysis?",
+      "back": "Words that have independent legal significance, such as contract offer and acceptance."
+    },
+    {
+      "id": "evidence-075-why-is-a-statement-offered-to-show-effect-on-the-listener-not-hearsay",
+      "subject": "Evidence",
+      "front": "Why is a statement offered to show 'Effect on the Listener' not hearsay?",
+      "back": "It is not offered to prove the truth of the statement, but to show why the listener acted as they did."
+    },
+    {
+      "id": "evidence-076-when-is-a-prior-identification-admissible-as-non-hearsay",
+      "subject": "Evidence",
+      "front": "When is a 'Prior Identification' admissible as non-hearsay?",
+      "back": "When the declarant testifies and is subject to cross-examination about the identification."
+    },
+    {
+      "id": "evidence-077-what-are-the-requirements-for-an-opposing-party-statement-to-be-admitted",
+      "subject": "Evidence",
+      "front": "What are the requirements for an 'Opposing Party Statement' to be admitted as non-hearsay?",
+      "back": "It must be a statement made by a party (or representative) and offered against that party."
+    },
+    {
+      "id": "evidence-078-define-adoptive-admission-in-the-context-of-hearsay",
+      "subject": "Evidence",
+      "front": "Define 'Adoptive Admission' in the context of hearsay.",
+      "back": "A statement made by another person that a party manifests adoption of through words, conduct, or silence."
+    },
+    {
+      "id": "evidence-079-when-is-an-agent-s-statement-admissible-against-their-principal-as-a-non",
+      "subject": "Evidence",
+      "front": "When is an agent's statement admissible against their principal as a non-hearsay admission?",
+      "back": "When made during the relationship and concerning a matter within the scope of the agency."
+    },
+    {
+      "id": "evidence-080-what-three-things-must-be-shown-to-admit-a-co-conspirator-statement-agai",
+      "subject": "Evidence",
+      "front": "What three things must be shown to admit a 'Co-Conspirator Statement' against a defendant?",
+      "back": "The statement was made by a co-conspirator, during the conspiracy, and in furtherance of the conspiracy."
+    },
+    {
+      "id": "evidence-081-list-three-ways-a-declarant-can-be-deemed-unavailable-under-rule-804",
+      "subject": "Evidence",
+      "front": "List three ways a declarant can be deemed 'unavailable' under Rule 804.",
+      "back": "Privilege, refusal to testify, lack of memory, death/illness, or absence despite reasonable effort."
+    },
+    {
+      "id": "evidence-082-what-is-the-hearsay-exception-for-former-testimony",
+      "subject": "Evidence",
+      "front": "What is the hearsay exception for 'Former Testimony'?",
+      "back": "Testimony from a previous hearing if the declarant is unavailable and the opponent had a similar motive to cross-examine."
+    },
+    {
+      "id": "evidence-083-in-which-cases-is-the-dying-declaration-hearsay-exception-applicable",
+      "subject": "Evidence",
+      "front": "In which cases is the 'Dying Declaration' hearsay exception applicable?",
+      "back": "Homicide prosecutions and all civil cases."
+    },
+    {
+      "id": "evidence-084-what-is-required-for-a-statement-against-interest-made-by-an-unavailable",
+      "subject": "Evidence",
+      "front": "What is required for a 'Statement Against Interest' made by an unavailable declarant to be admissible in a criminal case?",
+      "back": "Corroborating circumstances that clearly indicate the trustworthiness of the statement."
+    },
+    {
+      "id": "evidence-085-what-is-the-forfeiture-by-wrongdoing-exception-to-the-hearsay-rule",
+      "subject": "Evidence",
+      "front": "What is the 'Forfeiture by Wrongdoing' exception to the hearsay rule?",
+      "back": "Admitting statements of a witness whom the party intentionally made unavailable to prevent their testimony."
+    },
+    {
+      "id": "evidence-086-distinguish-present-sense-impression-from-excited-utterance-regarding-th",
+      "subject": "Evidence",
+      "front": "Distinguish 'Present Sense Impression' from 'Excited Utterance' regarding the required event.",
+      "back": "Present sense impression applies to any event; excited utterance requires a startling event."
+    },
+    {
+      "id": "evidence-087-what-is-the-hillmon-doctrine-regarding-the-then-existing-state-of-mind-e",
+      "subject": "Evidence",
+      "front": "What is the 'Hillmon' doctrine regarding the 'Then-Existing State of Mind' exception?",
+      "back": "A declarant's statement of intent can be used to prove that they acted in conformity with that intent."
+    },
+    {
+      "id": "evidence-088-can-a-statement-of-memory-e-g-i-remember-seeing-him-be-admitted-under-th",
+      "subject": "Evidence",
+      "front": "Can a statement of memory (e.g., 'I remember seeing him') be admitted under the 'State of Mind' exception?",
+      "back": "No, memory or belief cannot be used to prove the fact remembered, except in will-related cases."
+    },
+    {
+      "id": "evidence-089-what-are-the-requirements-for-the-medical-diagnosis-or-treatment-hearsay",
+      "subject": "Evidence",
+      "front": "What are the requirements for the 'Medical Diagnosis or Treatment' hearsay exception?",
+      "back": "Statement made for medical purpose, describing history or symptoms, and pertinent to treatment."
+    },
+    {
+      "id": "evidence-090-what-is-the-business-records-exception-rule-803-6",
+      "subject": "Evidence",
+      "front": "What is the 'Business Records' exception (Rule 803(6))?",
+      "back": "Records of regularly conducted activity, made at/near the time by someone with knowledge, as a regular practice."
+    },
+    {
+      "id": "evidence-091-what-is-the-public-records-exception-and-what-is-its-main-limitation-in-",
+      "subject": "Evidence",
+      "front": "What is the 'Public Records' exception, and what is its main limitation in criminal cases?",
+      "back": "Admitting official office activities/findings; law enforcement observations are generally excluded when offered by the prosecution."
+    },
+    {
+      "id": "evidence-092-when-is-a-learned-treatise-admissible-and-how-is-it-presented-to-the-jur",
+      "subject": "Evidence",
+      "front": "When is a 'Learned Treatise' admissible, and how is it presented to the jury?",
+      "back": "When relied on by an expert; it is read into evidence but the publication itself is not an exhibit."
+    },
+    {
+      "id": "evidence-093-what-is-the-residual-exception-to-hearsay",
+      "subject": "Evidence",
+      "front": "What is the 'Residual Exception' to hearsay?",
+      "back": "A catch-all for trustworthy and necessary statements not covered by specific exceptions, requiring notice."
+    },
+    {
+      "id": "evidence-094-what-does-the-confrontation-clause-generally-prohibit-in-criminal-cases",
+      "subject": "Evidence",
+      "front": "What does the 'Confrontation Clause' generally prohibit in criminal cases?",
+      "back": "The use of testimonial hearsay against a defendant unless the declarant is unavailable and was previously cross-examined."
+    },
+    {
+      "id": "evidence-095-what-makes-a-statement-testimonial-under-the-confrontation-clause",
+      "subject": "Evidence",
+      "front": "What makes a statement 'testimonial' under the Confrontation Clause?",
+      "back": "If its primary purpose was to establish past facts for a criminal prosecution (e.g., police interrogation)."
+    },
+    {
+      "id": "evidence-096-are-statements-made-during-an-ongoing-emergency-generally-testimonial-or",
+      "subject": "Evidence",
+      "front": "Are statements made during an 'Ongoing Emergency' generally testimonial or nontestimonial?",
+      "back": "Nontestimonial."
+    },
+    {
+      "id": "evidence-097-can-the-prosecution-use-a-substitute-expert-to-relay-the-findings-of-an-",
+      "subject": "Evidence",
+      "front": "Can the prosecution use a substitute expert to relay the findings of an absent forensic analyst?",
+      "back": "Generally no, as it violates the defendant's right to confront the actual analyst who made the testimonial assertions."
+    },
+    {
+      "id": "evidence-098-what-is-the-hearsay-within-hearsay-rule",
+      "subject": "Evidence",
+      "front": "What is the 'Hearsay within Hearsay' rule?",
+      "back": "Each layer of hearsay must independently meet a hearsay exception or non-hearsay definition to be admissible."
+    },
+    {
+      "id": "evidence-099-in-a-diversity-case-which-law-governs-the-effect-of-a-presumption",
+      "subject": "Evidence",
+      "front": "In a diversity case, which law governs the effect of a presumption?",
+      "back": "State law governs the effect of a presumption if state law provides the rule of decision."
+    },
+    {
+      "id": "evidence-100-how-does-an-offer-of-proof-function-when-a-witness-s-testimony-is-barred",
+      "subject": "Evidence",
+      "front": "How does an 'offer of proof' function when a witness's testimony is barred?",
+      "back": "Counsel states on the record what the testimony would have been and why it was relevant/admissible."
+    },
+    {
+      "id": "evidence-101-what-is-the-bursting-bubble-approach-to-presumitions-in-civil-cases",
+      "subject": "Evidence",
+      "front": "What is the 'Bursting Bubble' approach to presumitions in civil cases?",
+      "back": "A presumption disappears once the opponent produces sufficient evidence to rebut the presumed fact."
+    }
+  ]
+}
