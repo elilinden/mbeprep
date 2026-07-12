@@ -1,0 +1,517 @@
+{
+  "id": "criminal-procedure",
+  "title": "Criminal Procedure",
+  "subject": "Criminal Procedure",
+  "cards": [
+    {
+      "id": "criminal-procedure-001-what-are-the-five-steps-of-the-criminal-procedure-memory-line-used-to-an",
+      "subject": "Criminal Procedure",
+      "front": "What are the five steps of the Criminal Procedure 'Memory line' used to analyze every question?",
+      "back": "Right, attachment, violation, remedy, exception."
+    },
+    {
+      "id": "criminal-procedure-002-what-four-elements-are-required-for-a-constitutionally-valid-warrant",
+      "subject": "Criminal Procedure",
+      "front": "What four elements are required for a constitutionally valid warrant?",
+      "back": "A neutral/detached magistrate, probable cause, oath/affirmation, and particularity."
+    },
+    {
+      "id": "criminal-procedure-003-fourth-amendment-rights-are-considered-meaning-a-defendant-can-only-chal",
+      "subject": "Criminal Procedure",
+      "front": "Fourth Amendment rights are considered _____, meaning a defendant can only challenge conduct that violates their own rights.",
+      "back": "personal"
+    },
+    {
+      "id": "criminal-procedure-004-a-defendant-has-standing-to-challenge-a-search-if-they-had-a-in-the-plac",
+      "subject": "Criminal Procedure",
+      "front": "A defendant has standing to challenge a search if they had a _____ in the place searched or item seized.",
+      "back": "reasonable expectation of privacy"
+    },
+    {
+      "id": "criminal-procedure-005-under-what-condition-does-a-private-search-trigger-the-fourth-amendment",
+      "subject": "Criminal Procedure",
+      "front": "Under what condition does a private search trigger the Fourth Amendment?",
+      "back": "When the private person acts as an instrument or agent of the government."
+    },
+    {
+      "id": "criminal-procedure-006-the-exclusionary-rule-generally-does-not-apply-to-which-type-of-grand-ju",
+      "subject": "Criminal Procedure",
+      "front": "The exclusionary rule generally does not apply to which type of grand jury proceeding?",
+      "back": "Any grand jury proceeding."
+    },
+    {
+      "id": "criminal-procedure-007-may-voluntary-statements-obtained-in-violation-of-miranda-be-used-for-an",
+      "subject": "Criminal Procedure",
+      "front": "May voluntary statements obtained in violation of Miranda be used for any purpose at trial?",
+      "back": "Yes, they may be used to impeach the defendant."
+    },
+    {
+      "id": "criminal-procedure-008-when-does-a-seizure-of-a-person-occur-if-no-physical-force-is-applied",
+      "subject": "Criminal Procedure",
+      "front": "When does a 'seizure' of a person occur if no physical force is applied?",
+      "back": "When the person submits to a show of police authority."
+    },
+    {
+      "id": "criminal-procedure-009-is-accidental-government-force-such-as-a-negligent-collision-considered-",
+      "subject": "Criminal Procedure",
+      "front": "Is accidental government force, such as a negligent collision, considered a Fourth Amendment seizure?",
+      "back": "No, the officer must intentionally use force or authority to restrain."
+    },
+    {
+      "id": "criminal-procedure-010-what-does-an-arrest-warrant-permit-regarding-the-arrestee-s-own-residenc",
+      "subject": "Criminal Procedure",
+      "front": "What does an arrest warrant permit regarding the arrestee's own residence?",
+      "back": "Entry into the home when officers reasonably believe the arrestee is inside."
+    },
+    {
+      "id": "criminal-procedure-011-to-enter-a-third-party-s-home-to-execute-an-arrest-warrant-what-must-pol",
+      "subject": "Criminal Procedure",
+      "front": "To enter a third party’s home to execute an arrest warrant, what must police generally obtain?",
+      "back": "A search warrant for the third party's home."
+    },
+    {
+      "id": "criminal-procedure-012-when-may-police-make-a-warrantless-arrest-in-a-public-place",
+      "subject": "Criminal Procedure",
+      "front": "When may police make a warrantless arrest in a public place?",
+      "back": "When they have probable cause that a crime occurred."
+    },
+    {
+      "id": "criminal-procedure-013-under-the-fourth-amendment-may-a-person-be-arrested-for-a-fine-only-misd",
+      "subject": "Criminal Procedure",
+      "front": "Under the Fourth Amendment, may a person be arrested for a 'fine-only' misdemeanor offense?",
+      "back": "Yes, provided there is probable cause and applicable arrest authority."
+    },
+    {
+      "id": "criminal-procedure-014-does-an-illegal-arrest-automatically-prevent-the-prosecution-of-the-defe",
+      "subject": "Criminal Procedure",
+      "front": "Does an illegal arrest automatically prevent the prosecution of the defendant?",
+      "back": "No, it does not prevent prosecution, though evidence obtained from it may be suppressed."
+    },
+    {
+      "id": "criminal-procedure-015-a-search-occurs-when-the-government-violates-a-reasonable-expectation-of",
+      "subject": "Criminal Procedure",
+      "front": "A search occurs when the government violates a reasonable expectation of privacy or performs a _____ on a protected area to obtain information.",
+      "back": "physical intrusion (trespass)"
+    },
+    {
+      "id": "criminal-procedure-016-which-four-groups-generally-possess-the-highest-fourth-amendment-protect",
+      "subject": "Criminal Procedure",
+      "front": "Which four groups generally possess the highest Fourth Amendment protection in a home?",
+      "back": "Owners, tenants, dormitory occupants, and overnight guests."
+    },
+    {
+      "id": "criminal-procedure-017-what-is-the-term-for-the-area-immediately-associated-with-domestic-life-",
+      "subject": "Criminal Procedure",
+      "front": "What is the term for the area immediately associated with domestic life surrounding a home?",
+      "back": "Curtilage"
+    },
+    {
+      "id": "criminal-procedure-018-the-four-factors-for-curtilage-are-proximity-enclosure-domestic-use-and",
+      "subject": "Criminal Procedure",
+      "front": "The four factors for curtilage are proximity, enclosure, domestic use, and _____.",
+      "back": "steps taken to shield the area from observation"
+    },
+    {
+      "id": "criminal-procedure-019-does-the-fourth-amendment-protect-open-fields-if-they-are-hidden-from-pu",
+      "subject": "Criminal Procedure",
+      "front": "Does the Fourth Amendment protect 'open fields' if they are hidden from public view and fenced?",
+      "back": "No, land outside the curtilage is not protected under the open-fields doctrine."
+    },
+    {
+      "id": "criminal-procedure-020-when-does-a-registered-hotel-guest-s-reasonable-expectation-of-privacy-i",
+      "subject": "Criminal Procedure",
+      "front": "When does a registered hotel guest's reasonable expectation of privacy in their room generally end?",
+      "back": "After checkout or lawful eviction."
+    },
+    {
+      "id": "criminal-procedure-021-which-specific-record-type-now-generally-requires-a-warrant-despite-the-",
+      "subject": "Criminal Procedure",
+      "front": "Which specific record type now generally requires a warrant despite the third-party doctrine?",
+      "back": "Extensive historical cell-site location information."
+    },
+    {
+      "id": "criminal-procedure-022-a-vehicle-stop-constitutes-a-seizure-of-which-occupants",
+      "subject": "Criminal Procedure",
+      "front": "A vehicle stop constitutes a seizure of which occupants?",
+      "back": "The driver and every passenger."
+    },
+    {
+      "id": "criminal-procedure-023-a-vehicle-checkpoint-is-generally-invalid-if-its-primary-purpose-is",
+      "subject": "Criminal Procedure",
+      "front": "A vehicle checkpoint is generally invalid if its primary purpose is _____.",
+      "back": "ordinary drug interdiction"
+    },
+    {
+      "id": "criminal-procedure-024-is-a-warrant-required-to-perform-a-cheek-swab-for-dna-as-a-routine-booki",
+      "subject": "Criminal Procedure",
+      "front": "Is a warrant required to perform a cheek swab for DNA as a routine booking procedure for a serious offense?",
+      "back": "No, it is considered a reasonable routine booking procedure after a lawful arrest."
+    },
+    {
+      "id": "criminal-procedure-025-under-the-fourth-amendment-a-blood-draw-for-a-drunk-driving-investigatio",
+      "subject": "Criminal Procedure",
+      "front": "Under the Fourth Amendment, a blood draw for a drunk-driving investigation generally requires a _____.",
+      "back": "warrant"
+    },
+    {
+      "id": "criminal-procedure-026-does-the-use-of-thermal-imaging-technology-to-learn-details-inside-a-hom",
+      "subject": "Criminal Procedure",
+      "front": "Does the use of thermal imaging technology to learn details inside a home constitute a search?",
+      "back": "Yes, if the technology is not in general public use."
+    },
+    {
+      "id": "criminal-procedure-027-when-is-a-dog-sniff-considered-a-search-under-the-fourth-amendment",
+      "subject": "Criminal Procedure",
+      "front": "When is a dog sniff considered a search under the Fourth Amendment?",
+      "back": "When a drug-sniffing dog is brought onto a home's porch or curtilage to investigate the home."
+    },
+    {
+      "id": "criminal-procedure-028-what-standard-must-a-defendant-meet-to-succeed-in-a-franks-challenge-aga",
+      "subject": "Criminal Procedure",
+      "front": "What standard must a defendant meet to succeed in a 'Franks challenge' against a warrant affidavit?",
+      "back": "Show a knowing, intentional, or reckless falsehood/omission necessary to probable cause."
+    },
+    {
+      "id": "criminal-procedure-029-does-a-violation-of-the-knock-and-announce-rule-require-the-suppression-",
+      "subject": "Criminal Procedure",
+      "front": "Does a violation of the 'knock and announce' rule require the suppression of evidence found in an otherwise valid search?",
+      "back": "No, suppression is generally not required for knock-and-announce violations."
+    },
+    {
+      "id": "criminal-procedure-030-what-is-the-escapist-acronym-for-warrant-exceptions",
+      "subject": "Criminal Procedure",
+      "front": "What is the 'ESCAPIST' acronym for warrant exceptions?",
+      "back": "Exigent circumstances, Search incident to arrest, Consent, Automobile, Plain view, Inventory/Administrative, Stop and frisk, Temporary special-needs/Border."
+    },
+    {
+      "id": "criminal-procedure-031-what-is-the-geographic-scope-of-a-search-incident-to-a-lawful-custodial-",
+      "subject": "Criminal Procedure",
+      "front": "What is the geographic scope of a search incident to a lawful custodial arrest?",
+      "back": "The arrestee's person, clothing, immediate containers, and the area within their immediate control."
+    },
+    {
+      "id": "criminal-procedure-032-is-a-warrant-required-to-search-the-digital-contents-of-a-cell-phone-sei",
+      "subject": "Criminal Procedure",
+      "front": "Is a warrant required to search the digital contents of a cell phone seized during an arrest?",
+      "back": "Yes, police generally need a warrant to search a phone's digital contents."
+    },
+    {
+      "id": "criminal-procedure-033-under-the-chimel-rule-police-may-search-the-area-from-which-an-arrestee-",
+      "subject": "Criminal Procedure",
+      "front": "Under the 'Chimel' rule, police may search the area from which an arrestee might obtain a weapon or _____.",
+      "back": "destructible evidence"
+    },
+    {
+      "id": "criminal-procedure-034-what-are-the-two-conditions-under-gant-that-allow-a-vehicle-search-incid",
+      "subject": "Criminal Procedure",
+      "front": "What are the two conditions under Gant that allow a vehicle search incident to arrest?",
+      "back": "The arrestee can access the compartment or it is reasonable to believe it contains evidence of the arrest offense."
+    },
+    {
+      "id": "criminal-procedure-035-the-hot-pursuit-exception-generally-permits-warrantless-entry-when-chasi",
+      "subject": "Criminal Procedure",
+      "front": "The 'hot pursuit' exception generally permits warrantless entry when chasing a fleeing _____.",
+      "back": "felon"
+    },
+    {
+      "id": "criminal-procedure-036-what-level-of-justification-is-required-for-a-terry-stop",
+      "subject": "Criminal Procedure",
+      "front": "What level of justification is required for a Terry stop?",
+      "back": "Reasonable suspicion that criminal activity is occurring or has occurred."
+    },
+    {
+      "id": "criminal-procedure-037-what-is-the-specific-purpose-of-a-terry-frisk",
+      "subject": "Criminal Procedure",
+      "front": "What is the specific purpose of a Terry frisk?",
+      "back": "A limited pat-down for weapons based on reasonable suspicion that the person is armed and dangerous."
+    },
+    {
+      "id": "criminal-procedure-038-under-the-plain-feel-doctrine-when-can-an-officer-seize-contraband-durin",
+      "subject": "Criminal Procedure",
+      "front": "Under the 'plain feel' doctrine, when can an officer seize contraband during a frisk?",
+      "back": "When its identity is immediately apparent through touch without manipulation."
+    },
+    {
+      "id": "criminal-procedure-039-if-police-have-probable-cause-that-a-car-contains-contraband-where-can-t",
+      "subject": "Criminal Procedure",
+      "front": "If police have probable cause that a car contains contraband, where can they search under the automobile exception?",
+      "back": "Every location and container in the vehicle capable of holding the object sought."
+    },
+    {
+      "id": "criminal-procedure-040-does-the-automobile-exception-allow-officers-to-enter-a-home-s-curtilage",
+      "subject": "Criminal Procedure",
+      "front": "Does the automobile exception allow officers to enter a home's curtilage to reach a vehicle?",
+      "back": "No, police need another lawful basis for the entry into the curtilage."
+    },
+    {
+      "id": "criminal-procedure-041-what-are-the-three-requirements-for-a-valid-plain-view-seizure",
+      "subject": "Criminal Procedure",
+      "front": "What are the three requirements for a valid 'plain view' seizure?",
+      "back": "Lawful presence, lawful access, and immediately apparent incriminating nature."
+    },
+    {
+      "id": "criminal-procedure-042-what-is-the-result-if-one-present-occupant-objects-to-a-search-while-ano",
+      "subject": "Criminal Procedure",
+      "front": "What is the result if one present occupant objects to a search while another consents?",
+      "back": "The objection generally prevails, and police may not rely on the other's consent."
+    },
+    {
+      "id": "criminal-procedure-043-standardized-police-procedures-are-required-for-which-type-of-warrantles",
+      "subject": "Criminal Procedure",
+      "front": "Standardized police procedures are required for which type of warrantless search of impounded property?",
+      "back": "Inventory search."
+    },
+    {
+      "id": "criminal-procedure-044-which-doctrine-allows-the-admission-of-illegally-obtained-evidence-if-it",
+      "subject": "Criminal Procedure",
+      "front": "Which doctrine allows the admission of illegally obtained evidence if it would have been found through lawful means anyway?",
+      "back": "Inevitable discovery"
+    },
+    {
+      "id": "criminal-procedure-045-what-three-factors-determine-if-evidence-is-attenuated-from-an-illegal-p",
+      "subject": "Criminal Procedure",
+      "front": "What three factors determine if evidence is 'attenuated' from an illegal police action?",
+      "back": "Time elapsed, intervening circumstances, and the purpose/flagrancy of police misconduct."
+    },
+    {
+      "id": "criminal-procedure-046-the-fifth-amendment-privilege-against-self-incrimination-protects-agains",
+      "subject": "Criminal Procedure",
+      "front": "The Fifth Amendment privilege against self-incrimination protects against _____ testimonial evidence.",
+      "back": "compelled"
+    },
+    {
+      "id": "criminal-procedure-047-does-the-fifth-amendment-protect-physical-evidence-like-fingerprints-blo",
+      "subject": "Criminal Procedure",
+      "front": "Does the Fifth Amendment protect physical evidence like fingerprints, blood samples, or voice exemplars?",
+      "back": "No, it protects only testimonial evidence."
+    },
+    {
+      "id": "criminal-procedure-048-what-must-the-government-grant-to-a-witness-to-compel-their-testimony-ov",
+      "subject": "Criminal Procedure",
+      "front": "What must the government grant to a witness to compel their testimony over a Fifth Amendment claim?",
+      "back": "Use and derivative-use immunity."
+    },
+    {
+      "id": "criminal-procedure-049-miranda-warnings-are-required-when-a-suspect-is-subject-to-by-a-known-go",
+      "subject": "Criminal Procedure",
+      "front": "Miranda warnings are required when a suspect is subject to _____ by a known government agent.",
+      "back": "custodial interrogation"
+    },
+    {
+      "id": "criminal-procedure-050-what-is-the-objective-test-for-miranda-custody",
+      "subject": "Criminal Procedure",
+      "front": "What is the objective test for Miranda 'custody'?",
+      "back": "Whether a reasonable person would feel restrained to the degree associated with formal arrest."
+    },
+    {
+      "id": "criminal-procedure-051-miranda-interrogation-includes-express-questioning-or-any-conduct-police",
+      "subject": "Criminal Procedure",
+      "front": "Miranda interrogation includes express questioning or any conduct police should know is reasonably likely to elicit an _____.",
+      "back": "incriminating response"
+    },
+    {
+      "id": "criminal-procedure-052-under-what-exception-may-police-ask-unwarned-questions-based-on-an-immed",
+      "subject": "Criminal Procedure",
+      "front": "Under what exception may police ask unwarned questions based on an immediate threat to safety?",
+      "back": "The public-safety exception."
+    },
+    {
+      "id": "criminal-procedure-053-to-invoke-the-miranda-right-to-counsel-the-suspect-s-request-must-be",
+      "subject": "Criminal Procedure",
+      "front": "To invoke the Miranda right to counsel, the suspect's request must be _____.",
+      "back": "unambiguous"
+    },
+    {
+      "id": "criminal-procedure-054-under-the-edwards-rule-once-a-suspect-invokes-the-right-to-counsel-polic",
+      "subject": "Criminal Procedure",
+      "front": "Under the 'Edwards rule', once a suspect invokes the right to counsel, police cannot reinitiate interrogation unless counsel is present or there is a break in custody of at least _____.",
+      "back": "14 days"
+    },
+    {
+      "id": "criminal-procedure-055-when-does-the-sixth-amendment-right-to-counsel-formally-attach",
+      "subject": "Criminal Procedure",
+      "front": "When does the Sixth Amendment right to counsel formally attach?",
+      "back": "When formal adversarial proceedings begin (e.g., indictment, arraignment)."
+    },
+    {
+      "id": "criminal-procedure-056-how-is-the-sixth-amendment-right-to-counsel-different-from-the-miranda-r",
+      "subject": "Criminal Procedure",
+      "front": "How is the Sixth Amendment right to counsel different from the Miranda right regarding the scope of crimes?",
+      "back": "The Sixth Amendment is offense-specific; Miranda is not."
+    },
+    {
+      "id": "criminal-procedure-057-what-two-elements-must-a-defendant-prove-for-an-ineffective-assistance-o",
+      "subject": "Criminal Procedure",
+      "front": "What two elements must a defendant prove for an ineffective assistance of counsel claim under Strickland?",
+      "back": "Objectively deficient performance and prejudice (reasonable probability of a different outcome)."
+    },
+    {
+      "id": "criminal-procedure-058-does-a-defendant-have-a-sixth-amendment-right-to-counsel-during-a-preind",
+      "subject": "Criminal Procedure",
+      "front": "Does a defendant have a Sixth Amendment right to counsel during a preindictment lineup?",
+      "back": "No, the right only attaches to postindictment corporeal identifications."
+    },
+    {
+      "id": "criminal-procedure-059-is-there-a-right-to-counsel-at-a-photo-array-procedure",
+      "subject": "Criminal Procedure",
+      "front": "Is there a right to counsel at a photo array procedure?",
+      "back": "No, there is no Sixth Amendment right to counsel at photo arrays, whether before or after indictment."
+    },
+    {
+      "id": "criminal-procedure-060-under-the-brady-rule-the-prosecution-must-disclose-evidence-favorable-to",
+      "subject": "Criminal Procedure",
+      "front": "Under the 'Brady' rule, the prosecution must disclose _____ evidence favorable to the defense.",
+      "back": "material"
+    },
+    {
+      "id": "criminal-procedure-061-at-what-point-does-a-criminal-defendant-s-right-to-a-jury-trial-generall",
+      "subject": "Criminal Procedure",
+      "front": "At what point does a criminal defendant's right to a jury trial generally attach?",
+      "back": "When the authorized imprisonment for the offense exceeds six months."
+    },
+    {
+      "id": "criminal-procedure-062-what-is-the-minimum-number-of-members-required-for-a-criminal-jury",
+      "subject": "Criminal Procedure",
+      "front": "What is the minimum number of members required for a criminal jury?",
+      "back": "Six members."
+    },
+    {
+      "id": "criminal-procedure-063-the-fair-cross-section-requirement-applies-to-the-jury-rather-than-the-f",
+      "subject": "Criminal Procedure",
+      "front": "The 'fair cross section' requirement applies to the jury _____ rather than the final seated jury.",
+      "back": "venire"
+    },
+    {
+      "id": "criminal-procedure-064-what-is-a-batson-challenge",
+      "subject": "Criminal Procedure",
+      "front": "What is a 'Batson' challenge?",
+      "back": "A challenge to a peremptory strike that is allegedly based on race or sex."
+    },
+    {
+      "id": "criminal-procedure-065-which-four-factors-are-evaluated-under-larp-for-a-sixth-amendment-speedy",
+      "subject": "Criminal Procedure",
+      "front": "Which four factors are evaluated under 'LARP' for a Sixth Amendment speedy-trial claim?",
+      "back": "Length of delay, Assigned reason, Right asserted, and Prejudice."
+    },
+    {
+      "id": "criminal-procedure-066-under-the-confrontation-clause-testimonial-hearsay-is-inadmissible-unles",
+      "subject": "Criminal Procedure",
+      "front": "Under the Confrontation Clause, testimonial hearsay is inadmissible unless the declarant is unavailable and the defendant had a _____.",
+      "back": "prior opportunity to cross-examine"
+    },
+    {
+      "id": "criminal-procedure-067-when-is-a-statement-to-police-considered-nontestimonial-under-the-confro",
+      "subject": "Criminal Procedure",
+      "front": "When is a statement to police considered 'nontestimonial' under the Confrontation Clause?",
+      "back": "When it is made primarily to help resolve an ongoing emergency."
+    },
+    {
+      "id": "criminal-procedure-068-what-is-the-bruton-rule-regarding-joint-trials",
+      "subject": "Criminal Procedure",
+      "front": "What is the 'Bruton rule' regarding joint trials?",
+      "back": "Admitting a nontestifying codefendant's confession that directly incriminates the defendant violates the Confrontation Clause."
+    },
+    {
+      "id": "criminal-procedure-069-except-for-prior-convictions-any-fact-that-increases-the-statutory-maxim",
+      "subject": "Criminal Procedure",
+      "front": "Except for prior convictions, any fact that increases the statutory maximum punishment must be submitted to a _____ and proved _____.",
+      "back": "jury; beyond a reasonable doubt"
+    },
+    {
+      "id": "criminal-procedure-070-which-three-protections-are-provided-by-the-double-jeopardy-clause",
+      "subject": "Criminal Procedure",
+      "front": "Which three protections are provided by the Double Jeopardy Clause?",
+      "back": "Protection against retrial after acquittal, retrial after conviction, and multiple punishments for the same offense."
+    },
+    {
+      "id": "criminal-procedure-071-what-is-the-blockburger-test-for-determining-if-two-offenses-are-the-sam",
+      "subject": "Criminal Procedure",
+      "front": "What is the 'Blockburger test' for determining if two offenses are the same for double jeopardy?",
+      "back": "Two offenses are different only if each requires proof of an element the other does not."
+    },
+    {
+      "id": "criminal-procedure-072-when-does-jeopardy-attach-in-a-bench-trial",
+      "subject": "Criminal Procedure",
+      "front": "When does jeopardy attach in a bench trial?",
+      "back": "When the first witness is sworn."
+    },
+    {
+      "id": "criminal-procedure-073-does-an-acquittal-based-on-a-legal-error-still-bar-retrial-under-double-",
+      "subject": "Criminal Procedure",
+      "front": "Does an acquittal based on a legal error still bar retrial under double jeopardy?",
+      "back": "Yes, a final acquittal bars retrial regardless of error."
+    },
+    {
+      "id": "criminal-procedure-074-under-the-dual-sovereignty-doctrine-can-a-state-and-the-federal-governme",
+      "subject": "Criminal Procedure",
+      "front": "Under the 'dual sovereignty' doctrine, can a state and the federal government both prosecute a defendant for the same conduct?",
+      "back": "Yes, because they are different sovereigns."
+    },
+    {
+      "id": "criminal-procedure-075-when-is-retrial-permitted-after-a-mistrial",
+      "subject": "Criminal Procedure",
+      "front": "When is retrial permitted after a mistrial?",
+      "back": "When the defendant consents or when there is 'manifest necessity' (e.g., a hung jury)."
+    },
+    {
+      "id": "criminal-procedure-076-can-a-defendant-be-retried-after-their-conviction-is-reversed-on-appeal-",
+      "subject": "Criminal Procedure",
+      "front": "Can a defendant be retried after their conviction is reversed on appeal due to trial error?",
+      "back": "Yes, retrial is generally permitted for trial error."
+    },
+    {
+      "id": "criminal-procedure-077-is-retrial-permitted-if-a-conviction-is-reversed-because-of-legally-insu",
+      "subject": "Criminal Procedure",
+      "front": "Is retrial permitted if a conviction is reversed because of legally insufficient evidence?",
+      "back": "No, reversal for insufficiency is equivalent to an acquittal and bars retrial."
+    },
+    {
+      "id": "criminal-procedure-078-to-obtain-federal-habeas-relief-a-state-prisoner-must-generally-all-stat",
+      "subject": "Criminal Procedure",
+      "front": "To obtain federal habeas relief, a state prisoner must generally _____ all state remedies first.",
+      "back": "exhaust"
+    },
+    {
+      "id": "criminal-procedure-079-what-is-the-plain-error-standard-for-unpreserved-trial-errors",
+      "subject": "Criminal Procedure",
+      "front": "What is the 'plain error' standard for unpreserved trial errors?",
+      "back": "The error must be plain, affect substantial rights, and seriously affect the fairness/integrity of the proceedings."
+    },
+    {
+      "id": "criminal-procedure-080-does-a-school-official-need-probable-cause-to-search-a-student",
+      "subject": "Criminal Procedure",
+      "front": "Does a school official need probable cause to search a student?",
+      "back": "No, they only need reasonable suspicion and a search that is not excessively intrusive."
+    },
+    {
+      "id": "criminal-procedure-081-what-level-of-suspicion-is-required-for-routine-searches-at-an-internati",
+      "subject": "Criminal Procedure",
+      "front": "What level of suspicion is required for routine searches at an international border?",
+      "back": "None; no warrant or individualized suspicion is required for routine border searches."
+    },
+    {
+      "id": "criminal-procedure-082-is-the-fifth-amendment-right-against-self-incrimination-applicable-to-co",
+      "subject": "Criminal Procedure",
+      "front": "Is the Fifth Amendment right against self-incrimination applicable to corporations?",
+      "back": "No, it belongs only to natural persons."
+    },
+    {
+      "id": "criminal-procedure-083-a-defendant-is-considered-incompetent-to-stand-trial-if-they-cannot-unde",
+      "subject": "Criminal Procedure",
+      "front": "A defendant is considered incompetent to stand trial if they cannot understand the proceedings or _____ with counsel.",
+      "back": "consult rationally (or assist in their defense)"
+    },
+    {
+      "id": "criminal-procedure-084-is-a-grand-jury-indictment-constitutionally-required-in-state-criminal-p",
+      "subject": "Criminal Procedure",
+      "front": "Is a grand jury indictment constitutionally required in state criminal prosecutions?",
+      "back": "No, the grand-jury requirement is not incorporated against the states."
+    },
+    {
+      "id": "criminal-procedure-085-a-traffic-stop-is-valid-if-officers-have-an-objective-basis-for-the-stop",
+      "subject": "Criminal Procedure",
+      "front": "A traffic stop is valid if officers have an objective basis for the stop, even if their motive is a _____ investigation of other crimes.",
+      "back": "pretextual"
+    }
+  ]
+}
