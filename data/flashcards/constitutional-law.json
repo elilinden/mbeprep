@@ -1,0 +1,541 @@
+{
+  "id": "constitutional-law",
+  "title": "Constitutional Law",
+  "subject": "Constitutional Law",
+  "cards": [
+    {
+      "id": "constitutional-law-001-what-four-steps-are-usually-required-to-analyze-a-constitutional-law-que",
+      "subject": "Constitutional Law",
+      "front": "What four steps are usually required to analyze a Constitutional Law question on the MBE?",
+      "back": "Identify the actor, determine the source of power or limit, select the review standard, and determine the result."
+    },
+    {
+      "id": "constitutional-law-002-article-iii-limits-federal-court-jurisdiction-to-actual",
+      "subject": "Constitutional Law",
+      "front": "Article III limits federal court jurisdiction to actual _____.",
+      "back": "Cases and controversies"
+    },
+    {
+      "id": "constitutional-law-003-why-are-federal-courts-prohibited-from-issuing-advisory-opinions",
+      "subject": "Constitutional Law",
+      "front": "Why are federal courts prohibited from issuing advisory opinions?",
+      "back": "Because Article III requires an actual case or controversy between adverse parties."
+    },
+    {
+      "id": "constitutional-law-004-under-the-principle-of-judicial-review-which-court-is-the-final-interpre",
+      "subject": "Constitutional Law",
+      "front": "Under the principle of Judicial Review, which court is the final interpreter of federal constitutional law?",
+      "back": "The Supreme Court"
+    },
+    {
+      "id": "constitutional-law-005-in-federal-court-equitable-relief-should-generally-be-no-broader-than-wh",
+      "subject": "Constitutional Law",
+      "front": "In federal court, equitable relief should generally be no broader than what?",
+      "back": "Necessary to provide complete relief to the specific parties before the court."
+    },
+    {
+      "id": "constitutional-law-006-which-amendment-generally-prevents-a-private-party-from-suing-a-state-in",
+      "subject": "Constitutional Law",
+      "front": "Which amendment generally prevents a private party from suing a state in federal court without the state's consent?",
+      "back": "The Eleventh Amendment"
+    },
+    {
+      "id": "constitutional-law-007-does-eleventh-amendment-sovereign-immunity-protect-cities-and-counties-f",
+      "subject": "Constitutional Law",
+      "front": "Does Eleventh Amendment sovereign immunity protect cities and counties from federal lawsuits?",
+      "back": "No, it generally only protects states and state agencies."
+    },
+    {
+      "id": "constitutional-law-008-how-can-a-state-waive-its-sovereign-immunity-from-a-suit-in-state-court-",
+      "subject": "Constitutional Law",
+      "front": "How can a state waive its sovereign immunity from a suit in state court being moved to federal court?",
+      "back": "By voluntarily removing the action from state court to federal court."
+    },
+    {
+      "id": "constitutional-law-009-under-the-doctrine-of-ex-parte-young-what-type-of-relief-can-a-plaintiff",
+      "subject": "Constitutional Law",
+      "front": "Under the doctrine of Ex parte Young, what type of relief can a plaintiff seek against a state officer?",
+      "back": "Prospective injunctive relief to stop the enforcement of an unconstitutional state law."
+    },
+    {
+      "id": "constitutional-law-010-what-is-the-requirement-regarding-the-source-of-payment-for-individual-c",
+      "subject": "Constitutional Law",
+      "front": "What is the requirement regarding the source of payment for individual-capacity damages against a state official?",
+      "back": "The judgment must be payable by the official personally rather than from the state treasury."
+    },
+    {
+      "id": "constitutional-law-011-which-specific-amendment-gives-congress-a-valid-enforcement-power-to-abr",
+      "subject": "Constitutional Law",
+      "front": "Which specific amendment gives Congress a valid enforcement power to abrogate state sovereign immunity?",
+      "back": "Section 5 of the Fourteenth Amendment"
+    },
+    {
+      "id": "constitutional-law-012-what-are-the-three-components-of-article-iii-standing-icr",
+      "subject": "Constitutional Law",
+      "front": "What are the three components of Article III standing (ICR)?",
+      "back": "Injury in fact, Causation, and Redressability."
+    },
+    {
+      "id": "constitutional-law-013-what-three-characteristics-must-an-injury-in-fact-possess-for-standing",
+      "subject": "Constitutional Law",
+      "front": "What three characteristics must an 'injury in fact' possess for standing?",
+      "back": "It must be concrete, particularized, and actual or imminent."
+    },
+    {
+      "id": "constitutional-law-014-when-is-a-threatened-future-injury-sufficient-to-establish-standing",
+      "subject": "Constitutional Law",
+      "front": "When is a threatened future injury sufficient to establish standing?",
+      "back": "When it is certainly impending or presents a substantial risk of harm."
+    },
+    {
+      "id": "constitutional-law-015-why-do-plaintiffs-generally-lack-standing-to-bring-generalized-grievance",
+      "subject": "Constitutional Law",
+      "front": "Why do plaintiffs generally lack standing to bring 'generalized grievances' as concerned citizens?",
+      "back": "Because they must show personal injury beyond a general disagreement with governmental conduct."
+    },
+    {
+      "id": "constitutional-law-016-under-what-narrow-exception-may-a-taxpayer-challenge-a-specific-legislat",
+      "subject": "Constitutional Law",
+      "front": "Under what narrow exception may a taxpayer challenge a specific legislative appropriation?",
+      "back": "When the appropriation is alleged to violate the Establishment Clause."
+    },
+    {
+      "id": "constitutional-law-017-when-can-an-organization-sue-on-behalf-of-its-members",
+      "subject": "Constitutional Law",
+      "front": "When can an organization sue on behalf of its members?",
+      "back": "When members have standing, interests are germane to the purpose, and individual participation is unnecessary."
+    },
+    {
+      "id": "constitutional-law-018-what-is-the-primary-difference-between-a-claim-being-unripe-and-a-claim-",
+      "subject": "Constitutional Law",
+      "front": "What is the primary difference between a claim being 'unripe' and a claim being 'moot'?",
+      "back": "Ripeness concerns a claim brought too early, while mootness concerns a case where a live controversy no longer exists."
+    },
+    {
+      "id": "constitutional-law-019-what-exception-to-mootness-applies-to-short-term-injuries-like-pregnancy",
+      "subject": "Constitutional Law",
+      "front": "What exception to mootness applies to short-term injuries like pregnancy or election disputes?",
+      "back": "Conduct that is capable of repetition yet evading review."
+    },
+    {
+      "id": "constitutional-law-020-a-federal-court-will-decline-to-decide-a-political-question-if-the-const",
+      "subject": "Constitutional Law",
+      "front": "A federal court will decline to decide a 'political question' if the Constitution textually commits the matter to _____.",
+      "back": "Another branch of government"
+    },
+    {
+      "id": "constitutional-law-021-under-pullman-abstention-why-would-a-federal-court-stop-a-case-to-let-a-",
+      "subject": "Constitutional Law",
+      "front": "Under Pullman Abstention, why would a federal court stop a case to let a state court rule first?",
+      "back": "The claim depends on an unsettled question of state law that could avoid the federal constitutional issue."
+    },
+    {
+      "id": "constitutional-law-022-what-does-younger-abstention-prevent-federal-courts-from-doing",
+      "subject": "Constitutional Law",
+      "front": "What does Younger Abstention prevent federal courts from doing?",
+      "back": "Enjoining a pending state criminal prosecution."
+    },
+    {
+      "id": "constitutional-law-023-every-federal-statute-enacted-by-congress-must-rest-on-a-n",
+      "subject": "Constitutional Law",
+      "front": "Every federal statute enacted by Congress must rest on a(n) _____.",
+      "back": "Enumerated power"
+    },
+    {
+      "id": "constitutional-law-024-what-are-the-three-categories-of-activity-congress-may-regulate-under-th",
+      "subject": "Constitutional Law",
+      "front": "What are the three categories of activity Congress may regulate under the Commerce Clause?",
+      "back": "Channels, instrumentalities, and activities with a substantial effect on interstate commerce."
+    },
+    {
+      "id": "constitutional-law-025-when-may-congress-regulate-intrastate-economic-activity-under-the-commer",
+      "subject": "Constitutional Law",
+      "front": "When may Congress regulate 'intrastate economic activity' under the Commerce Clause?",
+      "back": "When the activity, in the aggregate, substantially affects interstate commerce."
+    },
+    {
+      "id": "constitutional-law-026-why-was-the-individual-mandate-in-nfib-v-sebelius-held-invalid-under-the",
+      "subject": "Constitutional Law",
+      "front": "Why was the individual mandate in NFIB v. Sebelius held invalid under the Commerce Clause?",
+      "back": "Because the commerce power allows regulation of existing activity but cannot compel inactive individuals to enter a market."
+    },
+    {
+      "id": "constitutional-law-027-what-are-the-requirements-for-a-federal-tax-to-be-valid",
+      "subject": "Constitutional Law",
+      "front": "What are the requirements for a federal tax to be valid?",
+      "back": "It must raise some revenue, operate as a tax rather than a penalty, and not violate other constitutional provisions."
+    },
+    {
+      "id": "constitutional-law-028-what-is-the-uniformity-requirement-for-indirect-federal-taxes",
+      "subject": "Constitutional Law",
+      "front": "What is the 'uniformity' requirement for indirect federal taxes?",
+      "back": "They must be geographically uniform across the states."
+    },
+    {
+      "id": "constitutional-law-029-what-are-the-five-requirements-for-conditions-attached-to-federal-fundin",
+      "subject": "Constitutional Law",
+      "front": "What are the five requirements for conditions attached to federal funding (the Spending Power)?",
+      "back": "General welfare purpose, unambiguous, related to the program, constitutional, and non-coercive."
+    },
+    {
+      "id": "constitutional-law-030-when-does-a-financial-inducement-in-a-federal-grant-become-unconstitutio",
+      "subject": "Constitutional Law",
+      "front": "When does a financial inducement in a federal grant become unconstitutional coercion?",
+      "back": "When the threatened loss is so large that the state effectively has no genuine choice but to comply."
+    },
+    {
+      "id": "constitutional-law-031-when-may-military-tribunals-not-try-ordinary-u-s-civilians",
+      "subject": "Constitutional Law",
+      "front": "When may military tribunals NOT try ordinary U.S. civilians?",
+      "back": "When Article III courts are open and functioning."
+    },
+    {
+      "id": "constitutional-law-032-under-the-necessary-and-proper-clause-what-must-the-choice-of-means-be-i",
+      "subject": "Constitutional Law",
+      "front": "Under the Necessary and Proper Clause, what must the choice of means be in relation to an enumerated power?",
+      "back": "The means must be rational to carry out the enumerated power."
+    },
+    {
+      "id": "constitutional-law-033-which-amendment-allows-congress-to-regulate-purely-private-racial-discri",
+      "subject": "Constitutional Law",
+      "front": "Which amendment allows Congress to regulate purely private racial discrimination as a 'badge or incident' of slavery?",
+      "back": "The Thirteenth Amendment"
+    },
+    {
+      "id": "constitutional-law-034-what-is-the-standard-for-a-valid-remedy-under-section-5-of-the-fourteent",
+      "subject": "Constitutional Law",
+      "front": "What is the standard for a valid remedy under Section 5 of the Fourteenth Amendment?",
+      "back": "The remedy must be congruent and proportional to documented constitutional violations."
+    },
+    {
+      "id": "constitutional-law-035-the-president-s-power-to-pardon-only-applies-to-offenses",
+      "subject": "Constitutional Law",
+      "front": "The President's power to pardon only applies to _____ offenses.",
+      "back": "Federal"
+    },
+    {
+      "id": "constitutional-law-036-what-happens-if-the-president-takes-no-action-on-a-bill-and-congress-adj",
+      "subject": "Constitutional Law",
+      "front": "What happens if the President takes no action on a bill and Congress adjourns within 10 days?",
+      "back": "The bill is subject to a 'pocket veto' and does not become law."
+    },
+    {
+      "id": "constitutional-law-037-why-is-the-line-item-veto-unconstitutional-for-the-president",
+      "subject": "Constitutional Law",
+      "front": "Why is the line-item veto unconstitutional for the President?",
+      "back": "It violates the principles of bicameralism and presentment by allowing the President to change the text of a statute."
+    },
+    {
+      "id": "constitutional-law-038-who-must-confirm-principal-federal-officers-appointed-by-the-president",
+      "subject": "Constitutional Law",
+      "front": "Who must confirm 'principal' federal officers appointed by the President?",
+      "back": "The Senate"
+    },
+    {
+      "id": "constitutional-law-039-under-the-youngstown-framework-when-is-presidential-power-at-its-lowest-",
+      "subject": "Constitutional Law",
+      "front": "Under the Youngstown framework, when is Presidential power at its 'lowest ebb'?",
+      "back": "When the President acts in contradiction to the expressed or implied will of Congress."
+    },
+    {
+      "id": "constitutional-law-040-in-the-hierarchy-of-laws-how-does-a-later-in-time-federal-statute-intera",
+      "subject": "Constitutional Law",
+      "front": "In the hierarchy of laws, how does a later-in-time federal statute interact with an earlier treaty?",
+      "back": "The later-in-time federal statute prevails."
+    },
+    {
+      "id": "constitutional-law-041-what-is-the-legislative-veto-and-why-is-it-unconstitutional",
+      "subject": "Constitutional Law",
+      "front": "What is the 'Legislative Veto' and why is it unconstitutional?",
+      "back": "It is a resolution used to reverse executive action without bicameral passage and presentment."
+    },
+    {
+      "id": "constitutional-law-042-what-does-the-nondelegation-doctrine-require-when-congress-gives-regulat",
+      "subject": "Constitutional Law",
+      "front": "What does the 'Nondelegation Doctrine' require when Congress gives regulatory authority to an agency?",
+      "back": "Congress must supply an 'intelligible principle' to guide the agency."
+    },
+    {
+      "id": "constitutional-law-043-under-the-speech-or-debate-clause-what-types-of-conduct-are-absolutely-p",
+      "subject": "Constitutional Law",
+      "front": "Under the Speech or Debate Clause, what types of conduct are absolutely protected for federal legislators?",
+      "back": "Legislative acts such as floor debate, committee work, and legislative reports."
+    },
+    {
+      "id": "constitutional-law-044-what-is-the-extent-of-a-president-s-civil-damages-immunity-for-official-",
+      "subject": "Constitutional Law",
+      "front": "What is the extent of a President's civil-damages immunity for official acts?",
+      "back": "Absolute immunity."
+    },
+    {
+      "id": "constitutional-law-045-does-a-former-president-have-immunity-for-unofficial-acts",
+      "subject": "Constitutional Law",
+      "front": "Does a former President have immunity for 'unofficial' acts?",
+      "back": "No, there is no immunity for unofficial acts."
+    },
+    {
+      "id": "constitutional-law-046-the-anti-commandeering-principle-prohibits-congress-from-forcing-state-o",
+      "subject": "Constitutional Law",
+      "front": "The Anti-Commandeering principle prohibits Congress from forcing state officers to _____.",
+      "back": "Enforce federal policy or administer federal laws."
+    },
+    {
+      "id": "constitutional-law-047-can-a-state-impose-a-direct-tax-on-the-federal-government",
+      "subject": "Constitutional Law",
+      "front": "Can a state impose a direct tax on the federal government?",
+      "back": "No, states are prohibited from taxing federal instrumentalities or property."
+    },
+    {
+      "id": "constitutional-law-048-a-state-law-that-facially-discriminates-against-interstate-commerce-is-u",
+      "subject": "Constitutional Law",
+      "front": "A state law that facially discriminates against interstate commerce is usually invalid unless it serves a legitimate nonprotectionist purpose and _____.",
+      "back": "No reasonable nondiscriminatory alternative exists."
+    },
+    {
+      "id": "constitutional-law-049-what-is-the-market-participant-exception-to-the-dormant-commerce-clause",
+      "subject": "Constitutional Law",
+      "front": "What is the 'Market-Participant Exception' to the Dormant Commerce Clause?",
+      "back": "A state may favor its own citizens when it acts as a buyer or seller rather than a regulator."
+    },
+    {
+      "id": "constitutional-law-050-under-the-complete-auto-test-what-four-requirements-must-a-state-tax-on-",
+      "subject": "Constitutional Law",
+      "front": "Under the Complete Auto test, what four requirements must a state tax on interstate commerce meet?",
+      "back": "Substantial nexus, fair apportionment, nondiscrimination, and a fair relationship to state services."
+    },
+    {
+      "id": "constitutional-law-051-when-does-conflict-preemption-occur",
+      "subject": "Constitutional Law",
+      "front": "When does 'Conflict Preemption' occur?",
+      "back": "When it is impossible to comply with both federal and state law simultaneously."
+    },
+    {
+      "id": "constitutional-law-052-when-does-private-conduct-become-state-action-under-the-public-function-",
+      "subject": "Constitutional Law",
+      "front": "When does private conduct become 'state action' under the Public Function doctrine?",
+      "back": "When the private actor performs a function traditionally and exclusively performed by the government."
+    },
+    {
+      "id": "constitutional-law-053-does-government-regulation-or-funding-alone-create-state-action",
+      "subject": "Constitutional Law",
+      "front": "Does government regulation or funding alone create state action?",
+      "back": "No, mere regulation or funding is ordinarily insufficient."
+    },
+    {
+      "id": "constitutional-law-054-what-three-questions-define-the-procedural-due-process-framework",
+      "subject": "Constitutional Law",
+      "front": "What three questions define the Procedural Due Process framework?",
+      "back": "Is there government action, is there a deprivation of life, liberty, or property, and what process is due?"
+    },
+    {
+      "id": "constitutional-law-055-what-three-factors-are-weighed-in-the-mathews-v-eldridge-balancing-test-",
+      "subject": "Constitutional Law",
+      "front": "What three factors are weighed in the Mathews v. Eldridge balancing test for procedural due process?",
+      "back": "Private interest, risk of error with added safeguards, and government interest/burden."
+    },
+    {
+      "id": "constitutional-law-056-does-damage-to-reputation-alone-constitute-a-liberty-interest-deprivatio",
+      "subject": "Constitutional Law",
+      "front": "Does damage to reputation alone constitute a 'liberty interest' deprivation?",
+      "back": "No, it ordinarily requires 'reputation plus' the loss of a legal status."
+    },
+    {
+      "id": "constitutional-law-057-when-is-a-post-deprivation-hearing-sufficient-to-satisfy-due-process",
+      "subject": "Constitutional Law",
+      "front": "When is a post-deprivation hearing sufficient to satisfy due process?",
+      "back": "In emergencies where immediate action is necessary and prior process is impracticable."
+    },
+    {
+      "id": "constitutional-law-058-what-level-of-scrutiny-applies-to-laws-infringing-on-fundamental-rights-",
+      "subject": "Constitutional Law",
+      "front": "What level of scrutiny applies to laws infringing on 'fundamental' rights under Substantive Due Process?",
+      "back": "Strict scrutiny."
+    },
+    {
+      "id": "constitutional-law-059-under-strict-scrutiny-the-government-must-prove-the-law-is-the-to-achiev",
+      "subject": "Constitutional Law",
+      "front": "Under 'Strict Scrutiny,' the government must prove the law is the _____ to achieve a compelling interest.",
+      "back": "Least restrictive means"
+    },
+    {
+      "id": "constitutional-law-060-what-level-of-scrutiny-applies-to-international-travel-restrictions",
+      "subject": "Constitutional Law",
+      "front": "What level of scrutiny applies to international travel restrictions?",
+      "back": "Rational basis review."
+    },
+    {
+      "id": "constitutional-law-061-what-is-the-current-federal-constitutional-status-of-the-right-to-an-abo",
+      "subject": "Constitutional Law",
+      "front": "What is the current federal constitutional status of the right to an abortion?",
+      "back": "The federal Constitution does not recognize abortion as a substantive due-process right; regulations receive rational basis review."
+    },
+    {
+      "id": "constitutional-law-062-which-amendment-protects-the-individual-right-to-possess-firearms-for-se",
+      "subject": "Constitutional Law",
+      "front": "Which amendment protects the individual right to possess firearms for self-defense?",
+      "back": "The Second Amendment."
+    },
+    {
+      "id": "constitutional-law-063-how-does-the-equal-protection-clause-apply-to-the-federal-government",
+      "subject": "Constitutional Law",
+      "front": "How does the Equal Protection Clause apply to the federal government?",
+      "back": "Through the Due Process Clause of the Fifth Amendment."
+    },
+    {
+      "id": "constitutional-law-064-which-classifications-trigger-intermediate-scrutiny-under-equal-protecti",
+      "subject": "Constitutional Law",
+      "front": "Which classifications trigger 'Intermediate Scrutiny' under Equal Protection?",
+      "back": "Sex (Gender) and Legitimacy."
+    },
+    {
+      "id": "constitutional-law-065-to-trigger-heightened-scrutiny-for-a-neutral-law-what-must-a-plaintiff-s",
+      "subject": "Constitutional Law",
+      "front": "To trigger heightened scrutiny for a neutral law, what must a plaintiff show besides a disparate impact?",
+      "back": "Discriminatory intent or purpose."
+    },
+    {
+      "id": "constitutional-law-066-when-is-remedial-affirmative-action-by-the-government-constitutional",
+      "subject": "Constitutional Law",
+      "front": "When is 'Remedial Affirmative Action' by the government constitutional?",
+      "back": "When it is a narrowly tailored remedy for the government's own specific past discrimination."
+    },
+    {
+      "id": "constitutional-law-067-what-is-the-political-function-exception-regarding-state-discrimination-",
+      "subject": "Constitutional Law",
+      "front": "What is the 'Political-Function Exception' regarding state discrimination against lawful permanent residents?",
+      "back": "States may require citizenship for positions involving democratic self-government (e.g., police, teachers, jurors)."
+    },
+    {
+      "id": "constitutional-law-068-under-the-one-person-one-vote-principle-what-is-the-maximum-presumptive-",
+      "subject": "Constitutional Law",
+      "front": "Under the 'One Person, One Vote' principle, what is the maximum presumptive deviation allowed for state and local districts?",
+      "back": "Deviations under $10\\%$."
+    },
+    {
+      "id": "constitutional-law-069-which-clause-prohibits-states-from-discriminating-against-non-residents-",
+      "subject": "Constitutional Law",
+      "front": "Which clause prohibits states from discriminating against non-residents regarding fundamental economic activities?",
+      "back": "The Article IV Privileges and Immunities Clause."
+    },
+    {
+      "id": "constitutional-law-070-does-the-article-iv-privileges-and-immunities-clause-protect-corporation",
+      "subject": "Constitutional Law",
+      "front": "Does the Article IV Privileges and Immunities Clause protect corporations?",
+      "back": "No, it only protects individual citizens."
+    },
+    {
+      "id": "constitutional-law-071-what-is-a-per-se-taking-under-the-takings-clause",
+      "subject": "Constitutional Law",
+      "front": "What is a 'Per Se Taking' under the Takings Clause?",
+      "back": "A government seizure or permanent physical occupation of private property."
+    },
+    {
+      "id": "constitutional-law-072-what-are-the-three-penn-central-factors-used-to-evaluate-a-partial-regul",
+      "subject": "Constitutional Law",
+      "front": "What are the three Penn Central factors used to evaluate a 'Partial Regulatory Taking'?",
+      "back": "Economic impact, interference with investment-backed expectations, and character of the government action."
+    },
+    {
+      "id": "constitutional-law-073-what-does-the-public-use-requirement-of-the-takings-clause-mean",
+      "subject": "Constitutional Law",
+      "front": "What does the 'Public Use' requirement of the Takings Clause mean?",
+      "back": "The taking must be rationally related to a conceivable public purpose."
+    },
+    {
+      "id": "constitutional-law-074-what-is-a-bill-of-attainder",
+      "subject": "Constitutional Law",
+      "front": "What is a 'Bill of Attainder'?",
+      "back": "Legislation that identifies a person or group and imposes punishment without a judicial trial."
+    },
+    {
+      "id": "constitutional-law-075-the-ex-post-facto-prohibition-only-applies-to-what-type-of-laws",
+      "subject": "Constitutional Law",
+      "front": "The 'Ex Post Facto' prohibition only applies to what type of laws?",
+      "back": "Criminal or punitive laws."
+    },
+    {
+      "id": "constitutional-law-076-does-the-contracts-clause-limit-federal-legislation",
+      "subject": "Constitutional Law",
+      "front": "Does the 'Contracts Clause' limit federal legislation?",
+      "back": "No, it only restricts state legislation impairing existing contracts."
+    },
+    {
+      "id": "constitutional-law-077-what-is-the-ministerial-exception-in-the-context-of-employment-discrimin",
+      "subject": "Constitutional Law",
+      "front": "What is the 'Ministerial Exception' in the context of employment discrimination?",
+      "back": "Religious institutions have absolute control over the selection and removal of their ministers."
+    },
+    {
+      "id": "constitutional-law-078-under-the-free-exercise-clause-how-are-neutral-laws-of-general-applicabi",
+      "subject": "Constitutional Law",
+      "front": "Under the Free Exercise Clause, how are 'neutral laws of general applicability' reviewed?",
+      "back": "They receive rational basis review, even if they incidentally burden religion."
+    },
+    {
+      "id": "constitutional-law-079-a-law-is-content-based-under-the-first-amendment-if-its-application-depe",
+      "subject": "Constitutional Law",
+      "front": "A law is 'content-based' under the First Amendment if its application depends on the _____ of the speech.",
+      "back": "Subject matter, message, or communicative content."
+    },
+    {
+      "id": "constitutional-law-080-what-is-the-first-amendment-overbreadth-doctrine",
+      "subject": "Constitutional Law",
+      "front": "What is the First Amendment 'Overbreadth' doctrine?",
+      "back": "A law is invalid if it prohibits a substantial amount of protected speech compared to its legitimate scope."
+    },
+    {
+      "id": "constitutional-law-081-what-is-a-prior-restraint",
+      "subject": "Constitutional Law",
+      "front": "What is a 'Prior Restraint'?",
+      "back": "An administrative or judicial order that stops speech before it occurs."
+    },
+    {
+      "id": "constitutional-law-082-when-is-public-employee-speech-protected-by-the-first-amendment",
+      "subject": "Constitutional Law",
+      "front": "When is public employee speech protected by the First Amendment?",
+      "back": "When the employee speaks as a citizen on a matter of public concern and their interest outweighs workplace efficiency."
+    },
+    {
+      "id": "constitutional-law-083-limits-on-independent-campaign-expenditures-receive-what-level-of-scruti",
+      "subject": "Constitutional Law",
+      "front": "Limits on 'independent campaign expenditures' receive what level of scrutiny?",
+      "back": "Strict scrutiny."
+    },
+    {
+      "id": "constitutional-law-084-what-is-the-test-for-a-content-neutral-restriction-in-a-traditional-publ",
+      "subject": "Constitutional Law",
+      "front": "What is the test for a content-neutral restriction in a 'Traditional Public Forum'?",
+      "back": "It must be narrowly tailored to a significant interest and leave ample alternative channels."
+    },
+    {
+      "id": "constitutional-law-085-what-is-the-requirement-for-speech-restrictions-in-a-nonpublic-forum",
+      "subject": "Constitutional Law",
+      "front": "What is the requirement for speech restrictions in a 'Nonpublic Forum'?",
+      "back": "They must be reasonable and viewpoint neutral."
+    },
+    {
+      "id": "constitutional-law-086-what-are-the-three-elements-of-the-miller-test-for-obscenity",
+      "subject": "Constitutional Law",
+      "front": "What are the three elements of the Miller test for 'Obscenity'?",
+      "back": "Prurient appeal, patently offensive sexual conduct, and lack of serious value."
+    },
+    {
+      "id": "constitutional-law-087-under-the-brandenburg-test-incitement-can-only-be-punished-if-it-is-inte",
+      "subject": "Constitutional Law",
+      "front": "Under the Brandenburg test, 'Incitement' can only be punished if it is intended and likely to produce _____.",
+      "back": "Imminent lawless action."
+    },
+    {
+      "id": "constitutional-law-088-what-must-a-public-figure-prove-to-win-a-defamation-suit",
+      "subject": "Constitutional Law",
+      "front": "What must a 'public figure' prove to win a defamation suit?",
+      "back": "Actual malice (knowledge of falsity or reckless disregard for the truth)."
+    },
+    {
+      "id": "constitutional-law-089-what-level-of-protection-does-truthful-non-misleading-commercial-speech-",
+      "subject": "Constitutional Law",
+      "front": "What level of protection does 'truthful, non-misleading commercial speech' receive?",
+      "back": "Intermediate protection (Central Hudson test)."
+    }
+  ]
+}
