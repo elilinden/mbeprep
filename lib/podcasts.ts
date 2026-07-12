@@ -34,6 +34,14 @@ const podcastFiles = [
     description: "Use this guided Criminal Law pass before reviewing the outline, flashcards, or questions."
   },
   {
+    id: "criminal-procedure",
+    fileName: "criminal-procedure.mp3",
+    title: "Criminal Procedure",
+    subject: "Criminal Procedure",
+    topic: "The constitutional protections that shape criminal investigations and prosecutions",
+    description: "Review the core Criminal Procedure framework before moving into outlines, flashcards, or questions."
+  },
+  {
     id: "evidence",
     fileName: "evidence.mp3",
     title: "Evidence",
