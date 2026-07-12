@@ -2,6 +2,14 @@ import type { PodcastEpisode } from "@/lib/types";
 
 const podcastFiles = [
   {
+    id: "agency",
+    fileName: "agency.mp3",
+    title: "Agency",
+    subject: "Agency",
+    topic: "Authority, ratification, principal liability, and the core agency relationships",
+    description: "Use this focused Agency pass before reviewing flashcards, outlines, or questions."
+  },
+  {
     id: "contracts",
     fileName: "contracts.mp3",
     title: "Contracts",
