@@ -1,0 +1,457 @@
+{
+  "id": "agency",
+  "title": "Agency",
+  "subject": "Agency",
+  "cards": [
+    {
+      "id": "agency-001-what-three-elements-are-required-to-form-an-agency-relationship",
+      "subject": "Agency",
+      "front": "What three elements are required to form an agency relationship?",
+      "back": "Consent, acting on behalf of the principal, and control."
+    },
+    {
+      "id": "agency-002-in-an-agency-relationship-who-is-the-principal",
+      "subject": "Agency",
+      "front": "In an agency relationship, who is the 'principal'?",
+      "back": "The boss, owner, or person being represented by another."
+    },
+    {
+      "id": "agency-003-in-an-agency-relationship-who-is-the-agent",
+      "subject": "Agency",
+      "front": "In an agency relationship, who is the 'agent'?",
+      "back": "The person acting on behalf of the principal."
+    },
+    {
+      "id": "agency-004-what-is-the-primary-question-asked-in-agency-law-on-the-mbe-regarding-pr",
+      "subject": "Agency",
+      "front": "What is the primary question asked in Agency Law on the MBE regarding principal liability?",
+      "back": "Is the principal legally responsible for the actions (contracts or torts) of the agent?"
+    },
+    {
+      "id": "agency-005-under-the-easy-test-for-agency-what-two-questions-determine-if-a-relatio",
+      "subject": "Agency",
+      "front": "Under the 'Easy Test' for agency, what two questions determine if a relationship exists?",
+      "back": "Are you doing this for me, and do I have some control over what you do?"
+    },
+    {
+      "id": "agency-006-true-or-false-an-agency-relationship-generally-requires-a-written-contra",
+      "subject": "Agency",
+      "front": "True or False: An agency relationship generally requires a written contract and payment to be valid.",
+      "back": "False; agency usually does not require a written contract, formal words, or payment."
+    },
+    {
+      "id": "agency-007-what-term-describes-an-agent-who-performs-their-duties-without-being-pai",
+      "subject": "Agency",
+      "front": "What term describes an agent who performs their duties without being paid?",
+      "back": "Gratuitous agent."
+    },
+    {
+      "id": "agency-008-what-is-the-key-word-used-to-identify-whether-an-agency-relationship-exi",
+      "subject": "Agency",
+      "front": "What is the 'key word' used to identify whether an agency relationship exists?",
+      "back": "Control."
+    },
+    {
+      "id": "agency-009-how-is-an-employee-distinguished-from-an-independent-contractor-regardin",
+      "subject": "Agency",
+      "front": "How is an 'employee' distinguished from an 'independent contractor' regarding the principal's power?",
+      "back": "The principal controls the specific means and methods of the employee's work."
+    },
+    {
+      "id": "agency-010-in-the-context-of-an-independent-contractor-what-part-of-the-work-does-t",
+      "subject": "Agency",
+      "front": "In the context of an independent contractor, what part of the work does the principal typically control?",
+      "back": "The final result of the work, rather than the specific way it is completed."
+    },
+    {
+      "id": "agency-011-mbe-shortcut-more-control-over-a-worker-s-daily-activities-indicates-the",
+      "subject": "Agency",
+      "front": "MBE Shortcut: More control over a worker's daily activities indicates they are an _____.",
+      "back": "Employee."
+    },
+    {
+      "id": "agency-012-what-are-the-three-major-types-of-authority-that-can-bind-a-principal-to",
+      "subject": "Agency",
+      "front": "What are the three major types of authority that can bind a principal to a contract?",
+      "back": "Actual authority, apparent authority, and ratification."
+    },
+    {
+      "id": "agency-013-upon-whose-perspective-does-actual-authority-focus",
+      "subject": "Agency",
+      "front": "Upon whose perspective does 'actual authority' focus?",
+      "back": "The agent's reasonable belief based on the principal's words or actions."
+    },
+    {
+      "id": "agency-014-what-are-the-two-sub-types-of-actual-authority",
+      "subject": "Agency",
+      "front": "What are the two sub-types of actual authority?",
+      "back": "Express actual authority and implied actual authority."
+    },
+    {
+      "id": "agency-015-define-express-actual-authority",
+      "subject": "Agency",
+      "front": "Define 'express actual authority'.",
+      "back": "Authority granted when the principal directly tells the agent to perform a specific task."
+    },
+    {
+      "id": "agency-016-define-implied-actual-authority",
+      "subject": "Agency",
+      "front": "Define 'implied actual authority'.",
+      "back": "Authority to perform acts that are reasonably necessary to complete an assigned task."
+    },
+    {
+      "id": "agency-017-if-a-principal-tells-an-agent-to-make-dinner-what-kind-of-authority-cove",
+      "subject": "Agency",
+      "front": "If a principal tells an agent to 'Make dinner,' what kind of authority covers the agent turning on the stove?",
+      "back": "Implied actual authority."
+    },
+    {
+      "id": "agency-018-upon-whose-perspective-does-apparent-authority-focus",
+      "subject": "Agency",
+      "front": "Upon whose perspective does 'apparent authority' focus?",
+      "back": "The third party's reasonable belief based on the principal's words or actions."
+    },
+    {
+      "id": "agency-019-how-can-apparent-authority-exist-even-if-the-principal-explicitly-forbad",
+      "subject": "Agency",
+      "front": "How can apparent authority exist even if the principal explicitly forbade an agent from acting?",
+      "back": "If the principal's outward conduct leads a third party to reasonably believe the agent has authority."
+    },
+    {
+      "id": "agency-020-what-is-the-mbe-memory-tool-for-distinguishing-actual-from-apparent-auth",
+      "subject": "Agency",
+      "front": "What is the MBE memory tool for distinguishing actual from apparent authority?",
+      "back": "Actual authority is principal to agent; apparent authority is principal to third party."
+    },
+    {
+      "id": "agency-021-define-ratification-in-agency-law",
+      "subject": "Agency",
+      "front": "Define 'ratification' in agency law.",
+      "back": "When a principal approves an act after it was performed by an agent who lacked initial authority."
+    },
+    {
+      "id": "agency-022-what-is-the-legal-effect-on-a-principal-who-ratifies-a-contract",
+      "subject": "Agency",
+      "front": "What is the legal effect on a principal who ratifies a contract?",
+      "back": "The principal is bound as if the agent had authority from the very beginning."
+    },
+    {
+      "id": "agency-023-what-legal-doctrine-makes-an-employer-liable-for-an-employee-s-torts-com",
+      "subject": "Agency",
+      "front": "What legal doctrine makes an employer liable for an employee's torts committed within the scope of employment?",
+      "back": "Respondeat superior."
+    },
+    {
+      "id": "agency-024-what-are-the-two-requirements-for-a-principal-to-be-liable-under-respond",
+      "subject": "Agency",
+      "front": "What are the two requirements for a principal to be liable under respondeat superior?",
+      "back": "An employer-employee relationship must exist, and the tort must occur within the scope of employment."
+    },
+    {
+      "id": "agency-025-what-three-factors-help-determine-if-an-employee-is-acting-within-the-sc",
+      "subject": "Agency",
+      "front": "What three factors help determine if an employee is acting within the 'scope of employment'?",
+      "back": "Performing hired tasks, relating to their work, and intending to benefit the employer."
+    },
+    {
+      "id": "agency-026-in-agency-law-what-is-a-detour",
+      "subject": "Agency",
+      "front": "In agency law, what is a 'detour'?",
+      "back": "A small personal side trip taken by an employee during work hours."
+    },
+    {
+      "id": "agency-027-in-agency-law-what-is-a-frolic",
+      "subject": "Agency",
+      "front": "In agency law, what is a 'frolic'?",
+      "back": "A major personal departure from the employee's work duties."
+    },
+    {
+      "id": "agency-028-how-does-employer-liability-differ-between-a-detour-and-a-frolic",
+      "subject": "Agency",
+      "front": "How does employer liability differ between a 'detour' and a 'frolic'?",
+      "back": "The employer may be liable for a detour but is usually not liable for a frolic."
+    },
+    {
+      "id": "agency-029-what-is-the-general-rule-regarding-a-principal-s-liability-for-the-torts",
+      "subject": "Agency",
+      "front": "What is the general rule regarding a principal's liability for the torts of an independent contractor?",
+      "back": "The principal is usually not liable for the torts of an independent contractor."
+    },
+    {
+      "id": "agency-030-list-three-exceptions-where-a-principal-might-be-liable-for-an-independe",
+      "subject": "Agency",
+      "front": "List three exceptions where a principal might be liable for an independent contractor's torts.",
+      "back": "Inherently dangerous work, nondelegable duties, or negligent hiring of the contractor."
+    },
+    {
+      "id": "agency-031-what-type-of-duties-do-agents-owe-to-their-principals",
+      "subject": "Agency",
+      "front": "What type of duties do agents owe to their principals?",
+      "back": "Fiduciary duties."
+    },
+    {
+      "id": "agency-032-what-is-required-by-an-agent-s-duty-of-loyalty",
+      "subject": "Agency",
+      "front": "What is required by an agent's 'duty of loyalty'?",
+      "back": "The agent must act solely for the benefit of the principal rather than for themselves."
+    },
+    {
+      "id": "agency-033-what-constitutes-a-breach-of-the-duty-not-to-secretly-profit",
+      "subject": "Agency",
+      "front": "What constitutes a breach of the 'duty not to secretly profit'?",
+      "back": "Taking money from the agency relationship without the principal's knowledge and agreement."
+    },
+    {
+      "id": "agency-034-what-is-the-duty-not-to-usurp-business-opportunities",
+      "subject": "Agency",
+      "front": "What is the 'duty not to usurp business opportunities'?",
+      "back": "The agent cannot take a business opportunity for themselves that should have gone to the principal."
+    },
+    {
+      "id": "agency-035-what-does-the-duty-of-care-require-of-an-agent",
+      "subject": "Agency",
+      "front": "What does the 'duty of care' require of an agent?",
+      "back": "Acting with reasonable care, skill, and diligence in their assigned tasks."
+    },
+    {
+      "id": "agency-036-under-the-duty-of-obedience-what-must-an-agent-follow",
+      "subject": "Agency",
+      "front": "Under the 'duty of obedience,' what must an agent follow?",
+      "back": "The principal's lawful instructions."
+    },
+    {
+      "id": "agency-037-regarding-third-party-contracts-when-is-a-principal-considered-disclosed",
+      "subject": "Agency",
+      "front": "Regarding third-party contracts, when is a principal considered 'disclosed'?",
+      "back": "When the third party knows the principal exists and knows their identity."
+    },
+    {
+      "id": "agency-038-when-is-a-principal-considered-partially-disclosed",
+      "subject": "Agency",
+      "front": "When is a principal considered 'partially disclosed'?",
+      "back": "When the third party knows a principal exists but does not know their identity."
+    },
+    {
+      "id": "agency-039-when-is-a-principal-considered-undisclosed",
+      "subject": "Agency",
+      "front": "When is a principal considered 'undisclosed'?",
+      "back": "When the third party does not know the agent is acting for anyone else."
+    },
+    {
+      "id": "agency-040-what-is-the-agent-s-liability-on-a-contract-when-the-principal-is-disclo",
+      "subject": "Agency",
+      "front": "What is the agent's liability on a contract when the principal is 'disclosed'?",
+      "back": "The agent is usually not personally liable."
+    },
+    {
+      "id": "agency-041-what-is-the-agent-s-liability-on-a-contract-when-the-principal-is-partia",
+      "subject": "Agency",
+      "front": "What is the agent's liability on a contract when the principal is 'partially disclosed'?",
+      "back": "The agent is usually personally liable."
+    },
+    {
+      "id": "agency-042-what-is-the-agent-s-liability-on-a-contract-when-the-principal-is-undisc",
+      "subject": "Agency",
+      "front": "What is the agent's liability on a contract when the principal is 'undisclosed'?",
+      "back": "The agent is usually personally liable."
+    },
+    {
+      "id": "agency-043-list-three-duties-a-principal-owes-to-an-agent",
+      "subject": "Agency",
+      "front": "List three duties a principal owes to an agent.",
+      "back": "Compensation (if promised), reimbursement for expenses, and indemnification for authorized acts."
+    },
+    {
+      "id": "agency-044-under-what-circumstances-does-a-principal-not-have-to-indemnify-an-agent",
+      "subject": "Agency",
+      "front": "Under what circumstances does a principal NOT have to indemnify an agent?",
+      "back": "When the agent acts with negligence, performs illegal acts, or engages in wrongful conduct."
+    },
+    {
+      "id": "agency-045-how-does-the-death-of-the-principal-or-agent-affect-the-agency-relations",
+      "subject": "Agency",
+      "front": "How does the death of the principal or agent affect the agency relationship?",
+      "back": "It terminates the agency relationship."
+    },
+    {
+      "id": "agency-046-when-actual-authority-ends-how-long-might-apparent-authority-continue",
+      "subject": "Agency",
+      "front": "When actual authority ends, how long might 'apparent authority' continue?",
+      "back": "Until the third party receives notice that the agent's authority has ended."
+    },
+    {
+      "id": "agency-047-what-is-statutory-termination-of-an-agency",
+      "subject": "Agency",
+      "front": "What is 'statutory termination' of an agency?",
+      "back": "When the agency relationship ends based on specific laws or statutes."
+    },
+    {
+      "id": "agency-048-in-the-mbe-attack-plan-for-contracts-what-should-be-checked-if-actual-au",
+      "subject": "Agency",
+      "front": "In the MBE attack plan for contracts, what should be checked if actual authority is missing?",
+      "back": "Check for apparent authority, ratification, or estoppel."
+    },
+    {
+      "id": "agency-049-in-the-mbe-attack-plan-for-torts-what-is-the-first-step-in-determining-p",
+      "subject": "Agency",
+      "front": "In the MBE attack plan for torts, what is the first step in determining principal liability?",
+      "back": "Determine if the tortfeasor was an employee or an independent contractor."
+    },
+    {
+      "id": "agency-050-an-agent-mixing-the-principal-s-money-with-their-own-personal-money-is-a",
+      "subject": "Agency",
+      "front": "An agent mixing the principal's money with their own personal money is a breach of the duty to _____.",
+      "back": "Keep the principal's money separate (or the duty to account)."
+    },
+    {
+      "id": "agency-051-a-delivery-driver-stopping-for-coffee-is-an-example-of-a-n-meaning-the-e",
+      "subject": "Agency",
+      "front": "A delivery driver stopping for coffee is an example of a(n) _____, meaning the employer is likely still liable.",
+      "back": "Detour"
+    },
+    {
+      "id": "agency-052-if-a-manager-hires-a-worker-after-the-owner-says-hire-sarah-the-manager-",
+      "subject": "Agency",
+      "front": "If a manager hires a worker after the owner says 'Hire Sarah,' the manager's action of interviewing Sarah is based on _____ authority.",
+      "back": "Implied actual"
+    },
+    {
+      "id": "agency-053-concept-fiduciary-duty",
+      "subject": "Agency",
+      "front": "Concept: Fiduciary Duty",
+      "back": "Definition: A legal obligation for one party to act in the best interest of another. Example: An agent acting loyally for a principal."
+    },
+    {
+      "id": "agency-054-concept-nondelegable-duty",
+      "subject": "Agency",
+      "front": "Concept: Nondelegable Duty",
+      "back": "Definition: A task so important that a principal remains liable for its performance even if they hire an independent contractor."
+    },
+    {
+      "id": "agency-055-concept-self-dealing",
+      "subject": "Agency",
+      "front": "Concept: Self-Dealing",
+      "back": "Definition: A breach of loyalty where an agent acts in their own interest rather than the principal's. Example: An agent secretly buying the principal's property."
+    },
+    {
+      "id": "agency-056-which-party-s-belief-is-relevant-in-determining-if-an-agent-has-actual-a",
+      "subject": "Agency",
+      "front": "Which party's belief is relevant in determining if an agent has 'actual authority'?",
+      "back": "The agent's reasonable belief."
+    },
+    {
+      "id": "agency-057-which-party-s-belief-is-relevant-in-determining-if-an-agent-has-apparent",
+      "subject": "Agency",
+      "front": "Which party's belief is relevant in determining if an agent has 'apparent authority'?",
+      "back": "The third party's reasonable belief."
+    },
+    {
+      "id": "agency-058-a-principal-may-be-liable-for-an-independent-contractor-s-tort-if-the-pr",
+      "subject": "Agency",
+      "front": "A principal may be liable for an independent contractor's tort if the principal was _____ in hiring them.",
+      "back": "Negligent"
+    },
+    {
+      "id": "agency-059-the-agent-s-duty-to-provide-an-accounting-refers-to-what-responsibility",
+      "subject": "Agency",
+      "front": "The agent's duty to 'provide an accounting' refers to what responsibility?",
+      "back": "The responsibility to track and report the principal's money and property."
+    },
+    {
+      "id": "agency-060-what-happens-to-an-agency-relationship-if-the-agent-breaches-a-fiduciary",
+      "subject": "Agency",
+      "front": "What happens to an agency relationship if the agent breaches a fiduciary duty?",
+      "back": "The agency relationship can be terminated."
+    },
+    {
+      "id": "agency-061-if-a-homeowner-tells-a-painter-i-do-not-care-exactly-how-you-do-it-the-p",
+      "subject": "Agency",
+      "front": "If a homeowner tells a painter, 'I do not care exactly how you do it,' the painter is likely a(n) _____.",
+      "back": "Independent contractor"
+    },
+    {
+      "id": "agency-062-true-or-false-if-a-principal-is-undisclosed-the-third-party-can-hold-the",
+      "subject": "Agency",
+      "front": "True or False: If a principal is undisclosed, the third party can hold the agent personally liable on the contract.",
+      "back": "True."
+    },
+    {
+      "id": "agency-063-what-is-the-effect-of-an-inherently-dangerous-task-on-a-principal-s-liab",
+      "subject": "Agency",
+      "front": "What is the effect of an 'inherently dangerous' task on a principal's liability for an independent contractor?",
+      "back": "The principal becomes liable for the contractor's torts related to that task."
+    },
+    {
+      "id": "agency-064-a-person-doing-a-favor-for-a-friend-is-acting-as-a-n-if-the-friend-has-c",
+      "subject": "Agency",
+      "front": "A person doing a favor for a friend is acting as a(n) _____ if the friend has control over the task.",
+      "back": "Agent"
+    },
+    {
+      "id": "agency-065-what-duty-prevents-an-agent-from-competing-with-their-principal-during-t",
+      "subject": "Agency",
+      "front": "What duty prevents an agent from competing with their principal during the agency relationship?",
+      "back": "The duty of loyalty."
+    },
+    {
+      "id": "agency-066-mbe-memory-tool-small-side-trip-big-personal-trip",
+      "subject": "Agency",
+      "front": "MBE Memory tool: Small side trip = _____; Big personal trip = _____.",
+      "back": "Detour; frolic."
+    },
+    {
+      "id": "agency-067-can-an-agency-relationship-exist-without-a-long-term-commitment",
+      "subject": "Agency",
+      "front": "Can an agency relationship exist without a long-term commitment?",
+      "back": "Yes; it does not require a long-term relationship."
+    },
+    {
+      "id": "agency-068-a-company-firing-a-manager-but-failing-to-tell-customers-creates-a-risk-",
+      "subject": "Agency",
+      "front": "A company firing a manager but failing to tell customers creates a risk of _____ authority.",
+      "back": "Apparent"
+    },
+    {
+      "id": "agency-069-a-principal-s-duty-to-indemnify-an-agent-means-they-must-the-agent-for-l",
+      "subject": "Agency",
+      "front": "A principal's duty to 'indemnify' an agent means they must _____ the agent for losses or liabilities.",
+      "back": "Compensate (or hold harmless)"
+    },
+    {
+      "id": "agency-070-what-must-an-agent-do-with-important-information-they-learn-while-acting",
+      "subject": "Agency",
+      "front": "What must an agent do with 'important information' they learn while acting for the principal?",
+      "back": "Communicate it to the principal (Duty of Information)."
+    },
+    {
+      "id": "agency-071-the-principal-s-right-to-the-agent-s-work-is-the-defining-characteristic",
+      "subject": "Agency",
+      "front": "The principal's right to _____ the agent's work is the defining characteristic of an employer-employee relationship.",
+      "back": "Control"
+    },
+    {
+      "id": "agency-072-which-disclosure-category-results-in-the-principal-being-bound-to-the-co",
+      "subject": "Agency",
+      "front": "Which disclosure category results in the principal being bound to the contract, but the agent being immune from personal liability?",
+      "back": "Disclosed principal."
+    },
+    {
+      "id": "agency-073-if-an-agent-buys-an-item-for-a-principal-without-any-authority-how-can-t",
+      "subject": "Agency",
+      "front": "If an agent buys an item for a principal without any authority, how can the principal still become bound?",
+      "back": "Through ratification (approving the act afterward)."
+    },
+    {
+      "id": "agency-074-a-delivery-driver-going-across-town-to-shop-for-themselves-is-on-a-and-t",
+      "subject": "Agency",
+      "front": "A delivery driver going across town to shop for themselves is on a _____, and the employer is not liable.",
+      "back": "Frolic"
+    },
+    {
+      "id": "agency-075-if-an-agent-is-told-do-not-sell-for-less-than-10-000-and-sells-for-8-000",
+      "subject": "Agency",
+      "front": "If an agent is told 'Do not sell for less than $10,000' and sells for $8,000, they have breached the duty of _____.",
+      "back": "Obedience"
+    }
+  ]
+}
