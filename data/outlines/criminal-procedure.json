@@ -1,0 +1,5938 @@
+{
+  "id": "criminal-procedure",
+  "title": "Criminal Procedure",
+  "subject": "Criminal Procedure",
+  "summary": "Criminal Procedure covers Fourth Amendment searches and seizures, Fifth Amendment protections, Sixth Amendment rights, trial procedure, and post-trial review.",
+  "sections": [
+    {
+      "id": "big-picture",
+      "title": "Big Picture",
+      "body": [
+        "Criminal Procedure questions usually test whether government conduct violated a constitutional rule and, if so, what remedy follows.",
+        "The major constitutional sources are:",
+        "Fourth Amendment — searches, seizures, arrests, and the exclusionary rule",
+        "Fifth Amendment — self-incrimination, Miranda, and double jeopardy",
+        "Sixth Amendment — counsel, jury trial, confrontation, public trial, and speedy trial",
+        "Eighth Amendment — bail and cruel and unusual punishment",
+        "Fourteenth Amendment — incorporation and due process"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Criminal Procedure questions usually test whether government conduct violated a constitutional rule and, if so, what remedy follows."
+        },
+        {
+          "type": "paragraph",
+          "text": "The major constitutional sources are:"
+        },
+        {
+          "type": "compact",
+          "text": "Fourth Amendment — searches, seizures, arrests, and the exclusionary rule"
+        },
+        {
+          "type": "compact",
+          "text": "Fifth Amendment — self-incrimination, Miranda, and double jeopardy"
+        },
+        {
+          "type": "compact",
+          "text": "Sixth Amendment — counsel, jury trial, confrontation, public trial, and speedy trial"
+        },
+        {
+          "type": "compact",
+          "text": "Eighth Amendment — bail and cruel and unusual punishment"
+        },
+        {
+          "type": "compact",
+          "text": "Fourteenth Amendment — incorporation and due process"
+        }
+      ]
+    },
+    {
+      "id": "1-criminal-procedure-attack-plan",
+      "title": "1. Criminal Procedure Attack Plan",
+      "body": [
+        "For every question, ask:",
+        "Which constitutional right is involved?",
+        "Has the right attached?",
+        "Did the defendant personally possess the right?",
+        "What government conduct occurred?",
+        "What level of justification was required?",
+        "Was there a warrant or a valid exception?",
+        "Was the right invoked or waived?",
+        "What evidence or proceeding resulted?",
+        "What remedy applies?",
+        "Does an exception prevent suppression or reversal?",
+        "Memory line: Right, attachment, violation, remedy, exception."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For every question, ask:"
+        },
+        {
+          "type": "compact",
+          "text": "Which constitutional right is involved?"
+        },
+        {
+          "type": "compact",
+          "text": "Has the right attached?"
+        },
+        {
+          "type": "compact",
+          "text": "Did the defendant personally possess the right?"
+        },
+        {
+          "type": "compact",
+          "text": "What government conduct occurred?"
+        },
+        {
+          "type": "compact",
+          "text": "What level of justification was required?"
+        },
+        {
+          "type": "compact",
+          "text": "Was there a warrant or a valid exception?"
+        },
+        {
+          "type": "compact",
+          "text": "Was the right invoked or waived?"
+        },
+        {
+          "type": "compact",
+          "text": "What evidence or proceeding resulted?"
+        },
+        {
+          "type": "compact",
+          "text": "What remedy applies?"
+        },
+        {
+          "type": "compact",
+          "text": "Does an exception prevent suppression or reversal?"
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Right, attachment, violation, remedy, exception."
+        }
+      ]
+    },
+    {
+      "id": "2-fourth-amendment-framework",
+      "title": "2. Fourth Amendment Framework",
+      "body": [
+        "PART I — FOURTH AMENDMENT",
+        "The Fourth Amendment protects against unreasonable:",
+        "Searches",
+        "Seizures of persons",
+        "Seizures of property",
+        "When a warrant is required, it must be:",
+        "Issued by a neutral and detached magistrate",
+        "Supported by probable cause",
+        "Supported by oath or affirmation",
+        "Particular as to the place and items or persons"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "PART I — FOURTH AMENDMENT"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Fourth Amendment protects against unreasonable:"
+        },
+        {
+          "type": "compact",
+          "text": "Searches"
+        },
+        {
+          "type": "compact",
+          "text": "Seizures of persons"
+        },
+        {
+          "type": "compact",
+          "text": "Seizures of property"
+        },
+        {
+          "type": "paragraph",
+          "text": "When a warrant is required, it must be:"
+        },
+        {
+          "type": "compact",
+          "text": "Issued by a neutral and detached magistrate"
+        },
+        {
+          "type": "compact",
+          "text": "Supported by probable cause"
+        },
+        {
+          "type": "compact",
+          "text": "Supported by oath or affirmation"
+        },
+        {
+          "type": "compact",
+          "text": "Particular as to the place and items or persons"
+        }
+      ]
+    },
+    {
+      "id": "3-personal-rights-and-standing",
+      "title": "3. Personal Rights and Standing",
+      "body": [
+        "Fourth Amendment rights are personal.",
+        "A defendant may challenge government conduct only if the defendant:",
+        "Was personally seized, or",
+        "Had a reasonable expectation of privacy in the place searched or item seized, or",
+        "Suffered a physical intrusion on the defendant’s protected person, house, papers, or effects",
+        "Possession of incriminating evidence alone does not create standing.",
+        "Memory line: Evidence against you is not enough; the government must violate your own rights."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fourth Amendment rights are personal."
+        },
+        {
+          "type": "paragraph",
+          "text": "A defendant may challenge government conduct only if the defendant:"
+        },
+        {
+          "type": "compact",
+          "text": "Was personally seized, or"
+        },
+        {
+          "type": "compact",
+          "text": "Had a reasonable expectation of privacy in the place searched or item seized, or"
+        },
+        {
+          "type": "compact",
+          "text": "Suffered a physical intrusion on the defendant’s protected person, house, papers, or effects"
+        },
+        {
+          "type": "paragraph",
+          "text": "Possession of incriminating evidence alone does not create standing."
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Evidence against you is not enough; the government must violate your own rights."
+        }
+      ]
+    },
+    {
+      "id": "4-government-action",
+      "title": "4. Government Action",
+      "body": [
+        "The Fourth Amendment restricts government conduct.",
+        "A private search does not trigger the Fourth Amendment unless the private person acts as an instrument or agent of the government.",
+        "Relevant factors include whether:",
+        "Police encouraged or directed the search",
+        "Police knew about and acquiesced in it",
+        "The private person intended to assist law enforcement"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Fourth Amendment restricts government conduct."
+        },
+        {
+          "type": "paragraph",
+          "text": "A private search does not trigger the Fourth Amendment unless the private person acts as an instrument or agent of the government."
+        },
+        {
+          "type": "paragraph",
+          "text": "Relevant factors include whether:"
+        },
+        {
+          "type": "compact",
+          "text": "Police encouraged or directed the search"
+        },
+        {
+          "type": "compact",
+          "text": "Police knew about and acquiesced in it"
+        },
+        {
+          "type": "compact",
+          "text": "The private person intended to assist law enforcement"
+        }
+      ]
+    },
+    {
+      "id": "5-the-exclusionary-rule",
+      "title": "5. The Exclusionary Rule",
+      "body": [
+        "The exclusionary rule generally prevents the prosecution from using unlawfully obtained evidence in its case in chief.",
+        "It ordinarily does not apply to:",
+        "Grand jury proceedings",
+        "Civil proceedings",
+        "Parole-revocation hearings",
+        "Sentencing",
+        "Federal habeas review of state convictions",
+        "Impeachment of the defendant with voluntary statements",
+        "The rule is designed to deter police misconduct."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The exclusionary rule generally prevents the prosecution from using unlawfully obtained evidence in its case in chief."
+        },
+        {
+          "type": "paragraph",
+          "text": "It ordinarily does not apply to:"
+        },
+        {
+          "type": "compact",
+          "text": "Grand jury proceedings"
+        },
+        {
+          "type": "compact",
+          "text": "Civil proceedings"
+        },
+        {
+          "type": "compact",
+          "text": "Parole-revocation hearings"
+        },
+        {
+          "type": "compact",
+          "text": "Sentencing"
+        },
+        {
+          "type": "compact",
+          "text": "Federal habeas review of state convictions"
+        },
+        {
+          "type": "compact",
+          "text": "Impeachment of the defendant with voluntary statements"
+        },
+        {
+          "type": "paragraph",
+          "text": "The rule is designed to deter police misconduct."
+        }
+      ]
+    },
+    {
+      "id": "6-what-is-a-seizure-of-a-person",
+      "title": "6. What Is a Seizure of a Person?",
+      "body": [
+        "A person is seized when:",
+        "An officer intentionally applies physical force with intent to restrain, even if the person escapes, or",
+        "The person submits to a show of police authority",
+        "When there is no physical force, ask whether a reasonable person would feel free to leave or refuse the officer’s request."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A person is seized when:"
+        },
+        {
+          "type": "compact",
+          "text": "An officer intentionally applies physical force with intent to restrain, even if the person escapes, or"
+        },
+        {
+          "type": "compact",
+          "text": "The person submits to a show of police authority"
+        },
+        {
+          "type": "paragraph",
+          "text": "When there is no physical force, ask whether a reasonable person would feel free to leave or refuse the officer’s request."
+        }
+      ]
+    },
+    {
+      "id": "7-show-of-authority-without-submission",
+      "title": "7. Show of Authority Without Submission",
+      "body": [
+        "A show of authority alone is not a seizure unless the person submits.",
+        "Example: Officers activate lights and order a cyclist to stop. The cyclist continues riding and discards contraband before stopping. The seizure occurs only when the cyclist submits, so the discarded item may be considered abandoned."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A show of authority alone is not a seizure unless the person submits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: Officers activate lights and order a cyclist to stop. The cyclist continues riding and discards contraband before stopping. The seizure occurs only when the cyclist submits, so the discarded item may be considered abandoned."
+        }
+      ]
+    },
+    {
+      "id": "8-accidental-force",
+      "title": "8. Accidental Force",
+      "body": [
+        "Accidental government force is not a Fourth Amendment seizure.",
+        "The officer must intentionally use force or authority to restrain.",
+        "A negligent collision with a suspect is analyzed under due process, not as a Fourth Amendment seizure."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Accidental government force is not a Fourth Amendment seizure."
+        },
+        {
+          "type": "paragraph",
+          "text": "The officer must intentionally use force or authority to restrain."
+        },
+        {
+          "type": "paragraph",
+          "text": "A negligent collision with a suspect is analyzed under due process, not as a Fourth Amendment seizure."
+        }
+      ]
+    },
+    {
+      "id": "9-arrest-warrants",
+      "title": "9. Arrest Warrants",
+      "body": [
+        "An arrest warrant requires probable cause that:",
+        "A crime occurred",
+        "The named person committed it",
+        "An arrest warrant permits entry into the arrestee’s own home when officers reasonably believe the arrestee is inside."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An arrest warrant requires probable cause that:"
+        },
+        {
+          "type": "compact",
+          "text": "A crime occurred"
+        },
+        {
+          "type": "compact",
+          "text": "The named person committed it"
+        },
+        {
+          "type": "paragraph",
+          "text": "An arrest warrant permits entry into the arrestee’s own home when officers reasonably believe the arrestee is inside."
+        }
+      ]
+    },
+    {
+      "id": "10-arrest-in-the-arrestee-s-home",
+      "title": "10. Arrest in the Arrestee’s Home",
+      "body": [
+        "Police generally need:",
+        "An arrest warrant, or",
+        "Consent, or",
+        "Exigent circumstances",
+        "to enter a person’s home to make an arrest.",
+        "An arrest warrant alone generally authorizes entry into the arrestee’s home, but not a full evidentiary search."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police generally need:"
+        },
+        {
+          "type": "compact",
+          "text": "An arrest warrant, or"
+        },
+        {
+          "type": "compact",
+          "text": "Consent, or"
+        },
+        {
+          "type": "compact",
+          "text": "Exigent circumstances"
+        },
+        {
+          "type": "paragraph",
+          "text": "to enter a person’s home to make an arrest."
+        },
+        {
+          "type": "paragraph",
+          "text": "An arrest warrant alone generally authorizes entry into the arrestee’s home, but not a full evidentiary search."
+        }
+      ]
+    },
+    {
+      "id": "11-arrest-in-a-third-party-s-home",
+      "title": "11. Arrest in a Third Party’s Home",
+      "body": [
+        "To enter a third party’s home looking for the subject of an arrest warrant, police generally need:",
+        "A search warrant for the third party’s home",
+        "Consent",
+        "Exigent circumstances",
+        "The third party may challenge the unlawful home search.",
+        "The arrestee usually cannot challenge the search merely because the arrest occurred there."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "To enter a third party’s home looking for the subject of an arrest warrant, police generally need:"
+        },
+        {
+          "type": "compact",
+          "text": "A search warrant for the third party’s home"
+        },
+        {
+          "type": "compact",
+          "text": "Consent"
+        },
+        {
+          "type": "compact",
+          "text": "Exigent circumstances"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third party may challenge the unlawful home search."
+        },
+        {
+          "type": "paragraph",
+          "text": "The arrestee usually cannot challenge the search merely because the arrest occurred there."
+        }
+      ]
+    },
+    {
+      "id": "12-public-arrests",
+      "title": "12. Public Arrests",
+      "body": [
+        "Police generally may make a warrantless arrest in public when they have probable cause.",
+        "They do not need to obtain an arrest warrant merely because time permits."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police generally may make a warrantless arrest in public when they have probable cause."
+        },
+        {
+          "type": "paragraph",
+          "text": "They do not need to obtain an arrest warrant merely because time permits."
+        }
+      ]
+    },
+    {
+      "id": "13-warrantless-felony-arrest",
+      "title": "13. Warrantless Felony Arrest",
+      "body": [
+        "Police may arrest without a warrant when they have probable cause to believe the person committed a felony.",
+        "A private citizen traditionally may arrest only when:",
+        "A felony actually occurred",
+        "The citizen reasonably believes the arrested person committed it"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may arrest without a warrant when they have probable cause to believe the person committed a felony."
+        },
+        {
+          "type": "paragraph",
+          "text": "A private citizen traditionally may arrest only when:"
+        },
+        {
+          "type": "compact",
+          "text": "A felony actually occurred"
+        },
+        {
+          "type": "compact",
+          "text": "The citizen reasonably believes the arrested person committed it"
+        }
+      ]
+    },
+    {
+      "id": "14-warrantless-misdemeanor-arrest",
+      "title": "14. Warrantless Misdemeanor Arrest",
+      "body": [
+        "At common law, the misdemeanor generally must occur in the arresting person’s presence.",
+        "The Fourth Amendment permits a custodial arrest even for a fine-only offense when probable cause and applicable arrest authority exist."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "At common law, the misdemeanor generally must occur in the arresting person’s presence."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Fourth Amendment permits a custodial arrest even for a fine-only offense when probable cause and applicable arrest authority exist."
+        }
+      ]
+    },
+    {
+      "id": "15-effect-of-an-illegal-arrest",
+      "title": "15. Effect of an Illegal Arrest",
+      "body": [
+        "An illegal arrest does not itself prevent prosecution.",
+        "However, evidence obtained because of the illegal arrest may be suppressed.",
+        "A later confession is analyzed for:",
+        "Voluntariness",
+        "Miranda compliance",
+        "Attenuation from the unlawful arrest"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An illegal arrest does not itself prevent prosecution."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, evidence obtained because of the illegal arrest may be suppressed."
+        },
+        {
+          "type": "paragraph",
+          "text": "A later confession is analyzed for:"
+        },
+        {
+          "type": "compact",
+          "text": "Voluntariness"
+        },
+        {
+          "type": "compact",
+          "text": "Miranda compliance"
+        },
+        {
+          "type": "compact",
+          "text": "Attenuation from the unlawful arrest"
+        }
+      ]
+    },
+    {
+      "id": "16-what-is-a-search",
+      "title": "16. What Is a Search?",
+      "body": [
+        "A search occurs when the government:",
+        "Violates a reasonable expectation of privacy, or",
+        "Physically intrudes on a protected person, house, paper, or effect to obtain information",
+        "The second theory is sometimes called the property-based or trespass approach."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A search occurs when the government:"
+        },
+        {
+          "type": "compact",
+          "text": "Violates a reasonable expectation of privacy, or"
+        },
+        {
+          "type": "compact",
+          "text": "Physically intrudes on a protected person, house, paper, or effect to obtain information"
+        },
+        {
+          "type": "paragraph",
+          "text": "The second theory is sometimes called the property-based or trespass approach."
+        }
+      ]
+    },
+    {
+      "id": "17-reasonable-expectation-of-privacy",
+      "title": "17. Reasonable Expectation of Privacy",
+      "body": [
+        "Ask:",
+        "Did the person actually expect privacy?",
+        "Is that expectation one society recognizes as reasonable?",
+        "A defendant must establish both."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ask:"
+        },
+        {
+          "type": "compact",
+          "text": "Did the person actually expect privacy?"
+        },
+        {
+          "type": "compact",
+          "text": "Is that expectation one society recognizes as reasonable?"
+        },
+        {
+          "type": "paragraph",
+          "text": "A defendant must establish both."
+        }
+      ]
+    },
+    {
+      "id": "18-the-home",
+      "title": "18. The Home",
+      "body": [
+        "The home receives the highest Fourth Amendment protection.",
+        "Protection generally includes:",
+        "Owners",
+        "Tenants",
+        "Dormitory occupants",
+        "Overnight guests",
+        "A person temporarily present solely for a short illegal business transaction may lack a reasonable expectation of privacy."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The home receives the highest Fourth Amendment protection."
+        },
+        {
+          "type": "paragraph",
+          "text": "Protection generally includes:"
+        },
+        {
+          "type": "compact",
+          "text": "Owners"
+        },
+        {
+          "type": "compact",
+          "text": "Tenants"
+        },
+        {
+          "type": "compact",
+          "text": "Dormitory occupants"
+        },
+        {
+          "type": "compact",
+          "text": "Overnight guests"
+        },
+        {
+          "type": "paragraph",
+          "text": "A person temporarily present solely for a short illegal business transaction may lack a reasonable expectation of privacy."
+        }
+      ]
+    },
+    {
+      "id": "19-curtilage",
+      "title": "19. Curtilage",
+      "body": [
+        "Curtilage is the area immediately associated with domestic life.",
+        "Consider:",
+        "Proximity to the home",
+        "Inclusion within the home’s enclosure",
+        "Domestic use",
+        "Steps taken to shield the area from observation",
+        "Memory line: Near, enclosed, domestic, protected."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Curtilage is the area immediately associated with domestic life."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consider:"
+        },
+        {
+          "type": "compact",
+          "text": "Proximity to the home"
+        },
+        {
+          "type": "compact",
+          "text": "Inclusion within the home’s enclosure"
+        },
+        {
+          "type": "compact",
+          "text": "Domestic use"
+        },
+        {
+          "type": "compact",
+          "text": "Steps taken to shield the area from observation"
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Near, enclosed, domestic, protected."
+        }
+      ]
+    },
+    {
+      "id": "20-open-fields",
+      "title": "20. Open Fields",
+      "body": [
+        "Land outside the curtilage is not protected by the open-fields doctrine.",
+        "This remains true even if the land is:",
+        "Privately owned",
+        "Fenced",
+        "Posted with “No Trespassing” signs",
+        "Hidden from public view"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Land outside the curtilage is not protected by the open-fields doctrine."
+        },
+        {
+          "type": "paragraph",
+          "text": "This remains true even if the land is:"
+        },
+        {
+          "type": "compact",
+          "text": "Privately owned"
+        },
+        {
+          "type": "compact",
+          "text": "Fenced"
+        },
+        {
+          "type": "compact",
+          "text": "Posted with “No Trespassing” signs"
+        },
+        {
+          "type": "compact",
+          "text": "Hidden from public view"
+        }
+      ]
+    },
+    {
+      "id": "21-hotel-and-motel-rooms",
+      "title": "21. Hotel and Motel Rooms",
+      "body": [
+        "A registered guest ordinarily has a reasonable expectation of privacy during the rental period.",
+        "A clerk cannot consent to a police search while the room remains validly occupied.",
+        "Privacy generally ends after checkout or lawful eviction."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A registered guest ordinarily has a reasonable expectation of privacy during the rental period."
+        },
+        {
+          "type": "paragraph",
+          "text": "A clerk cannot consent to a police search while the room remains validly occupied."
+        },
+        {
+          "type": "paragraph",
+          "text": "Privacy generally ends after checkout or lawful eviction."
+        }
+      ]
+    },
+    {
+      "id": "22-businesses-and-prisons",
+      "title": "22. Businesses and Prisons",
+      "body": [
+        "Business premises receive Fourth Amendment protection, subject to administrative-search rules.",
+        "A convicted prisoner has no reasonable expectation of privacy in a prison cell.",
+        "Pretrial detainees have limited privacy subject to institutional security needs."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Business premises receive Fourth Amendment protection, subject to administrative-search rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "A convicted prisoner has no reasonable expectation of privacy in a prison cell."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pretrial detainees have limited privacy subject to institutional security needs."
+        }
+      ]
+    },
+    {
+      "id": "23-papers-luggage-and-containers",
+      "title": "23. Papers, Luggage, and Containers",
+      "body": [
+        "People generally have privacy in:",
+        "Closed luggage",
+        "Sealed containers",
+        "Personal papers",
+        "Digital devices",
+        "Exploratory physical manipulation of luggage may be a search.",
+        "Odors exposed to the public generally are not protected."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "People generally have privacy in:"
+        },
+        {
+          "type": "compact",
+          "text": "Closed luggage"
+        },
+        {
+          "type": "compact",
+          "text": "Sealed containers"
+        },
+        {
+          "type": "compact",
+          "text": "Personal papers"
+        },
+        {
+          "type": "compact",
+          "text": "Digital devices"
+        },
+        {
+          "type": "paragraph",
+          "text": "Exploratory physical manipulation of luggage may be a search."
+        },
+        {
+          "type": "paragraph",
+          "text": "Odors exposed to the public generally are not protected."
+        }
+      ]
+    },
+    {
+      "id": "24-third-party-doctrine",
+      "title": "24. Third-Party Doctrine",
+      "body": [
+        "A person traditionally assumes the risk that information voluntarily given to a third party will be disclosed to government.",
+        "Examples include some:",
+        "Bank records",
+        "Business records",
+        "Information shared with informants",
+        "However, collection of extensive historical cell-site location information generally requires a warrant."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A person traditionally assumes the risk that information voluntarily given to a third party will be disclosed to government."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples include some:"
+        },
+        {
+          "type": "compact",
+          "text": "Bank records"
+        },
+        {
+          "type": "compact",
+          "text": "Business records"
+        },
+        {
+          "type": "compact",
+          "text": "Information shared with informants"
+        },
+        {
+          "type": "paragraph",
+          "text": "However, collection of extensive historical cell-site location information generally requires a warrant."
+        }
+      ]
+    },
+    {
+      "id": "25-automobiles",
+      "title": "25. Automobiles",
+      "body": [
+        "There is a reduced expectation of privacy in automobiles because they are mobile and heavily regulated.",
+        "A lawful possessor may have privacy even if not listed on a rental agreement.",
+        "A stop of a vehicle seizes:",
+        "The driver",
+        "Every passenger"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There is a reduced expectation of privacy in automobiles because they are mobile and heavily regulated."
+        },
+        {
+          "type": "paragraph",
+          "text": "A lawful possessor may have privacy even if not listed on a rental agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "A stop of a vehicle seizes:"
+        },
+        {
+          "type": "compact",
+          "text": "The driver"
+        },
+        {
+          "type": "compact",
+          "text": "Every passenger"
+        }
+      ]
+    },
+    {
+      "id": "26-checkpoints",
+      "title": "26. Checkpoints",
+      "body": [
+        "Suspicionless vehicle checkpoints may be valid when:",
+        "Neutral standards govern the stops",
+        "The purpose is closely related to roadway safety or border control",
+        "The intrusion is limited",
+        "Examples usually permitted:",
+        "Sobriety checkpoints",
+        "Fixed immigration checkpoints",
+        "Checkpoints seeking public assistance about a recent crime",
+        "A checkpoint whose primary purpose is ordinary drug interdiction is generally invalid."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Suspicionless vehicle checkpoints may be valid when:"
+        },
+        {
+          "type": "compact",
+          "text": "Neutral standards govern the stops"
+        },
+        {
+          "type": "compact",
+          "text": "The purpose is closely related to roadway safety or border control"
+        },
+        {
+          "type": "compact",
+          "text": "The intrusion is limited"
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples usually permitted:"
+        },
+        {
+          "type": "compact",
+          "text": "Sobriety checkpoints"
+        },
+        {
+          "type": "compact",
+          "text": "Fixed immigration checkpoints"
+        },
+        {
+          "type": "compact",
+          "text": "Checkpoints seeking public assistance about a recent crime"
+        },
+        {
+          "type": "paragraph",
+          "text": "A checkpoint whose primary purpose is ordinary drug interdiction is generally invalid."
+        }
+      ]
+    },
+    {
+      "id": "27-abandoned-property",
+      "title": "27. Abandoned Property",
+      "body": [
+        "There is no reasonable expectation of privacy in abandoned property.",
+        "Examples may include:",
+        "Garbage left for curbside collection",
+        "Property intentionally discarded during flight before seizure",
+        "Items clearly relinquished",
+        "Abandonment must be voluntary and judged objectively."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There is no reasonable expectation of privacy in abandoned property."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples may include:"
+        },
+        {
+          "type": "compact",
+          "text": "Garbage left for curbside collection"
+        },
+        {
+          "type": "compact",
+          "text": "Property intentionally discarded during flight before seizure"
+        },
+        {
+          "type": "compact",
+          "text": "Items clearly relinquished"
+        },
+        {
+          "type": "paragraph",
+          "text": "Abandonment must be voluntary and judged objectively."
+        }
+      ]
+    },
+    {
+      "id": "28-physical-characteristics",
+      "title": "28. Physical Characteristics",
+      "body": [
+        "The Fifth Amendment does not protect physical characteristics, and a person generally lacks privacy in visible or identifying traits.",
+        "Police may often compel:",
+        "Voice samples",
+        "Handwriting samples",
+        "Fingerprints",
+        "Lineup participation",
+        "Taking blood, urine, hair, or DNA is a search and must be reasonable under the Fourth Amendment."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Fifth Amendment does not protect physical characteristics, and a person generally lacks privacy in visible or identifying traits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Police may often compel:"
+        },
+        {
+          "type": "compact",
+          "text": "Voice samples"
+        },
+        {
+          "type": "compact",
+          "text": "Handwriting samples"
+        },
+        {
+          "type": "compact",
+          "text": "Fingerprints"
+        },
+        {
+          "type": "compact",
+          "text": "Lineup participation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Taking blood, urine, hair, or DNA is a search and must be reasonable under the Fourth Amendment."
+        }
+      ]
+    },
+    {
+      "id": "29-dna-booking-searches",
+      "title": "29. DNA Booking Searches",
+      "body": [
+        "After a lawful arrest supported by probable cause for a serious offense, a cheek swab may be a reasonable routine booking procedure.",
+        "The government may retain and compare the DNA profile."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "After a lawful arrest supported by probable cause for a serious offense, a cheek swab may be a reasonable routine booking procedure."
+        },
+        {
+          "type": "paragraph",
+          "text": "The government may retain and compare the DNA profile."
+        }
+      ]
+    },
+    {
+      "id": "30-blood-and-breath-tests",
+      "title": "30. Blood and Breath Tests",
+      "body": [
+        "A blood draw is a significant search and usually requires a warrant unless an exception applies.",
+        "A breath test incident to a lawful drunk-driving arrest generally may be required without a warrant.",
+        "Natural dissipation of alcohol does not automatically create an exigency for every blood draw."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A blood draw is a significant search and usually requires a warrant unless an exception applies."
+        },
+        {
+          "type": "paragraph",
+          "text": "A breath test incident to a lawful drunk-driving arrest generally may be required without a warrant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Natural dissipation of alcohol does not automatically create an exigency for every blood draw."
+        }
+      ]
+    },
+    {
+      "id": "31-informants-and-recorded-conversations",
+      "title": "31. Informants and Recorded Conversations",
+      "body": [
+        "A speaker assumes the risk that the listener is:",
+        "An informant",
+        "An undercover officer",
+        "Recording the conversation",
+        "Transmitting it to police",
+        "One-party consent to monitoring generally defeats the other speaker’s Fourth Amendment claim."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A speaker assumes the risk that the listener is:"
+        },
+        {
+          "type": "compact",
+          "text": "An informant"
+        },
+        {
+          "type": "compact",
+          "text": "An undercover officer"
+        },
+        {
+          "type": "compact",
+          "text": "Recording the conversation"
+        },
+        {
+          "type": "compact",
+          "text": "Transmitting it to police"
+        },
+        {
+          "type": "paragraph",
+          "text": "One-party consent to monitoring generally defeats the other speaker’s Fourth Amendment claim."
+        }
+      ]
+    },
+    {
+      "id": "32-aerial-observation",
+      "title": "32. Aerial Observation",
+      "body": [
+        "Observation from lawful public airspace generally is not a search when the public could lawfully observe from that altitude.",
+        "Physical intrusion or unusually invasive surveillance may change the result."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Observation from lawful public airspace generally is not a search when the public could lawfully observe from that altitude."
+        },
+        {
+          "type": "paragraph",
+          "text": "Physical intrusion or unusually invasive surveillance may change the result."
+        }
+      ]
+    },
+    {
+      "id": "33-technology-and-tracking",
+      "title": "33. Technology and Tracking",
+      "body": [
+        "A search may occur when police:",
+        "Physically attach a GPS tracker to a suspect’s property",
+        "Attach a tracking device to a person",
+        "Obtain extensive historical cell-site location data",
+        "Use uncommon sense-enhancing technology to learn details inside a home",
+        "Ordinary tools such as flashlights generally do not create a search."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A search may occur when police:"
+        },
+        {
+          "type": "compact",
+          "text": "Physically attach a GPS tracker to a suspect’s property"
+        },
+        {
+          "type": "compact",
+          "text": "Attach a tracking device to a person"
+        },
+        {
+          "type": "compact",
+          "text": "Obtain extensive historical cell-site location data"
+        },
+        {
+          "type": "compact",
+          "text": "Use uncommon sense-enhancing technology to learn details inside a home"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ordinary tools such as flashlights generally do not create a search."
+        }
+      ]
+    },
+    {
+      "id": "34-thermal-imaging",
+      "title": "34. Thermal Imaging",
+      "body": [
+        "Using technology not in general public use to obtain information about the interior of a home that otherwise would require physical intrusion is a search.",
+        "Memory line: Advanced technology aimed inside the home usually requires a warrant."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Using technology not in general public use to obtain information about the interior of a home that otherwise would require physical intrusion is a search."
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Advanced technology aimed inside the home usually requires a warrant."
+        }
+      ]
+    },
+    {
+      "id": "35-dog-sniffs",
+      "title": "35. Dog Sniffs",
+      "body": [
+        "A dog sniff in a lawful public setting generally is not a search because it reveals only the presence or absence of contraband.",
+        "But bringing a drug-sniffing dog onto a home’s porch or curtilage to investigate the home is a search.",
+        "A dog sniff may not prolong a completed traffic stop without reasonable suspicion."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A dog sniff in a lawful public setting generally is not a search because it reveals only the presence or absence of contraband."
+        },
+        {
+          "type": "paragraph",
+          "text": "But bringing a drug-sniffing dog onto a home’s porch or curtilage to investigate the home is a search."
+        },
+        {
+          "type": "paragraph",
+          "text": "A dog sniff may not prolong a completed traffic stop without reasonable suspicion."
+        }
+      ]
+    },
+    {
+      "id": "36-search-warrants",
+      "title": "36. Search Warrants",
+      "body": [
+        "A valid search warrant requires:",
+        "Neutral and detached magistrate",
+        "Probable cause",
+        "Oath or affirmation",
+        "Particularity",
+        "Proper execution"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A valid search warrant requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Neutral and detached magistrate"
+        },
+        {
+          "type": "compact",
+          "text": "Probable cause"
+        },
+        {
+          "type": "compact",
+          "text": "Oath or affirmation"
+        },
+        {
+          "type": "compact",
+          "text": "Particularity"
+        },
+        {
+          "type": "compact",
+          "text": "Proper execution"
+        }
+      ]
+    },
+    {
+      "id": "37-probable-cause-to-search",
+      "title": "37. Probable Cause to Search",
+      "body": [
+        "Probable cause exists when the totality of circumstances creates a fair probability that evidence or contraband will be found in the place searched.",
+        "Probable cause is more than reasonable suspicion but less than certainty."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Probable cause exists when the totality of circumstances creates a fair probability that evidence or contraband will be found in the place searched."
+        },
+        {
+          "type": "paragraph",
+          "text": "Probable cause is more than reasonable suspicion but less than certainty."
+        }
+      ]
+    },
+    {
+      "id": "38-informant-tips",
+      "title": "38. Informant Tips",
+      "body": [
+        "Informant reliability is evaluated under the totality of circumstances.",
+        "Relevant factors include:",
+        "Past reliability",
+        "Basis of knowledge",
+        "Detail",
+        "Predictive information",
+        "Police corroboration",
+        "Statement against interest",
+        "No single factor is mandatory."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Informant reliability is evaluated under the totality of circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Relevant factors include:"
+        },
+        {
+          "type": "compact",
+          "text": "Past reliability"
+        },
+        {
+          "type": "compact",
+          "text": "Basis of knowledge"
+        },
+        {
+          "type": "compact",
+          "text": "Detail"
+        },
+        {
+          "type": "compact",
+          "text": "Predictive information"
+        },
+        {
+          "type": "compact",
+          "text": "Police corroboration"
+        },
+        {
+          "type": "compact",
+          "text": "Statement against interest"
+        },
+        {
+          "type": "paragraph",
+          "text": "No single factor is mandatory."
+        }
+      ]
+    },
+    {
+      "id": "39-franks-challenge",
+      "title": "39. Franks Challenge",
+      "body": [
+        "A defendant may challenge a facially valid warrant affidavit by showing:",
+        "The affiant knowingly, intentionally, or recklessly included a false statement or material omission",
+        "The falsehood or omission was necessary to probable cause",
+        "If corrected probable cause remains, suppression is denied."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A defendant may challenge a facially valid warrant affidavit by showing:"
+        },
+        {
+          "type": "compact",
+          "text": "The affiant knowingly, intentionally, or recklessly included a false statement or material omission"
+        },
+        {
+          "type": "compact",
+          "text": "The falsehood or omission was necessary to probable cause"
+        },
+        {
+          "type": "paragraph",
+          "text": "If corrected probable cause remains, suppression is denied."
+        }
+      ]
+    },
+    {
+      "id": "40-particularity",
+      "title": "40. Particularity",
+      "body": [
+        "A warrant must particularly describe:",
+        "The place to search",
+        "The persons or things to seize",
+        "A supporting affidavit may cure ambiguity only when properly incorporated and accompanying the warrant.",
+        "A warrant cannot authorize a general exploratory search."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A warrant must particularly describe:"
+        },
+        {
+          "type": "compact",
+          "text": "The place to search"
+        },
+        {
+          "type": "compact",
+          "text": "The persons or things to seize"
+        },
+        {
+          "type": "paragraph",
+          "text": "A supporting affidavit may cure ambiguity only when properly incorporated and accompanying the warrant."
+        },
+        {
+          "type": "paragraph",
+          "text": "A warrant cannot authorize a general exploratory search."
+        }
+      ]
+    },
+    {
+      "id": "41-anticipatory-warrants",
+      "title": "41. Anticipatory Warrants",
+      "body": [
+        "An anticipatory warrant is valid when probable cause exists to believe:",
+        "A triggering condition will occur",
+        "Once it occurs, evidence will be at the location"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An anticipatory warrant is valid when probable cause exists to believe:"
+        },
+        {
+          "type": "compact",
+          "text": "A triggering condition will occur"
+        },
+        {
+          "type": "compact",
+          "text": "Once it occurs, evidence will be at the location"
+        }
+      ]
+    },
+    {
+      "id": "42-execution-of-warrants",
+      "title": "42. Execution of Warrants",
+      "body": [
+        "A warrant generally must be:",
+        "Executed by authorized government officers",
+        "Executed while probable cause remains fresh",
+        "Limited to places where the listed items could be found",
+        "Ended once the authorized search is complete"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A warrant generally must be:"
+        },
+        {
+          "type": "compact",
+          "text": "Executed by authorized government officers"
+        },
+        {
+          "type": "compact",
+          "text": "Executed while probable cause remains fresh"
+        },
+        {
+          "type": "compact",
+          "text": "Limited to places where the listed items could be found"
+        },
+        {
+          "type": "compact",
+          "text": "Ended once the authorized search is complete"
+        }
+      ]
+    },
+    {
+      "id": "43-knock-and-announce",
+      "title": "43. Knock and Announce",
+      "body": [
+        "Police ordinarily must announce identity and purpose before forcible entry.",
+        "Exceptions may apply when officers reasonably fear:",
+        "Violence",
+        "Escape",
+        "Destruction of evidence",
+        "Violation of knock-and-announce generally does not require suppression when the search was otherwise valid."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police ordinarily must announce identity and purpose before forcible entry."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exceptions may apply when officers reasonably fear:"
+        },
+        {
+          "type": "compact",
+          "text": "Violence"
+        },
+        {
+          "type": "compact",
+          "text": "Escape"
+        },
+        {
+          "type": "compact",
+          "text": "Destruction of evidence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Violation of knock-and-announce generally does not require suppression when the search was otherwise valid."
+        }
+      ]
+    },
+    {
+      "id": "44-persons-present-during-a-search",
+      "title": "44. Persons Present During a Search",
+      "body": [
+        "A premises warrant does not automatically authorize searching everyone present.",
+        "Police need independent justification to search an unnamed person.",
+        "However, occupants in the immediate vicinity may be reasonably detained during execution of a valid search warrant."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A premises warrant does not automatically authorize searching everyone present."
+        },
+        {
+          "type": "paragraph",
+          "text": "Police need independent justification to search an unnamed person."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, occupants in the immediate vicinity may be reasonably detained during execution of a valid search warrant."
+        }
+      ]
+    },
+    {
+      "id": "45-warrant-exceptions-overview",
+      "title": "45. Warrant Exceptions Overview",
+      "body": [
+        "Use ESCAPIST:",
+        "Exigent circumstances",
+        "Search incident to arrest",
+        "Consent",
+        "Automobile",
+        "Plain view",
+        "Inventory and administrative searches",
+        "Stop and frisk",
+        "Temporary special-needs and border searches"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use ESCAPIST:"
+        },
+        {
+          "type": "compact",
+          "text": "Exigent circumstances"
+        },
+        {
+          "type": "compact",
+          "text": "Search incident to arrest"
+        },
+        {
+          "type": "compact",
+          "text": "Consent"
+        },
+        {
+          "type": "compact",
+          "text": "Automobile"
+        },
+        {
+          "type": "compact",
+          "text": "Plain view"
+        },
+        {
+          "type": "compact",
+          "text": "Inventory and administrative searches"
+        },
+        {
+          "type": "compact",
+          "text": "Stop and frisk"
+        },
+        {
+          "type": "compact",
+          "text": "Temporary special-needs and border searches"
+        }
+      ]
+    },
+    {
+      "id": "46-search-incident-to-lawful-arrest",
+      "title": "46. Search Incident to Lawful Arrest",
+      "body": [
+        "After a lawful custodial arrest, police may search:",
+        "The arrestee’s person",
+        "Clothing",
+        "Containers immediately associated with the person",
+        "The area within immediate control",
+        "The search must be substantially contemporaneous with the arrest.",
+        "A citation without arrest does not justify a full search incident to arrest."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "After a lawful custodial arrest, police may search:"
+        },
+        {
+          "type": "compact",
+          "text": "The arrestee’s person"
+        },
+        {
+          "type": "compact",
+          "text": "Clothing"
+        },
+        {
+          "type": "compact",
+          "text": "Containers immediately associated with the person"
+        },
+        {
+          "type": "compact",
+          "text": "The area within immediate control"
+        },
+        {
+          "type": "paragraph",
+          "text": "The search must be substantially contemporaneous with the arrest."
+        },
+        {
+          "type": "paragraph",
+          "text": "A citation without arrest does not justify a full search incident to arrest."
+        }
+      ]
+    },
+    {
+      "id": "47-chimel-wingspan",
+      "title": "47. Chimel Wingspan",
+      "body": [
+        "Police may search the area from which the arrestee might obtain:",
+        "A weapon",
+        "Destructible evidence",
+        "Once the arrestee cannot access an area, other exceptions must justify searching it."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may search the area from which the arrestee might obtain:"
+        },
+        {
+          "type": "compact",
+          "text": "A weapon"
+        },
+        {
+          "type": "compact",
+          "text": "Destructible evidence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Once the arrestee cannot access an area, other exceptions must justify searching it."
+        }
+      ]
+    },
+    {
+      "id": "48-cell-phones-incident-to-arrest",
+      "title": "48. Cell Phones Incident to Arrest",
+      "body": [
+        "Police generally may seize a cell phone but need a warrant to search its digital contents.",
+        "Exigent circumstances may justify immediate access in an emergency."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police generally may seize a cell phone but need a warrant to search its digital contents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exigent circumstances may justify immediate access in an emergency."
+        }
+      ]
+    },
+    {
+      "id": "49-protective-sweep",
+      "title": "49. Protective Sweep",
+      "body": [
+        "During an in-home arrest, officers may inspect immediately adjoining spaces where an attacker could hide.",
+        "A broader sweep requires reasonable suspicion that a dangerous person is present.",
+        "A protective sweep is limited to spaces large enough to conceal a person."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "During an in-home arrest, officers may inspect immediately adjoining spaces where an attacker could hide."
+        },
+        {
+          "type": "paragraph",
+          "text": "A broader sweep requires reasonable suspicion that a dangerous person is present."
+        },
+        {
+          "type": "paragraph",
+          "text": "A protective sweep is limited to spaces large enough to conceal a person."
+        }
+      ]
+    },
+    {
+      "id": "50-vehicle-search-incident-to-arrest",
+      "title": "50. Vehicle Search Incident to Arrest",
+      "body": [
+        "Police may search the passenger compartment incident to arrest only when:",
+        "The arrestee can access the passenger compartment at the time of the search, or",
+        "It is reasonable to believe evidence of the offense of arrest is inside",
+        "Memory line: Access or arrest-offense evidence."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may search the passenger compartment incident to arrest only when:"
+        },
+        {
+          "type": "compact",
+          "text": "The arrestee can access the passenger compartment at the time of the search, or"
+        },
+        {
+          "type": "compact",
+          "text": "It is reasonable to believe evidence of the offense of arrest is inside"
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Access or arrest-offense evidence."
+        }
+      ]
+    },
+    {
+      "id": "51-exigent-circumstances",
+      "title": "51. Exigent Circumstances",
+      "body": [
+        "Warrantless entry may be justified by probable cause plus an emergency such as:",
+        "Hot pursuit",
+        "Immediate threat to safety",
+        "Imminent destruction of evidence",
+        "Likely escape",
+        "Emergency aid",
+        "The scope must match the emergency."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Warrantless entry may be justified by probable cause plus an emergency such as:"
+        },
+        {
+          "type": "compact",
+          "text": "Hot pursuit"
+        },
+        {
+          "type": "compact",
+          "text": "Immediate threat to safety"
+        },
+        {
+          "type": "compact",
+          "text": "Imminent destruction of evidence"
+        },
+        {
+          "type": "compact",
+          "text": "Likely escape"
+        },
+        {
+          "type": "compact",
+          "text": "Emergency aid"
+        },
+        {
+          "type": "paragraph",
+          "text": "The scope must match the emergency."
+        }
+      ]
+    },
+    {
+      "id": "52-police-created-exigency",
+      "title": "52. Police-Created Exigency",
+      "body": [
+        "Police may rely on an exigency unless they created it by engaging in or threatening conduct that itself violates the Fourth Amendment.",
+        "Lawful knocking and announcing does not improperly create an exigency merely because occupants begin destroying evidence."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may rely on an exigency unless they created it by engaging in or threatening conduct that itself violates the Fourth Amendment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lawful knocking and announcing does not improperly create an exigency merely because occupants begin destroying evidence."
+        }
+      ]
+    },
+    {
+      "id": "53-hot-pursuit",
+      "title": "53. Hot Pursuit",
+      "body": [
+        "Hot pursuit of a fleeing felon generally permits entry into a home.",
+        "Pursuit of a misdemeanor suspect does not automatically justify home entry; courts examine the totality of circumstances and seriousness of the offense.",
+        "A minor nonjailable offense rarely supports warrantless home entry."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hot pursuit of a fleeing felon generally permits entry into a home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pursuit of a misdemeanor suspect does not automatically justify home entry; courts examine the totality of circumstances and seriousness of the offense."
+        },
+        {
+          "type": "paragraph",
+          "text": "A minor nonjailable offense rarely supports warrantless home entry."
+        }
+      ]
+    },
+    {
+      "id": "54-emergency-aid",
+      "title": "54. Emergency Aid",
+      "body": [
+        "Police may enter when objectively reasonable facts indicate an occupant needs immediate aid or protection.",
+        "The officer’s subjective investigative motive is not controlling."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may enter when objectively reasonable facts indicate an occupant needs immediate aid or protection."
+        },
+        {
+          "type": "paragraph",
+          "text": "The officer’s subjective investigative motive is not controlling."
+        }
+      ]
+    },
+    {
+      "id": "55-terry-stop",
+      "title": "55. Terry Stop",
+      "body": [
+        "A Terry stop is a brief investigative detention supported by reasonable suspicion that criminal activity is occurring or has occurred.",
+        "Reasonable suspicion requires:",
+        "Specific and articulable facts",
+        "Rational inferences",
+        "More than a hunch",
+        "Less than probable cause"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Terry stop is a brief investigative detention supported by reasonable suspicion that criminal activity is occurring or has occurred."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reasonable suspicion requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Specific and articulable facts"
+        },
+        {
+          "type": "compact",
+          "text": "Rational inferences"
+        },
+        {
+          "type": "compact",
+          "text": "More than a hunch"
+        },
+        {
+          "type": "compact",
+          "text": "Less than probable cause"
+        }
+      ]
+    },
+    {
+      "id": "56-informant-tips-and-reasonable-suspicion",
+      "title": "56. Informant Tips and Reasonable Suspicion",
+      "body": [
+        "An anonymous tip may support a stop when sufficiently reliable through:",
+        "Detailed description",
+        "Predictive information",
+        "Contemporaneous reporting",
+        "Use of emergency systems such as 911",
+        "Police corroboration"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An anonymous tip may support a stop when sufficiently reliable through:"
+        },
+        {
+          "type": "compact",
+          "text": "Detailed description"
+        },
+        {
+          "type": "compact",
+          "text": "Predictive information"
+        },
+        {
+          "type": "compact",
+          "text": "Contemporaneous reporting"
+        },
+        {
+          "type": "compact",
+          "text": "Use of emergency systems such as 911"
+        },
+        {
+          "type": "compact",
+          "text": "Police corroboration"
+        }
+      ]
+    },
+    {
+      "id": "57-flight-and-high-crime-areas",
+      "title": "57. Flight and High-Crime Areas",
+      "body": [
+        "Presence in a high-crime area alone is insufficient.",
+        "Unprovoked flight upon seeing police, combined with surrounding circumstances, may create reasonable suspicion."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Presence in a high-crime area alone is insufficient."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unprovoked flight upon seeing police, combined with surrounding circumstances, may create reasonable suspicion."
+        }
+      ]
+    },
+    {
+      "id": "58-reasonable-mistake-of-law",
+      "title": "58. Reasonable Mistake of Law",
+      "body": [
+        "A reasonable police mistake about an ambiguous law may support reasonable suspicion.",
+        "An unreasonable legal mistake cannot."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A reasonable police mistake about an ambiguous law may support reasonable suspicion."
+        },
+        {
+          "type": "paragraph",
+          "text": "An unreasonable legal mistake cannot."
+        }
+      ]
+    },
+    {
+      "id": "59-terry-frisk",
+      "title": "59. Terry Frisk",
+      "body": [
+        "A frisk requires reasonable suspicion that the stopped person is armed and dangerous.",
+        "The frisk is a limited pat-down for weapons, not a general evidence search."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A frisk requires reasonable suspicion that the stopped person is armed and dangerous."
+        },
+        {
+          "type": "paragraph",
+          "text": "The frisk is a limited pat-down for weapons, not a general evidence search."
+        }
+      ]
+    },
+    {
+      "id": "60-plain-feel",
+      "title": "60. Plain Feel",
+      "body": [
+        "During a lawful frisk, police may seize contraband when its identity is immediately apparent through lawful touch.",
+        "Officers may not manipulate the object to determine what it is."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "During a lawful frisk, police may seize contraband when its identity is immediately apparent through lawful touch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Officers may not manipulate the object to determine what it is."
+        }
+      ]
+    },
+    {
+      "id": "61-vehicle-protective-search",
+      "title": "61. Vehicle Protective Search",
+      "body": [
+        "During a lawful stop, police may search areas of the passenger compartment where weapons could be hidden if they reasonably believe the suspect is dangerous and may gain access to weapons.",
+        "This is different from a vehicle search incident to arrest."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "During a lawful stop, police may search areas of the passenger compartment where weapons could be hidden if they reasonably believe the suspect is dangerous and may gain access to weapons."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is different from a vehicle search incident to arrest."
+        }
+      ]
+    },
+    {
+      "id": "62-duration-of-a-terry-stop",
+      "title": "62. Duration of a Terry Stop",
+      "body": [
+        "A stop must last no longer than reasonably necessary to investigate the suspected offense.",
+        "Police must use reasonably efficient methods.",
+        "If detention becomes too long or intrusive, it becomes an arrest requiring probable cause."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A stop must last no longer than reasonably necessary to investigate the suspected offense."
+        },
+        {
+          "type": "paragraph",
+          "text": "Police must use reasonably efficient methods."
+        },
+        {
+          "type": "paragraph",
+          "text": "If detention becomes too long or intrusive, it becomes an arrest requiring probable cause."
+        }
+      ]
+    },
+    {
+      "id": "63-automobile-exception",
+      "title": "63. Automobile Exception",
+      "body": [
+        "Police may search a vehicle without a warrant when they have probable cause that it contains evidence or contraband.",
+        "They may search every location and container capable of holding the object sought.",
+        "The vehicle need not be searched immediately."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may search a vehicle without a warrant when they have probable cause that it contains evidence or contraband."
+        },
+        {
+          "type": "paragraph",
+          "text": "They may search every location and container capable of holding the object sought."
+        },
+        {
+          "type": "paragraph",
+          "text": "The vehicle need not be searched immediately."
+        }
+      ]
+    },
+    {
+      "id": "64-scope-of-automobile-probable-cause",
+      "title": "64. Scope of Automobile Probable Cause",
+      "body": [
+        "If probable cause concerns the entire vehicle, police may search the entire vehicle, including the trunk and locked containers.",
+        "If probable cause concerns only one specific container, police may search that container but not unrelated areas without additional probable cause."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If probable cause concerns the entire vehicle, police may search the entire vehicle, including the trunk and locked containers."
+        },
+        {
+          "type": "paragraph",
+          "text": "If probable cause concerns only one specific container, police may search that container but not unrelated areas without additional probable cause."
+        }
+      ]
+    },
+    {
+      "id": "65-passenger-belongings",
+      "title": "65. Passenger Belongings",
+      "body": [
+        "The automobile exception permits searching a passenger’s belongings if the container could hold the object for which police have vehicle-wide probable cause."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The automobile exception permits searching a passenger’s belongings if the container could hold the object for which police have vehicle-wide probable cause."
+        }
+      ]
+    },
+    {
+      "id": "66-automobile-exception-and-curtilage",
+      "title": "66. Automobile Exception and Curtilage",
+      "body": [
+        "The automobile exception does not permit officers to enter a home or its curtilage to reach a vehicle.",
+        "Police need another lawful basis for the entry."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The automobile exception does not permit officers to enter a home or its curtilage to reach a vehicle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Police need another lawful basis for the entry."
+        }
+      ]
+    },
+    {
+      "id": "67-pretextual-stops",
+      "title": "67. Pretextual Stops",
+      "body": [
+        "A traffic stop is valid when officers objectively have probable cause or reasonable suspicion of a traffic violation, even if their real motive is to investigate another crime."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A traffic stop is valid when officers objectively have probable cause or reasonable suspicion of a traffic violation, even if their real motive is to investigate another crime."
+        }
+      ]
+    },
+    {
+      "id": "68-plain-view",
+      "title": "68. Plain View",
+      "body": [
+        "Police may seize an item when:",
+        "They are lawfully present",
+        "They have lawful access to the item",
+        "Its incriminating nature is immediately apparent",
+        "Discovery need not be inadvertent."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may seize an item when:"
+        },
+        {
+          "type": "compact",
+          "text": "They are lawfully present"
+        },
+        {
+          "type": "compact",
+          "text": "They have lawful access to the item"
+        },
+        {
+          "type": "compact",
+          "text": "Its incriminating nature is immediately apparent"
+        },
+        {
+          "type": "paragraph",
+          "text": "Discovery need not be inadvertent."
+        }
+      ]
+    },
+    {
+      "id": "69-consent-searches",
+      "title": "69. Consent Searches",
+      "body": [
+        "Valid consent must be voluntary under the totality of circumstances.",
+        "Police need not tell the person that consent may be refused.",
+        "Consent obtained through a false claim of a warrant is invalid."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Valid consent must be voluntary under the totality of circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Police need not tell the person that consent may be refused."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consent obtained through a false claim of a warrant is invalid."
+        }
+      ]
+    },
+    {
+      "id": "70-scope-of-consent",
+      "title": "70. Scope of Consent",
+      "body": [
+        "The search may extend only as far as a reasonable officer would understand the consent.",
+        "Consent to search a car for small drugs generally includes containers capable of holding them.",
+        "The person may limit or withdraw consent."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The search may extend only as far as a reasonable officer would understand the consent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consent to search a car for small drugs generally includes containers capable of holding them."
+        },
+        {
+          "type": "paragraph",
+          "text": "The person may limit or withdraw consent."
+        }
+      ]
+    },
+    {
+      "id": "71-third-party-consent",
+      "title": "71. Third-Party Consent",
+      "body": [
+        "A third party may consent when the person has:",
+        "Actual common authority, or",
+        "Apparent authority reasonably believed by police",
+        "Common authority depends on joint access or control, not title alone."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A third party may consent when the person has:"
+        },
+        {
+          "type": "compact",
+          "text": "Actual common authority, or"
+        },
+        {
+          "type": "compact",
+          "text": "Apparent authority reasonably believed by police"
+        },
+        {
+          "type": "paragraph",
+          "text": "Common authority depends on joint access or control, not title alone."
+        }
+      ]
+    },
+    {
+      "id": "72-present-objecting-occupant",
+      "title": "72. Present Objecting Occupant",
+      "body": [
+        "When two occupants are physically present and one expressly refuses consent, police generally may not rely on the other occupant’s consent.",
+        "If the objector is lawfully removed for reasons unrelated to avoiding the objection, the remaining occupant may later consent."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When two occupants are physically present and one expressly refuses consent, police generally may not rely on the other occupant’s consent."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the objector is lawfully removed for reasons unrelated to avoiding the objection, the remaining occupant may later consent."
+        }
+      ]
+    },
+    {
+      "id": "73-landlords-hotel-staff-and-parents",
+      "title": "73. Landlords, Hotel Staff, and Parents",
+      "body": [
+        "A landlord ordinarily cannot consent to a search of a tenant’s private apartment.",
+        "Hotel staff cannot consent during a valid rental period.",
+        "A parent may often consent to a search of a child’s room, but authority over a locked private container may be absent."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A landlord ordinarily cannot consent to a search of a tenant’s private apartment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hotel staff cannot consent during a valid rental period."
+        },
+        {
+          "type": "paragraph",
+          "text": "A parent may often consent to a search of a child’s room, but authority over a locked private container may be absent."
+        }
+      ]
+    },
+    {
+      "id": "74-administrative-searches",
+      "title": "74. Administrative Searches",
+      "body": [
+        "Administrative warrants may issue under a lower probable-cause standard based on:",
+        "A reasonable regulatory plan",
+        "Area-wide inspection criteria",
+        "Evidence of a regulatory violation",
+        "Administrative searches cannot be used as a pretext for ordinary criminal investigation."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Administrative warrants may issue under a lower probable-cause standard based on:"
+        },
+        {
+          "type": "compact",
+          "text": "A reasonable regulatory plan"
+        },
+        {
+          "type": "compact",
+          "text": "Area-wide inspection criteria"
+        },
+        {
+          "type": "compact",
+          "text": "Evidence of a regulatory violation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Administrative searches cannot be used as a pretext for ordinary criminal investigation."
+        }
+      ]
+    },
+    {
+      "id": "75-closely-regulated-industries",
+      "title": "75. Closely Regulated Industries",
+      "body": [
+        "Warrantless inspections may be valid in closely regulated industries when the regulatory scheme:",
+        "Serves a substantial government interest",
+        "Is necessary to the regulatory scheme",
+        "Provides a constitutionally adequate substitute for a warrant"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Warrantless inspections may be valid in closely regulated industries when the regulatory scheme:"
+        },
+        {
+          "type": "compact",
+          "text": "Serves a substantial government interest"
+        },
+        {
+          "type": "compact",
+          "text": "Is necessary to the regulatory scheme"
+        },
+        {
+          "type": "compact",
+          "text": "Provides a constitutionally adequate substitute for a warrant"
+        }
+      ]
+    },
+    {
+      "id": "76-school-searches",
+      "title": "76. School Searches",
+      "body": [
+        "Public school officials may search a student when:",
+        "There is reasonable suspicion",
+        "The search is reasonably related to its objective",
+        "The search is not excessively intrusive considering age, sex, and suspected offense"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Public school officials may search a student when:"
+        },
+        {
+          "type": "compact",
+          "text": "There is reasonable suspicion"
+        },
+        {
+          "type": "compact",
+          "text": "The search is reasonably related to its objective"
+        },
+        {
+          "type": "compact",
+          "text": "The search is not excessively intrusive considering age, sex, and suspected offense"
+        }
+      ]
+    },
+    {
+      "id": "77-special-needs-searches",
+      "title": "77. Special-Needs Searches",
+      "body": [
+        "A suspicionless search may be valid when a real special need beyond ordinary law enforcement outweighs privacy interests.",
+        "Examples may include:",
+        "Safety-sensitive employee drug testing",
+        "Student-athlete testing",
+        "Certain probation and parole searches"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A suspicionless search may be valid when a real special need beyond ordinary law enforcement outweighs privacy interests."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples may include:"
+        },
+        {
+          "type": "compact",
+          "text": "Safety-sensitive employee drug testing"
+        },
+        {
+          "type": "compact",
+          "text": "Student-athlete testing"
+        },
+        {
+          "type": "compact",
+          "text": "Certain probation and parole searches"
+        }
+      ]
+    },
+    {
+      "id": "78-inventory-searches",
+      "title": "78. Inventory Searches",
+      "body": [
+        "Police may inventory lawfully impounded property to:",
+        "Protect property",
+        "Protect police from false claims",
+        "Protect officers and the public",
+        "The search must follow standardized procedures and cannot be a pretextual investigatory rummage."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may inventory lawfully impounded property to:"
+        },
+        {
+          "type": "compact",
+          "text": "Protect property"
+        },
+        {
+          "type": "compact",
+          "text": "Protect police from false claims"
+        },
+        {
+          "type": "compact",
+          "text": "Protect officers and the public"
+        },
+        {
+          "type": "paragraph",
+          "text": "The search must follow standardized procedures and cannot be a pretextual investigatory rummage."
+        }
+      ]
+    },
+    {
+      "id": "79-border-searches",
+      "title": "79. Border Searches",
+      "body": [
+        "Routine searches at the international border or its functional equivalent generally require no warrant or individualized suspicion.",
+        "Highly intrusive or nonroutine searches may require reasonable suspicion."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Routine searches at the international border or its functional equivalent generally require no warrant or individualized suspicion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Highly intrusive or nonroutine searches may require reasonable suspicion."
+        }
+      ]
+    },
+    {
+      "id": "80-wiretaps",
+      "title": "80. Wiretaps",
+      "body": [
+        "A wiretap warrant generally must:",
+        "Identify the suspected offense",
+        "Identify persons when known",
+        "Describe the communications",
+        "Be limited in duration",
+        "Include minimization and termination requirements",
+        "Rest on probable cause",
+        "One-party consensual monitoring does not require a wiretap warrant."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A wiretap warrant generally must:"
+        },
+        {
+          "type": "compact",
+          "text": "Identify the suspected offense"
+        },
+        {
+          "type": "compact",
+          "text": "Identify persons when known"
+        },
+        {
+          "type": "compact",
+          "text": "Describe the communications"
+        },
+        {
+          "type": "compact",
+          "text": "Be limited in duration"
+        },
+        {
+          "type": "compact",
+          "text": "Include minimization and termination requirements"
+        },
+        {
+          "type": "compact",
+          "text": "Rest on probable cause"
+        },
+        {
+          "type": "paragraph",
+          "text": "One-party consensual monitoring does not require a wiretap warrant."
+        }
+      ]
+    },
+    {
+      "id": "81-fruit-of-the-poisonous-tree",
+      "title": "81. Fruit of the Poisonous Tree",
+      "body": [
+        "The exclusionary rule may suppress:",
+        "Directly seized evidence",
+        "Derivative physical evidence",
+        "Later statements",
+        "Witnesses discovered through illegality",
+        "The defendant must show a causal connection to the constitutional violation."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The exclusionary rule may suppress:"
+        },
+        {
+          "type": "compact",
+          "text": "Directly seized evidence"
+        },
+        {
+          "type": "compact",
+          "text": "Derivative physical evidence"
+        },
+        {
+          "type": "compact",
+          "text": "Later statements"
+        },
+        {
+          "type": "compact",
+          "text": "Witnesses discovered through illegality"
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant must show a causal connection to the constitutional violation."
+        }
+      ]
+    },
+    {
+      "id": "82-inevitable-discovery",
+      "title": "82. Inevitable Discovery",
+      "body": [
+        "Evidence is admissible when the prosecution proves it would inevitably have been discovered through lawful means.",
+        "The lawful discovery process must be more than speculation."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Evidence is admissible when the prosecution proves it would inevitably have been discovered through lawful means."
+        },
+        {
+          "type": "paragraph",
+          "text": "The lawful discovery process must be more than speculation."
+        }
+      ]
+    },
+    {
+      "id": "83-independent-source",
+      "title": "83. Independent Source",
+      "body": [
+        "Evidence is admissible when obtained through a genuinely independent lawful source unconnected to the illegality."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Evidence is admissible when obtained through a genuinely independent lawful source unconnected to the illegality."
+        }
+      ]
+    },
+    {
+      "id": "84-attenuation",
+      "title": "84. Attenuation",
+      "body": [
+        "Evidence is admissible when the connection to the illegality becomes sufficiently remote.",
+        "Consider:",
+        "Time elapsed",
+        "Intervening circumstances",
+        "Purpose and flagrancy of police misconduct",
+        "Discovery of a valid outstanding arrest warrant may attenuate an unlawful stop."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Evidence is admissible when the connection to the illegality becomes sufficiently remote."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consider:"
+        },
+        {
+          "type": "compact",
+          "text": "Time elapsed"
+        },
+        {
+          "type": "compact",
+          "text": "Intervening circumstances"
+        },
+        {
+          "type": "compact",
+          "text": "Purpose and flagrancy of police misconduct"
+        },
+        {
+          "type": "paragraph",
+          "text": "Discovery of a valid outstanding arrest warrant may attenuate an unlawful stop."
+        }
+      ]
+    },
+    {
+      "id": "85-good-faith-exception",
+      "title": "85. Good-Faith Exception",
+      "body": [
+        "Evidence may be admitted when police objectively and reasonably rely on:",
+        "A facially valid warrant later invalidated",
+        "Binding law later overruled",
+        "Erroneous database information caused by isolated negligence"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Evidence may be admitted when police objectively and reasonably rely on:"
+        },
+        {
+          "type": "compact",
+          "text": "A facially valid warrant later invalidated"
+        },
+        {
+          "type": "compact",
+          "text": "Binding law later overruled"
+        },
+        {
+          "type": "compact",
+          "text": "Erroneous database information caused by isolated negligence"
+        }
+      ]
+    },
+    {
+      "id": "86-limits-on-good-faith",
+      "title": "86. Limits on Good Faith",
+      "body": [
+        "Good faith does not apply when:",
+        "The affidavit is so lacking in probable cause that reliance is unreasonable",
+        "The warrant is facially defective",
+        "The affiant knowingly or recklessly misled the magistrate",
+        "The magistrate abandoned neutrality",
+        "Police improperly execute the warrant"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Good faith does not apply when:"
+        },
+        {
+          "type": "compact",
+          "text": "The affidavit is so lacking in probable cause that reliance is unreasonable"
+        },
+        {
+          "type": "compact",
+          "text": "The warrant is facially defective"
+        },
+        {
+          "type": "compact",
+          "text": "The affiant knowingly or recklessly misled the magistrate"
+        },
+        {
+          "type": "compact",
+          "text": "The magistrate abandoned neutrality"
+        },
+        {
+          "type": "compact",
+          "text": "Police improperly execute the warrant"
+        }
+      ]
+    },
+    {
+      "id": "87-impeachment-use",
+      "title": "87. Impeachment Use",
+      "body": [
+        "Voluntary statements obtained in violation of Miranda may be used to impeach the defendant.",
+        "Illegally obtained physical evidence may sometimes be used for impeachment depending on the constitutional violation.",
+        "Coerced statements may never be used, even for impeachment."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Voluntary statements obtained in violation of Miranda may be used to impeach the defendant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Illegally obtained physical evidence may sometimes be used for impeachment depending on the constitutional violation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coerced statements may never be used, even for impeachment."
+        }
+      ]
+    },
+    {
+      "id": "88-privilege-against-self-incrimination",
+      "title": "88. Privilege Against Self-Incrimination",
+      "body": [
+        "PART II — FIFTH AMENDMENT",
+        "The Fifth Amendment protects a natural person from being compelled to provide testimonial evidence that may incriminate that person.",
+        "Use CTI:",
+        "Compelled",
+        "Testimonial",
+        "Incriminating"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "PART II — FIFTH AMENDMENT"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Fifth Amendment protects a natural person from being compelled to provide testimonial evidence that may incriminate that person."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use CTI:"
+        },
+        {
+          "type": "compact",
+          "text": "Compelled"
+        },
+        {
+          "type": "compact",
+          "text": "Testimonial"
+        },
+        {
+          "type": "compact",
+          "text": "Incriminating"
+        }
+      ]
+    },
+    {
+      "id": "89-persons-protected",
+      "title": "89. Persons Protected",
+      "body": [
+        "The privilege belongs to natural persons.",
+        "It generally does not protect:",
+        "Corporations",
+        "Partnerships",
+        "Labor unions",
+        "Custodians of organizational records",
+        "A sole proprietor may invoke the privilege in some circumstances."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The privilege belongs to natural persons."
+        },
+        {
+          "type": "paragraph",
+          "text": "It generally does not protect:"
+        },
+        {
+          "type": "compact",
+          "text": "Corporations"
+        },
+        {
+          "type": "compact",
+          "text": "Partnerships"
+        },
+        {
+          "type": "compact",
+          "text": "Labor unions"
+        },
+        {
+          "type": "compact",
+          "text": "Custodians of organizational records"
+        },
+        {
+          "type": "paragraph",
+          "text": "A sole proprietor may invoke the privilege in some circumstances."
+        }
+      ]
+    },
+    {
+      "id": "90-testimonial-vs-physical-evidence",
+      "title": "90. Testimonial vs. Physical Evidence",
+      "body": [
+        "Protected testimonial evidence communicates factual assertions or reveals the contents of the mind.",
+        "Generally unprotected physical evidence includes:",
+        "Fingerprints",
+        "Voice exemplars",
+        "Handwriting exemplars",
+        "Blood samples",
+        "Breath tests",
+        "Lineup participation"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Protected testimonial evidence communicates factual assertions or reveals the contents of the mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Generally unprotected physical evidence includes:"
+        },
+        {
+          "type": "compact",
+          "text": "Fingerprints"
+        },
+        {
+          "type": "compact",
+          "text": "Voice exemplars"
+        },
+        {
+          "type": "compact",
+          "text": "Handwriting exemplars"
+        },
+        {
+          "type": "compact",
+          "text": "Blood samples"
+        },
+        {
+          "type": "compact",
+          "text": "Breath tests"
+        },
+        {
+          "type": "compact",
+          "text": "Lineup participation"
+        }
+      ]
+    },
+    {
+      "id": "91-act-of-production-doctrine",
+      "title": "91. Act-of-Production Doctrine",
+      "body": [
+        "Producing documents may itself be testimonial when production communicates:",
+        "The documents exist",
+        "The producer possesses or controls them",
+        "The documents are authentic",
+        "A valid search warrant may allow police to seize documents without compelling the owner to produce them."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Producing documents may itself be testimonial when production communicates:"
+        },
+        {
+          "type": "compact",
+          "text": "The documents exist"
+        },
+        {
+          "type": "compact",
+          "text": "The producer possesses or controls them"
+        },
+        {
+          "type": "compact",
+          "text": "The documents are authentic"
+        },
+        {
+          "type": "paragraph",
+          "text": "A valid search warrant may allow police to seize documents without compelling the owner to produce them."
+        }
+      ]
+    },
+    {
+      "id": "92-invoking-the-privilege",
+      "title": "92. Invoking the Privilege",
+      "body": [
+        "A criminal defendant invokes the privilege by not testifying.",
+        "A witness generally must take the stand and assert the privilege question by question when an answer could reasonably incriminate the witness."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A criminal defendant invokes the privilege by not testifying."
+        },
+        {
+          "type": "paragraph",
+          "text": "A witness generally must take the stand and assert the privilege question by question when an answer could reasonably incriminate the witness."
+        }
+      ]
+    },
+    {
+      "id": "93-waiver-of-the-privilege",
+      "title": "93. Waiver of the Privilege",
+      "body": [
+        "A defendant who testifies waives the privilege as to proper cross-examination within the scope of testimony and credibility.",
+        "A witness may waive the privilege by voluntarily revealing incriminating facts."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A defendant who testifies waives the privilege as to proper cross-examination within the scope of testimony and credibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "A witness may waive the privilege by voluntarily revealing incriminating facts."
+        }
+      ]
+    },
+    {
+      "id": "94-immunity",
+      "title": "94. Immunity",
+      "body": [
+        "The government may compel testimony by granting use and derivative-use immunity.",
+        "This bars:",
+        "Use of the testimony",
+        "Use of evidence derived from it",
+        "Transactional immunity is broader but not constitutionally required."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The government may compel testimony by granting use and derivative-use immunity."
+        },
+        {
+          "type": "paragraph",
+          "text": "This bars:"
+        },
+        {
+          "type": "compact",
+          "text": "Use of the testimony"
+        },
+        {
+          "type": "compact",
+          "text": "Use of evidence derived from it"
+        },
+        {
+          "type": "paragraph",
+          "text": "Transactional immunity is broader but not constitutionally required."
+        }
+      ]
+    },
+    {
+      "id": "95-miranda-overview",
+      "title": "95. Miranda Overview",
+      "body": [
+        "Miranda applies only to:",
+        "Custody",
+        "Interrogation",
+        "By a known government agent",
+        "If any element is absent, warnings are not constitutionally required.",
+        "Memory line: Custody plus interrogation equals Miranda."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Miranda applies only to:"
+        },
+        {
+          "type": "compact",
+          "text": "Custody"
+        },
+        {
+          "type": "compact",
+          "text": "Interrogation"
+        },
+        {
+          "type": "compact",
+          "text": "By a known government agent"
+        },
+        {
+          "type": "paragraph",
+          "text": "If any element is absent, warnings are not constitutionally required."
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: Custody plus interrogation equals Miranda."
+        }
+      ]
+    },
+    {
+      "id": "96-miranda-custody",
+      "title": "96. Miranda Custody",
+      "body": [
+        "Custody exists when:",
+        "There is formal arrest, or",
+        "A reasonable person would feel restrained to the degree associated with formal arrest",
+        "The test is objective under the totality of circumstances.",
+        "A child’s known or apparent age may be considered."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Custody exists when:"
+        },
+        {
+          "type": "compact",
+          "text": "There is formal arrest, or"
+        },
+        {
+          "type": "compact",
+          "text": "A reasonable person would feel restrained to the degree associated with formal arrest"
+        },
+        {
+          "type": "paragraph",
+          "text": "The test is objective under the totality of circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "A child’s known or apparent age may be considered."
+        }
+      ]
+    },
+    {
+      "id": "97-common-custody-settings",
+      "title": "97. Common Custody Settings",
+      "body": [
+        "Usually custodial:",
+        "Formal arrest",
+        "Police-dominated stationhouse questioning with no freedom to leave",
+        "Usually not automatically custodial:",
+        "Ordinary traffic stop",
+        "Voluntary station interview",
+        "Brief roadside inquiry",
+        "Routine probation meeting",
+        "Prison questioning without added coercive restraints"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Usually custodial:"
+        },
+        {
+          "type": "compact",
+          "text": "Formal arrest"
+        },
+        {
+          "type": "compact",
+          "text": "Police-dominated stationhouse questioning with no freedom to leave"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually not automatically custodial:"
+        },
+        {
+          "type": "compact",
+          "text": "Ordinary traffic stop"
+        },
+        {
+          "type": "compact",
+          "text": "Voluntary station interview"
+        },
+        {
+          "type": "compact",
+          "text": "Brief roadside inquiry"
+        },
+        {
+          "type": "compact",
+          "text": "Routine probation meeting"
+        },
+        {
+          "type": "compact",
+          "text": "Prison questioning without added coercive restraints"
+        }
+      ]
+    },
+    {
+      "id": "98-miranda-interrogation",
+      "title": "98. Miranda Interrogation",
+      "body": [
+        "Interrogation includes:",
+        "Express questioning",
+        "Words or conduct police should know are reasonably likely to elicit an incriminating response",
+        "Volunteered statements are not interrogation."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Interrogation includes:"
+        },
+        {
+          "type": "compact",
+          "text": "Express questioning"
+        },
+        {
+          "type": "compact",
+          "text": "Words or conduct police should know are reasonably likely to elicit an incriminating response"
+        },
+        {
+          "type": "paragraph",
+          "text": "Volunteered statements are not interrogation."
+        }
+      ]
+    },
+    {
+      "id": "99-voluntariness-of-confessions",
+      "title": "99. Voluntariness of Confessions",
+      "body": [
+        "A confession violates due process only when police coercion overbears the defendant’s will.",
+        "Consider:",
+        "Threats",
+        "Promises",
+        "Length and conditions of questioning",
+        "Denial of basic needs",
+        "Age",
+        "Education",
+        "Mental condition",
+        "Intoxication",
+        "Mental illness alone is insufficient without coercive police activity."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A confession violates due process only when police coercion overbears the defendant’s will."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consider:"
+        },
+        {
+          "type": "compact",
+          "text": "Threats"
+        },
+        {
+          "type": "compact",
+          "text": "Promises"
+        },
+        {
+          "type": "compact",
+          "text": "Length and conditions of questioning"
+        },
+        {
+          "type": "compact",
+          "text": "Denial of basic needs"
+        },
+        {
+          "type": "compact",
+          "text": "Age"
+        },
+        {
+          "type": "compact",
+          "text": "Education"
+        },
+        {
+          "type": "compact",
+          "text": "Mental condition"
+        },
+        {
+          "type": "compact",
+          "text": "Intoxication"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mental illness alone is insufficient without coercive police activity."
+        }
+      ]
+    },
+    {
+      "id": "100-miranda-warnings",
+      "title": "100. Miranda Warnings",
+      "body": [
+        "Police must communicate:",
+        "Right to remain silent",
+        "Statements may be used in court",
+        "Right to an attorney during questioning",
+        "Appointed counsel if indigent",
+        "Exact wording is unnecessary if the substance is conveyed."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police must communicate:"
+        },
+        {
+          "type": "compact",
+          "text": "Right to remain silent"
+        },
+        {
+          "type": "compact",
+          "text": "Statements may be used in court"
+        },
+        {
+          "type": "compact",
+          "text": "Right to an attorney during questioning"
+        },
+        {
+          "type": "compact",
+          "text": "Appointed counsel if indigent"
+        },
+        {
+          "type": "paragraph",
+          "text": "Exact wording is unnecessary if the substance is conveyed."
+        }
+      ]
+    },
+    {
+      "id": "101-public-safety-exception",
+      "title": "101. Public-Safety Exception",
+      "body": [
+        "Police may ask unwarned questions reasonably prompted by an immediate concern for public or officer safety.",
+        "The exception is limited to the emergency."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Police may ask unwarned questions reasonably prompted by an immediate concern for public or officer safety."
+        },
+        {
+          "type": "paragraph",
+          "text": "The exception is limited to the emergency."
+        }
+      ]
+    },
+    {
+      "id": "102-routine-booking-and-undercover-exceptions",
+      "title": "102. Routine Booking and Undercover Exceptions",
+      "body": [
+        "Miranda generally does not apply to:",
+        "Routine biographical booking questions",
+        "Questioning by an undercover agent whom the suspect does not know is a government agent",
+        "The coercive police-dominated atmosphere is missing in the undercover setting."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Miranda generally does not apply to:"
+        },
+        {
+          "type": "compact",
+          "text": "Routine biographical booking questions"
+        },
+        {
+          "type": "compact",
+          "text": "Questioning by an undercover agent whom the suspect does not know is a government agent"
+        },
+        {
+          "type": "paragraph",
+          "text": "The coercive police-dominated atmosphere is missing in the undercover setting."
+        }
+      ]
+    },
+    {
+      "id": "103-miranda-waiver",
+      "title": "103. Miranda Waiver",
+      "body": [
+        "The prosecution must prove a waiver was:",
+        "Knowing",
+        "Intelligent",
+        "Voluntary",
+        "A suspect who understands the warnings and answers questions without invoking may impliedly waive Miranda.",
+        "Mere silence does not itself invoke or waive."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The prosecution must prove a waiver was:"
+        },
+        {
+          "type": "compact",
+          "text": "Knowing"
+        },
+        {
+          "type": "compact",
+          "text": "Intelligent"
+        },
+        {
+          "type": "compact",
+          "text": "Voluntary"
+        },
+        {
+          "type": "paragraph",
+          "text": "A suspect who understands the warnings and answers questions without invoking may impliedly waive Miranda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mere silence does not itself invoke or waive."
+        }
+      ]
+    },
+    {
+      "id": "104-invoking-the-right-to-counsel",
+      "title": "104. Invoking the Right to Counsel",
+      "body": [
+        "The request for counsel must be unambiguous.",
+        "Once invoked during custodial interrogation:",
+        "Questioning must stop",
+        "Police may not initiate further custodial interrogation without counsel",
+        "The suspect may initiate communication",
+        "Police may reinitiate after a break in custody of at least 14 days with fresh warnings and waiver",
+        "This is the Edwards rule."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The request for counsel must be unambiguous."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once invoked during custodial interrogation:"
+        },
+        {
+          "type": "compact",
+          "text": "Questioning must stop"
+        },
+        {
+          "type": "compact",
+          "text": "Police may not initiate further custodial interrogation without counsel"
+        },
+        {
+          "type": "compact",
+          "text": "The suspect may initiate communication"
+        },
+        {
+          "type": "compact",
+          "text": "Police may reinitiate after a break in custody of at least 14 days with fresh warnings and waiver"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the Edwards rule."
+        }
+      ]
+    },
+    {
+      "id": "105-invoking-the-right-to-silence",
+      "title": "105. Invoking the Right to Silence",
+      "body": [
+        "The invocation must be unambiguous.",
+        "Police must scrupulously honor it.",
+        "Later questioning may be permissible after:",
+        "Questioning stops",
+        "Significant time passes",
+        "Fresh warnings are given",
+        "The circumstances show respect for the earlier invocation"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The invocation must be unambiguous."
+        },
+        {
+          "type": "paragraph",
+          "text": "Police must scrupulously honor it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Later questioning may be permissible after:"
+        },
+        {
+          "type": "compact",
+          "text": "Questioning stops"
+        },
+        {
+          "type": "compact",
+          "text": "Significant time passes"
+        },
+        {
+          "type": "compact",
+          "text": "Fresh warnings are given"
+        },
+        {
+          "type": "compact",
+          "text": "The circumstances show respect for the earlier invocation"
+        }
+      ]
+    },
+    {
+      "id": "106-unwarned-but-voluntary-statements",
+      "title": "106. Unwarned but Voluntary Statements",
+      "body": [
+        "An unwarned voluntary statement generally:",
+        "Is inadmissible in the prosecution’s case in chief",
+        "May be used to impeach the defendant",
+        "Does not require suppression of physical fruits",
+        "A coerced statement cannot be used for any purpose."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An unwarned voluntary statement generally:"
+        },
+        {
+          "type": "compact",
+          "text": "Is inadmissible in the prosecution’s case in chief"
+        },
+        {
+          "type": "compact",
+          "text": "May be used to impeach the defendant"
+        },
+        {
+          "type": "compact",
+          "text": "Does not require suppression of physical fruits"
+        },
+        {
+          "type": "paragraph",
+          "text": "A coerced statement cannot be used for any purpose."
+        }
+      ]
+    },
+    {
+      "id": "107-two-step-interrogation",
+      "title": "107. Two-Step Interrogation",
+      "body": [
+        "A deliberate “question first, warn later” strategy may render a later warned confession inadmissible when the warnings do not realistically communicate a genuine choice.",
+        "Consider:",
+        "Continuity of personnel and location",
+        "Overlap in questions",
+        "Timing",
+        "Whether police treated the sessions as continuous",
+        "Whether curative measures were taken"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A deliberate “question first, warn later” strategy may render a later warned confession inadmissible when the warnings do not realistically communicate a genuine choice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consider:"
+        },
+        {
+          "type": "compact",
+          "text": "Continuity of personnel and location"
+        },
+        {
+          "type": "compact",
+          "text": "Overlap in questions"
+        },
+        {
+          "type": "compact",
+          "text": "Timing"
+        },
+        {
+          "type": "compact",
+          "text": "Whether police treated the sessions as continuous"
+        },
+        {
+          "type": "compact",
+          "text": "Whether curative measures were taken"
+        }
+      ]
+    },
+    {
+      "id": "108-attachment-of-the-right-to-counsel",
+      "title": "108. Attachment of the Right to Counsel",
+      "body": [
+        "PART III — SIXTH AMENDMENT COUNSEL",
+        "The Sixth Amendment right attaches when formal adversarial proceedings begin, such as:",
+        "Indictment",
+        "Information",
+        "Arraignment",
+        "Initial appearance before a judicial officer where charges are formally addressed",
+        "It does not attach merely because the person is a suspect."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "PART III — SIXTH AMENDMENT COUNSEL"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Sixth Amendment right attaches when formal adversarial proceedings begin, such as:"
+        },
+        {
+          "type": "compact",
+          "text": "Indictment"
+        },
+        {
+          "type": "compact",
+          "text": "Information"
+        },
+        {
+          "type": "compact",
+          "text": "Arraignment"
+        },
+        {
+          "type": "compact",
+          "text": "Initial appearance before a judicial officer where charges are formally addressed"
+        },
+        {
+          "type": "paragraph",
+          "text": "It does not attach merely because the person is a suspect."
+        }
+      ]
+    },
+    {
+      "id": "109-critical-stages",
+      "title": "109. Critical Stages",
+      "body": [
+        "Counsel is required at critical stages where substantial rights may be affected, including:",
+        "Postcharge interrogation",
+        "Arraignment",
+        "Preliminary hearing",
+        "Plea bargaining and guilty plea",
+        "Trial",
+        "Sentencing",
+        "Postindictment corporeal lineup",
+        "Certain appeals as of right"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Counsel is required at critical stages where substantial rights may be affected, including:"
+        },
+        {
+          "type": "compact",
+          "text": "Postcharge interrogation"
+        },
+        {
+          "type": "compact",
+          "text": "Arraignment"
+        },
+        {
+          "type": "compact",
+          "text": "Preliminary hearing"
+        },
+        {
+          "type": "compact",
+          "text": "Plea bargaining and guilty plea"
+        },
+        {
+          "type": "compact",
+          "text": "Trial"
+        },
+        {
+          "type": "compact",
+          "text": "Sentencing"
+        },
+        {
+          "type": "compact",
+          "text": "Postindictment corporeal lineup"
+        },
+        {
+          "type": "compact",
+          "text": "Certain appeals as of right"
+        }
+      ]
+    },
+    {
+      "id": "110-actual-imprisonment-rule",
+      "title": "110. Actual Imprisonment Rule",
+      "body": [
+        "An indigent defendant has a right to appointed counsel when actual imprisonment is imposed.",
+        "A suspended sentence that may later result in incarceration also triggers the right."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An indigent defendant has a right to appointed counsel when actual imprisonment is imposed."
+        },
+        {
+          "type": "paragraph",
+          "text": "A suspended sentence that may later result in incarceration also triggers the right."
+        }
+      ]
+    },
+    {
+      "id": "111-deliberate-elicitation",
+      "title": "111. Deliberate Elicitation",
+      "body": [
+        "After the Sixth Amendment attaches, government agents may not deliberately elicit statements about the charged offense without counsel or a valid waiver.",
+        "This is broader than express interrogation.",
+        "An undercover informant may violate the Sixth Amendment by deliberately eliciting information after attachment."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "After the Sixth Amendment attaches, government agents may not deliberately elicit statements about the charged offense without counsel or a valid waiver."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is broader than express interrogation."
+        },
+        {
+          "type": "paragraph",
+          "text": "An undercover informant may violate the Sixth Amendment by deliberately eliciting information after attachment."
+        }
+      ]
+    },
+    {
+      "id": "112-offense-specific-nature",
+      "title": "112. Offense-Specific Nature",
+      "body": [
+        "The Sixth Amendment is offense specific.",
+        "Police may question the defendant about an uncharged offense if:",
+        "Miranda is satisfied when applicable",
+        "The uncharged offense is not the same under the Blockburger elements test"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Sixth Amendment is offense specific."
+        },
+        {
+          "type": "paragraph",
+          "text": "Police may question the defendant about an uncharged offense if:"
+        },
+        {
+          "type": "compact",
+          "text": "Miranda is satisfied when applicable"
+        },
+        {
+          "type": "compact",
+          "text": "The uncharged offense is not the same under the Blockburger elements test"
+        }
+      ]
+    },
+    {
+      "id": "113-sixth-amendment-waiver",
+      "title": "113. Sixth Amendment Waiver",
+      "body": [
+        "A defendant may knowingly, intelligently, and voluntarily waive counsel.",
+        "Miranda warnings and waiver ordinarily suffice for postcharge custodial questioning.",
+        "Appointment of counsel alone does not prevent police from seeking a later waiver unless the defendant actually invoked the Miranda right to counsel."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A defendant may knowingly, intelligently, and voluntarily waive counsel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miranda warnings and waiver ordinarily suffice for postcharge custodial questioning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appointment of counsel alone does not prevent police from seeking a later waiver unless the defendant actually invoked the Miranda right to counsel."
+        }
+      ]
+    },
+    {
+      "id": "114-self-representation",
+      "title": "114. Self-Representation",
+      "body": [
+        "A competent defendant may waive counsel and proceed pro se when the waiver is knowing and intelligent.",
+        "The court should warn of the disadvantages.",
+        "A defendant competent to stand trial may still be found incompetent to conduct trial personally.",
+        "Standby counsel may be appointed."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A competent defendant may waive counsel and proceed pro se when the waiver is knowing and intelligent."
+        },
+        {
+          "type": "paragraph",
+          "text": "The court should warn of the disadvantages."
+        },
+        {
+          "type": "paragraph",
+          "text": "A defendant competent to stand trial may still be found incompetent to conduct trial personally."
+        },
+        {
+          "type": "paragraph",
+          "text": "Standby counsel may be appointed."
+        }
+      ]
+    },
+    {
+      "id": "115-ineffective-assistance-of-counsel",
+      "title": "115. Ineffective Assistance of Counsel",
+      "body": [
+        "Use Strickland:",
+        "Counsel’s performance was objectively deficient",
+        "The deficiency caused prejudice",
+        "Prejudice usually requires a reasonable probability that the result would have been different."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use Strickland:"
+        },
+        {
+          "type": "compact",
+          "text": "Counsel’s performance was objectively deficient"
+        },
+        {
+          "type": "compact",
+          "text": "The deficiency caused prejudice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prejudice usually requires a reasonable probability that the result would have been different."
+        }
+      ]
+    },
+    {
+      "id": "116-presumed-prejudice",
+      "title": "116. Presumed Prejudice",
+      "body": [
+        "Prejudice may be presumed when:",
+        "Counsel is completely denied at a critical stage",
+        "Counsel entirely fails to subject the prosecution’s case to meaningful adversarial testing",
+        "An actual conflict adversely affects representation",
+        "Government interference makes effective assistance impossible"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Prejudice may be presumed when:"
+        },
+        {
+          "type": "compact",
+          "text": "Counsel is completely denied at a critical stage"
+        },
+        {
+          "type": "compact",
+          "text": "Counsel entirely fails to subject the prosecution’s case to meaningful adversarial testing"
+        },
+        {
+          "type": "compact",
+          "text": "An actual conflict adversely affects representation"
+        },
+        {
+          "type": "compact",
+          "text": "Government interference makes effective assistance impossible"
+        }
+      ]
+    },
+    {
+      "id": "117-conflicts-of-interest",
+      "title": "117. Conflicts of Interest",
+      "body": [
+        "A defendant must usually show:",
+        "Actual conflict",
+        "Adverse effect on counsel’s performance",
+        "When the court improperly refuses to investigate a timely conflict objection, reversal may be automatic."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A defendant must usually show:"
+        },
+        {
+          "type": "compact",
+          "text": "Actual conflict"
+        },
+        {
+          "type": "compact",
+          "text": "Adverse effect on counsel’s performance"
+        },
+        {
+          "type": "paragraph",
+          "text": "When the court improperly refuses to investigate a timely conflict objection, reversal may be automatic."
+        }
+      ]
+    },
+    {
+      "id": "118-plea-bargaining-and-counsel",
+      "title": "118. Plea Bargaining and Counsel",
+      "body": [
+        "Counsel must communicate formal plea offers.",
+        "To prove prejudice from a lost offer, the defendant generally must show a reasonable probability that:",
+        "The defendant would have accepted",
+        "The prosecution would not have withdrawn",
+        "The court would have accepted",
+        "The outcome would have been more favorable"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Counsel must communicate formal plea offers."
+        },
+        {
+          "type": "paragraph",
+          "text": "To prove prejudice from a lost offer, the defendant generally must show a reasonable probability that:"
+        },
+        {
+          "type": "compact",
+          "text": "The defendant would have accepted"
+        },
+        {
+          "type": "compact",
+          "text": "The prosecution would not have withdrawn"
+        },
+        {
+          "type": "compact",
+          "text": "The court would have accepted"
+        },
+        {
+          "type": "compact",
+          "text": "The outcome would have been more favorable"
+        }
+      ]
+    },
+    {
+      "id": "119-identification-procedures-overview",
+      "title": "119. Identification Procedures Overview",
+      "body": [
+        "PART IV — PRETRIAL PROCEDURE",
+        "Identification may be:",
+        "Corporeal — lineup or show-up",
+        "Noncorporeal — photo array",
+        "Two separate constitutional rules may apply:",
+        "Sixth Amendment right to counsel",
+        "Due process protection against suggestiveness"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "PART IV — PRETRIAL PROCEDURE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Identification may be:"
+        },
+        {
+          "type": "compact",
+          "text": "Corporeal — lineup or show-up"
+        },
+        {
+          "type": "compact",
+          "text": "Noncorporeal — photo array"
+        },
+        {
+          "type": "paragraph",
+          "text": "Two separate constitutional rules may apply:"
+        },
+        {
+          "type": "compact",
+          "text": "Sixth Amendment right to counsel"
+        },
+        {
+          "type": "compact",
+          "text": "Due process protection against suggestiveness"
+        }
+      ]
+    },
+    {
+      "id": "120-counsel-at-identifications",
+      "title": "120. Counsel at Identifications",
+      "body": [
+        "The defendant has a right to counsel at a postindictment lineup or show-up.",
+        "There is no Sixth Amendment right to counsel at:",
+        "Preindictment lineup",
+        "Photo array, whether before or after indictment"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The defendant has a right to counsel at a postindictment lineup or show-up."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no Sixth Amendment right to counsel at:"
+        },
+        {
+          "type": "compact",
+          "text": "Preindictment lineup"
+        },
+        {
+          "type": "compact",
+          "text": "Photo array, whether before or after indictment"
+        }
+      ]
+    },
+    {
+      "id": "121-remedy-for-lineup-counsel-violation",
+      "title": "121. Remedy for Lineup Counsel Violation",
+      "body": [
+        "Evidence of the unconstitutional lineup identification is excluded.",
+        "An in-court identification may still be admitted if the prosecution proves an independent basis."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Evidence of the unconstitutional lineup identification is excluded."
+        },
+        {
+          "type": "paragraph",
+          "text": "An in-court identification may still be admitted if the prosecution proves an independent basis."
+        }
+      ]
+    },
+    {
+      "id": "122-suggestive-identification-test",
+      "title": "122. Suggestive Identification Test",
+      "body": [
+        "A police-arranged identification violates due process when:",
+        "The procedure was unnecessarily suggestive",
+        "There was a substantial likelihood of misidentification",
+        "Reliability may save the identification."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A police-arranged identification violates due process when:"
+        },
+        {
+          "type": "compact",
+          "text": "The procedure was unnecessarily suggestive"
+        },
+        {
+          "type": "compact",
+          "text": "There was a substantial likelihood of misidentification"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reliability may save the identification."
+        }
+      ]
+    },
+    {
+      "id": "123-identification-reliability-factors",
+      "title": "123. Identification Reliability Factors",
+      "body": [
+        "Consider:",
+        "Opportunity to view",
+        "Degree of attention",
+        "Accuracy of prior description",
+        "Certainty at identification",
+        "Time between crime and identification",
+        "Memory line: View, attention, description, certainty, time."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider:"
+        },
+        {
+          "type": "compact",
+          "text": "Opportunity to view"
+        },
+        {
+          "type": "compact",
+          "text": "Degree of attention"
+        },
+        {
+          "type": "compact",
+          "text": "Accuracy of prior description"
+        },
+        {
+          "type": "compact",
+          "text": "Certainty at identification"
+        },
+        {
+          "type": "compact",
+          "text": "Time between crime and identification"
+        },
+        {
+          "type": "quote",
+          "text": "Memory line: View, attention, description, certainty, time."
+        }
+      ]
+    },
+    {
+      "id": "124-preliminary-hearing",
+      "title": "124. Preliminary Hearing",
+      "body": [
+        "A preliminary hearing determines whether probable cause supports continued prosecution.",
+        "The defendant generally has a right to counsel.",
+        "The hearing is not constitutionally required after a grand jury indictment."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A preliminary hearing determines whether probable cause supports continued prosecution."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant generally has a right to counsel."
+        },
+        {
+          "type": "paragraph",
+          "text": "The hearing is not constitutionally required after a grand jury indictment."
+        }
+      ]
+    },
+    {
+      "id": "125-bail",
+      "title": "125. Bail",
+      "body": [
+        "The Eighth Amendment prohibits excessive bail.",
+        "There is no absolute constitutional right to bail.",
+        "Preventive detention may be allowed when supported by a legitimate regulatory purpose and proper procedures."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Eighth Amendment prohibits excessive bail."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no absolute constitutional right to bail."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preventive detention may be allowed when supported by a legitimate regulatory purpose and proper procedures."
+        }
+      ]
+    },
+    {
+      "id": "126-competency",
+      "title": "126. Competency",
+      "body": [
+        "A defendant is incompetent when unable to:",
+        "Understand the proceedings",
+        "Consult rationally with counsel",
+        "Assist in the defense",
+        "The court must order evaluation when substantial doubt arises.",
+        "An incompetent defendant may not be tried or plead guilty."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A defendant is incompetent when unable to:"
+        },
+        {
+          "type": "compact",
+          "text": "Understand the proceedings"
+        },
+        {
+          "type": "compact",
+          "text": "Consult rationally with counsel"
+        },
+        {
+          "type": "compact",
+          "text": "Assist in the defense"
+        },
+        {
+          "type": "paragraph",
+          "text": "The court must order evaluation when substantial doubt arises."
+        },
+        {
+          "type": "paragraph",
+          "text": "An incompetent defendant may not be tried or plead guilty."
+        }
+      ]
+    },
+    {
+      "id": "127-grand-jury",
+      "title": "127. Grand Jury",
+      "body": [
+        "The federal government generally must use a grand jury for serious federal crimes.",
+        "The grand-jury requirement is not incorporated against the states.",
+        "Grand jury proceedings are secret and usually one-sided."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The federal government generally must use a grand jury for serious federal crimes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The grand-jury requirement is not incorporated against the states."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grand jury proceedings are secret and usually one-sided."
+        }
+      ]
+    },
+    {
+      "id": "128-grand-jury-rights",
+      "title": "128. Grand Jury Rights",
+      "body": [
+        "A grand jury witness generally has:",
+        "No right to have counsel inside the room",
+        "No Miranda right merely because of testimony",
+        "The Fifth Amendment privilege against incriminating answers",
+        "An indictment may rest on hearsay or evidence inadmissible at trial."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A grand jury witness generally has:"
+        },
+        {
+          "type": "compact",
+          "text": "No right to have counsel inside the room"
+        },
+        {
+          "type": "compact",
+          "text": "No Miranda right merely because of testimony"
+        },
+        {
+          "type": "compact",
+          "text": "The Fifth Amendment privilege against incriminating answers"
+        },
+        {
+          "type": "paragraph",
+          "text": "An indictment may rest on hearsay or evidence inadmissible at trial."
+        }
+      ]
+    },
+    {
+      "id": "129-discrimination-in-grand-jury-selection",
+      "title": "129. Discrimination in Grand Jury Selection",
+      "body": [
+        "Intentional racial discrimination in selecting grand jurors violates equal protection.",
+        "A conviction based on an indictment from a discriminatorily selected grand jury must be reversed."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Intentional racial discrimination in selecting grand jurors violates equal protection."
+        },
+        {
+          "type": "paragraph",
+          "text": "A conviction based on an indictment from a discriminatorily selected grand jury must be reversed."
+        }
+      ]
+    },
+    {
+      "id": "130-brady-disclosure",
+      "title": "130. Brady Disclosure",
+      "body": [
+        "The prosecution must disclose material evidence favorable to the defense.",
+        "The defendant must show:",
+        "Evidence was favorable because it was exculpatory or impeaching",
+        "The evidence was suppressed",
+        "There is a reasonable probability of a different outcome",
+        "Intentional misconduct is unnecessary."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The prosecution must disclose material evidence favorable to the defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant must show:"
+        },
+        {
+          "type": "compact",
+          "text": "Evidence was favorable because it was exculpatory or impeaching"
+        },
+        {
+          "type": "compact",
+          "text": "The evidence was suppressed"
+        },
+        {
+          "type": "compact",
+          "text": "There is a reasonable probability of a different outcome"
+        },
+        {
+          "type": "paragraph",
+          "text": "Intentional misconduct is unnecessary."
+        }
+      ]
+    },
+    {
+      "id": "131-right-to-be-present",
+      "title": "131. Right to Be Present",
+      "body": [
+        "PART V — TRIAL RIGHTS",
+        "A defendant generally has the right to be present at:",
+        "Arraignment",
+        "Jury selection",
+        "Trial",
+        "Verdict",
+        "Sentencing",
+        "The right may be lost through voluntary absence or seriously disruptive behavior after warning."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "PART V — TRIAL RIGHTS"
+        },
+        {
+          "type": "paragraph",
+          "text": "A defendant generally has the right to be present at:"
+        },
+        {
+          "type": "compact",
+          "text": "Arraignment"
+        },
+        {
+          "type": "compact",
+          "text": "Jury selection"
+        },
+        {
+          "type": "compact",
+          "text": "Trial"
+        },
+        {
+          "type": "compact",
+          "text": "Verdict"
+        },
+        {
+          "type": "compact",
+          "text": "Sentencing"
+        },
+        {
+          "type": "paragraph",
+          "text": "The right may be lost through voluntary absence or seriously disruptive behavior after warning."
+        }
+      ]
+    },
+    {
+      "id": "132-right-to-jury-trial",
+      "title": "132. Right to Jury Trial",
+      "body": [
+        "The Sixth Amendment requires a jury for serious offenses.",
+        "An offense is generally serious when the authorized imprisonment exceeds six months.",
+        "Multiple petty offenses are not aggregated merely to create a jury right."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Sixth Amendment requires a jury for serious offenses."
+        },
+        {
+          "type": "paragraph",
+          "text": "An offense is generally serious when the authorized imprisonment exceeds six months."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multiple petty offenses are not aggregated merely to create a jury right."
+        }
+      ]
+    },
+    {
+      "id": "133-jury-size-and-unanimity",
+      "title": "133. Jury Size and Unanimity",
+      "body": [
+        "A criminal jury must have at least six members.",
+        "Both state and federal criminal juries must return unanimous guilty verdicts.",
+        "Federal criminal juries ordinarily have 12 members unless a valid rule permits fewer."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A criminal jury must have at least six members."
+        },
+        {
+          "type": "paragraph",
+          "text": "Both state and federal criminal juries must return unanimous guilty verdicts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Federal criminal juries ordinarily have 12 members unless a valid rule permits fewer."
+        }
+      ]
+    },
+    {
+      "id": "134-fair-cross-section",
+      "title": "134. Fair Cross Section",
+      "body": [
+        "The jury venire must represent a fair cross section of the community.",
+        "The defendant must show:",
+        "A distinctive group",
+        "Unfair underrepresentation",
+        "Systematic exclusion",
+        "The seated jury itself need not mirror community demographics."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The jury venire must represent a fair cross section of the community."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant must show:"
+        },
+        {
+          "type": "compact",
+          "text": "A distinctive group"
+        },
+        {
+          "type": "compact",
+          "text": "Unfair underrepresentation"
+        },
+        {
+          "type": "compact",
+          "text": "Systematic exclusion"
+        },
+        {
+          "type": "paragraph",
+          "text": "The seated jury itself need not mirror community demographics."
+        }
+      ]
+    },
+    {
+      "id": "135-batson-challenges",
+      "title": "135. Batson Challenges",
+      "body": [
+        "Peremptory strikes may not be based on race or sex.",
+        "The process:",
+        "Prima facie showing of discrimination",
+        "Striking party gives a neutral explanation",
+        "Court determines purposeful discrimination",
+        "The explanation need not be persuasive at step two, but it must be genuine and neutral."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Peremptory strikes may not be based on race or sex."
+        },
+        {
+          "type": "paragraph",
+          "text": "The process:"
+        },
+        {
+          "type": "compact",
+          "text": "Prima facie showing of discrimination"
+        },
+        {
+          "type": "compact",
+          "text": "Striking party gives a neutral explanation"
+        },
+        {
+          "type": "compact",
+          "text": "Court determines purposeful discrimination"
+        },
+        {
+          "type": "paragraph",
+          "text": "The explanation need not be persuasive at step two, but it must be genuine and neutral."
+        }
+      ]
+    },
+    {
+      "id": "136-death-qualified-juries",
+      "title": "136. Death-Qualified Juries",
+      "body": [
+        "Jurors may be excluded for cause when their views would substantially impair their duties.",
+        "A juror cannot be removed merely for expressing general reservations about capital punishment."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Jurors may be excluded for cause when their views would substantially impair their duties."
+        },
+        {
+          "type": "paragraph",
+          "text": "A juror cannot be removed merely for expressing general reservations about capital punishment."
+        }
+      ]
+    },
+    {
+      "id": "137-guilty-pleas",
+      "title": "137. Guilty Pleas",
+      "body": [
+        "A guilty plea must be knowing, intelligent, and voluntary.",
+        "The defendant must understand:",
+        "Nature of the charge",
+        "Essential consequences",
+        "Maximum and minimum penalties",
+        "Rights waived",
+        "Federal procedure also requires a factual basis."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A guilty plea must be knowing, intelligent, and voluntary."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant must understand:"
+        },
+        {
+          "type": "compact",
+          "text": "Nature of the charge"
+        },
+        {
+          "type": "compact",
+          "text": "Essential consequences"
+        },
+        {
+          "type": "compact",
+          "text": "Maximum and minimum penalties"
+        },
+        {
+          "type": "compact",
+          "text": "Rights waived"
+        },
+        {
+          "type": "paragraph",
+          "text": "Federal procedure also requires a factual basis."
+        }
+      ]
+    },
+    {
+      "id": "138-rights-waived-by-plea",
+      "title": "138. Rights Waived by Plea",
+      "body": [
+        "A valid guilty plea generally waives:",
+        "Jury trial",
+        "Confrontation",
+        "Self-incrimination at trial",
+        "Most nonjurisdictional preplea defects",
+        "A plea may still be challenged for:",
+        "Involuntariness",
+        "Ineffective assistance",
+        "Lack of jurisdiction",
+        "Certain double-jeopardy claims"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A valid guilty plea generally waives:"
+        },
+        {
+          "type": "compact",
+          "text": "Jury trial"
+        },
+        {
+          "type": "compact",
+          "text": "Confrontation"
+        },
+        {
+          "type": "compact",
+          "text": "Self-incrimination at trial"
+        },
+        {
+          "type": "compact",
+          "text": "Most nonjurisdictional preplea defects"
+        },
+        {
+          "type": "paragraph",
+          "text": "A plea may still be challenged for:"
+        },
+        {
+          "type": "compact",
+          "text": "Involuntariness"
+        },
+        {
+          "type": "compact",
+          "text": "Ineffective assistance"
+        },
+        {
+          "type": "compact",
+          "text": "Lack of jurisdiction"
+        },
+        {
+          "type": "compact",
+          "text": "Certain double-jeopardy claims"
+        }
+      ]
+    },
+    {
+      "id": "139-speedy-trial",
+      "title": "139. Speedy Trial",
+      "body": [
+        "The Sixth Amendment speedy-trial right begins at arrest or formal accusation, whichever occurs first.",
+        "Use LARP:",
+        "Length of delay",
+        "Assigned reason",
+        "Right asserted",
+        "Prejudice",
+        "The remedy is dismissal with prejudice."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Sixth Amendment speedy-trial right begins at arrest or formal accusation, whichever occurs first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use LARP:"
+        },
+        {
+          "type": "compact",
+          "text": "Length of delay"
+        },
+        {
+          "type": "compact",
+          "text": "Assigned reason"
+        },
+        {
+          "type": "compact",
+          "text": "Right asserted"
+        },
+        {
+          "type": "compact",
+          "text": "Prejudice"
+        },
+        {
+          "type": "paragraph",
+          "text": "The remedy is dismissal with prejudice."
+        }
+      ]
+    },
+    {
+      "id": "140-preaccusation-delay",
+      "title": "140. Preaccusation Delay",
+      "body": [
+        "Before formal accusation, statutes of limitations are the primary protection.",
+        "Due process may be violated when delay:",
+        "Causes actual prejudice",
+        "Was intentionally used to gain tactical advantage or harass",
+        "Good-faith investigation generally does not violate due process."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Before formal accusation, statutes of limitations are the primary protection."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due process may be violated when delay:"
+        },
+        {
+          "type": "compact",
+          "text": "Causes actual prejudice"
+        },
+        {
+          "type": "compact",
+          "text": "Was intentionally used to gain tactical advantage or harass"
+        },
+        {
+          "type": "paragraph",
+          "text": "Good-faith investigation generally does not violate due process."
+        }
+      ]
+    },
+    {
+      "id": "141-public-trial",
+      "title": "141. Public Trial",
+      "body": [
+        "The defendant has a right to a public trial, including many pretrial proceedings.",
+        "Closure requires:",
+        "Overriding interest",
+        "Narrow tailoring",
+        "Consideration of alternatives",
+        "Adequate findings"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The defendant has a right to a public trial, including many pretrial proceedings."
+        },
+        {
+          "type": "paragraph",
+          "text": "Closure requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Overriding interest"
+        },
+        {
+          "type": "compact",
+          "text": "Narrow tailoring"
+        },
+        {
+          "type": "compact",
+          "text": "Consideration of alternatives"
+        },
+        {
+          "type": "compact",
+          "text": "Adequate findings"
+        }
+      ]
+    },
+    {
+      "id": "142-fair-trial-publicity",
+      "title": "142. Fair-Trial Publicity",
+      "body": [
+        "A court may protect fairness through:",
+        "Change of venue",
+        "Continuance",
+        "Searching voir dire",
+        "Sequestration",
+        "Instructions",
+        "Restrictive orders directed at participants",
+        "A prior restraint on the press is extremely difficult to justify."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A court may protect fairness through:"
+        },
+        {
+          "type": "compact",
+          "text": "Change of venue"
+        },
+        {
+          "type": "compact",
+          "text": "Continuance"
+        },
+        {
+          "type": "compact",
+          "text": "Searching voir dire"
+        },
+        {
+          "type": "compact",
+          "text": "Sequestration"
+        },
+        {
+          "type": "compact",
+          "text": "Instructions"
+        },
+        {
+          "type": "compact",
+          "text": "Restrictive orders directed at participants"
+        },
+        {
+          "type": "paragraph",
+          "text": "A prior restraint on the press is extremely difficult to justify."
+        }
+      ]
+    },
+    {
+      "id": "143-confrontation-clause",
+      "title": "143. Confrontation Clause",
+      "body": [
+        "In a criminal case, testimonial hearsay from an unavailable declarant is generally inadmissible unless the defendant had a prior opportunity to cross-examine.",
+        "The rule applies only to testimonial statements offered against the accused."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a criminal case, testimonial hearsay from an unavailable declarant is generally inadmissible unless the defendant had a prior opportunity to cross-examine."
+        },
+        {
+          "type": "paragraph",
+          "text": "The rule applies only to testimonial statements offered against the accused."
+        }
+      ]
+    },
+    {
+      "id": "144-testimonial-statements",
+      "title": "144. Testimonial Statements",
+      "body": [
+        "Usually testimonial:",
+        "Formal police interrogation about past events",
+        "Affidavits",
+        "Forensic certificates prepared for prosecution",
+        "Prior testimony",
+        "Formal accusations",
+        "Usually nontestimonial:",
+        "Statements made to resolve an ongoing emergency",
+        "Casual remarks",
+        "Most statements to private individuals",
+        "Business records created for ordinary operations"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Usually testimonial:"
+        },
+        {
+          "type": "compact",
+          "text": "Formal police interrogation about past events"
+        },
+        {
+          "type": "compact",
+          "text": "Affidavits"
+        },
+        {
+          "type": "compact",
+          "text": "Forensic certificates prepared for prosecution"
+        },
+        {
+          "type": "compact",
+          "text": "Prior testimony"
+        },
+        {
+          "type": "compact",
+          "text": "Formal accusations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Usually nontestimonial:"
+        },
+        {
+          "type": "compact",
+          "text": "Statements made to resolve an ongoing emergency"
+        },
+        {
+          "type": "compact",
+          "text": "Casual remarks"
+        },
+        {
+          "type": "compact",
+          "text": "Most statements to private individuals"
+        },
+        {
+          "type": "compact",
+          "text": "Business records created for ordinary operations"
+        }
+      ]
+    },
+    {
+      "id": "145-ongoing-emergency",
+      "title": "145. Ongoing Emergency",
+      "body": [
+        "Statements made primarily to obtain help during an ongoing emergency are generally nontestimonial.",
+        "Once the emergency ends and questioning shifts to reconstructing past events, later statements may become testimonial."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Statements made primarily to obtain help during an ongoing emergency are generally nontestimonial."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once the emergency ends and questioning shifts to reconstructing past events, later statements may become testimonial."
+        }
+      ]
+    },
+    {
+      "id": "146-forfeiture-by-wrongdoing",
+      "title": "146. Forfeiture by Wrongdoing",
+      "body": [
+        "A defendant forfeits confrontation rights when the defendant wrongfully causes the witness’s unavailability with the purpose of preventing testimony.",
+        "Mere causation is not enough; intent to silence is required."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A defendant forfeits confrontation rights when the defendant wrongfully causes the witness’s unavailability with the purpose of preventing testimony."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mere causation is not enough; intent to silence is required."
+        }
+      ]
+    },
+    {
+      "id": "147-bruton-rule",
+      "title": "147. Bruton Rule",
+      "body": [
+        "At a joint jury trial, admitting a nontestifying codefendant’s confession that directly incriminates the defendant violates confrontation.",
+        "A limiting instruction does not cure the violation.",
+        "Possible solutions:",
+        "Severance",
+        "Exclusion",
+        "Codefendant testimony",
+        "Proper neutral redaction"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "At a joint jury trial, admitting a nontestifying codefendant’s confession that directly incriminates the defendant violates confrontation."
+        },
+        {
+          "type": "paragraph",
+          "text": "A limiting instruction does not cure the violation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Possible solutions:"
+        },
+        {
+          "type": "compact",
+          "text": "Severance"
+        },
+        {
+          "type": "compact",
+          "text": "Exclusion"
+        },
+        {
+          "type": "compact",
+          "text": "Codefendant testimony"
+        },
+        {
+          "type": "compact",
+          "text": "Proper neutral redaction"
+        }
+      ]
+    },
+    {
+      "id": "148-neutral-redactions",
+      "title": "148. Neutral Redactions",
+      "body": [
+        "Replacing the defendant’s name with an obvious blank, deletion, or symbol that directly identifies the defendant remains unconstitutional.",
+        "A genuinely neutral reference that does not directly identify the defendant may be admitted with a limiting instruction."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Replacing the defendant’s name with an obvious blank, deletion, or symbol that directly identifies the defendant remains unconstitutional."
+        },
+        {
+          "type": "paragraph",
+          "text": "A genuinely neutral reference that does not directly identify the defendant may be admitted with a limiting instruction."
+        }
+      ]
+    },
+    {
+      "id": "149-presumption-of-innocence-and-burden",
+      "title": "149. Presumption of Innocence and Burden",
+      "body": [
+        "The prosecution must prove every element beyond a reasonable doubt.",
+        "The defendant is presumed innocent.",
+        "A mandatory presumption that shifts the burden of disproving an element to the defendant is unconstitutional."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The prosecution must prove every element beyond a reasonable doubt."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant is presumed innocent."
+        },
+        {
+          "type": "paragraph",
+          "text": "A mandatory presumption that shifts the burden of disproving an element to the defendant is unconstitutional."
+        }
+      ]
+    },
+    {
+      "id": "150-permissive-inferences",
+      "title": "150. Permissive Inferences",
+      "body": [
+        "A jury may be allowed, but not required, to infer an elemental fact from proof of another fact when the connection is rational.",
+        "Permissive language is safer than mandatory language."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A jury may be allowed, but not required, to infer an elemental fact from proof of another fact when the connection is rational."
+        },
+        {
+          "type": "paragraph",
+          "text": "Permissive language is safer than mandatory language."
+        }
+      ]
+    },
+    {
+      "id": "151-right-to-testify-and-present-a-defense",
+      "title": "151. Right to Testify and Present a Defense",
+      "body": [
+        "A defendant has a constitutional right to:",
+        "Testify",
+        "Call witnesses",
+        "Present relevant evidence",
+        "Obtain compulsory process",
+        "Reasonable evidentiary restrictions remain valid."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A defendant has a constitutional right to:"
+        },
+        {
+          "type": "compact",
+          "text": "Testify"
+        },
+        {
+          "type": "compact",
+          "text": "Call witnesses"
+        },
+        {
+          "type": "compact",
+          "text": "Present relevant evidence"
+        },
+        {
+          "type": "compact",
+          "text": "Obtain compulsory process"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reasonable evidentiary restrictions remain valid."
+        }
+      ]
+    },
+    {
+      "id": "152-sentencing-and-apprendi",
+      "title": "152. Sentencing and Apprendi",
+      "body": [
+        "Except for the fact of a prior conviction, any fact increasing the statutory maximum punishment must be:",
+        "Charged as required",
+        "Submitted to a jury",
+        "Proved beyond a reasonable doubt",
+        "A judge may generally decide whether multiple sentences run concurrently or consecutively."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Except for the fact of a prior conviction, any fact increasing the statutory maximum punishment must be:"
+        },
+        {
+          "type": "compact",
+          "text": "Charged as required"
+        },
+        {
+          "type": "compact",
+          "text": "Submitted to a jury"
+        },
+        {
+          "type": "compact",
+          "text": "Proved beyond a reasonable doubt"
+        },
+        {
+          "type": "paragraph",
+          "text": "A judge may generally decide whether multiple sentences run concurrently or consecutively."
+        }
+      ]
+    },
+    {
+      "id": "153-right-to-counsel-at-sentencing",
+      "title": "153. Right to Counsel at Sentencing",
+      "body": [
+        "Sentencing is a critical stage.",
+        "Counsel is also required at a revocation proceeding when a previously deferred sentence may be imposed."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sentencing is a critical stage."
+        },
+        {
+          "type": "paragraph",
+          "text": "Counsel is also required at a revocation proceeding when a previously deferred sentence may be imposed."
+        }
+      ]
+    },
+    {
+      "id": "154-eighth-amendment-overview",
+      "title": "154. Eighth Amendment Overview",
+      "body": [
+        "The Eighth Amendment prohibits:",
+        "Excessive bail",
+        "Excessive fines",
+        "Cruel and unusual punishment",
+        "It applies primarily to punishment after conviction."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Eighth Amendment prohibits:"
+        },
+        {
+          "type": "compact",
+          "text": "Excessive bail"
+        },
+        {
+          "type": "compact",
+          "text": "Excessive fines"
+        },
+        {
+          "type": "compact",
+          "text": "Cruel and unusual punishment"
+        },
+        {
+          "type": "paragraph",
+          "text": "It applies primarily to punishment after conviction."
+        }
+      ]
+    },
+    {
+      "id": "155-proportionality",
+      "title": "155. Proportionality",
+      "body": [
+        "A noncapital sentence violates the Eighth Amendment only when grossly disproportionate.",
+        "Courts give legislatures substantial deference.",
+        "Capital punishment receives much stricter proportionality review."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A noncapital sentence violates the Eighth Amendment only when grossly disproportionate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Courts give legislatures substantial deference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capital punishment receives much stricter proportionality review."
+        }
+      ]
+    },
+    {
+      "id": "156-prison-conditions",
+      "title": "156. Prison Conditions",
+      "body": [
+        "Prison conditions violate the Eighth Amendment when officials are deliberately indifferent to a substantial risk of serious harm.",
+        "Negligence alone is insufficient."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Prison conditions violate the Eighth Amendment when officials are deliberately indifferent to a substantial risk of serious harm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Negligence alone is insufficient."
+        }
+      ]
+    },
+    {
+      "id": "157-excessive-force-in-prison",
+      "title": "157. Excessive Force in Prison",
+      "body": [
+        "Force violates the Eighth Amendment when applied maliciously and sadistically to cause harm rather than in a good-faith effort to maintain discipline.",
+        "Serious injury is relevant but not always required."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Force violates the Eighth Amendment when applied maliciously and sadistically to cause harm rather than in a good-faith effort to maintain discipline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serious injury is relevant but not always required."
+        }
+      ]
+    },
+    {
+      "id": "158-medical-care-in-prison",
+      "title": "158. Medical Care in Prison",
+      "body": [
+        "Prison officials violate the Eighth Amendment through deliberate indifference to serious medical needs.",
+        "Medical negligence or malpractice alone is not enough."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Prison officials violate the Eighth Amendment through deliberate indifference to serious medical needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Medical negligence or malpractice alone is not enough."
+        }
+      ]
+    },
+    {
+      "id": "159-double-jeopardy-protections",
+      "title": "159. Double Jeopardy Protections",
+      "body": [
+        "PART VI — POST-TRIAL",
+        "The Double Jeopardy Clause protects against:",
+        "Retrial after acquittal",
+        "Retrial after conviction",
+        "Multiple punishments for the same offense"
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "PART VI — POST-TRIAL"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Double Jeopardy Clause protects against:"
+        },
+        {
+          "type": "compact",
+          "text": "Retrial after acquittal"
+        },
+        {
+          "type": "compact",
+          "text": "Retrial after conviction"
+        },
+        {
+          "type": "compact",
+          "text": "Multiple punishments for the same offense"
+        }
+      ]
+    },
+    {
+      "id": "160-blockburger-test",
+      "title": "160. Blockburger Test",
+      "body": [
+        "Two offenses are different only if each requires proof of an element the other does not.",
+        "A lesser included offense is the same offense as the greater offense for double-jeopardy purposes."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Two offenses are different only if each requires proof of an element the other does not."
+        },
+        {
+          "type": "paragraph",
+          "text": "A lesser included offense is the same offense as the greater offense for double-jeopardy purposes."
+        }
+      ]
+    },
+    {
+      "id": "161-greater-and-lesser-offenses",
+      "title": "161. Greater and Lesser Offenses",
+      "body": [
+        "Successive prosecution for a greater and lesser included offense is generally barred.",
+        "An exception exists when a necessary fact for the greater offense occurs only after the first trial.",
+        "Example: A victim dies after the defendant has already been convicted of battery. A later homicide prosecution may proceed."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Successive prosecution for a greater and lesser included offense is generally barred."
+        },
+        {
+          "type": "paragraph",
+          "text": "An exception exists when a necessary fact for the greater offense occurs only after the first trial."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: A victim dies after the defendant has already been convicted of battery. A later homicide prosecution may proceed."
+        }
+      ]
+    },
+    {
+      "id": "162-legislative-authorization",
+      "title": "162. Legislative Authorization",
+      "body": [
+        "At one trial, cumulative punishment for overlapping statutory offenses may be imposed when the legislature clearly authorizes it.",
+        "Double jeopardy primarily protects against punishment beyond legislative intent."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "At one trial, cumulative punishment for overlapping statutory offenses may be imposed when the legislature clearly authorizes it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Double jeopardy primarily protects against punishment beyond legislative intent."
+        }
+      ]
+    },
+    {
+      "id": "163-conspiracy-and-the-substantive-crime",
+      "title": "163. Conspiracy and the Substantive Crime",
+      "body": [
+        "Conspiracy and the completed substantive offense are different offenses because each requires an element the other does not.",
+        "They may generally be separately prosecuted and punished."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Conspiracy and the completed substantive offense are different offenses because each requires an element the other does not."
+        },
+        {
+          "type": "paragraph",
+          "text": "They may generally be separately prosecuted and punished."
+        }
+      ]
+    },
+    {
+      "id": "164-attachment-of-jeopardy",
+      "title": "164. Attachment of Jeopardy",
+      "body": [
+        "Jeopardy attaches:",
+        "Jury trial — when the jury is empaneled and sworn",
+        "Bench trial — when the first witness is sworn",
+        "Guilty plea — generally when the court accepts the plea"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Jeopardy attaches:"
+        },
+        {
+          "type": "compact",
+          "text": "Jury trial — when the jury is empaneled and sworn"
+        },
+        {
+          "type": "compact",
+          "text": "Bench trial — when the first witness is sworn"
+        },
+        {
+          "type": "compact",
+          "text": "Guilty plea — generally when the court accepts the plea"
+        }
+      ]
+    },
+    {
+      "id": "165-acquittals",
+      "title": "165. Acquittals",
+      "body": [
+        "A final acquittal bars retrial even if based on:",
+        "Legal error",
+        "Factual error",
+        "Misinterpretation of the law",
+        "The government generally cannot appeal a true acquittal."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A final acquittal bars retrial even if based on:"
+        },
+        {
+          "type": "compact",
+          "text": "Legal error"
+        },
+        {
+          "type": "compact",
+          "text": "Factual error"
+        },
+        {
+          "type": "compact",
+          "text": "Misinterpretation of the law"
+        },
+        {
+          "type": "paragraph",
+          "text": "The government generally cannot appeal a true acquittal."
+        }
+      ]
+    },
+    {
+      "id": "166-dual-sovereignty",
+      "title": "166. Dual Sovereignty",
+      "body": [
+        "Different sovereigns may prosecute the same conduct under their own laws.",
+        "Examples:",
+        "State and federal government",
+        "Two different states",
+        "A state and its municipality are ordinarily the same sovereign."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Different sovereigns may prosecute the same conduct under their own laws."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples:"
+        },
+        {
+          "type": "compact",
+          "text": "State and federal government"
+        },
+        {
+          "type": "compact",
+          "text": "Two different states"
+        },
+        {
+          "type": "paragraph",
+          "text": "A state and its municipality are ordinarily the same sovereign."
+        }
+      ]
+    },
+    {
+      "id": "167-mistrials",
+      "title": "167. Mistrials",
+      "body": [
+        "Retrial after mistrial is permitted when:",
+        "The defendant requests or consents, unless provoked by prosecutorial bad faith",
+        "Manifest necessity exists, such as a hung jury or juror illness",
+        "A prosecution-requested mistrial caused merely by lack of preparation may bar retrial."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Retrial after mistrial is permitted when:"
+        },
+        {
+          "type": "compact",
+          "text": "The defendant requests or consents, unless provoked by prosecutorial bad faith"
+        },
+        {
+          "type": "compact",
+          "text": "Manifest necessity exists, such as a hung jury or juror illness"
+        },
+        {
+          "type": "paragraph",
+          "text": "A prosecution-requested mistrial caused merely by lack of preparation may bar retrial."
+        }
+      ]
+    },
+    {
+      "id": "168-retrial-after-appeal",
+      "title": "168. Retrial After Appeal",
+      "body": [
+        "When a conviction is reversed for trial error, retrial generally is permitted.",
+        "When reversed for legally insufficient evidence, retrial is barred because insufficiency is equivalent to acquittal.",
+        "A defendant may receive a harsher sentence after retrial only when justified by objective events occurring after the original sentence."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When a conviction is reversed for trial error, retrial generally is permitted."
+        },
+        {
+          "type": "paragraph",
+          "text": "When reversed for legally insufficient evidence, retrial is barred because insufficiency is equivalent to acquittal."
+        },
+        {
+          "type": "paragraph",
+          "text": "A defendant may receive a harsher sentence after retrial only when justified by objective events occurring after the original sentence."
+        }
+      ]
+    },
+    {
+      "id": "169-collateral-estoppel",
+      "title": "169. Collateral Estoppel",
+      "body": [
+        "The government may not relitigate an ultimate factual issue necessarily resolved in the defendant’s favor by a valid acquittal.",
+        "The defendant bears the burden to show the issue was necessarily decided."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The government may not relitigate an ultimate factual issue necessarily resolved in the defendant’s favor by a valid acquittal."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defendant bears the burden to show the issue was necessarily decided."
+        }
+      ]
+    },
+    {
+      "id": "170-appeals",
+      "title": "170. Appeals",
+      "body": [
+        "The Constitution does not independently guarantee an appeal.",
+        "When a first appeal as of right exists, an indigent defendant is entitled to counsel and equal access.",
+        "There is no constitutional right to self-representation on appeal."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Constitution does not independently guarantee an appeal."
+        },
+        {
+          "type": "paragraph",
+          "text": "When a first appeal as of right exists, an indigent defendant is entitled to counsel and equal access."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no constitutional right to self-representation on appeal."
+        }
+      ]
+    },
+    {
+      "id": "171-harmless-and-plain-error",
+      "title": "171. Harmless and Plain Error",
+      "body": [
+        "Harmless Error",
+        "A preserved constitutional error does not require reversal if the government proves beyond a reasonable doubt that it did not contribute to the verdict.",
+        "Plain Error",
+        "An unpreserved error may justify relief when it is:",
+        "Error",
+        "Plain",
+        "Affects substantial rights",
+        "Seriously affects fairness, integrity, or reputation of proceedings",
+        "Some structural errors require automatic reversal."
+      ],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Harmless Error"
+        },
+        {
+          "type": "paragraph",
+          "text": "A preserved constitutional error does not require reversal if the government proves beyond a reasonable doubt that it did not contribute to the verdict."
+        },
+        {
+          "type": "subheading",
+          "text": "Plain Error"
+        },
+        {
+          "type": "paragraph",
+          "text": "An unpreserved error may justify relief when it is:"
+        },
+        {
+          "type": "compact",
+          "text": "Error"
+        },
+        {
+          "type": "compact",
+          "text": "Plain"
+        },
+        {
+          "type": "compact",
+          "text": "Affects substantial rights"
+        },
+        {
+          "type": "compact",
+          "text": "Seriously affects fairness, integrity, or reputation of proceedings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some structural errors require automatic reversal."
+        }
+      ]
+    },
+    {
+      "id": "172-habeas-corpus",
+      "title": "172. Habeas Corpus",
+      "body": [
+        "Habeas corpus is a civil collateral attack on unlawful custody.",
+        "The petitioner may satisfy custody while:",
+        "In prison",
+        "On probation",
+        "On parole",
+        "An expired sentence generally does not satisfy custody merely because it later enhances another sentence."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Habeas corpus is a civil collateral attack on unlawful custody."
+        },
+        {
+          "type": "paragraph",
+          "text": "The petitioner may satisfy custody while:"
+        },
+        {
+          "type": "compact",
+          "text": "In prison"
+        },
+        {
+          "type": "compact",
+          "text": "On probation"
+        },
+        {
+          "type": "compact",
+          "text": "On parole"
+        },
+        {
+          "type": "paragraph",
+          "text": "An expired sentence generally does not satisfy custody merely because it later enhances another sentence."
+        }
+      ]
+    },
+    {
+      "id": "173-aedpa-limits",
+      "title": "173. AEDPA Limits",
+      "body": [
+        "A state prisoner seeking federal habeas relief generally must:",
+        "Exhaust state remedies",
+        "Overcome deferential review of state-court decisions",
+        "Rely primarily on the state-court record",
+        "Satisfy procedural restrictions on successive petitions",
+        "Relief requires more than showing ordinary legal error."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A state prisoner seeking federal habeas relief generally must:"
+        },
+        {
+          "type": "compact",
+          "text": "Exhaust state remedies"
+        },
+        {
+          "type": "compact",
+          "text": "Overcome deferential review of state-court decisions"
+        },
+        {
+          "type": "compact",
+          "text": "Rely primarily on the state-court record"
+        },
+        {
+          "type": "compact",
+          "text": "Satisfy procedural restrictions on successive petitions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Relief requires more than showing ordinary legal error."
+        }
+      ]
+    },
+    {
+      "id": "174-parole-and-probation-revocation",
+      "title": "174. Parole and Probation Revocation",
+      "body": [
+        "Due process generally requires:",
+        "Notice",
+        "Preliminary probable-cause determination",
+        "Final hearing",
+        "Opportunity to present evidence",
+        "Limited confrontation rights",
+        "Neutral decisionmaker",
+        "Counsel is required when necessary for fundamental fairness or when a new or deferred sentence may be imposed."
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Due process generally requires:"
+        },
+        {
+          "type": "compact",
+          "text": "Notice"
+        },
+        {
+          "type": "compact",
+          "text": "Preliminary probable-cause determination"
+        },
+        {
+          "type": "compact",
+          "text": "Final hearing"
+        },
+        {
+          "type": "compact",
+          "text": "Opportunity to present evidence"
+        },
+        {
+          "type": "compact",
+          "text": "Limited confrontation rights"
+        },
+        {
+          "type": "compact",
+          "text": "Neutral decisionmaker"
+        },
+        {
+          "type": "paragraph",
+          "text": "Counsel is required when necessary for fundamental fairness or when a new or deferred sentence may be imposed."
+        }
+      ]
+    },
+    {
+      "id": "175-amendment-comparison-chart",
+      "title": "175. Amendment Comparison Chart",
+      "body": [
+        "Amendment — Main Criminal-Procedure Protection",
+        "Fourth — Searches, seizures, arrests",
+        "Fifth — Self-incrimination, Miranda, double jeopardy",
+        "Sixth — Counsel, jury, confrontation, speedy and public trial",
+        "Eighth — Bail, fines, punishment",
+        "Fourteenth — Due process and incorporation against states"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Amendment — Main Criminal-Procedure Protection"
+        },
+        {
+          "type": "chartRow",
+          "text": "Fourth — Searches, seizures, arrests"
+        },
+        {
+          "type": "chartRow",
+          "text": "Fifth — Self-incrimination, Miranda, double jeopardy"
+        },
+        {
+          "type": "chartRow",
+          "text": "Sixth — Counsel, jury, confrontation, speedy and public trial"
+        },
+        {
+          "type": "chartRow",
+          "text": "Eighth — Bail, fines, punishment"
+        },
+        {
+          "type": "chartRow",
+          "text": "Fourteenth — Due process and incorporation against states"
+        }
+      ]
+    },
+    {
+      "id": "176-search-justification-chart",
+      "title": "176. Search-Justification Chart",
+      "body": [
+        "Police Action — Required Justification",
+        "Consensual encounter — None",
+        "Terry stop — Reasonable suspicion of crime",
+        "Terry frisk — Reasonable suspicion armed and dangerous",
+        "Arrest — Probable cause",
+        "Search warrant — Probable cause",
+        "Automobile search — Probable cause",
+        "Search incident to arrest — Lawful custodial arrest",
+        "Consent search — Voluntary consent",
+        "Emergency entry — Probable cause plus exigency, or objective emergency-aid need"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Police Action — Required Justification"
+        },
+        {
+          "type": "chartRow",
+          "text": "Consensual encounter — None"
+        },
+        {
+          "type": "chartRow",
+          "text": "Terry stop — Reasonable suspicion of crime"
+        },
+        {
+          "type": "chartRow",
+          "text": "Terry frisk — Reasonable suspicion armed and dangerous"
+        },
+        {
+          "type": "chartRow",
+          "text": "Arrest — Probable cause"
+        },
+        {
+          "type": "chartRow",
+          "text": "Search warrant — Probable cause"
+        },
+        {
+          "type": "chartRow",
+          "text": "Automobile search — Probable cause"
+        },
+        {
+          "type": "chartRow",
+          "text": "Search incident to arrest — Lawful custodial arrest"
+        },
+        {
+          "type": "chartRow",
+          "text": "Consent search — Voluntary consent"
+        },
+        {
+          "type": "chartRow",
+          "text": "Emergency entry — Probable cause plus exigency, or objective emergency-aid need"
+        }
+      ]
+    },
+    {
+      "id": "177-vehicle-search-comparison",
+      "title": "177. Vehicle Search Comparison",
+      "body": [
+        "Doctrine — Scope",
+        "Search incident to arrest — Passenger compartment if access or offense evidence",
+        "Automobile exception — Any area capable of holding object supported by probable cause",
+        "Protective search — Weapon areas when suspect dangerous and may gain access",
+        "Inventory — Standardized search of lawfully impounded vehicle",
+        "Consent — Scope reasonably understood from consent"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Doctrine — Scope"
+        },
+        {
+          "type": "chartRow",
+          "text": "Search incident to arrest — Passenger compartment if access or offense evidence"
+        },
+        {
+          "type": "chartRow",
+          "text": "Automobile exception — Any area capable of holding object supported by probable cause"
+        },
+        {
+          "type": "chartRow",
+          "text": "Protective search — Weapon areas when suspect dangerous and may gain access"
+        },
+        {
+          "type": "chartRow",
+          "text": "Inventory — Standardized search of lawfully impounded vehicle"
+        },
+        {
+          "type": "chartRow",
+          "text": "Consent — Scope reasonably understood from consent"
+        }
+      ]
+    },
+    {
+      "id": "178-confession-comparison",
+      "title": "178. Confession Comparison",
+      "body": [
+        "Issue — Trigger — Result of Violation",
+        "Miranda — Custody + interrogation — Statement excluded from case in chief",
+        "Due-process voluntariness — Police coercion — Statement excluded for all purposes",
+        "Sixth Amendment — Postattachment deliberate elicitation — Statement excluded for charged offense",
+        "Fourth Amendment fruit — Statement caused by unlawful search or seizure — Suppress unless attenuation or other exception"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Issue — Trigger — Result of Violation"
+        },
+        {
+          "type": "chartRow",
+          "text": "Miranda — Custody + interrogation — Statement excluded from case in chief"
+        },
+        {
+          "type": "chartRow",
+          "text": "Due-process voluntariness — Police coercion — Statement excluded for all purposes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Sixth Amendment — Postattachment deliberate elicitation — Statement excluded for charged offense"
+        },
+        {
+          "type": "chartRow",
+          "text": "Fourth Amendment fruit — Statement caused by unlawful search or seizure — Suppress unless attenuation or other exception"
+        }
+      ]
+    },
+    {
+      "id": "179-counsel-comparison",
+      "title": "179. Counsel Comparison",
+      "body": [
+        "Fifth Amendment Miranda Counsel — Sixth Amendment Counsel",
+        "Applies during custodial interrogation — Applies after formal proceedings begin",
+        "Not offense specific — Offense specific",
+        "Must be unambiguously invoked — Attaches automatically",
+        "Edwards limits police reinitiation — Police may seek waiver unless Miranda invocation controls",
+        "Ends after 14-day break in custody for Edwards purposes — Continues through critical stages"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Fifth Amendment Miranda Counsel — Sixth Amendment Counsel"
+        },
+        {
+          "type": "chartRow",
+          "text": "Applies during custodial interrogation — Applies after formal proceedings begin"
+        },
+        {
+          "type": "chartRow",
+          "text": "Not offense specific — Offense specific"
+        },
+        {
+          "type": "chartRow",
+          "text": "Must be unambiguously invoked — Attaches automatically"
+        },
+        {
+          "type": "chartRow",
+          "text": "Edwards limits police reinitiation — Police may seek waiver unless Miranda invocation controls"
+        },
+        {
+          "type": "chartRow",
+          "text": "Ends after 14-day break in custody for Edwards purposes — Continues through critical stages"
+        }
+      ]
+    },
+    {
+      "id": "180-identification-comparison",
+      "title": "180. Identification Comparison",
+      "body": [
+        "Procedure — Counsel Right? — Due Process Review?",
+        "Preindictment lineup — No — Yes",
+        "Postindictment lineup — Yes — Yes",
+        "Photo array before indictment — No — Yes",
+        "Photo array after indictment — No — Yes",
+        "Spontaneous private identification — No — Usually no police-arranged due-process claim"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Procedure — Counsel Right? — Due Process Review?"
+        },
+        {
+          "type": "chartRow",
+          "text": "Preindictment lineup — No — Yes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Postindictment lineup — Yes — Yes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Photo array before indictment — No — Yes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Photo array after indictment — No — Yes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Spontaneous private identification — No — Usually no police-arranged due-process claim"
+        }
+      ]
+    },
+    {
+      "id": "181-double-jeopardy-chart",
+      "title": "181. Double-Jeopardy Chart",
+      "body": [
+        "Event — Retrial?",
+        "Acquittal — No",
+        "Conviction reversed for trial error — Yes",
+        "Conviction reversed for insufficient evidence — No",
+        "Hung jury — Yes",
+        "Defendant-requested mistrial — Usually yes",
+        "Prosecution goads defendant into mistrial — No",
+        "Different sovereign — Yes",
+        "Greater after lesser — Usually no",
+        "Later death after battery conviction — May be permitted"
+      ],
+      "blocks": [
+        {
+          "type": "chartHeader",
+          "text": "Event — Retrial?"
+        },
+        {
+          "type": "chartRow",
+          "text": "Acquittal — No"
+        },
+        {
+          "type": "chartRow",
+          "text": "Conviction reversed for trial error — Yes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Conviction reversed for insufficient evidence — No"
+        },
+        {
+          "type": "chartRow",
+          "text": "Hung jury — Yes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Defendant-requested mistrial — Usually yes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Prosecution goads defendant into mistrial — No"
+        },
+        {
+          "type": "chartRow",
+          "text": "Different sovereign — Yes"
+        },
+        {
+          "type": "chartRow",
+          "text": "Greater after lesser — Usually no"
+        },
+        {
+          "type": "chartRow",
+          "text": "Later death after battery conviction — May be permitted"
+        }
+      ]
+    },
+    {
+      "id": "182-final-mbe-traps",
+      "title": "182. Final MBE Traps",
+      "body": [
+        "Fourth Amendment rights are personal.",
+        "Private action is not government action unless police direct or adopt it.",
+        "A show of authority requires submission.",
+        "An arrest warrant does not authorize searching a third party’s home.",
+        "The home and curtilage receive the greatest protection.",
+        "Open fields and abandoned property receive no Fourth Amendment protection.",
+        "A warrant must be particular on its face or properly incorporate an accompanying document.",
+        "A premises warrant does not automatically authorize searching everyone present.",
+        "Search incident to arrest does not permit searching cell-phone data.",
+        "Vehicle search incident to arrest requires access or evidence of the arrest offense.",
+        "The automobile exception does not authorize entering curtilage.",
+        "Terry stop and Terry frisk require separate reasonable suspicions.",
+        "A dog sniff cannot prolong a completed traffic stop.",
+        "Consent must be voluntary, and scope matters.",
+        "A present occupant’s objection defeats another present occupant’s consent.",
+        "Miranda requires custody and interrogation.",
+        "Miranda counsel must be requested unambiguously.",
+        "Physical fruits of unwarned voluntary statements are generally admissible.",
+        "The Sixth Amendment is offense specific.",
+        "There is no counsel right at a photo array.",
+        "Brady includes impeachment evidence.",
+        "Jury verdicts must be unanimous.",
+        "Testimonial hearsay requires unavailability and prior cross-examination.",
+        "Conspiracy and its substantive offense are separate for double jeopardy.",
+        "Reversal for insufficient evidence bars retrial."
+      ],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Fourth Amendment rights are personal."
+        },
+        {
+          "type": "compact",
+          "text": "Private action is not government action unless police direct or adopt it."
+        },
+        {
+          "type": "compact",
+          "text": "A show of authority requires submission."
+        },
+        {
+          "type": "compact",
+          "text": "An arrest warrant does not authorize searching a third party’s home."
+        },
+        {
+          "type": "compact",
+          "text": "The home and curtilage receive the greatest protection."
+        },
+        {
+          "type": "compact",
+          "text": "Open fields and abandoned property receive no Fourth Amendment protection."
+        },
+        {
+          "type": "compact",
+          "text": "A warrant must be particular on its face or properly incorporate an accompanying document."
+        },
+        {
+          "type": "compact",
+          "text": "A premises warrant does not automatically authorize searching everyone present."
+        },
+        {
+          "type": "compact",
+          "text": "Search incident to arrest does not permit searching cell-phone data."
+        },
+        {
+          "type": "compact",
+          "text": "Vehicle search incident to arrest requires access or evidence of the arrest offense."
+        },
+        {
+          "type": "compact",
+          "text": "The automobile exception does not authorize entering curtilage."
+        },
+        {
+          "type": "compact",
+          "text": "Terry stop and Terry frisk require separate reasonable suspicions."
+        },
+        {
+          "type": "compact",
+          "text": "A dog sniff cannot prolong a completed traffic stop."
+        },
+        {
+          "type": "compact",
+          "text": "Consent must be voluntary, and scope matters."
+        },
+        {
+          "type": "compact",
+          "text": "A present occupant’s objection defeats another present occupant’s consent."
+        },
+        {
+          "type": "compact",
+          "text": "Miranda requires custody and interrogation."
+        },
+        {
+          "type": "compact",
+          "text": "Miranda counsel must be requested unambiguously."
+        },
+        {
+          "type": "compact",
+          "text": "Physical fruits of unwarned voluntary statements are generally admissible."
+        },
+        {
+          "type": "compact",
+          "text": "The Sixth Amendment is offense specific."
+        },
+        {
+          "type": "compact",
+          "text": "There is no counsel right at a photo array."
+        },
+        {
+          "type": "compact",
+          "text": "Brady includes impeachment evidence."
+        },
+        {
+          "type": "compact",
+          "text": "Jury verdicts must be unanimous."
+        },
+        {
+          "type": "compact",
+          "text": "Testimonial hearsay requires unavailability and prior cross-examination."
+        },
+        {
+          "type": "compact",
+          "text": "Conspiracy and its substantive offense are separate for double jeopardy."
+        },
+        {
+          "type": "compact",
+          "text": "Reversal for insufficient evidence bars retrial."
+        }
+      ]
+    },
+    {
+      "id": "183-final-criminal-procedure-checklist",
+      "title": "183. Final Criminal Procedure Checklist",
+      "body": [
+        "When solving a question, write:",
+        "Government action",
+        "Defendant’s personal right",
+        "Attachment or trigger",
+        "Required justification",
+        "Warrant or exception",
+        "Scope and execution",
+        "Invocation or waiver",
+        "Evidence obtained",
+        "Exclusion, reversal, or other remedy",
+        "Exception to the remedy"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When solving a question, write:"
+        },
+        {
+          "type": "compact",
+          "text": "Government action"
+        },
+        {
+          "type": "compact",
+          "text": "Defendant’s personal right"
+        },
+        {
+          "type": "compact",
+          "text": "Attachment or trigger"
+        },
+        {
+          "type": "compact",
+          "text": "Required justification"
+        },
+        {
+          "type": "compact",
+          "text": "Warrant or exception"
+        },
+        {
+          "type": "compact",
+          "text": "Scope and execution"
+        },
+        {
+          "type": "compact",
+          "text": "Invocation or waiver"
+        },
+        {
+          "type": "compact",
+          "text": "Evidence obtained"
+        },
+        {
+          "type": "compact",
+          "text": "Exclusion, reversal, or other remedy"
+        },
+        {
+          "type": "compact",
+          "text": "Exception to the remedy"
+        }
+      ]
+    },
+    {
+      "id": "final-one-sentence-summary",
+      "title": "Final One-Sentence Summary",
+      "body": [
+        "Criminal Procedure asks whether the government respected the defendant’s constitutional protections at investigation, charging, trial, sentencing, and review—and whether any violation requires suppression, reversal, or no remedy."
+      ],
+      "blocks": [
+        {
+          "type": "quote",
+          "text": "Criminal Procedure asks whether the government respected the defendant’s constitutional protections at investigation, charging, trial, sentencing, and review—and whether any violation requires suppression, reversal, or no remedy."
+        }
+      ]
+    }
+  ]
+}

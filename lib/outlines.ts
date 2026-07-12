@@ -1,6 +1,7 @@
 import agencyOutlineJson from "@/data/outlines/agency.json";
 import civilProcedureOutlineJson from "@/data/outlines/civil-procedure.json";
 import criminalLawOutlineJson from "@/data/outlines/criminal-law.json";
+import criminalProcedureOutlineJson from "@/data/outlines/criminal-procedure.json";
 import contractsSalesOutlineJson from "@/data/outlines/contracts-sales.json";
 import corporationsLlcsOutlineJson from "@/data/outlines/corporations-llcs.json";
 import evidenceOutlineJson from "@/data/outlines/evidence.json";
@@ -31,6 +32,7 @@ export type Outline = {
 const agencyOutline = agencyOutlineJson as Outline;
 const civilProcedureOutline = civilProcedureOutlineJson as Outline;
 const criminalLawOutline = criminalLawOutlineJson as Outline;
+const criminalProcedureOutline = criminalProcedureOutlineJson as Outline;
 const contractsSalesOutline = contractsSalesOutlineJson as Outline;
 const corporationsLlcsOutline = corporationsLlcsOutlineJson as Outline;
 const evidenceOutline = evidenceOutlineJson as Outline;
@@ -42,6 +44,7 @@ export const outlines: Outline[] = [
   agencyOutline,
   civilProcedureOutline,
   criminalLawOutline,
+  criminalProcedureOutline,
   evidenceOutline,
   contractsSalesOutline,
   corporationsLlcsOutline,
