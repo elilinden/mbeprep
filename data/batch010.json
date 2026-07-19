@@ -1,0 +1,2624 @@
+{
+  "schemaVersion": "1.0",
+  "batchId": "original-legacy-mbe-style-hard-batch-009-audited",
+  "title": "Original Hard Legacy MBE-Style Question Drafts - Batch 009 (Audited)",
+  "description": "Thirty-five original, AI-assisted legacy MBE-style question drafts, evenly distributed across the seven MBE subjects. This audited edition corrects identified doctrinal ambiguities and improves one-best-answer wording. These are not NCBE questions and are not endorsed by NCBE.",
+  "relatedPriorBatches": [
+    "original-legacy-mbe-style-hard-batch-008-audited",
+    "original-legacy-mbe-style-hard-batch-009"
+  ],
+  "rights": {
+    "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+    "copyrightOwner": "PROJECT_OWNER_TO_CONFIRM",
+    "officialNCBEContentIncluded": false,
+    "officialSampleUsedOnlyForGeneralFormatStudy": true,
+    "publicReleaseAllowed": false,
+    "requiredReview": [
+      "SUBJECT_MATTER_ATTORNEY",
+      "EDITORIAL_REVIEWER"
+    ],
+    "marketingRestriction": "Do not call these official, released, licensed, actual, or NCBE questions. Do not imply NCBE affiliation or endorsement."
+  },
+  "formatProfile": {
+    "examTrack": "LEGACY_UBE",
+    "questionType": "SINGLE_SELECT",
+    "choicesPerQuestion": 4,
+    "correctChoicesPerQuestion": 1,
+    "targetSeconds": 109,
+    "styleNotes": [
+      "Use original realistic factual scenarios and one precise call of the question.",
+      "Use four concise, parallel options with one best answer.",
+      "Require application of a principal rule and, where appropriate, a closely related exception or procedural consequence.",
+      "Use plausible distractors based on genuine legal errors rather than obviously false propositions.",
+      "Do not reproduce or lightly rewrite official questions or proprietary question-bank content."
+    ]
+  },
+  "researchBasis": {
+    "generatedAsOf": "2026-07-19",
+    "materials": [
+      "User-supplied official and commercial sample questions, consulted only for general length, difficulty, pacing, and style.",
+      "The official NCBE MBE format and subject-matter materials, consulted for subject scope and single-best-answer structure.",
+      "Federal Rules of Civil Procedure and Federal Rules of Evidence in effect during the audit, federal jurisdiction statutes, UCC Article 2 principles, and generally accepted fundamental common-law doctrines identified in authority notes.",
+      "Previously generated original batches, consulted to preserve schema and reduce intentional duplication."
+    ],
+    "verificationNote": "AI legal and editorial audit completed for internal study use. The file remains an original study draft and has not received independent attorney, NCBE, or psychometric validation.",
+    "auditedAsOf": "2026-07-19"
+  },
+  "requestedPriorityCoverage": {},
+  "coveragePlan": {
+    "Civil Procedure": [
+      {
+        "key": "orig-hard9-civpro-001",
+        "category": "Pleadings and motions",
+        "subtopic": "Relation back when changing defendants after limitations period",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-civpro-002",
+        "category": "Subject-matter jurisdiction",
+        "subtopic": "Supplemental jurisdiction over plaintiff claim against third-party defendant in diversity",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-civpro-003",
+        "category": "Pretrial procedures",
+        "subtopic": "Issue preclusion based on a prior judgment reached after full litigation",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-civpro-004",
+        "category": "Joinder of parties and claims",
+        "subtopic": "Required party who cannot be joined because of sovereign immunity",
+        "correctChoice": "D",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-civpro-005",
+        "category": "Appealability and review",
+        "subtopic": "Immediate appeal from denial of preliminary injunction",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      }
+    ],
+    "Contracts": [
+      {
+        "key": "orig-hard9-contracts-001",
+        "category": "Formation",
+        "subtopic": "Battle of the forms and material additional terms",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-contracts-002",
+        "category": "Performance, breach, and discharge",
+        "subtopic": "Retraction of anticipatory repudiation",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-contracts-003",
+        "category": "Third-party rights",
+        "subtopic": "Modification before intended beneficiary's rights vest",
+        "correctChoice": "D",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-contracts-004",
+        "category": "Performance, breach, and discharge",
+        "subtopic": "Discharge by death in a personal-services contract",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-contracts-005",
+        "category": "Performance, breach, and discharge",
+        "subtopic": "Risk of loss in a nonmerchant sale",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      }
+    ],
+    "Criminal Law and Procedure": [
+      {
+        "key": "orig-hard9-crim-001",
+        "category": "Accomplice liability",
+        "subtopic": "Effective withdrawal from accomplice liability",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-crim-002",
+        "category": "Inchoate offenses",
+        "subtopic": "Bilateral conspiracy and agreement with undercover officer",
+        "correctChoice": "D",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-crim-003",
+        "category": "Property offenses",
+        "subtopic": "Larceny by trick versus false pretenses",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-crim-004",
+        "category": "Constitutional protection of accused persons",
+        "subtopic": "Public-safety exception to Miranda",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-crim-005",
+        "category": "Constitutional protection of accused persons",
+        "subtopic": "Right to counsel at postindictment identification procedure",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      }
+    ],
+    "Evidence": [
+      {
+        "key": "orig-hard9-evidence-001",
+        "category": "Relevance and reasons for excluding relevant evidence",
+        "subtopic": "Subsequent remedial measures offered to prove control",
+        "correctChoice": "D",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-evidence-002",
+        "category": "Character evidence",
+        "subtopic": "Specific acts when character is an essential element of negligent entrustment",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-evidence-003",
+        "category": "Hearsay and circumstances of its admissibility",
+        "subtopic": "Statement against penal interest offered to exculpate accused",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-evidence-004",
+        "category": "Impeachment",
+        "subtopic": "Extrinsic evidence of witness bias",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-evidence-005",
+        "category": "Writings, recordings, and photographs",
+        "subtopic": "Authentication through distinctive characteristics and reply doctrine",
+        "correctChoice": "D",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      }
+    ],
+    "Torts": [
+      {
+        "key": "orig-hard9-torts-001",
+        "category": "Negligence",
+        "subtopic": "Negligent infliction of emotional distress under zone-of-danger rule",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-torts-002",
+        "category": "Strict liability and products liability",
+        "subtopic": "Learned-intermediary doctrine for prescription drugs",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-torts-003",
+        "category": "Other torts",
+        "subtopic": "Defamation of a public figure and actual malice",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-torts-004",
+        "category": "Other torts",
+        "subtopic": "Private nuisance and hypersensitive plaintiff",
+        "correctChoice": "D",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-torts-005",
+        "category": "Vicarious liability",
+        "subtopic": "Employee special errand within scope of employment",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      }
+    ],
+    "Constitutional Law": [
+      {
+        "key": "orig-hard9-conlaw-001",
+        "category": "Individual rights",
+        "subtopic": "State action through exclusive public function",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-conlaw-002",
+        "category": "Individual rights",
+        "subtopic": "Content-neutral time, place, and manner restriction in traditional public forum",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-conlaw-003",
+        "category": "The relation of nation and states in a federal system",
+        "subtopic": "Dormant Commerce Clause and market-participant exception",
+        "correctChoice": "D",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-conlaw-004",
+        "category": "Individual rights",
+        "subtopic": "Gender classification and intermediate scrutiny",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-conlaw-005",
+        "category": "Individual rights",
+        "subtopic": "Pretermination process for public employee with property interest",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      }
+    ],
+    "Real Property": [
+      {
+        "key": "orig-hard9-property-001",
+        "category": "Ownership of real property",
+        "subtopic": "Rule Against Perpetuities and class gift conditioned on remote event",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-property-002",
+        "category": "Titles",
+        "subtopic": "Race-notice statute and prior unrecorded deed",
+        "correctChoice": "D",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-property-003",
+        "category": "Rights in real property",
+        "subtopic": "Termination of easement by necessity",
+        "correctChoice": "A",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-property-004",
+        "category": "Landlord and tenant",
+        "subtopic": "Landlord liability for undisclosed latent defect known at lease inception",
+        "correctChoice": "B",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      },
+      {
+        "key": "orig-hard9-property-005",
+        "category": "Titles",
+        "subtopic": "Shelter rule protecting transferee from bona fide purchaser",
+        "correctChoice": "C",
+        "difficulty": "HARD",
+        "priorityRequested": false
+      }
+    ]
+  },
+  "questions": [
+    {
+      "key": "orig-hard9-civpro-001",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Civil Procedure",
+      "category": "Pleadings and motions",
+      "subtopic": "Relation back when changing defendants after limitations period",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A patient timely filed a federal diversity action against a hospital for injuries caused by a defective infusion pump. The complaint mistakenly named the hospital's parent corporation as the defendant. Within the Rule 4(m) service period, the hospital received the complaint through the same registered agent used by the parent and knew that it had supplied and maintained the pump. After the limitations period expired, the patient learned of the mistake and sought leave to substitute the hospital. The hospital argues that the amendment is untimely because the patient knew of the hospital's existence before filing suit but misunderstood which entity was legally responsible.",
+      "call": "Should the amendment relate back to the date of the original complaint?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because the hospital had timely notice and understood that it was omitted because of a mistake about the proper defendant.",
+          "isCorrect": true,
+          "rationale": "Rule 15(c) focuses on what the newly named defendant knew or should have known during the Rule 4(m) period; a misunderstanding about which related entity was responsible can qualify as a mistake.",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "Yes, but only if the parent corporation expressly agreed to indemnify the hospital.",
+          "isCorrect": false,
+          "rationale": "Indemnity between related entities is irrelevant to relation back.",
+          "distractorType": "IRRELEVANT_INDEMNITY"
+        },
+        {
+          "label": "C",
+          "text": "No, because the patient's prior knowledge of the hospital's existence prevents the naming error from qualifying as a Rule 15 mistake.",
+          "isCorrect": false,
+          "rationale": "Knowledge of an entity's existence does not necessarily defeat relation back when the plaintiff misunderstood the entity's role or legal responsibility.",
+          "distractorType": "OVERBROAD_KNOWLEDGE_RULE"
+        },
+        {
+          "label": "D",
+          "text": "No, because changing a defendant after the limitations period can never relate back.",
+          "isCorrect": false,
+          "rationale": "Rule 15(c) expressly permits relation back when its notice and mistake requirements are met.",
+          "distractorType": "DENIES_RULE_15C"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Relation back when changing defendants after limitations period",
+        "governingRule": "An amendment changing a defendant relates back when the claim arises from the same transaction, the new defendant received notice within the Rule 4(m) period without prejudice, and the new defendant knew or should have known that it would have been sued but for a mistake concerning the proper party's identity.",
+        "application": "The hospital had timely notice through the shared agent, knew it was the entity connected to the pump, and should have understood that the parent was named because of a responsibility mistake. The amendment therefore relates back.",
+        "commonTrap": "Treating any awareness of the correct entity's existence as fatal to the mistake requirement.",
+        "memoryAid": "Relation back asks what the new defendant understood, not merely what the plaintiff knew."
+      },
+      "authorityNotes": [
+        "Fed. R. Civ. P. 15(c)(1)(C)",
+        "Fed. R. Civ. P. 4(m)"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-civpro-002",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Civil Procedure",
+      "category": "Subject-matter jurisdiction",
+      "subtopic": "Supplemental jurisdiction over plaintiff claim against third-party defendant in diversity",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A citizen of State A sued a citizen of State B in federal court for $200,000 under diversity jurisdiction. The defendant impleaded an insurance company that was also a citizen of State A, alleging that the insurer must indemnify the defendant for any judgment. The plaintiff then asserted a state-law negligence claim for $30,000 directly against the insurer arising from the same accident. No federal claim is present.",
+      "call": "Does the federal court have supplemental jurisdiction over the plaintiff's claim against the insurer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because the negligence claim arises from the same accident and forms part of the same Article III case or controversy.",
+          "isCorrect": false,
+          "rationale": "Although the claim is factually related, § 1367(b) withdraws supplemental jurisdiction over certain plaintiff claims in diversity cases.",
+          "distractorType": "IGNORES_1367B"
+        },
+        {
+          "label": "B",
+          "text": "No, because § 1367(b) bars this plaintiff's claim against a Rule 14 party that destroys complete diversity.",
+          "isCorrect": true,
+          "rationale": "Section 1367(b) specifically excludes such plaintiff claims against Rule 14 parties when jurisdiction rests solely on diversity.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "Yes, because the defendant, rather than the plaintiff, brought the insurer into the action.",
+          "isCorrect": false,
+          "rationale": "The identity of the party who impleaded the insurer does not eliminate the statutory restriction on the plaintiff's later claim.",
+          "distractorType": "IMPLEADER_SOURCE_ERROR"
+        },
+        {
+          "label": "D",
+          "text": "No, because supplemental jurisdiction is never available for claims worth less than $75,000.",
+          "isCorrect": false,
+          "rationale": "Related supplemental claims need not independently satisfy the amount-in-controversy requirement unless § 1367(b) bars them for another reason.",
+          "distractorType": "AMOUNT_ERROR"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "Supplemental jurisdiction over plaintiff claim against third-party defendant in diversity",
+        "governingRule": "When original jurisdiction rests solely on diversity, 28 U.S.C. § 1367(b) bars supplemental jurisdiction over claims by plaintiffs against persons made parties under Rules 14, 19, 20, or 24 when exercising jurisdiction would be inconsistent with § 1332.",
+        "application": "The insurer was joined under Rule 14 and shares the plaintiff's citizenship. The plaintiff therefore cannot use supplemental jurisdiction to pursue the direct claim against it.",
+        "commonTrap": "Stopping after finding a common nucleus of operative fact and ignoring § 1367(b).",
+        "memoryAid": "In diversity, plaintiff claims against certain joined parties face a statutory firewall."
+      },
+      "authorityNotes": [
+        "28 U.S.C. §§ 1332, 1367(b)",
+        "Fed. R. Civ. P. 14"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-civpro-003",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Civil Procedure",
+      "category": "Pretrial procedures",
+      "subtopic": "Issue preclusion based on a prior judgment reached after full litigation",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "An investor sued a corporation in federal court under the federal securities laws, alleging that a statement in the corporation's annual report was false. After a full jury trial, the jury specifically found that the statement was true, and judgment was entered for the corporation. A different investor later brought a federal securities action based on the same statement and sought to prevent the corporation from relitigating its truth. The second investor was not a party to the first action and could not reasonably have joined it. The corporation had a full and fair opportunity, and a strong incentive, to litigate the issue in the first action.",
+      "call": "May the second court apply issue preclusion against the corporation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because issue preclusion may be invoked only by a person who was a party to the first action.",
+          "isCorrect": false,
+          "rationale": "Federal preclusion law does not invariably require mutuality; a new plaintiff may sometimes invoke nonmutual offensive issue preclusion.",
+          "distractorType": "MUTUALITY_ALWAYS_REQUIRED"
+        },
+        {
+          "label": "B",
+          "text": "No, because a jury finding cannot establish an issue for purposes of later litigation.",
+          "isCorrect": false,
+          "rationale": "A factual issue actually litigated, necessarily decided, and embodied in a final judgment can support issue preclusion.",
+          "distractorType": "JURY_FINDING_CANNOT_PRECLUDE"
+        },
+        {
+          "label": "C",
+          "text": "Yes, in its discretion, because the identical issue was fully litigated and offensive use would be fair.",
+          "isCorrect": true,
+          "rationale": "The ordinary elements are satisfied, and the stated fairness facts support discretionary nonmutual offensive preclusion.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "Yes, and the court must apply issue preclusion whenever the ordinary elements are satisfied.",
+          "isCorrect": false,
+          "rationale": "Nonmutual offensive issue preclusion remains discretionary because the court must consider fairness.",
+          "distractorType": "TREATS_OFFENSIVE_PRECLUSION_AS_MANDATORY"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Nonmutual offensive issue preclusion after a federal judgment",
+        "governingRule": "Under federal common-law preclusion principles, a nonparty to an earlier federal action may sometimes invoke issue preclusion offensively against a party that previously litigated and lost the identical issue. The issue must have been actually litigated, necessarily decided, and embodied in a valid final judgment, and the later court may deny offensive use if it would be unfair.",
+        "application": "The truth of the same annual-report statement was specifically resolved after a full trial. The corporation had every reason to litigate fully, and the second investor could not reasonably have joined the first action. The later court therefore may apply preclusion in its discretion.",
+        "commonTrap": "Assuming either that mutuality is always required or that offensive preclusion is automatically mandatory.",
+        "memoryAid": "Offensive preclusion can be available without mutuality, but fairness still controls."
+      },
+      "authorityNotes": [
+        "Federal common-law issue-preclusion principles",
+        "Parklane Hosiery Co. v. Shore doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-civpro-004",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Civil Procedure",
+      "category": "Joinder of parties and claims",
+      "subtopic": "Required party who cannot be joined because of sovereign immunity",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A developer sued a county in federal court, seeking a declaration that the developer alone owns a disputed strip of land. A federally recognized tribe claims title to the same strip under a treaty. The tribe has sovereign immunity and cannot be joined without its consent, which it refuses to give. Any declaration for the developer would necessarily determine that the tribe has no title. The county has no authority to represent the tribe's interests.",
+      "call": "Should the court dismiss the action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because the court can enter a declaration binding only the developer and the county.",
+          "isCorrect": false,
+          "rationale": "A declaration necessarily rejecting the tribe's title would practically impair the tribe's claimed interest even if formally directed only at the existing parties.",
+          "distractorType": "FORM_OVER_PRACTICAL_IMPAIRMENT"
+        },
+        {
+          "label": "B",
+          "text": "No, because the county's presence eliminates the need to join any other claimant to the land.",
+          "isCorrect": false,
+          "rationale": "The county lacks authority to represent the tribe, whose sovereign title claim is distinct.",
+          "distractorType": "ASSUMES_ADEQUATE_REPRESENTATION"
+        },
+        {
+          "label": "C",
+          "text": "Yes, because Rule 19 authorizes the court to join the tribe notwithstanding sovereign immunity.",
+          "isCorrect": false,
+          "rationale": "Rule 19 does not abrogate the tribe's sovereign immunity or permit involuntary joinder.",
+          "distractorType": "RULE_19_OVERRIDES_IMMUNITY"
+        },
+        {
+          "label": "D",
+          "text": "Yes, because the immune tribe is indispensable to a suit that would decide its claimed title.",
+          "isCorrect": true,
+          "rationale": "The action directly threatens the absent sovereign's claimed ownership of the property, making dismissal the proper Rule 19(b) result.",
+          "distractorType": null
+        }
+      ],
+      "correctChoice": "D",
+      "explanation": {
+        "testedIssue": "Required sovereign party claiming the property at issue",
+        "governingRule": "A person claiming an interest that may be impaired by the litigation is required under Rule 19(a). If sovereign immunity makes joinder infeasible, the court applies Rule 19(b). When the absent sovereign claims the property that is the subject of the suit and no existing party can protect that interest, the action ordinarily cannot proceed in equity and good conscience.",
+        "application": "The tribe claims title to the very strip the developer asks the court to declare exclusively his. The tribe cannot be joined and the county cannot represent it. Adjudicating title without the tribe would impair its sovereign interest, so the court should dismiss.",
+        "commonTrap": "Focusing only on whether relief can be phrased between the existing parties and ignoring the absent sovereign's practical interest.",
+        "memoryAid": "A sovereign claiming the res is ordinarily indispensable to a suit deciding that res."
+      },
+      "authorityNotes": [
+        "Fed. R. Civ. P. 19",
+        "Sovereign-immunity principles"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-civpro-005",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Civil Procedure",
+      "category": "Appealability and review",
+      "subtopic": "Immediate appeal from denial of preliminary injunction",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A publisher sued a state official in federal district court, alleging that a newly enacted statute violated the First Amendment. The publisher moved for a preliminary injunction barring enforcement while the litigation proceeded. After an evidentiary hearing, the district court denied the motion but left all merits claims pending. The publisher immediately appealed.",
+      "call": "May the court of appeals hear the appeal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because an order refusing a preliminary injunction is immediately appealable by statute.",
+          "isCorrect": true,
+          "rationale": "Section 1292(a)(1) permits immediate appeals from orders granting, refusing, modifying, or dissolving injunctions.",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "Yes, but only if the district court certifies a controlling question of law under 28 U.S.C. § 1292(b).",
+          "isCorrect": false,
+          "rationale": "Statutory certification under § 1292(b) is unnecessary for an injunction order independently appealable under § 1292(a)(1).",
+          "distractorType": "WRONG_APPEAL_ROUTE"
+        },
+        {
+          "label": "C",
+          "text": "No, because the order does not resolve all claims in the action.",
+          "isCorrect": false,
+          "rationale": "The final-judgment rule has a specific statutory exception for preliminary-injunction orders.",
+          "distractorType": "IGNORES_EXCEPTION"
+        },
+        {
+          "label": "D",
+          "text": "No, because only orders granting injunctions, not orders denying them, are immediately appealable.",
+          "isCorrect": false,
+          "rationale": "The statute expressly covers orders refusing injunctions.",
+          "distractorType": "ONE_SIDED_INJUNCTION_RULE"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Immediate appeal from denial of preliminary injunction",
+        "governingRule": "Under 28 U.S.C. § 1292(a)(1), courts of appeals have jurisdiction over interlocutory orders granting, continuing, modifying, refusing, or dissolving injunctions.",
+        "application": "The district court refused a preliminary injunction. The publisher may appeal that order immediately even though the merits remain pending.",
+        "commonTrap": "Applying the ordinary final-judgment rule without checking statutory interlocutory exceptions.",
+        "memoryAid": "Preliminary injunction granted or denied: think immediate appeal."
+      },
+      "authorityNotes": [
+        "28 U.S.C. § 1292(a)(1)"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-contracts-001",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Contracts",
+      "category": "Formation",
+      "subtopic": "Battle of the forms and material additional terms",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A manufacturer emailed a signed purchase order to a supplier for 5,000 standard bolts at a stated price and delivery date. The supplier promptly sent a signed acknowledgment accepting the order but adding a clause requiring all disputes, including small claims, to be arbitrated 1,500 miles from the manufacturer's principal place of business, with the parties equally sharing substantial filing fees. Both parties are merchants. The manufacturer did not object, and the supplier delivered the bolts, which the manufacturer accepted. The purchase order contained no arbitration provision, and the parties had no prior course of dealing involving arbitration.",
+      "call": "Is the arbitration clause part of the contract under UCC Article 2?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because the manufacturer did not object to the additional term within a reasonable time.",
+          "isCorrect": false,
+          "rationale": "Failure to object does not incorporate an additional term that materially alters the bargain.",
+          "distractorType": "IGNORES_MATERIAL_ALTERATION"
+        },
+        {
+          "label": "B",
+          "text": "No, because the unexpected distant-forum clause materially altered the bargain without express assent.",
+          "isCorrect": true,
+          "rationale": "A surprising or burdensome additional term does not become part of a contract between merchants without express assent.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "Yes, because accepting the bolts constituted express assent to every term in the acknowledgment.",
+          "isCorrect": false,
+          "rationale": "Acceptance of performance establishes the sales contract but does not necessarily show express assent to a materially altering boilerplate term.",
+          "distractorType": "PERFORMANCE_EQUALS_EXPRESS_ASSENT"
+        },
+        {
+          "label": "D",
+          "text": "No, because the acknowledgment was necessarily a counteroffer rather than an acceptance.",
+          "isCorrect": false,
+          "rationale": "A definite and seasonable expression of acceptance remains an acceptance unless it is expressly conditional on assent to the new terms.",
+          "distractorType": "ADDITIONAL_TERM_ALWAYS_COUNTEROFFER"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "Battle of the forms and material additional terms",
+        "governingRule": "Under UCC § 2-207, a definite acceptance can form a contract despite additional terms. Between merchants, an additional term generally enters the contract unless the offer limits acceptance, the term materially alters the bargain, or timely objection is made.",
+        "application": "The acknowledgment accepted the order but added an unexpected and burdensome arbitration requirement. Because that clause would create surprise or hardship, it materially alters the bargain and is excluded absent express assent.",
+        "commonTrap": "Assuming that merchant status makes every added term binding.",
+        "memoryAid": "Merchants help additional terms enter—unless the term materially alters."
+      },
+      "authorityNotes": [
+        "U.C.C. § 2-207"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-contracts-002",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Contracts",
+      "category": "Performance, breach, and discharge",
+      "subtopic": "Retraction of anticipatory repudiation",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A theater contracted with an actor to perform in a play beginning September 1. On July 1, the actor unequivocally told the theater that he would not perform. The theater did not cancel the contract, hire a replacement, materially change its position, or notify the actor that it regarded the repudiation as final. On July 10, the actor told the theater that he would perform exactly as promised and remained ready to do so. The theater nevertheless hired another actor on July 12 and sued the first actor for breach.",
+      "call": "Is the first actor liable for anticipatory breach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because an anticipatory repudiation can never be withdrawn once communicated.",
+          "isCorrect": false,
+          "rationale": "A repudiating party may retract before the injured party materially changes position, cancels, or indicates that the repudiation is final.",
+          "distractorType": "NO_RETRACTION_RULE"
+        },
+        {
+          "label": "B",
+          "text": "Yes, because the theater was entitled to wait until performance was due before deciding whether to accept the retraction.",
+          "isCorrect": false,
+          "rationale": "A timely effective retraction restores the contract; the theater cannot disregard it and later manufacture reliance.",
+          "distractorType": "DELAY_OPTION_ERROR"
+        },
+        {
+          "label": "C",
+          "text": "No, because the actor retracted before the theater materially changed position or indicated that it considered the repudiation final.",
+          "isCorrect": true,
+          "rationale": "The retraction was timely and restored the actor's contractual rights and duties.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "No, but only because contracts for personal services cannot be anticipatorily repudiated.",
+          "isCorrect": false,
+          "rationale": "Personal-services contracts can be repudiated; the decisive issue is the valid retraction.",
+          "distractorType": "PERSONAL_SERVICE_EXCEPTION"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Retraction of anticipatory repudiation",
+        "governingRule": "An anticipatory repudiation may be retracted until the nonbreaching party materially changes position in reliance, indicates that it treats the repudiation as final, or cancels the contract.",
+        "application": "The actor retracted before the theater relied or accepted the repudiation. The theater's later replacement hire came too late to block retraction.",
+        "commonTrap": "Treating the first repudiation as permanently irreversible.",
+        "memoryAid": "Repudiation can be pulled back before reliance or final acceptance."
+      },
+      "authorityNotes": [
+        "Restatement (Second) of Contracts §§ 256, 257"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-contracts-003",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Contracts",
+      "category": "Third-party rights",
+      "subtopic": "Modification before intended beneficiary's rights vest",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A landowner contracted with a contractor to renovate a house and required the contractor to pay $20,000 of the contract price directly to the landowner's adult child as a gift. The child learned of the provision from the landowner's accountant and, without being asked by either contracting party, emailed the contractor, 'I accept the $20,000 payment.' The child did not rely on the promise or sue to enforce it. The next day, the landowner and contractor signed a modification deleting the payment provision and reducing the contract price by $20,000. The contractor completed the renovation, and the child demanded payment.",
+      "call": "Is the child entitled to recover the $20,000 from the contractor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because any manifestation of assent by an intended beneficiary immediately makes the promise irrevocable.",
+          "isCorrect": false,
+          "rationale": "Assent ordinarily vests beneficiary rights only when manifested at the request of the promisor or promisee.",
+          "distractorType": "OMITS_REQUEST_REQUIREMENT"
+        },
+        {
+          "label": "B",
+          "text": "Yes, because the rights of a beneficiary intended to receive a gift vest when the original contract is formed.",
+          "isCorrect": false,
+          "rationale": "Modern third-party-beneficiary law generally allows modification before the beneficiary's rights vest.",
+          "distractorType": "IMMEDIATE_VESTING"
+        },
+        {
+          "label": "C",
+          "text": "No, because a person intended to receive a gift is merely an incidental beneficiary.",
+          "isCorrect": false,
+          "rationale": "A person whom the parties intend to receive the promised payment as a gift can be an intended beneficiary.",
+          "distractorType": "MISCLASSIFIES_DONEE_BENEFICIARY"
+        },
+        {
+          "label": "D",
+          "text": "No, because the child's unsolicited assent did not vest rights before the parties modified the contract.",
+          "isCorrect": true,
+          "rationale": "The child did not satisfy any vesting route before the modification.",
+          "distractorType": null
+        }
+      ],
+      "correctChoice": "D",
+      "explanation": {
+        "testedIssue": "Modification before an intended beneficiary's rights vest",
+        "governingRule": "The promisor and promisee generally may modify or rescind a contract before an intended beneficiary's rights vest. Vesting ordinarily occurs when the beneficiary materially relies, brings suit, or manifests assent to the promise at the request of the promisor or promisee.",
+        "application": "The child was an intended gift beneficiary, but the email was unsolicited and the child neither relied nor sued before the parties modified the agreement. The original payment promise was therefore still subject to modification.",
+        "commonTrap": "Treating any knowledge or unsolicited assent as enough to vest beneficiary rights.",
+        "memoryAid": "Assent vests only when requested; reliance or suit can also lock the promise in."
+      },
+      "authorityNotes": [
+        "Restatement (Second) of Contracts §§ 302, 311"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-contracts-004",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Contracts",
+      "category": "Performance, breach, and discharge",
+      "subtopic": "Discharge by death in a personal-services contract",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A collector hired a well-known artist to paint the collector's portrait for $40,000. The agreement required the artist's personal style, prohibited delegation, and required a $10,000 advance, which the collector paid. Before beginning the portrait and without fault, the artist died. The artist's estate retained the advance. The collector sued the estate for breach, seeking the expected value of the completed portrait.",
+      "call": "What is the estate's best response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The artist's death discharged the personal-performance duty, although the estate may be required to return the unearned advance in restitution.",
+          "isCorrect": true,
+          "rationale": "Death makes the unique personal performance impossible and prevents breach liability, while restitution may unwind a benefit already conferred.",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "The estate is liable for expectation damages because contractual duties always survive the death of the obligor.",
+          "isCorrect": false,
+          "rationale": "A duty requiring the deceased person's unique performance is discharged rather than transmitted to the estate.",
+          "distractorType": "DUTIES_ALWAYS_SURVIVE"
+        },
+        {
+          "label": "C",
+          "text": "The estate may keep the advance and satisfy the contract by hiring any competent painter.",
+          "isCorrect": false,
+          "rationale": "The contract expressly depended on the named artist's personal style and prohibited delegation; the unearned advance may be recoverable.",
+          "distractorType": "IGNORES_PERSONAL_NATURE_AND_RESTITUTION"
+        },
+        {
+          "label": "D",
+          "text": "The contract was void from the outset because it concerned services that might not be completed before the artist's death.",
+          "isCorrect": false,
+          "rationale": "The contract was valid when formed; later death discharged the duty because performance became impossible.",
+          "distractorType": "CONFUSES_VOIDNESS_WITH_DISCHARGE"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Discharge and restitution after death in a personal-services contract",
+        "governingRule": "A duty requiring a particular person's unique performance is discharged if that person dies or becomes incapacitated without fault. The discharge prevents breach damages, but a party that conferred a benefit before discharge may ordinarily seek restitution for that benefit.",
+        "application": "The portrait depended on the artist's unique style and could not be delegated, so death discharged the performance duty. The estate is not liable for the value of the promised portrait, although the collector may seek return of the unearned advance.",
+        "commonTrap": "Assuming either that every duty survives death or that discharge lets a party retain an unearned benefit.",
+        "memoryAid": "Unique performance dies with the performer; restitution may still unwind an advance."
+      },
+      "authorityNotes": [
+        "Restatement (Second) of Contracts §§ 262, 377"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-contracts-005",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Contracts",
+      "category": "Performance, breach, and discharge",
+      "subtopic": "Risk of loss in a nonmerchant sale",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A homeowner agreed to sell a used refrigerator to a neighbor for $900. The neighbor was to pick it up from the homeowner's garage on Saturday. On Friday, the homeowner called and said that the refrigerator was ready and available for pickup. Before the neighbor arrived on Saturday, lightning caused an electrical fire that destroyed the garage and refrigerator without fault by either party. The homeowner is not a merchant dealing in refrigerators.",
+      "call": "Who bears the risk of loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The homeowner, because risk cannot pass until the buyer physically receives the goods.",
+          "isCorrect": false,
+          "rationale": "Physical receipt is the rule for merchant sellers, not nonmerchant sellers.",
+          "distractorType": "MERCHANT_RULE_MISAPPLIED"
+        },
+        {
+          "label": "B",
+          "text": "The neighbor, because risk passed when the nonmerchant homeowner tendered delivery.",
+          "isCorrect": true,
+          "rationale": "For a nonmerchant seller, risk of loss passes on tender of delivery.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "The homeowner, because title remained with the homeowner until payment.",
+          "isCorrect": false,
+          "rationale": "Under Article 2, risk of loss is generally determined independently of title.",
+          "distractorType": "TITLE_CONTROLS_RISK"
+        },
+        {
+          "label": "D",
+          "text": "The neighbor, but only because lightning is an act of God.",
+          "isCorrect": false,
+          "rationale": "The nature of the casualty does not itself shift risk; tender by a nonmerchant does.",
+          "distractorType": "ACT_OF_GOD_REASON"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "Risk of loss in a nonmerchant sale",
+        "governingRule": "When the seller is not a merchant, risk of loss passes to the buyer upon tender of delivery. Tender requires that the seller make conforming goods available and give any notice reasonably necessary for the buyer to take delivery.",
+        "application": "The homeowner made the refrigerator available and notified the neighbor before the casualty. Risk therefore had passed to the neighbor.",
+        "commonTrap": "Applying the merchant-seller rule requiring receipt to every sale of goods.",
+        "memoryAid": "Merchant: receipt. Nonmerchant: tender."
+      },
+      "authorityNotes": [
+        "U.C.C. § 2-509(3)"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-crim-001",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Criminal Law and Procedure",
+      "category": "Accomplice liability",
+      "subtopic": "Effective withdrawal from accomplice liability",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A woman agreed to help her friend burglarize a pharmacy. She drove him there and gave him a copied employee key that she had obtained for the purpose. As the friend approached the rear door, the woman became frightened, told him, 'I am leaving,' and drove away. She did not retrieve the key, alert the police, or otherwise attempt to prevent its use. The friend used the key to enter the pharmacy and stole drugs.",
+      "call": "Is the woman liable as an accomplice to the burglary?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because she announced her withdrawal before the friend entered the pharmacy.",
+          "isCorrect": false,
+          "rationale": "After providing material assistance, a verbal withdrawal alone is insufficient; reasonable steps to neutralize the aid or prevent the crime are required.",
+          "distractorType": "MERE_REPUDIATION"
+        },
+        {
+          "label": "B",
+          "text": "No, because an accomplice must be physically present when the principal commits the offense.",
+          "isCorrect": false,
+          "rationale": "Accomplice liability does not require presence at the scene if the defendant intentionally aided the crime.",
+          "distractorType": "PRESENCE_REQUIRED"
+        },
+        {
+          "label": "C",
+          "text": "Yes, because she aided the burglary and did not effectively withdraw.",
+          "isCorrect": true,
+          "rationale": "Her prior aid remained operative and directly facilitated the completed burglary.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "Yes, but only if she later received some of the stolen drugs.",
+          "isCorrect": false,
+          "rationale": "Sharing in proceeds is unnecessary when purposeful assistance has already been established.",
+          "distractorType": "PROCEEDS_REQUIRED"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Effective withdrawal from accomplice liability",
+        "governingRule": "An accomplice who has already aided a crime must withdraw before commission and take reasonable steps to neutralize the aid or timely notify law enforcement. Mere repudiation or departure ordinarily is not enough.",
+        "application": "The woman intentionally transported the friend and supplied the key used to enter. Merely announcing that she was leaving did not neutralize the key or otherwise prevent the offense, so her withdrawal was ineffective.",
+        "commonTrap": "Confusing abandonment of a conspiracy with effective withdrawal from completed accomplice assistance.",
+        "memoryAid": "After aid is given, withdrawal requires undoing or warning."
+      },
+      "authorityNotes": [
+        "Common-law accomplice-liability principles"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-crim-002",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Criminal Law and Procedure",
+      "category": "Inchoate offenses",
+      "subtopic": "Bilateral conspiracy and agreement with undercover officer",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "An undercover officer proposed to a dealer that they sell a kilogram of cocaine together. The dealer genuinely agreed, believing that the officer shared the criminal purpose. The dealer then obtained a sealed package from a third person, honestly but mistakenly believing that it contained cocaine, and handed it to the officer with instructions to sell it. The package actually contained baking soda. The jurisdiction follows the traditional common-law bilateral approach to conspiracy.",
+      "call": "Of which offenses is the dealer most likely guilty?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conspiracy, but not attempted distribution.",
+          "isCorrect": false,
+          "rationale": "The officer lacked genuine criminal intent, defeating bilateral conspiracy; the dealer's completed act toward distribution supports attempt.",
+          "distractorType": "REVERSES_BILATERAL_AND_ATTEMPT_RULES"
+        },
+        {
+          "label": "B",
+          "text": "Neither conspiracy nor attempted distribution, because the package contained no cocaine.",
+          "isCorrect": false,
+          "rationale": "Factual impossibility does not excuse attempt when the defendant believes the circumstances are as required for the crime.",
+          "distractorType": "FACTUAL_IMPOSSIBILITY_DEFENSE"
+        },
+        {
+          "label": "C",
+          "text": "Both conspiracy and attempted distribution.",
+          "isCorrect": false,
+          "rationale": "The dealer attempted distribution, but bilateral conspiracy requires a second person who genuinely shares the criminal objective.",
+          "distractorType": "UNILATERAL_BELIEF_CREATES_CONSPIRACY"
+        },
+        {
+          "label": "D",
+          "text": "Attempted distribution, but not conspiracy.",
+          "isCorrect": true,
+          "rationale": "Handing over what he believed was cocaine with instructions to sell completed the required attempt conduct, while the officer's feigned agreement defeated bilateral conspiracy.",
+          "distractorType": null
+        }
+      ],
+      "correctChoice": "D",
+      "explanation": {
+        "testedIssue": "Bilateral conspiracy with an undercover officer and factual impossibility of attempt",
+        "governingRule": "Traditional bilateral conspiracy requires a genuine agreement between at least two persons who possess the requisite criminal intent. Attempt requires the intent to commit the target offense and conduct sufficiently close to completion; factual impossibility is not a defense.",
+        "application": "The officer never shared the criminal purpose, so there was no bilateral conspiracy. The dealer nevertheless did everything he believed necessary to transfer cocaine for sale. The fact that the package was baking soda is factual impossibility and does not defeat attempt.",
+        "commonTrap": "Letting the defendant's belief create a bilateral agreement or treating factual impossibility as a defense to attempt.",
+        "memoryAid": "A fake partner defeats bilateral conspiracy; a fake drug does not defeat attempt."
+      },
+      "authorityNotes": [
+        "Common-law bilateral conspiracy doctrine",
+        "Attempt and factual-impossibility principles"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-crim-003",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Criminal Law and Procedure",
+      "category": "Property offenses",
+      "subtopic": "Larceny by trick versus false pretenses",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A buyer falsely told a jeweler that she wanted to take a diamond necklace outside for five minutes so that her spouse could inspect it in daylight. The jeweler handed her the necklace solely for that temporary inspection and intended to retain title. At the time she made the statement, the buyer intended to flee with the necklace, and she did so.",
+      "call": "What offense did the buyer commit at common law?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Larceny by trick, because fraud induced the jeweler to transfer possession but not title.",
+          "isCorrect": true,
+          "rationale": "Fraudulent acquisition of possession with intent permanently to deprive is larceny by trick.",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "False pretenses, because any fraudulent acquisition of property transfers title as a matter of law.",
+          "isCorrect": false,
+          "rationale": "False pretenses requires that the victim intend to transfer title; the jeweler intended only temporary possession.",
+          "distractorType": "TITLE_ELEMENT_ERROR"
+        },
+        {
+          "label": "C",
+          "text": "Embezzlement, because the buyer lawfully possessed the necklace before converting it.",
+          "isCorrect": false,
+          "rationale": "Possession obtained by fraud is trespassory for larceny-by-trick purposes rather than lawful entrustment supporting embezzlement.",
+          "distractorType": "LAWFUL_POSSESSION_ERROR"
+        },
+        {
+          "label": "D",
+          "text": "No theft offense, because the jeweler voluntarily handed over the necklace.",
+          "isCorrect": false,
+          "rationale": "Consent obtained by fraud does not prevent larceny by trick.",
+          "distractorType": "FRAUDULENT_CONSENT"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Larceny by trick versus false pretenses",
+        "governingRule": "Larceny by trick occurs when the defendant obtains possession, but not title, through fraud and intends at that time permanently to deprive the owner. False pretenses requires an intended transfer of title; embezzlement requires lawful possession before conversion.",
+        "application": "The jeweler intended only a five-minute inspection, not a transfer of ownership. The buyer's fraudulent acquisition of possession was larceny by trick.",
+        "commonTrap": "Using 'voluntary transfer' without distinguishing possession from title.",
+        "memoryAid": "Fraud + possession only = larceny by trick; fraud + title = false pretenses."
+      },
+      "authorityNotes": [
+        "Common-law theft offenses"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-crim-004",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Criminal Law and Procedure",
+      "category": "Constitutional protection of accused persons",
+      "subtopic": "Public-safety exception to Miranda",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "Police arrested a robbery suspect in a crowded train station after seeing an empty shoulder holster under his jacket. Without first giving Miranda warnings, an officer asked, 'Where is the gun?' The suspect pointed toward a trash can and said that he had thrown it there. Officers immediately recovered a loaded handgun from the can. The suspect was then warned and questioned about the robbery.",
+      "call": "Is the suspect's unwarned statement about the gun admissible in the prosecution's case-in-chief?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because every custodial question asked before Miranda warnings requires exclusion of the answer.",
+          "isCorrect": false,
+          "rationale": "The public-safety exception permits limited unwarned questioning reasonably prompted by an immediate danger.",
+          "distractorType": "ABSOLUTE_MIRANDA_RULE"
+        },
+        {
+          "label": "B",
+          "text": "Yes, under the public-safety exception for locating a loaded gun in a crowded station.",
+          "isCorrect": true,
+          "rationale": "The officer's narrow question falls within the public-safety exception.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "Yes, because physical evidence can never be the product of a Miranda violation.",
+          "isCorrect": false,
+          "rationale": "The call asks about the statement itself, and this rationale is overbroad; admissibility rests on the public-safety exception.",
+          "distractorType": "PHYSICAL_EVIDENCE_CONFUSION"
+        },
+        {
+          "label": "D",
+          "text": "No, because the officer had probable cause to arrest before asking the question.",
+          "isCorrect": false,
+          "rationale": "Probable cause to arrest does not eliminate the public-safety exception or itself require exclusion.",
+          "distractorType": "PROBABLE_CAUSE_IRRELEVANT"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "Public-safety exception to Miranda",
+        "governingRule": "Miranda warnings generally precede custodial interrogation, but officers may ask reasonably necessary questions without warnings when prompted by an objectively reasonable need to protect police or the public from immediate danger.",
+        "application": "A loaded gun was missing in a crowded station. The brief question sought to neutralize that danger, so the response is admissible.",
+        "commonTrap": "Treating Miranda as having no emergency exception.",
+        "memoryAid": "Immediate danger permits narrow safety questions first."
+      },
+      "authorityNotes": [
+        "U.S. Const. amend. V",
+        "New York v. Quarles public-safety doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-crim-005",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Criminal Law and Procedure",
+      "category": "Constitutional protection of accused persons",
+      "subtopic": "Right to counsel at postindictment identification procedure",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "After a defendant was indicted for bank robbery and counsel was appointed, police placed him in a live lineup without notifying counsel. A teller identified him. The police later showed a different teller a photo array containing the defendant's photograph, also without counsel present, and that teller identified him as well. Neither procedure was unnecessarily suggestive.",
+      "call": "Which identification was obtained in violation of the Sixth Amendment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both, because the right to counsel applies to every identification procedure after indictment.",
+          "isCorrect": false,
+          "rationale": "The Sixth Amendment right applies to postcharge corporeal lineups but not generally to photographic arrays.",
+          "distractorType": "ALL_IDENTIFICATIONS_RULE"
+        },
+        {
+          "label": "B",
+          "text": "Only the photo-array identification, because counsel is needed when the defendant cannot observe the procedure.",
+          "isCorrect": false,
+          "rationale": "The rule is the reverse: no Sixth Amendment right to counsel ordinarily attaches to a photo array.",
+          "distractorType": "REVERSED_RULE"
+        },
+        {
+          "label": "C",
+          "text": "Only the live lineup, because a postindictment photo array is not a critical stage.",
+          "isCorrect": true,
+          "rationale": "The live lineup violated the defendant's offense-specific right to counsel; the photo array did not.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "Neither, because identification procedures are never critical stages of a prosecution.",
+          "isCorrect": false,
+          "rationale": "A postindictment live lineup is a critical stage.",
+          "distractorType": "DENIES_CRITICAL_STAGE"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Right to counsel at postindictment identification procedure",
+        "governingRule": "After formal charges, the Sixth Amendment guarantees counsel at a live corporeal lineup because it is a critical stage. There is ordinarily no Sixth Amendment right to counsel at a photographic identification procedure.",
+        "application": "The defendant had been indicted. The uncounseled live lineup violated the right; the photo array did not, absent due-process suggestiveness.",
+        "commonTrap": "Extending the lineup rule to photo arrays.",
+        "memoryAid": "Postcharge live lineup: counsel. Photo array: no Sixth Amendment counsel right."
+      },
+      "authorityNotes": [
+        "U.S. Const. amend. VI",
+        "United States v. Wade and United States v. Ash doctrines"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-evidence-001",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Evidence",
+      "category": "Relevance and reasons for excluding relevant evidence",
+      "subtopic": "Subsequent remedial measures offered to prove control",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A customer sued a grocery store after slipping on water from a leaking freezer. The store denied that it owned or controlled the freezer, asserting that an independent distributor alone maintained it. After the accident, the store replaced the freezer's drain line. The customer offers evidence of the replacement solely to prove that the store controlled the freezer. Control is genuinely disputed.",
+      "call": "Is the evidence admissible for that purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because subsequent remedial measures are inadmissible for every purpose.",
+          "isCorrect": false,
+          "rationale": "Rule 407 permits such evidence for purposes including proving ownership or control when disputed.",
+          "distractorType": "ABSOLUTE_EXCLUSION"
+        },
+        {
+          "label": "B",
+          "text": "No, because replacing a drain line is not relevant to control.",
+          "isCorrect": false,
+          "rationale": "A party's ability to replace the line tends to make control more probable.",
+          "distractorType": "RELEVANCE_DENIAL"
+        },
+        {
+          "label": "C",
+          "text": "Yes, but only if the customer first proves that the store was negligent.",
+          "isCorrect": false,
+          "rationale": "The evidence is offered on the threshold issue of control; prior proof of negligence is not required.",
+          "distractorType": "CIRCULAR_PREREQUISITE"
+        },
+        {
+          "label": "D",
+          "text": "Yes, because control is disputed and Rule 407 permits that use.",
+          "isCorrect": true,
+          "rationale": "The offered purpose fits an express Rule 407 exception.",
+          "distractorType": null
+        }
+      ],
+      "correctChoice": "D",
+      "explanation": {
+        "testedIssue": "Subsequent remedial measures offered to prove control",
+        "governingRule": "Evidence of subsequent remedial measures is inadmissible to prove negligence, culpable conduct, a defect, or need for a warning. It may be admitted for another purpose, such as proving ownership, control, or feasibility, when genuinely disputed.",
+        "application": "The customer offers the replacement not to prove negligence but to show that the store controlled the freezer. Because control is disputed, the evidence is admissible subject to Rule 403.",
+        "commonTrap": "Treating Rule 407 as an absolute bar rather than a purpose-specific exclusion.",
+        "memoryAid": "Repair evidence cannot prove fault, but may prove disputed control."
+      },
+      "authorityNotes": [
+        "Fed. R. Evid. 407"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-evidence-002",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Evidence",
+      "category": "Character evidence",
+      "subtopic": "Specific acts when character is an essential element of negligent entrustment",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A pedestrian sued a delivery company for negligently entrusting a van to an employee who struck the pedestrian. The company disputes that the employee was an incompetent driver. The pedestrian offers evidence that, during the year before the accident, the employee caused three similar collisions while driving company vans. The evidence is offered to prove the employee's incompetence, an element of the negligent-entrustment claim.",
+      "call": "Is the evidence admissible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because incompetence is an essential element and may be proved by specific acts.",
+          "isCorrect": true,
+          "rationale": "In negligent entrustment, the driver's incompetence is directly in issue, permitting specific-act proof under Rule 405(b).",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "Yes, but only to impeach the employee if the employee testifies.",
+          "isCorrect": false,
+          "rationale": "The evidence is substantively admissible to prove an essential element, not merely for impeachment.",
+          "distractorType": "IMPEACHMENT_ONLY"
+        },
+        {
+          "label": "C",
+          "text": "No, because specific instances are inadmissible whenever they are offered to prove a person's character trait.",
+          "isCorrect": false,
+          "rationale": "Specific acts are permitted when character is an essential element of a claim, charge, or defense.",
+          "distractorType": "ABSOLUTE_SPECIFIC_ACT_BAR"
+        },
+        {
+          "label": "D",
+          "text": "No, because civil cases never permit character evidence.",
+          "isCorrect": false,
+          "rationale": "Character evidence is sometimes admissible in civil cases, particularly when character itself is directly at issue.",
+          "distractorType": "NO_CIVIL_CHARACTER"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Specific acts when character is an essential element of negligent entrustment",
+        "governingRule": "When character is used circumstantially to show conduct, restrictions apply. But when a character trait is an essential element of a claim or defense, Rule 405(b) allows proof by relevant specific instances of conduct.",
+        "application": "The employee's incompetence is an element of negligent entrustment. Prior similar collisions are therefore admissible to prove that trait, subject to ordinary relevance limits.",
+        "commonTrap": "Confusing propensity evidence with proof of a trait that is itself an element.",
+        "memoryAid": "Character as element: specific acts are allowed."
+      },
+      "authorityNotes": [
+        "Fed. R. Evid. 404(a), 405(b)"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-evidence-003",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Evidence",
+      "category": "Hearsay and circumstances of its admissibility",
+      "subtopic": "Statement against penal interest offered to exculpate accused",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A defendant is on trial for arson. A declarant, now deceased, privately told a close friend, 'I bought the blue accelerant, broke the warehouse's rear window, poured the accelerant inside, and lit the fire.' The defendant offers the statement to show that the declarant committed the arson. Independent evidence places the declarant near the warehouse shortly before the fire and shows that he possessed the same unusual accelerant. The prosecution objects on hearsay grounds.",
+      "call": "Should the statement be admitted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because statements against penal interest are admissible only when offered by the prosecution.",
+          "isCorrect": false,
+          "rationale": "Rule 804(b)(3) can apply to statements offered by either side, subject in criminal cases to the corroboration requirement.",
+          "distractorType": "PROSECUTION_ONLY"
+        },
+        {
+          "label": "B",
+          "text": "Yes, if corroborating circumstances clearly indicate trustworthiness, because the unavailable declarant's statement directly exposed him to criminal liability.",
+          "isCorrect": true,
+          "rationale": "The statement is self-inculpatory, the declarant is unavailable, and the independent evidence can satisfy the criminal-case corroboration requirement.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "Yes automatically, because every confession by an unavailable declarant falls within the exception.",
+          "isCorrect": false,
+          "rationale": "The court must evaluate whether the particular statement was genuinely against the declarant's interest and whether corroborating circumstances clearly indicate trustworthiness.",
+          "distractorType": "AUTOMATIC_CONFESSION_ADMISSION"
+        },
+        {
+          "label": "D",
+          "text": "No, because a statement against the declarant's penal interest is inadmissible whenever its practical effect is to help the accused.",
+          "isCorrect": false,
+          "rationale": "A self-inculpatory statement may be offered by an accused if the Rule 804 requirements, including corroboration, are satisfied.",
+          "distractorType": "EXCULPATORY_EFFECT_ALWAYS_BARS"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "Self-inculpatory statement against penal interest offered by an accused",
+        "governingRule": "When the declarant is unavailable, Rule 804(b)(3) permits a statement that a reasonable person would have made only if believing it true because it exposed the declarant to criminal liability. In a criminal case, the statement must also be supported by corroborating circumstances that clearly indicate trustworthiness. Only the portions that are genuinely self-inculpatory qualify under this exception.",
+        "application": "The declarant described his own detailed commission of the arson. His death establishes unavailability, and the evidence of his location and unusual accelerant corroborates the confession. The statement is admissible if the judge finds the total circumstances clearly trustworthy.",
+        "commonTrap": "Treating an entire narrative as admissible merely because it contains a confession, or treating every third-party confession as automatically excluded.",
+        "memoryAid": "Examine the exact words: self-inculpatory plus unavailable plus corroborated."
+      },
+      "authorityNotes": [
+        "Fed. R. Evid. 804(a), 804(b)(3)",
+        "Williamson v. United States doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-evidence-004",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Evidence",
+      "category": "Impeachment",
+      "subtopic": "Extrinsic evidence of witness bias",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "In a fraud trial, a government witness denied on cross-examination that the prosecutor had promised to recommend leniency on the witness's pending tax charges in exchange for cooperation. The defendant then calls the witness's former lawyer, who is prepared to testify that the prosecutor made exactly that promise during a meeting the lawyer attended. The prosecution objects that the testimony is extrinsic evidence on a collateral matter.",
+      "call": "Is the former lawyer's testimony admissible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because a cross-examiner is always bound by a witness's answer on impeachment matters.",
+          "isCorrect": false,
+          "rationale": "The examiner is generally bound on certain collateral specific-act impeachment, but bias is not treated as merely collateral.",
+          "distractorType": "BOUND_BY_ANSWER_OVERBROAD"
+        },
+        {
+          "label": "B",
+          "text": "No, because evidence of a cooperation agreement is hearsay.",
+          "isCorrect": false,
+          "rationale": "The promise is offered to show bias and motive, not for the truth of an asserted fact, and the lawyer has personal knowledge.",
+          "distractorType": "HEARSAY_ERROR"
+        },
+        {
+          "label": "C",
+          "text": "Yes, because bias may be proved with extrinsic evidence.",
+          "isCorrect": true,
+          "rationale": "A party may introduce extrinsic evidence showing a witness's motive to favor a side.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "Yes, but only if the witness has first been convicted of the tax charges.",
+          "isCorrect": false,
+          "rationale": "A conviction is unnecessary to show that a pending charge and promised leniency create bias.",
+          "distractorType": "CONVICTION_PREREQUISITE"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Extrinsic evidence of witness bias",
+        "governingRule": "A witness may be impeached for bias, interest, or motive. Because bias is highly probative and not merely collateral, extrinsic evidence may be used to establish it after an adequate opportunity to explain or deny.",
+        "application": "The alleged promise gives the witness a strong motive to favor the government. The former lawyer's firsthand testimony is admissible to prove that bias.",
+        "commonTrap": "Applying the no-extrinsic-evidence rule for collateral misconduct to bias evidence.",
+        "memoryAid": "Bias can be proved from outside the witness's mouth."
+      },
+      "authorityNotes": [
+        "Fed. R. Evid. 607, 611(b)",
+        "Common-law bias-impeachment doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-evidence-005",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Evidence",
+      "category": "Writings, recordings, and photographs",
+      "subtopic": "Authentication through distinctive characteristics and reply doctrine",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A business owner emailed a supplier at an address the supplier had used for years, asking whether the supplier had diverted a shipment. Minutes later, the owner received a reply from the same address stating, 'I redirected it to my other customer because he paid more.' The reply referred to the shipment's private tracking number, which only the owner and supplier were known to possess. The supplier denies writing the email.",
+      "call": "Is there sufficient evidence to authenticate the reply?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because an email can be authenticated only through testimony from the person who wrote it.",
+          "isCorrect": false,
+          "rationale": "Authentication may be established by circumstantial evidence, including distinctive characteristics and the reply doctrine.",
+          "distractorType": "AUTHOR_ONLY_RULE"
+        },
+        {
+          "label": "B",
+          "text": "No, because use of an established email address can never connect a message to its owner.",
+          "isCorrect": false,
+          "rationale": "Address use plus context and distinctive details can support authentication.",
+          "distractorType": "ADDRESS_NEVER_RELEVANT"
+        },
+        {
+          "label": "C",
+          "text": "Yes, but only if a forensic expert proves that the supplier's computer transmitted it.",
+          "isCorrect": false,
+          "rationale": "Expert tracing is one possible method, not a prerequisite.",
+          "distractorType": "FORENSIC_PREREQUISITE"
+        },
+        {
+          "label": "D",
+          "text": "Yes, based on the reply context and the message's distinctive private information.",
+          "isCorrect": true,
+          "rationale": "The combination satisfies the low threshold for authentication.",
+          "distractorType": null
+        }
+      ],
+      "correctChoice": "D",
+      "explanation": {
+        "testedIssue": "Authentication through distinctive characteristics and reply doctrine",
+        "governingRule": "Authentication requires evidence sufficient to support a finding that the item is what the proponent claims. Circumstantial methods include distinctive characteristics, context, and evidence that a communication was received in response to one sent to a particular person.",
+        "application": "The prompt reply came from the supplier's established address and included a private tracking number. A reasonable juror could find that the supplier authored it.",
+        "commonTrap": "Demanding conclusive proof of authorship rather than sufficient foundation for a jury finding.",
+        "memoryAid": "Authentication is a threshold, not certainty."
+      },
+      "authorityNotes": [
+        "Fed. R. Evid. 901(a), 901(b)(4)"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-torts-001",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Torts",
+      "category": "Negligence",
+      "subtopic": "Negligent infliction of emotional distress under zone-of-danger rule",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A bus driver negligently lost control of a bus, which jumped a curb and stopped inches from a pedestrian. The pedestrian reasonably believed she was about to be struck. She was not physically touched, but immediately developed severe shock accompanied by recurring fainting spells that required medical treatment. The jurisdiction follows the traditional zone-of-danger approach to negligent infliction of emotional distress.",
+      "call": "May the pedestrian recover for emotional distress?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because she was in the zone of danger and suffered serious physical manifestations.",
+          "isCorrect": true,
+          "rationale": "The zone-of-danger rule permits recovery for a plaintiff personally endangered by the defendant's negligence who suffers serious emotional harm.",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "Yes, but only if she was related to another person injured by the bus.",
+          "isCorrect": false,
+          "rationale": "That requirement pertains to bystander recovery; the pedestrian was herself within the zone of danger.",
+          "distractorType": "BYSTANDER_RULE_MISAPPLIED"
+        },
+        {
+          "label": "C",
+          "text": "No, because emotional-distress recovery always requires physical impact.",
+          "isCorrect": false,
+          "rationale": "The zone-of-danger doctrine is an exception to a strict impact requirement.",
+          "distractorType": "IMPACT_REQUIRED"
+        },
+        {
+          "label": "D",
+          "text": "No, because the bus stopped before touching her.",
+          "isCorrect": false,
+          "rationale": "Actual contact is unnecessary when the plaintiff was placed in immediate physical peril and suffered compensable distress.",
+          "distractorType": "NO_CONTACT_NO_CLAIM"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Negligent infliction of emotional distress under zone-of-danger rule",
+        "governingRule": "Under the traditional zone-of-danger rule, a plaintiff may recover for negligently inflicted emotional distress when the defendant's negligence placed the plaintiff in immediate risk of bodily harm and the plaintiff suffered serious emotional distress, often evidenced by physical manifestations.",
+        "application": "The bus nearly struck the pedestrian, placing her in immediate peril, and her shock produced recurring fainting spells. She may recover despite the absence of contact.",
+        "commonTrap": "Importing bystander-family requirements into a direct zone-of-danger claim.",
+        "memoryAid": "Personally endangered plus serious distress can suffice without impact."
+      },
+      "authorityNotes": [
+        "Traditional NIED zone-of-danger doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-torts-002",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Torts",
+      "category": "Strict liability and products liability",
+      "subtopic": "Learned-intermediary doctrine for prescription drugs",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A jurisdiction follows the learned-intermediary doctrine. A pharmaceutical manufacturer sold a prescription drug only through licensed physicians. The drug carried a rare risk of permanent vision loss. The manufacturer knew of the risk but gave prescribing physicians no warning. A physician, unaware of the risk, prescribed the drug to a patient, who suffered vision loss. The physician testifies that, if adequately warned, she would have prescribed a safer alternative.",
+      "call": "Is the manufacturer likely liable for failure to warn?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because the learned-intermediary doctrine eliminates a prescription-drug manufacturer's warning duty.",
+          "isCorrect": false,
+          "rationale": "The doctrine ordinarily redirects the warning duty to the prescribing physician; it does not eliminate the duty.",
+          "distractorType": "ELIMINATES_WARNING_DUTY"
+        },
+        {
+          "label": "B",
+          "text": "Yes, because the manufacturer failed to warn the physician, and the failure caused the injury.",
+          "isCorrect": true,
+          "rationale": "The facts establish both breach of the redirected warning duty and warning causation.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "No, because the prescribing physician alone is responsible for all risks associated with a prescription drug.",
+          "isCorrect": false,
+          "rationale": "A physician may have independent duties, but a manufacturer can also be liable for failing to provide adequate warnings to the physician.",
+          "distractorType": "PHYSICIAN_EXCLUSIVE_LIABILITY"
+        },
+        {
+          "label": "D",
+          "text": "Yes, but only if the manufacturer intended that patients suffer vision loss.",
+          "isCorrect": false,
+          "rationale": "Failure-to-warn liability does not require a purpose to injure.",
+          "distractorType": "INTENT_REQUIRED"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "Learned-intermediary doctrine for prescription drugs",
+        "governingRule": "For many prescription products, a manufacturer satisfies its warning duty by adequately warning the prescribing physician, who serves as a learned intermediary. The doctrine does not excuse failure to warn the physician of a known material risk.",
+        "application": "The manufacturer knew of a severe risk and failed to warn the learned intermediary. The physician was unaware and would have selected a safer drug if warned, establishing a causal basis for failure-to-warn liability.",
+        "commonTrap": "Thinking the learned-intermediary doctrine eliminates the duty instead of redirecting it to the physician.",
+        "memoryAid": "Learned intermediary changes whom to warn, not whether to warn."
+      },
+      "authorityNotes": [
+        "Products-liability failure-to-warn doctrine",
+        "Learned-intermediary rule"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-torts-003",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Torts",
+      "category": "Other torts",
+      "subtopic": "Defamation of a public figure and actual malice",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A nationally famous athlete sued a newspaper for falsely reporting that she used banned drugs. The reporter relied on an anonymous source whose story was internally inconsistent and contradicted by records in the reporter's possession. The reporter published without attempting to resolve the contradictions because the story was likely to attract substantial attention. The athlete proves reputational harm.",
+      "call": "What additional showing is constitutionally required for the athlete to recover presumed or punitive damages?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Only that the newspaper failed to act as a reasonably careful publisher.",
+          "isCorrect": false,
+          "rationale": "Negligence is insufficient for a public figure seeking presumed or punitive damages over a matter of public concern.",
+          "distractorType": "NEGLIGENCE_STANDARD"
+        },
+        {
+          "label": "B",
+          "text": "That the statement constituted defamation per se under state law, regardless of the publisher's mental state.",
+          "isCorrect": false,
+          "rationale": "State defamation categories cannot eliminate the First Amendment actual-malice requirement.",
+          "distractorType": "PER_SE_OVERRIDES_CONSTITUTION"
+        },
+        {
+          "label": "C",
+          "text": "Clear and convincing proof of knowledge of falsity or reckless disregard for truth.",
+          "isCorrect": true,
+          "rationale": "A public figure must prove constitutional actual malice by clear and convincing evidence.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "Proof that the reporter personally disliked the athlete.",
+          "isCorrect": false,
+          "rationale": "Ill will may be circumstantial evidence but is not the constitutional definition of actual malice.",
+          "distractorType": "ILL_WILL_DEFINITION"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Defamation of a public figure and actual malice",
+        "governingRule": "A public official or public figure must prove by clear and convincing evidence that a defamatory statement was published with actual malice—knowledge of falsity or reckless disregard for truth—to recover on speech concerning public matters, particularly presumed or punitive damages.",
+        "application": "The ignored contradictions may support reckless disregard, but the athlete must establish that constitutional mental state by clear and convincing evidence.",
+        "commonTrap": "Confusing spite or ordinary negligence with constitutional actual malice.",
+        "memoryAid": "Actual malice means knowing or reckless falsity, not bad attitude."
+      },
+      "authorityNotes": [
+        "U.S. Const. amend. I",
+        "New York Times Co. v. Sullivan and progeny"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-torts-004",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Torts",
+      "category": "Other torts",
+      "subtopic": "Private nuisance and hypersensitive plaintiff",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A laboratory conducted lawful experiments that emitted a faint vibration imperceptible to ordinary people and harmless to ordinary uses of neighboring land. A next-door jeweler used an unusually sensitive antique balancing device that malfunctioned whenever the vibration occurred, causing substantial business losses. The laboratory had no reason to know of the device when it began operating, and the vibration would not materially interfere with a normal person's use or enjoyment of property.",
+      "call": "Is the laboratory liable for private nuisance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because any substantial economic loss establishes a substantial interference.",
+          "isCorrect": false,
+          "rationale": "Substantiality is judged by the effect on an ordinary person or ordinary use, not solely by the plaintiff's unusual loss.",
+          "distractorType": "LOSS_ALONE"
+        },
+        {
+          "label": "B",
+          "text": "Yes, because lawful conduct can never defeat nuisance liability.",
+          "isCorrect": false,
+          "rationale": "Lawfulness is not dispositive, but the ordinary-person substantiality requirement still must be satisfied.",
+          "distractorType": "LAWFULNESS_NONDISPOSITIVE_MISUSED"
+        },
+        {
+          "label": "C",
+          "text": "No, because private nuisance requires a physical invasion by matter such as smoke or water.",
+          "isCorrect": false,
+          "rationale": "Noise, vibration, light, and odors can constitute nuisance without tangible entry.",
+          "distractorType": "PHYSICAL_INVASION_REQUIRED"
+        },
+        {
+          "label": "D",
+          "text": "No, because the vibration affected only an abnormally sensitive use.",
+          "isCorrect": true,
+          "rationale": "A hypersensitive plaintiff generally cannot convert an otherwise insubstantial interference into nuisance.",
+          "distractorType": null
+        }
+      ],
+      "correctChoice": "D",
+      "explanation": {
+        "testedIssue": "Private nuisance and hypersensitive plaintiff",
+        "governingRule": "Private nuisance requires a substantial and unreasonable interference with use and enjoyment of land. Substantiality is measured objectively; an interference that harms only an abnormally sensitive person or use ordinarily is not actionable absent special knowledge or other circumstances.",
+        "application": "The vibration did not affect ordinary people or uses and harmed only an unusually sensitive antique device. The objective substantiality element is missing.",
+        "commonTrap": "Equating the plaintiff's large damages with objectively substantial interference.",
+        "memoryAid": "Nuisance protects ordinary sensitivity, not extraordinary fragility."
+      },
+      "authorityNotes": [
+        "Private-nuisance doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-torts-005",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Torts",
+      "category": "Vicarious liability",
+      "subtopic": "Employee special errand within scope of employment",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "An office manager finished work for the day and began driving home. Before she left, her employer directed her to stop at a courier depot several miles off her normal route and deliver an urgent company package. While driving from the office toward the depot, she negligently struck a cyclist. She intended to continue home after the delivery.",
+      "call": "Is the employer likely vicariously liable?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because she was performing an employer-directed special errand.",
+          "isCorrect": true,
+          "rationale": "A special business errand can bring travel within the scope of employment despite the ordinary commuting rule.",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "No, because an employer is never liable for an employee's negligence outside normal working hours.",
+          "isCorrect": false,
+          "rationale": "Time of day is relevant but not controlling when the employee is performing assigned work.",
+          "distractorType": "OUTSIDE_HOURS_ABSOLUTE"
+        },
+        {
+          "label": "C",
+          "text": "No, because the employee planned eventually to go home.",
+          "isCorrect": false,
+          "rationale": "Her mixed personal destination does not remove the employer-directed errand from the scope of employment.",
+          "distractorType": "ULTIMATE_DESTINATION_ERROR"
+        },
+        {
+          "label": "D",
+          "text": "Yes, but only if the employer owned the employee's car.",
+          "isCorrect": false,
+          "rationale": "Vehicle ownership is not required for respondeat superior.",
+          "distractorType": "EMPLOYER_OWNERSHIP_REQUIRED"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Employee special errand within scope of employment",
+        "governingRule": "An employer is vicariously liable for employee torts committed within the scope of employment. Although ordinary commuting is generally outside the scope, travel undertaken on a special errand at the employer's direction is ordinarily within it.",
+        "application": "The manager was traveling to make an urgent company delivery when the collision occurred. The special-errand exception supports employer liability.",
+        "commonTrap": "Applying the going-and-coming rule without recognizing the employer-directed detour.",
+        "memoryAid": "Commute plus assigned errand becomes employer business."
+      },
+      "authorityNotes": [
+        "Respondeat-superior and special-errand doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-conlaw-001",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Constitutional Law",
+      "category": "Individual rights",
+      "subtopic": "State action through exclusive public function",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A city transferred operation of its municipal elections to a private nonprofit corporation. State law gave the corporation exclusive authority to register voters, operate polling places, count ballots, and certify election results. The corporation adopted a rule excluding residents of one neighborhood from voting in city elections. An excluded resident sued under the Fourteenth Amendment.",
+      "call": "Is the corporation's conduct subject to constitutional constraints?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because the corporation is formally private and receives no city funding.",
+          "isCorrect": false,
+          "rationale": "Formal private status and funding are not dispositive when the entity performs an exclusive governmental function.",
+          "distractorType": "FORMAL_STATUS_ONLY"
+        },
+        {
+          "label": "B",
+          "text": "Yes, because administering public elections is a function traditionally and exclusively performed by the government.",
+          "isCorrect": true,
+          "rationale": "Performance of an exclusive public function constitutes state action.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "Yes, but only if every member of the corporation is also a city employee.",
+          "isCorrect": false,
+          "rationale": "Public-function state action does not require personnel overlap.",
+          "distractorType": "EMPLOYEE_OVERLAP_REQUIRED"
+        },
+        {
+          "label": "D",
+          "text": "No, because constitutional voting protections apply only to rules enacted directly by a legislature.",
+          "isCorrect": false,
+          "rationale": "State action can include conduct by a private entity exercising delegated governmental power.",
+          "distractorType": "LEGISLATIVE_ACTION_ONLY"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "State action through exclusive public function",
+        "governingRule": "The Constitution generally regulates government action, but a private entity is a state actor when it performs a function that has been traditionally and exclusively reserved to the state, such as administering public elections.",
+        "application": "The corporation has exclusive authority over the city's election machinery. Its exclusion rule is therefore attributable to the state and subject to the Fourteenth Amendment.",
+        "commonTrap": "Treating private corporate form as conclusive despite delegated sovereign power.",
+        "memoryAid": "Private label, public election function: state action."
+      },
+      "authorityNotes": [
+        "U.S. Const. amend. XIV",
+        "Public-function state-action doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-conlaw-002",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Constitutional Law",
+      "category": "Individual rights",
+      "subtopic": "Content-neutral time, place, and manner restriction in traditional public forum",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A city ordinance prohibits use of sound-amplification equipment in all public parks between 10 p.m. and 7 a.m. The ordinance applies regardless of message, was enacted to protect nearby residents from nighttime noise, leaves daytime amplification and unamplified nighttime speech available, and does not give officials discretion to favor particular speakers. A political organization challenges the ordinance after being cited for using loudspeakers at midnight.",
+      "call": "What standard governs the ordinance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Strict scrutiny, because every restriction affecting political speech is content based.",
+          "isCorrect": false,
+          "rationale": "A law can affect political speech yet remain content neutral if it is justified without reference to message.",
+          "distractorType": "POLITICAL_EQUALS_CONTENT_BASED"
+        },
+        {
+          "label": "B",
+          "text": "Rational-basis review, because public parks are government property.",
+          "isCorrect": false,
+          "rationale": "Traditional public forums receive heightened speech protection.",
+          "distractorType": "GOVERNMENT_PROPERTY_RATIONAL_BASIS"
+        },
+        {
+          "label": "C",
+          "text": "The content-neutral time, place, and manner test for traditional public forums.",
+          "isCorrect": true,
+          "rationale": "That is the time-place-manner test for a traditional public forum.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "The ordinance is valid only if it is the least restrictive means of serving a compelling interest.",
+          "isCorrect": false,
+          "rationale": "Content-neutral time, place, and manner regulations need not satisfy strict scrutiny or use the least restrictive means.",
+          "distractorType": "STRICT_SCRUTINY_STANDARD"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Content-neutral time, place, and manner restriction in traditional public forum",
+        "governingRule": "A content-neutral regulation of the time, place, or manner of speech in a traditional public forum is valid if it is narrowly tailored to serve a significant governmental interest and leaves open ample alternative channels. It need not be the least restrictive means.",
+        "application": "The nighttime amplification ban is message neutral, addresses residential noise, and preserves substantial alternatives. It is assessed under intermediate time-place-manner scrutiny.",
+        "commonTrap": "Assuming that regulation of political speakers is automatically content based.",
+        "memoryAid": "Message neutral in a park: significant interest, narrow fit, alternatives."
+      },
+      "authorityNotes": [
+        "U.S. Const. amend. I",
+        "Time-place-manner doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-conlaw-003",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Constitutional Law",
+      "category": "The relation of nation and states in a federal system",
+      "subtopic": "Dormant Commerce Clause and market-participant exception",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A state owns and operates a cement plant. Because demand exceeds supply, the state adopts a policy giving in-state buyers first priority and selling to out-of-state buyers only after all in-state orders are filled. A construction company from another state challenges the policy under the dormant Commerce Clause. No federal statute addresses the sales.",
+      "call": "Is the preference likely constitutional?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because every state preference for in-state purchasers is virtually per se invalid.",
+          "isCorrect": false,
+          "rationale": "The market-participant exception permits some preferences when the state acts as a seller rather than regulator.",
+          "distractorType": "IGNORES_MARKET_PARTICIPANT"
+        },
+        {
+          "label": "B",
+          "text": "No, because a state may never own a commercial enterprise.",
+          "isCorrect": false,
+          "rationale": "States may participate in markets and operate businesses.",
+          "distractorType": "NO_STATE_ENTERPRISE"
+        },
+        {
+          "label": "C",
+          "text": "Yes, because the dormant Commerce Clause never applies to state economic activity.",
+          "isCorrect": false,
+          "rationale": "It applies to state regulation, but the market-participant exception is narrower than this blanket statement.",
+          "distractorType": "OVERBROAD_EXCEPTION"
+        },
+        {
+          "label": "D",
+          "text": "Yes, because the state is selling its own cement rather than regulating private sellers.",
+          "isCorrect": true,
+          "rationale": "A state generally may favor its own citizens when participating directly in a market.",
+          "distractorType": null
+        }
+      ],
+      "correctChoice": "D",
+      "explanation": {
+        "testedIssue": "Dormant Commerce Clause and market-participant exception",
+        "governingRule": "The dormant Commerce Clause generally restricts discriminatory state regulation of interstate commerce. Under the market-participant exception, however, a state acting as buyer or seller in a market may favor its own citizens, subject to limits such as downstream regulation.",
+        "application": "The state is selling cement produced by its own plant and is not imposing rules on private cement sellers. The preference falls within the market-participant exception.",
+        "commonTrap": "Failing to distinguish government as regulator from government as market actor.",
+        "memoryAid": "State seller gets more freedom than state regulator."
+      },
+      "authorityNotes": [
+        "U.S. Const. art. I, § 8, cl. 3",
+        "Market-participant doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-conlaw-004",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Constitutional Law",
+      "category": "Individual rights",
+      "subtopic": "Gender classification and intermediate scrutiny",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A state military academy admits only men. The state argues that single-sex education promotes diversity in educational methods and offers women scholarships to attend private colleges elsewhere. The academy provides distinctive leadership training, alumni connections, and state-funded opportunities unavailable at the private colleges.",
+      "call": "What must the state show to defend the sex-based exclusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An exceedingly persuasive justification substantially relating the exclusion to an important objective.",
+          "isCorrect": true,
+          "rationale": "Sex classifications receive heightened intermediate scrutiny and require an exceedingly persuasive justification.",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "Only that the exclusion is rationally related to a legitimate governmental purpose.",
+          "isCorrect": false,
+          "rationale": "Ordinary rational-basis review is insufficient for an explicit sex classification.",
+          "distractorType": "RATIONAL_BASIS"
+        },
+        {
+          "label": "C",
+          "text": "That the exclusion is necessary to achieve a compelling interest and is the least restrictive means available.",
+          "isCorrect": false,
+          "rationale": "Strict scrutiny ordinarily applies to race and certain fundamental-right burdens, not sex classifications.",
+          "distractorType": "STRICT_SCRUTINY"
+        },
+        {
+          "label": "D",
+          "text": "Nothing, because education is not a fundamental right under the federal Constitution.",
+          "isCorrect": false,
+          "rationale": "Even absent a fundamental right, explicit sex discrimination triggers intermediate scrutiny.",
+          "distractorType": "NO_FUNDAMENTAL_RIGHT_ERROR"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Gender classification and intermediate scrutiny",
+        "governingRule": "Government sex classifications must serve important governmental objectives and be substantially related to achieving those objectives. The government bears the burden of offering an exceedingly persuasive justification and may not rely on overbroad sex stereotypes.",
+        "application": "The state must justify excluding women from a unique public program, and materially different outside scholarships do not automatically cure the classification.",
+        "commonTrap": "Assuming that lack of a fundamental right reduces every classification to rational basis.",
+        "memoryAid": "Sex classification: important objective, substantial relation, exceedingly persuasive reason."
+      },
+      "authorityNotes": [
+        "U.S. Const. amend. XIV",
+        "Intermediate scrutiny for sex classifications"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-conlaw-005",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Constitutional Law",
+      "category": "Individual rights",
+      "subtopic": "Pretermination process for public employee with property interest",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A tenured city engineer could be discharged only for cause under state law. After receiving an anonymous accusation of falsifying inspection reports, the city immediately fired her without telling her the substance of the accusation or giving her any opportunity to respond. The city provided a full evidentiary hearing six months later, at which reinstatement and back pay were available.",
+      "call": "Did the city provide constitutionally sufficient process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yes, because a complete posttermination hearing always satisfies due process.",
+          "isCorrect": false,
+          "rationale": "When feasible, a public employee with a property interest generally must receive some pretermination notice and opportunity to respond.",
+          "distractorType": "POSTPROCESS_ALWAYS_ENOUGH"
+        },
+        {
+          "label": "B",
+          "text": "No, because she was entitled to notice and a chance to respond before termination.",
+          "isCorrect": true,
+          "rationale": "Due process usually requires a limited pretermination opportunity to respond plus a later full hearing.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "Yes, because public employment can never constitute property protected by due process.",
+          "isCorrect": false,
+          "rationale": "A for-cause tenure rule can create a protected property interest.",
+          "distractorType": "NO_PROPERTY_IN_EMPLOYMENT"
+        },
+        {
+          "label": "D",
+          "text": "No, because due process required a full trial-type hearing before any suspension or discharge.",
+          "isCorrect": false,
+          "rationale": "The pretermination hearing may be informal; a full evidentiary hearing can follow.",
+          "distractorType": "FULL_TRIAL_REQUIRED"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "Pretermination process for public employee with property interest",
+        "governingRule": "A public employee with a legitimate property interest in continued employment ordinarily must receive notice of the charges, an explanation of the employer's evidence, and an opportunity to respond before termination, followed by adequate posttermination procedures. Immediate action may be justified in genuine emergencies.",
+        "application": "The engineer had for-cause protection, no emergency appears, and she received no pretermination chance to answer the accusation. The later hearing does not cure the total lack of initial process.",
+        "commonTrap": "Choosing between no pretermination process and a full trial, when due process usually requires an intermediate informal opportunity to respond.",
+        "memoryAid": "For-cause employee: notice and response before discharge, fuller hearing later."
+      },
+      "authorityNotes": [
+        "U.S. Const. amend. XIV",
+        "Public-employment due-process doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-property-001",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Real Property",
+      "category": "Ownership of real property",
+      "subtopic": "Rule Against Perpetuities and class gift conditioned on remote event",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A grantor conveyed land 'to A for life, then to A's grandchildren who reach age 30.' At the time of the conveyance, A was alive, had one living child, and had no grandchildren. The jurisdiction applies the traditional common-law Rule Against Perpetuities and has no wait-and-see statute.",
+      "call": "What is the effect of the Rule Against Perpetuities on the gift to A's grandchildren?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The gift is valid because every grandchild must be born during A's lifetime.",
+          "isCorrect": false,
+          "rationale": "A child of A born after the conveyance could later have a child after A's death; the class is not necessarily closed at A's death in a way that ensures vesting by age 30 within the perpetuities period.",
+          "distractorType": "FALSE_CLASS_CLOSING"
+        },
+        {
+          "label": "B",
+          "text": "The gift is valid because a person's grandchildren are always lives in being.",
+          "isCorrect": false,
+          "rationale": "No grandchild exists at creation, and even a later-born grandchild cannot validate the interest as a measuring life at creation.",
+          "distractorType": "NOT_LIVES_IN_BEING"
+        },
+        {
+          "label": "C",
+          "text": "The gift is void because a possible grandchild might reach age 30 outside the perpetuities period.",
+          "isCorrect": true,
+          "rationale": "The remote age contingency creates a possibility of vesting outside the perpetuities period.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "The gift is valid as to the first grandchild born but void only as to later grandchildren.",
+          "isCorrect": false,
+          "rationale": "Under the all-or-nothing class-gift rule, if any potential class member's interest might vest too remotely, the entire class gift is void.",
+          "distractorType": "SEVER_CLASS_MEMBERS"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Rule Against Perpetuities and class gift conditioned on remote event",
+        "governingRule": "Under the traditional Rule Against Perpetuities, a contingent future interest is void unless it must vest or fail no later than 21 years after a life in being at creation. A class gift is generally void in its entirety if the interest of any possible class member might vest too remotely.",
+        "application": "A could have another child after the conveyance, and that child could produce a grandchild after A's death. That grandchild's reaching age 30 might occur more than 21 years after all validating lives die.",
+        "commonTrap": "Using A's current family as fixed and ignoring the fertile-octogenarian and unborn-widow style possibilities.",
+        "memoryAid": "If one possible class member can vest too late, the class gift fails."
+      },
+      "authorityNotes": [
+        "Common-law Rule Against Perpetuities"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-property-002",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Real Property",
+      "category": "Titles",
+      "subtopic": "Race-notice statute and prior unrecorded deed",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "An owner conveyed land to a buyer, who paid value but did not record. The owner later conveyed the same land to a second buyer, who paid value and had no notice of the first conveyance. Before the second buyer recorded, the first buyer recorded. The second buyer then immediately recorded. The jurisdiction's statute provides that an unrecorded conveyance is void against a subsequent purchaser for value without notice who records first.",
+      "call": "Who has superior title?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The second buyer, because lack of notice at the time of purchase alone is sufficient.",
+          "isCorrect": false,
+          "rationale": "That would be the result under a notice statute; a race-notice statute also requires the subsequent purchaser to record first.",
+          "distractorType": "NOTICE_STATUTE_RULE"
+        },
+        {
+          "label": "B",
+          "text": "The second buyer, because the second buyer recorded promptly after learning of the first deed.",
+          "isCorrect": false,
+          "rationale": "The second buyer still lost the race to record.",
+          "distractorType": "PROMPT_BUT_SECOND"
+        },
+        {
+          "label": "C",
+          "text": "The first buyer, but only because the first buyer paid value.",
+          "isCorrect": false,
+          "rationale": "The first buyer's value is not the decisive point; priority follows because the second buyer failed to record first under the race-notice statute.",
+          "distractorType": "WRONG_REASON_VALUE"
+        },
+        {
+          "label": "D",
+          "text": "The first buyer, because the second buyer did not record first.",
+          "isCorrect": true,
+          "rationale": "A subsequent purchaser must both lack notice and win the race to record.",
+          "distractorType": null
+        }
+      ],
+      "correctChoice": "D",
+      "explanation": {
+        "testedIssue": "Race-notice statute and prior unrecorded deed",
+        "governingRule": "Under a race-notice recording act, a subsequent purchaser prevails over a prior unrecorded interest only if the purchaser takes for value without notice and records before the prior interest is recorded.",
+        "application": "The second buyer satisfied value and lack of notice but lost the recording race. The first buyer therefore retains priority.",
+        "commonTrap": "Applying a notice-statute result to race-notice language.",
+        "memoryAid": "Race-notice requires two wins: no notice and first to record."
+      },
+      "authorityNotes": [
+        "Race-notice recording-act doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-property-003",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Real Property",
+      "category": "Rights in real property",
+      "subtopic": "Termination of easement by necessity",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A landowner divided a tract, conveying an interior parcel that had no access to a public road except across the retained parcel. An easement by necessity arose across the retained parcel. Ten years later, the owner of the interior parcel acquired an adjacent strip that provided practical and legally enforceable access to a public highway. The original easement agreement contained no express duration because the easement arose by operation of law.",
+      "call": "Does the easement by necessity continue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because an easement by necessity ordinarily terminates when the necessity permanently ends.",
+          "isCorrect": true,
+          "rationale": "The later-acquired access removes the necessity that justified the implied easement.",
+          "distractorType": null
+        },
+        {
+          "label": "B",
+          "text": "Yes, because every easement is perpetual unless expressly released in writing.",
+          "isCorrect": false,
+          "rationale": "An easement by necessity is inherently tied to continuing necessity and can end without a written release.",
+          "distractorType": "ALL_EASEMENTS_PERPETUAL"
+        },
+        {
+          "label": "C",
+          "text": "Yes, because the easement became appurtenant when it was first used.",
+          "isCorrect": false,
+          "rationale": "Appurtenant status does not prevent termination when the foundational necessity ceases.",
+          "distractorType": "APPURTENANT_MEANS_PERMANENT"
+        },
+        {
+          "label": "D",
+          "text": "No, but only if the servient owner pays for improvements made to the easement.",
+          "isCorrect": false,
+          "rationale": "Termination does not depend on reimbursement absent a separate equitable basis.",
+          "distractorType": "REIMBURSEMENT_CONDITION"
+        }
+      ],
+      "correctChoice": "A",
+      "explanation": {
+        "testedIssue": "Termination of easement by necessity",
+        "governingRule": "An easement by necessity arises from severance of commonly owned land when strict necessity exists. Because necessity is its basis, the easement ordinarily terminates when permanent alternative access eliminates the necessity.",
+        "application": "The interior owner now has legally enforceable highway access through the acquired strip. The original necessity has ended, so the implied easement terminates.",
+        "commonTrap": "Treating all easements as permanent interests unaffected by the reason for creation.",
+        "memoryAid": "Necessity easement lasts only as long as necessity."
+      },
+      "authorityNotes": [
+        "Easement-by-necessity doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-property-004",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Real Property",
+      "category": "Landlord and tenant",
+      "subtopic": "Landlord liability for undisclosed latent defect known at lease inception",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "A landlord leased a house to a tenant for one year. Before the lease began, the landlord knew that a concealed defect in the basement stairs caused one step to collapse under ordinary weight. The defect was not discoverable by a reasonable inspection, and the landlord did not disclose it. Two weeks after moving in, the tenant's guest used the stairs normally, the step collapsed, and the guest was injured.",
+      "call": "Is the landlord likely liable to the guest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, because a landlord who transfers possession is never liable for conditions on leased premises.",
+          "isCorrect": false,
+          "rationale": "Traditional exceptions include undisclosed latent defects known to the landlord at lease inception.",
+          "distractorType": "CAVEAT_LESSEE_ABSOLUTE"
+        },
+        {
+          "label": "B",
+          "text": "Yes, because the landlord concealed a known latent defect existing at lease inception.",
+          "isCorrect": true,
+          "rationale": "The landlord owes liability to the tenant and others on the premises with consent for injuries caused by such concealed known defects.",
+          "distractorType": null
+        },
+        {
+          "label": "C",
+          "text": "No, because the guest was not a party to the lease.",
+          "isCorrect": false,
+          "rationale": "The latent-defect exception protects persons on the premises with the tenant's consent, not only the tenant.",
+          "distractorType": "PRIVITY_REQUIRED"
+        },
+        {
+          "label": "D",
+          "text": "Yes, but only if the landlord expressly promised to repair the stairs.",
+          "isCorrect": false,
+          "rationale": "A separate promise to repair is unnecessary when the landlord knowingly conceals a latent defect existing at transfer.",
+          "distractorType": "PROMISE_TO_REPAIR_REQUIRED"
+        }
+      ],
+      "correctChoice": "B",
+      "explanation": {
+        "testedIssue": "Landlord liability for undisclosed latent defect known at lease inception",
+        "governingRule": "A landlord is liable for injuries caused by a latent defect existing at the start of the lease if the landlord knew or had reason to know of it and failed to disclose it. The duty can extend to the tenant and persons on the land with the tenant's consent.",
+        "application": "The stair defect was concealed, known to the landlord, and undisclosed at possession. The injured guest falls within the protected class.",
+        "commonTrap": "Applying caveat lessee without checking traditional landlord-liability exceptions.",
+        "memoryAid": "Known hidden defect at move-in must be disclosed."
+      },
+      "authorityNotes": [
+        "Traditional landlord-tort-liability doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    },
+    {
+      "key": "orig-hard9-property-005",
+      "examTrack": "LEGACY_UBE",
+      "questionType": "SINGLE_SELECT",
+      "subject": "Real Property",
+      "category": "Titles",
+      "subtopic": "Shelter rule protecting transferee from bona fide purchaser",
+      "difficulty": "HARD",
+      "estimatedSeconds": 120,
+      "stem": "An owner conveyed land to a grantee, who did not record. The owner later conveyed the same land to a purchaser who paid value and lacked notice of the first conveyance. Under the jurisdiction's notice statute, the purchaser thereby obtained priority over the first grantee. Before either deed was recorded, the purchaser gave the land to her brother, who knew of the first conveyance. The first grantee then recorded and sued the brother for possession.",
+      "call": "Who should prevail?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The first grantee, because the brother had actual notice and did not pay value.",
+          "isCorrect": false,
+          "rationale": "The shelter rule allows the brother to receive the purchaser's protected title even though he would not independently qualify as a bona fide purchaser.",
+          "distractorType": "REQUIRES_TRANSFEREE_BFP_STATUS"
+        },
+        {
+          "label": "B",
+          "text": "The first grantee, because the purchaser lost her protected status when she transferred the land before recording.",
+          "isCorrect": false,
+          "rationale": "Under a notice statute, the purchaser obtained priority upon taking for value without notice; recording was not a condition of that priority.",
+          "distractorType": "TREATS_NOTICE_ACT_AS_RACE_NOTICE"
+        },
+        {
+          "label": "C",
+          "text": "The brother, because the shelter rule gives him the purchaser's superior title.",
+          "isCorrect": true,
+          "rationale": "A transferee from a protected bona fide purchaser ordinarily succeeds to the transferor's priority.",
+          "distractorType": null
+        },
+        {
+          "label": "D",
+          "text": "The brother, but only if he records before the first grantee.",
+          "isCorrect": false,
+          "rationale": "The purchaser already had superior title under the notice statute, and the shelter rule does not require the brother to win a later recording race.",
+          "distractorType": "ADDS_RECORDING_REQUIREMENT"
+        }
+      ],
+      "correctChoice": "C",
+      "explanation": {
+        "testedIssue": "Shelter rule protecting transferee from bona fide purchaser",
+        "governingRule": "Under the shelter rule, anyone who takes from a bona fide purchaser ordinarily receives the purchaser's protected status, even if the transferee had notice of the prior interest or did not pay value. This preserves the marketability of the bona fide purchaser's title.",
+        "application": "The purchaser obtained priority when she took for value without notice. Her brother succeeds to that protected title under the shelter rule despite his own notice and donee status. The first grantee's later recording does not restore priority.",
+        "commonTrap": "Requiring every later transferee independently to qualify as a bona fide purchaser.",
+        "memoryAid": "Once title is sheltered, successors stay dry."
+      },
+      "authorityNotes": [
+        "Shelter rule",
+        "Notice recording-act doctrine"
+      ],
+      "authoring": {
+        "status": "LEGAL_REVIEW",
+        "sourceType": "ORIGINAL_AI_ASSISTED_DRAFT_WITH_FORMAT_REFERENCE",
+        "officialQuestion": false,
+        "publishable": false,
+        "requiresAttorneyApproval": true,
+        "licenseKey": "original-internal-draft",
+        "contentWarning": "Original study draft. Not an official, released, licensed, actual, or NCBE question. Verify current law, wording, taxonomy, one-best-answer validity, and distractor quality before publication or high-stakes use."
+      },
+      "priorityRequested": false
+    }
+  ],
+  "answerDistribution": {
+    "A": 9,
+    "B": 9,
+    "C": 9,
+    "D": 8
+  },
+  "subjectDistribution": {
+    "Civil Procedure": 5,
+    "Contracts": 5,
+    "Criminal Law and Procedure": 5,
+    "Evidence": 5,
+    "Torts": 5,
+    "Constitutional Law": 5,
+    "Real Property": 5
+  },
+  "prioritySubjectDistribution": {},
+  "internalAudit": {
+    "questionCount": 35,
+    "expectedQuestionCount": 35,
+    "uniqueKeyCount": 35,
+    "allQuestionsHaveFourChoices": true,
+    "allQuestionsHaveOneCorrectChoice": true,
+    "allCorrectChoiceFieldsMatch": true,
+    "balancedAnswerTarget": {
+      "A": 9,
+      "B": 9,
+      "C": 9,
+      "D": 8
+    },
+    "balancedAnswerTargetMet": true,
+    "fiveQuestionsPerSubject": true,
+    "jsonValidated": true,
+    "legalReviewComplete": false,
+    "editorialReviewComplete": false,
+    "psychometricReviewComplete": false,
+    "aiLegalEditorialAuditComplete": true,
+    "auditDate": "2026-07-19",
+    "revisedQuestionCount": 10,
+    "substantiveOrAmbiguityCorrections": [
+      "orig-hard9-civpro-003",
+      "orig-hard9-civpro-004",
+      "orig-hard9-crim-001",
+      "orig-hard9-crim-002",
+      "orig-hard9-evidence-003",
+      "orig-hard9-torts-002",
+      "orig-hard9-property-005"
+    ],
+    "difficultyOrEditorialStrengthening": [
+      "orig-hard9-contracts-001",
+      "orig-hard9-contracts-003",
+      "orig-hard9-contracts-004"
+    ],
+    "choiceLengthAndParallelismPassComplete": true,
+    "choiceLengthPassDate": "2026-07-19",
+    "answerLengthClueReduced": true
+  }
+}

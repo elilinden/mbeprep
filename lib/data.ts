@@ -7,6 +7,7 @@ import batch006 from "@/data/batch006.json";
 import batch007 from "@/data/batch007.json";
 import batch008 from "@/data/batch008.json";
 import batch009 from "@/data/batch009.json";
+import batch010 from "@/data/batch010.json";
 import type { Choice, Explanation, Question } from "@/lib/types";
 
 type RawChoice = Partial<Choice>;
@@ -45,7 +46,8 @@ const batches: { sourceFile: string; raw: RawBatch }[] = [
   { sourceFile: "batch006.json", raw: batch006 as RawBatch },
   { sourceFile: "batch007.json", raw: batch007 as RawBatch },
   { sourceFile: "batch008.json", raw: batch008 as RawBatch },
-  { sourceFile: "batch009.json", raw: batch009 as RawBatch }
+  { sourceFile: "batch009.json", raw: batch009 as RawBatch },
+  { sourceFile: "batch010.json", raw: batch010 as RawBatch }
 ];
 
 const fallbackExplanation: Explanation = {
