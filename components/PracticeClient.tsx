@@ -40,7 +40,15 @@ function formatElapsed(totalSeconds: number) {
   return `${minutes}:${String(seconds).padStart(2, "0")}`;
 }
 
-function pickQuestions(mode: PracticeMode, subject: string, count: number, targetId?: string, subtopic?: string, targetIds: string[] = []): Question[] {
+function matchesDifficulty(question: Question, difficulty: string) {
+  return difficulty === "all" || question.difficulty.toUpperCase() === difficulty;
+}
+
+function difficultySummary(difficulty: string) {
+  return difficulty === "all" ? "All difficulty levels" : `${difficulty[0]}${difficulty.slice(1).toLowerCase()} difficulty`;
+}
+
+function pickQuestions(mode: PracticeMode, subject: string, difficulty: string, count: number, targetId?: string, subtopic?: string, targetIds: string[] = []): Question[] {
   const progress = getProgress();
 
   if (targetId) {
@@ -53,20 +61,24 @@ function pickQuestions(mode: PracticeMode, subject: string, count: number, targe
   }
 
   if (mode === "weak") {
-    const weakSet = recommendQuestions(progress, count * 2).filter((question) => !subtopic || question.subtopic === subtopic);
-    return shuffle(weakSet.length ? weakSet : questions).slice(0, count);
+    const weakSet = recommendQuestions(progress, count * 2).filter((question) => (
+      (!subtopic || question.subtopic === subtopic) && matchesDifficulty(question, difficulty)
+    ));
+    return shuffle(weakSet).slice(0, count);
   }
 
   if (mode === "saved") {
-    const saved = questions.filter((question) => progress.savedQuestionIds.includes(question.id));
-    return shuffle(saved.length ? saved : questions).slice(0, count);
+    const saved = questions.filter((question) => (
+      progress.savedQuestionIds.includes(question.id) && matchesDifficulty(question, difficulty)
+    ));
+    return shuffle(saved).slice(0, count);
   }
 
   if (mode === "subject" && subject) {
-    return shuffle(questions.filter((question) => question.subject === subject)).slice(0, count);
+    return shuffle(questions.filter((question) => question.subject === subject && matchesDifficulty(question, difficulty))).slice(0, count);
   }
 
-  return shuffle(questions).slice(0, count);
+  return shuffle(questions.filter((question) => matchesDifficulty(question, difficulty))).slice(0, count);
 }
 
 function practiceModeSummary(mode: PracticeMode, subject: string) {
@@ -104,10 +116,11 @@ export function PracticeClient() {
 
   const [mode, setMode] = useState<PracticeMode>(requestedMode);
   const [subject, setSubject] = useState(requestedSubject || subjects[0] || "");
+  const [difficulty, setDifficulty] = useState("all");
   const [count, setCount] = useState(10);
   const [started, setStarted] = useState(Boolean(requestedId || requestedSubtopic || requestedIds.length));
   const [sessionQuestions, setSessionQuestions] = useState<Question[]>(() => (
-    requestedId || requestedSubtopic || requestedIds.length ? pickQuestions(requestedMode, subject, count, requestedId, requestedSubtopic, requestedIds) : []
+    requestedId || requestedSubtopic || requestedIds.length ? pickQuestions(requestedMode, subject, "all", count, requestedId, requestedSubtopic, requestedIds) : []
   ));
   const [index, setIndex] = useState(0);
   const [attempts, setAttempts] = useState<Attempt[]>([]);
@@ -115,7 +128,7 @@ export function PracticeClient() {
   const [elapsed, setElapsed] = useState(0);
 
   const current = sessionQuestions[index];
-  const practiceSummary = `${count} questions · ${practiceModeSummary(mode, subject)} · Timed · Explanations after each answer`;
+  const practiceSummary = `${count} questions · ${practiceModeSummary(mode, subject)} · ${difficultySummary(difficulty)} · Timed · Explanations after each answer`;
   const sessionAccuracy = attempts.length ? Math.round((attempts.filter((attempt) => attempt.isCorrect).length / attempts.length) * 100) : 0;
   const missed = useMemo(() => attempts.filter((attempt) => !attempt.isCorrect), [attempts]);
   const weakTopics = Array.from(new Set(missed.map((attempt) => attempt.subtopic))).slice(0, 4);
@@ -130,7 +143,7 @@ export function PracticeClient() {
   }, [ended, started]);
 
   function startSession() {
-    const picked = pickQuestions(mode, subject, count, requestedId, requestedSubtopic, requestedIds);
+    const picked = pickQuestions(mode, subject, difficulty, count, requestedId, requestedSubtopic, requestedIds);
     setSessionQuestions(picked);
     setIndex(0);
     setAttempts([]);
@@ -233,7 +246,7 @@ export function PracticeClient() {
       </div>
 
       <GlassCard strong className="space-y-5">
-        <div className="grid gap-4 md:grid-cols-2">
+        <div className="grid gap-4 lg:grid-cols-3">
           {mode === "subject" ? (
             <label className="space-y-2">
               <span className="text-sm font-medium text-slate-950/62">Subject</span>
@@ -253,6 +266,19 @@ export function PracticeClient() {
               </div>
             </div>
           )}
+          <label className="space-y-2">
+            <span className="text-sm font-medium text-slate-950/62">Difficulty</span>
+            <select
+              value={difficulty}
+              onChange={(event) => setDifficulty(event.target.value)}
+              className="w-full rounded-2xl border border-slate-200 bg-white/78 px-4 py-3"
+            >
+              <option value="all">All levels</option>
+              <option value="EASY">Easy</option>
+              <option value="MEDIUM">Medium</option>
+              <option value="HARD">Hard</option>
+            </select>
+          </label>
           <label className="space-y-2">
             <span className="text-sm font-medium text-slate-950/62">Number of questions</span>
             <select
