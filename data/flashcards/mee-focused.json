@@ -1,0 +1,481 @@
+{
+  "id": "mee-focused",
+  "title": "MEE Focused",
+  "subject": "MEE Focused",
+  "cards": [
+    {
+      "id": "mee-focused-001-what-are-the-four-essential-elements-of-a-negligence-claim",
+      "subject": "MEE Focused",
+      "front": "What are the four essential elements of a Negligence claim?",
+      "back": "Duty, Breach, Actual causation, Proximate causation, and Damages."
+    },
+    {
+      "id": "mee-focused-002-what-is-the-standard-duty-of-reasonable-care-applied-in-negligence-cases",
+      "subject": "MEE Focused",
+      "front": "What is the standard 'Duty of reasonable care' applied in negligence cases?",
+      "back": "A person must act as a reasonably prudent person would act under similar circumstances."
+    },
+    {
+      "id": "mee-focused-003-negligence-professional-standard-of-care",
+      "subject": "MEE Focused",
+      "front": "Negligence: Professional standard of care",
+      "back": "A professional must exercise the skill and care of an ordinary professional in that same field."
+    },
+    {
+      "id": "mee-focused-004-negligence-child-standard-of-care",
+      "subject": "MEE Focused",
+      "front": "Negligence: Child standard of care",
+      "back": "A child must act as a reasonable child of similar age, intelligence, and experience, unless performing an adult activity."
+    },
+    {
+      "id": "mee-focused-005-under-what-standard-of-care-must-common-carriers-and-innkeepers-operate-",
+      "subject": "MEE Focused",
+      "front": "Under what standard of care must common carriers and innkeepers operate toward passengers and guests?",
+      "back": "They are held to a heightened standard of care."
+    },
+    {
+      "id": "mee-focused-006-which-legal-test-is-usually-applied-to-determine-actual-causation",
+      "subject": "MEE Focused",
+      "front": "Which legal test is usually applied to determine 'Actual causation'?",
+      "back": "The 'but-for' test: but for the defendant's conduct, would the injury have occurred?"
+    },
+    {
+      "id": "mee-focused-007-in-negligence-what-is-the-substantial-factor-test-used-to-determine",
+      "subject": "MEE Focused",
+      "front": "In negligence, what is the 'Substantial factor' test used to determine?",
+      "back": "Actual causation in cases involving multiple sufficient causes."
+    },
+    {
+      "id": "mee-focused-008-under-what-conditions-does-alternative-liability-shift-the-burden-of-pro",
+      "subject": "MEE Focused",
+      "front": "Under what conditions does 'Alternative liability' shift the burden of proof to the defendants?",
+      "back": "When multiple negligent defendants exist, only one caused the harm, and the plaintiff cannot determine which one."
+    },
+    {
+      "id": "mee-focused-009-how-is-proximate-causation-defined-in-tort-law",
+      "subject": "MEE Focused",
+      "front": "How is 'Proximate causation' defined in tort law?",
+      "back": "The harm must be a foreseeable result of the defendant's conduct."
+    },
+    {
+      "id": "mee-focused-010-what-is-the-legal-effect-of-an-unforeseeable-superseding-act-on-a-defend",
+      "subject": "MEE Focused",
+      "front": "What is the legal effect of an 'Unforeseeable superseding act' on a defendant's liability?",
+      "back": "It may cut off the defendant's liability for the resulting harm."
+    },
+    {
+      "id": "mee-focused-011-negligence-per-se-requirements",
+      "subject": "MEE Focused",
+      "front": "Negligence per se requirements",
+      "back": "Defendant violated a statute; Plaintiff is in the protected class; Harm is the type intended to be prevented; Violation caused the injury."
+    },
+    {
+      "id": "mee-focused-012-res-ipsa-loquitur-requirements",
+      "subject": "MEE Focused",
+      "front": "Res ipsa loquitur requirements",
+      "back": "Accident usually doesn't occur without negligence; Instrumentality was in defendant's control; Plaintiff did not cause the accident."
+    },
+    {
+      "id": "mee-focused-013-what-must-a-doctor-disclose-to-a-patient-to-satisfy-the-requirement-of-i",
+      "subject": "MEE Focused",
+      "front": "What must a doctor disclose to a patient to satisfy the requirement of 'Informed consent'?",
+      "back": "Material risks, alternatives, and consequences that a reasonable patient would consider important."
+    },
+    {
+      "id": "mee-focused-014-duty-to-rescue-exceptions",
+      "subject": "MEE Focused",
+      "front": "Duty to rescue exceptions",
+      "back": "Special relationship; Defendant created the danger; Voluntary undertaking; Contract; Statute."
+    },
+    {
+      "id": "mee-focused-015-what-is-the-duty-owed-to-an-undiscovered-trespasser",
+      "subject": "MEE Focused",
+      "front": "What is the duty owed to an 'Undiscovered trespasser'?",
+      "back": "Usually no duty except to avoid willful or wanton injury."
+    },
+    {
+      "id": "mee-focused-016-what-is-the-duty-owed-to-a-licensee-social-guest",
+      "subject": "MEE Focused",
+      "front": "What is the duty owed to a 'Licensee' (social guest)?",
+      "back": "A duty to warn of concealed dangerous conditions known to the owner."
+    },
+    {
+      "id": "mee-focused-017-what-is-the-duty-owed-to-an-invitee-business-visitor",
+      "subject": "MEE Focused",
+      "front": "What is the duty owed to an 'Invitee' (business visitor)?",
+      "back": "A duty to reasonably inspect, discover, and correct dangerous conditions."
+    },
+    {
+      "id": "mee-focused-018-attractive-nuisance-requirements",
+      "subject": "MEE Focused",
+      "front": "Attractive nuisance requirements",
+      "back": "Dangerous artificial condition; Owner knows children trespass; Child cannot appreciate danger; Risk outweighs burden of fixing; Owner fails to use care."
+    },
+    {
+      "id": "mee-focused-019-battery-elements",
+      "subject": "MEE Focused",
+      "front": "Battery elements",
+      "back": "Intent; Harmful or offensive contact; Contact with plaintiff's person; Causation."
+    },
+    {
+      "id": "mee-focused-020-assault-elements",
+      "subject": "MEE Focused",
+      "front": "Assault elements",
+      "back": "Intent; Plaintiff's reasonable apprehension of imminent harmful or offensive contact; Causation."
+    },
+    {
+      "id": "mee-focused-021-false-imprisonment-elements",
+      "subject": "MEE Focused",
+      "front": "False imprisonment elements",
+      "back": "Intent; Confinement within bounded area; Plaintiff knows of confinement or is harmed; No reasonable means of escape."
+    },
+    {
+      "id": "mee-focused-022-intentional-infliction-of-emotional-distress-iied-elements",
+      "subject": "MEE Focused",
+      "front": "Intentional infliction of emotional distress (IIED) elements",
+      "back": "Extreme and outrageous conduct; Intent or recklessness; Causation; Severe emotional distress."
+    },
+    {
+      "id": "mee-focused-023-what-distinguishes-conversion-from-trespass-to-chattels",
+      "subject": "MEE Focused",
+      "front": "What distinguishes 'Conversion' from 'Trespass to chattels'?",
+      "back": "Conversion involves interference so serious that the defendant must pay the property's full value."
+    },
+    {
+      "id": "mee-focused-024-under-the-transferred-intent-doctrine-for-which-torts-can-intent-transfe",
+      "subject": "MEE Focused",
+      "front": "Under the 'Transferred intent' doctrine, for which torts can intent transfer?",
+      "back": "Battery, Assault, False imprisonment, Trespass to land, and Trespass to chattels."
+    },
+    {
+      "id": "mee-focused-025-what-are-the-requirements-for-self-defense-in-tort-law",
+      "subject": "MEE Focused",
+      "front": "What are the requirements for 'Self-defense' in tort law?",
+      "back": "A reasonable belief of imminent unlawful force and a proportional response."
+    },
+    {
+      "id": "mee-focused-026-vicarious-liability-respondeat-superior-requirements",
+      "subject": "MEE Focused",
+      "front": "Vicarious liability (Respondeat Superior) requirements",
+      "back": "Employee committed a tort within the scope of employment, intended at least partly to serve the employer."
+    },
+    {
+      "id": "mee-focused-027-strict-products-liability-requirements",
+      "subject": "MEE Focused",
+      "front": "Strict products liability requirements",
+      "back": "Commercial supplier; Defective product; Defect existed when leaving defendant; No substantial change; Foreseeable use; Causation; Damages."
+    },
+    {
+      "id": "mee-focused-028-what-defines-a-manufacturing-defect",
+      "subject": "MEE Focused",
+      "front": "What defines a 'Manufacturing defect'?",
+      "back": "The product differs from its intended design or specifications."
+    },
+    {
+      "id": "mee-focused-029-defamation-elements",
+      "subject": "MEE Focused",
+      "front": "Defamation elements",
+      "back": "Defamatory statement; About plaintiff; Publication to a third person; Fault; Damages (unless presumed)."
+    },
+    {
+      "id": "mee-focused-030-what-is-the-actual-malice-standard-for-defamation-of-public-figures",
+      "subject": "MEE Focused",
+      "front": "What is the 'Actual malice' standard for defamation of public figures?",
+      "back": "Knowledge of the statement's falsity or reckless disregard for the truth."
+    },
+    {
+      "id": "mee-focused-031-private-nuisance-elements",
+      "subject": "MEE Focused",
+      "front": "Private nuisance elements",
+      "back": "Substantial and unreasonable interference with another's use and enjoyment of land."
+    },
+    {
+      "id": "mee-focused-032-what-is-the-eggshell-plaintiff-rule",
+      "subject": "MEE Focused",
+      "front": "What is the 'Eggshell plaintiff' rule?",
+      "back": "The defendant is liable for the full extent of the plaintiff's injuries even if they are unusually severe or unforeseeable."
+    },
+    {
+      "id": "mee-focused-033-what-are-the-three-essential-requirements-for-contract-formation",
+      "subject": "MEE Focused",
+      "front": "What are the three essential requirements for 'Contract formation'?",
+      "back": "Offer, Acceptance, and Consideration."
+    },
+    {
+      "id": "mee-focused-034-ucc-firm-offer-requirements",
+      "subject": "MEE Focused",
+      "front": "UCC Firm Offer requirements",
+      "back": "Offer by a merchant; Signed writing; Assurance the offer will stay open."
+    },
+    {
+      "id": "mee-focused-035-common-law-mirror-image-rule",
+      "subject": "MEE Focused",
+      "front": "Common law Mirror Image Rule",
+      "back": "The acceptance must match the terms of the offer exactly, or it is treated as a counteroffer."
+    },
+    {
+      "id": "mee-focused-036-promissory-estoppel-requirements",
+      "subject": "MEE Focused",
+      "front": "Promissory estoppel requirements",
+      "back": "A promise; Reasonable and foreseeable reliance; Actual detrimental reliance; Enforcement is necessary to avoid injustice."
+    },
+    {
+      "id": "mee-focused-037-statute-of-frauds-categories-my-legs",
+      "subject": "MEE Focused",
+      "front": "Statute of Frauds categories (MY LEGS)",
+      "back": "Marriage; Year (over one); Land; Executor; Goods ($\\$500$ or more); Suretyship."
+    },
+    {
+      "id": "mee-focused-038-what-is-the-effect-of-an-anticipatory-repudiation",
+      "subject": "MEE Focused",
+      "front": "What is the effect of an 'Anticipatory repudiation'?",
+      "back": "The nonbreaching party may sue immediately, suspend performance, wait for the performance date, or urge retraction."
+    },
+    {
+      "id": "mee-focused-039-what-defines-impossibility-of-performance",
+      "subject": "MEE Focused",
+      "front": "What defines 'Impossibility' of performance?",
+      "back": "Performance is excused because it is objectively impossible due to death, destruction, or supervening illegality."
+    },
+    {
+      "id": "mee-focused-040-what-are-expectation-damages-intended-to-achieve",
+      "subject": "MEE Focused",
+      "front": "What are 'Expectation damages' intended to achieve?",
+      "back": "To put the plaintiff in the position they would have been in if the contract had been fully performed."
+    },
+    {
+      "id": "mee-focused-041-when-is-specific-performance-usually-available-as-a-remedy",
+      "subject": "MEE Focused",
+      "front": "When is 'Specific performance' usually available as a remedy?",
+      "back": "When there is a valid contract with definite terms and the legal remedy (money) is inadequate, such as for land or unique goods."
+    },
+    {
+      "id": "mee-focused-042-ucc-perfect-tender-rule",
+      "subject": "MEE Focused",
+      "front": "UCC Perfect Tender Rule",
+      "back": "A buyer may reject goods if they fail in any respect to conform to the contract."
+    },
+    {
+      "id": "mee-focused-043-what-are-the-two-requirements-for-diversity-jurisdiction",
+      "subject": "MEE Focused",
+      "front": "What are the two requirements for 'Diversity jurisdiction'?",
+      "back": "Complete diversity of citizenship and an amount in controversy exceeding $\\$75,000$."
+    },
+    {
+      "id": "mee-focused-044-how-is-the-citizenship-of-a-corporation-determined-for-diversity-purpose",
+      "subject": "MEE Focused",
+      "front": "How is the citizenship of a corporation determined for diversity purposes?",
+      "back": "By its state of incorporation and the state of its principal place of business (nerve center)."
+    },
+    {
+      "id": "mee-focused-045-what-is-the-well-pleaded-complaint-rule-for-federal-question-jurisdictio",
+      "subject": "MEE Focused",
+      "front": "What is the 'Well-pleaded complaint' rule for federal-question jurisdiction?",
+      "back": "The federal question must appear on the face of the plaintiff's complaint, not in an anticipated defense."
+    },
+    {
+      "id": "mee-focused-046-which-rule-12-defenses-are-waived-if-not-raised-in-the-defendant-s-first",
+      "subject": "MEE Focused",
+      "front": "Which Rule 12 defenses are waived if not raised in the defendant's first response?",
+      "back": "Personal jurisdiction, Venue, Insufficient process, and Insufficient service of process."
+    },
+    {
+      "id": "mee-focused-047-when-is-summary-judgment-granted-under-rule-56",
+      "subject": "MEE Focused",
+      "front": "When is 'Summary judgment' granted under Rule 56?",
+      "back": "When there is no genuine dispute of material fact and the movant is entitled to judgment as a matter of law."
+    },
+    {
+      "id": "mee-focused-048-claim-preclusion-res-judicata-requirements",
+      "subject": "MEE Focused",
+      "front": "Claim preclusion (Res Judicata) requirements",
+      "back": "Valid final judgment on the merits; Same parties or privies; Same claim or transaction."
+    },
+    {
+      "id": "mee-focused-049-issue-preclusion-collateral-estoppel-requirements",
+      "subject": "MEE Focused",
+      "front": "Issue preclusion (Collateral Estoppel) requirements",
+      "back": "Same issue; Actually litigated; Actually decided; Essential to judgment; Fair opportunity for the party against whom it is used."
+    },
+    {
+      "id": "mee-focused-050-constitutional-standing-requirements",
+      "subject": "MEE Focused",
+      "front": "Constitutional Standing requirements",
+      "back": "Injury in fact; Causation; Redressability."
+    },
+    {
+      "id": "mee-focused-051-what-may-congress-regulate-under-the-commerce-clause",
+      "subject": "MEE Focused",
+      "front": "What may Congress regulate under the 'Commerce Clause'?",
+      "back": "Channels of interstate commerce; Instrumentalities/persons/things in interstate commerce; Intrastate activities with a substantial effect on interstate commerce."
+    },
+    {
+      "id": "mee-focused-052-strict-scrutiny-standard",
+      "subject": "MEE Focused",
+      "front": "Strict Scrutiny standard",
+      "back": "The government must prove the law is narrowly tailored to achieve a compelling government interest."
+    },
+    {
+      "id": "mee-focused-053-intermediate-scrutiny-standard",
+      "subject": "MEE Focused",
+      "front": "Intermediate Scrutiny standard",
+      "back": "The government must prove the law is substantially related to an important government interest."
+    },
+    {
+      "id": "mee-focused-054-rational-basis-standard",
+      "subject": "MEE Focused",
+      "front": "Rational Basis standard",
+      "back": "The plaintiff must show the law has no rational relationship to any legitimate government interest."
+    },
+    {
+      "id": "mee-focused-055-time-place-and-manner-restriction-requirements-public-forum",
+      "subject": "MEE Focused",
+      "front": "Time, Place, and Manner restriction requirements (Public Forum)",
+      "back": "Content neutral; Narrowly tailored to a significant interest; Leaves open ample alternative channels."
+    },
+    {
+      "id": "mee-focused-056-what-is-the-standard-for-incitement-to-be-unprotected-speech",
+      "subject": "MEE Focused",
+      "front": "What is the standard for 'Incitement' to be unprotected speech?",
+      "back": "Speech intended and likely to cause imminent unlawful action."
+    },
+    {
+      "id": "mee-focused-057-accomplice-liability-requirements",
+      "subject": "MEE Focused",
+      "front": "Accomplice liability requirements",
+      "back": "Aiding, encouraging, or facilitating the crime with the intent to assist the principal and the required mental state."
+    },
+    {
+      "id": "mee-focused-058-conspiracy-requirements",
+      "subject": "MEE Focused",
+      "front": "Conspiracy requirements",
+      "back": "An agreement; Intent to agree; Intent to achieve the unlawful objective; An overt act (in many jurisdictions)."
+    },
+    {
+      "id": "mee-focused-059-what-are-the-four-types-of-malice-aforethought-for-common-law-murder",
+      "subject": "MEE Focused",
+      "front": "What are the four types of 'Malice aforethought' for common law murder?",
+      "back": "Intent to kill; Intent to cause serious bodily injury; Reckless indifference to human life; Felony murder."
+    },
+    {
+      "id": "mee-focused-060-voluntary-manslaughter-adequate-provocation",
+      "subject": "MEE Focused",
+      "front": "Voluntary manslaughter: Adequate provocation",
+      "back": "An intentional killing is reduced if there was adequate provocation, no cooling time, and the defendant did not actually cool off."
+    },
+    {
+      "id": "mee-focused-061-larceny-elements",
+      "subject": "MEE Focused",
+      "front": "Larceny elements",
+      "back": "Trespassory taking; Carrying away; Personal property of another; Intent to permanently deprive."
+    },
+    {
+      "id": "mee-focused-062-what-distinguishes-robbery-from-larceny",
+      "subject": "MEE Focused",
+      "front": "What distinguishes 'Robbery' from 'Larceny'?",
+      "back": "Robbery requires taking from the person or presence by force or threat of immediate harm."
+    },
+    {
+      "id": "mee-focused-063-m-naghten-insanity-test",
+      "subject": "MEE Focused",
+      "front": "M'Naghten insanity test",
+      "back": "Due to mental disease, the defendant did not know the nature of the act or did not know it was wrong."
+    },
+    {
+      "id": "mee-focused-064-fourth-amendment-search-incident-to-arrest-vehicle",
+      "subject": "MEE Focused",
+      "front": "Fourth Amendment: Search incident to arrest (Vehicle)",
+      "back": "Police may search if the arrestee is unsecured and can access the vehicle, or they reasonably believe it contains evidence of the arrest offense."
+    },
+    {
+      "id": "mee-focused-065-miranda-warnings-requirements",
+      "subject": "MEE Focused",
+      "front": "Miranda warnings requirements",
+      "back": "Custody (environment where one doesn't feel free to leave) and Interrogation (questioning likely to elicit an incriminating response)."
+    },
+    {
+      "id": "mee-focused-066-what-is-the-blockburger-test-for-double-jeopardy",
+      "subject": "MEE Focused",
+      "front": "What is the 'Blockburger' test for Double Jeopardy?",
+      "back": "Two crimes are different if each requires proof of an element that the other does not."
+    },
+    {
+      "id": "mee-focused-067-evidence-rule-403-balancing-test",
+      "subject": "MEE Focused",
+      "front": "Evidence: Rule 403 balancing test",
+      "back": "Relevant evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice."
+    },
+    {
+      "id": "mee-focused-068-when-can-a-criminal-defendant-offer-character-evidence",
+      "subject": "MEE Focused",
+      "front": "When can a criminal defendant offer 'Character evidence'?",
+      "back": "A defendant may offer reputation or opinion testimony about their own pertinent good character trait."
+    },
+    {
+      "id": "mee-focused-069-hearsay-definition",
+      "subject": "MEE Focused",
+      "front": "Hearsay definition",
+      "back": "An out-of-court statement offered to prove the truth of the matter asserted."
+    },
+    {
+      "id": "mee-focused-070-business-records-exception-requirements",
+      "subject": "MEE Focused",
+      "front": "Business Records exception requirements",
+      "back": "Record made at/near time; By person with knowledge; Kept in regular course; Regular practice to make record; Trustworthy."
+    },
+    {
+      "id": "mee-focused-071-dying-declaration-requirements",
+      "subject": "MEE Focused",
+      "front": "Dying Declaration requirements",
+      "back": "Declarant unavailable; Believed death was imminent; Statement about cause/circumstances; Homicide or civil case."
+    },
+    {
+      "id": "mee-focused-072-spousal-testimonial-privilege",
+      "subject": "MEE Focused",
+      "front": "Spousal testimonial privilege",
+      "back": "In a criminal case, a witness-spouse may refuse to testify against their current spouse; the witness-spouse holds the privilege."
+    },
+    {
+      "id": "mee-focused-073-joint-tenancy-unities-t-tip",
+      "subject": "MEE Focused",
+      "front": "Joint tenancy unities (T-TIP)",
+      "back": "Time, Title, Interest, and Possession."
+    },
+    {
+      "id": "mee-focused-074-adverse-possession-requirements",
+      "subject": "MEE Focused",
+      "front": "Adverse possession requirements",
+      "back": "Actual, Open and notorious, Exclusive, Hostile, and Continuous for the statutory period."
+    },
+    {
+      "id": "mee-focused-075-general-warranty-deed-protections",
+      "subject": "MEE Focused",
+      "front": "General warranty deed protections",
+      "back": "Protects against all title defects arising before and during the grantor's period of ownership."
+    },
+    {
+      "id": "mee-focused-076-race-notice-recording-statute",
+      "subject": "MEE Focused",
+      "front": "Race-notice recording statute",
+      "back": "A later bona fide purchaser (BFP) without notice wins only if they record their deed first."
+    },
+    {
+      "id": "mee-focused-077-easement-by-necessity-requirements",
+      "subject": "MEE Focused",
+      "front": "Easement by necessity requirements",
+      "back": "Prior common ownership and a severance that creates a landlocked parcel."
+    },
+    {
+      "id": "mee-focused-078-implied-warranty-of-habitability",
+      "subject": "MEE Focused",
+      "front": "Implied Warranty of Habitability",
+      "back": "A landlord's duty in residential leases to provide premises fit for basic human living."
+    },
+    {
+      "id": "mee-focused-079-constructive-eviction-requirements",
+      "subject": "MEE Focused",
+      "front": "Constructive eviction requirements",
+      "back": "Substantial interference caused by landlord; Tenant gave notice; Landlord failed to cure; Tenant vacated within reasonable time."
+    }
+  ]
+}
