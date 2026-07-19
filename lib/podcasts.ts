@@ -10,6 +10,14 @@ const podcastFiles = [
     description: "Use this focused Agency pass before reviewing flashcards, outlines, or questions."
   },
   {
+    id: "constitutional-law",
+    fileName: "constitutional-law.mp3",
+    title: "Constitutional Law",
+    subject: "Constitutional Law",
+    topic: "A 10-step attack plan for judicial review, federal powers, individual rights, and levels of scrutiny",
+    description: "Use this guided Constitutional Law pass before reviewing the outline, flashcards, or questions."
+  },
+  {
     id: "contracts",
     fileName: "contracts.mp3",
     title: "Contracts",
