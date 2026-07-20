@@ -18,8 +18,7 @@ type ModeOption = {
 };
 
 const modeOptions: ModeOption[] = [
-  { value: "mixed", label: "Mixed Practice", icon: BookOpenCheck },
-  { value: "subject", label: "Subject Practice", icon: ListChecks },
+  { value: "mixed", label: "Practice Questions", icon: ListChecks },
   { value: "weak", label: "Weak Areas", icon: Target },
   { value: "saved", label: "Saved Questions", icon: BookOpenCheck }
 ];
@@ -74,7 +73,7 @@ function pickQuestions(mode: PracticeMode, subject: string, difficulty: string, 
     return shuffle(saved).slice(0, count);
   }
 
-  if (mode === "subject" && subject) {
+  if ((mode === "mixed" || mode === "subject") && subject) {
     return shuffle(questions.filter((question) => question.subject === subject && matchesDifficulty(question, difficulty))).slice(0, count);
   }
 
@@ -82,8 +81,8 @@ function pickQuestions(mode: PracticeMode, subject: string, difficulty: string, 
 }
 
 function practiceModeSummary(mode: PracticeMode, subject: string) {
-  if (mode === "subject") {
-    return subject || "Selected subject";
+  if (mode === "mixed" || mode === "subject") {
+    return subject || "Mixed from all subjects";
   }
 
   if (mode === "weak") {
@@ -94,7 +93,7 @@ function practiceModeSummary(mode: PracticeMode, subject: string) {
     return "Saved questions";
   }
 
-  return "Mixed subjects";
+  return "Mixed from all subjects";
 }
 
 export function PracticeClient() {
@@ -105,7 +104,7 @@ export function PracticeClient() {
     .map((id) => id.trim())
     .filter(Boolean);
   const rawRequestedMode = params.get("mode");
-  const requestedMode: PracticeMode = rawRequestedMode === "subject" || rawRequestedMode === "weak" || rawRequestedMode === "saved"
+  const requestedMode: PracticeMode = rawRequestedMode === "weak" || rawRequestedMode === "saved"
     ? rawRequestedMode
     : requestedId
       ? "single"
@@ -115,7 +114,7 @@ export function PracticeClient() {
   const subjects = getSubjects();
 
   const [mode, setMode] = useState<PracticeMode>(requestedMode);
-  const [subject, setSubject] = useState(requestedSubject || subjects[0] || "");
+  const [subject, setSubject] = useState(requestedSubject);
   const [difficulty, setDifficulty] = useState("all");
   const [count, setCount] = useState(10);
   const [started, setStarted] = useState(Boolean(requestedId || requestedSubtopic || requestedIds.length));
@@ -128,6 +127,13 @@ export function PracticeClient() {
   const [elapsed, setElapsed] = useState(0);
 
   const current = sessionQuestions[index];
+  const [progressVersion, setProgressVersion] = useState(0);
+  const savedQuestionCount = useMemo(() => (
+    getProgress().savedQuestionIds.length
+  ), [progressVersion]);
+  const visibleModeOptions = modeOptions.filter((option) => (
+    option.value !== "saved" || savedQuestionCount > 0
+  ));
   const practiceSummary = `${count} questions · ${practiceModeSummary(mode, subject)} · ${difficultySummary(difficulty)} · Timed · Explanations after each answer`;
   const sessionAccuracy = attempts.length ? Math.round((attempts.filter((attempt) => attempt.isCorrect).length / attempts.length) * 100) : 0;
   const missed = useMemo(() => attempts.filter((attempt) => !attempt.isCorrect), [attempts]);
@@ -141,6 +147,22 @@ export function PracticeClient() {
     const timer = window.setInterval(() => setElapsed((value) => value + 1), 1000);
     return () => window.clearInterval(timer);
   }, [ended, started]);
+
+  useEffect(() => {
+    function refreshProgress() {
+      setProgressVersion((version) => version + 1);
+    }
+
+    refreshProgress();
+    window.addEventListener("mbe-progress-updated", refreshProgress);
+    return () => window.removeEventListener("mbe-progress-updated", refreshProgress);
+  }, []);
+
+  useEffect(() => {
+    if (mode === "saved" && savedQuestionCount === 0) {
+      setMode("mixed");
+    }
+  }, [mode, savedQuestionCount]);
 
   function startSession() {
     const picked = pickQuestions(mode, subject, difficulty, count, requestedId, requestedSubtopic, requestedIds);
@@ -231,8 +253,8 @@ export function PracticeClient() {
         </p>
       </div>
 
-      <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
-        {modeOptions.map(({ value, label, icon: Icon }) => (
+      <div className={`grid grid-cols-2 gap-3 ${visibleModeOptions.length === 3 ? "lg:grid-cols-3" : "lg:grid-cols-2"}`}>
+        {visibleModeOptions.map(({ value, label, icon: Icon }) => (
           <button
             key={String(value)}
             type="button"
@@ -247,22 +269,23 @@ export function PracticeClient() {
 
       <GlassCard strong className="space-y-5">
         <div className="grid gap-4 lg:grid-cols-3">
-          {mode === "subject" ? (
+          {mode === "mixed" || mode === "subject" ? (
             <label className="space-y-2">
-              <span className="text-sm font-medium text-slate-950/62">Subject</span>
+              <span className="text-sm font-medium text-slate-950/62">Subjects</span>
               <select
                 value={subject}
                 onChange={(event) => setSubject(event.target.value)}
                 className="w-full rounded-2xl border border-slate-200 bg-white/78 px-4 py-3"
               >
+                <option value="">Mixed from all subjects</option>
                 {subjects.map((item) => <option key={item}>{item}</option>)}
               </select>
             </label>
           ) : (
             <div className="space-y-2">
-              <span className="text-sm font-medium text-slate-950/62">Subjects</span>
+              <span className="text-sm font-medium text-slate-950/62">Questions</span>
               <div className="rounded-2xl border border-slate-200 bg-white/78 px-4 py-3 text-slate-950">
-                Mixed from all subjects
+                {mode === "weak" ? "Recommended weak topics" : "Saved questions"}
               </div>
             </div>
           )}
