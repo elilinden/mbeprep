@@ -21,6 +21,13 @@ function searchTerms(query: string) {
     .filter(Boolean);
 }
 
+function sectionMatchesTerms(section: OutlineSection, terms: string[]) {
+  return terms.every((term) => (
+    section.title.toLowerCase().includes(term) ||
+    sectionText(section).toLowerCase().includes(term)
+  ));
+}
+
 function renderHighlighted(text: string, query: string) {
   const terms = searchTerms(query);
 
@@ -102,24 +109,42 @@ export function OutlinesClient({ outlines }: { outlines: Outline[] }) {
   const [selectedId, setSelectedId] = useState(outlines[0]?.id || "");
   const [query, setQuery] = useState("");
   const selected = outlines.find((outline) => outline.id === selectedId) || outlines[0];
+  const terms = useMemo(() => searchTerms(query), [query]);
+
+  const searchResults = useMemo(() => {
+    if (!terms.length) {
+      return [];
+    }
+
+    return outlines.flatMap((outline) => (
+      outline.sections
+        .filter((section) => sectionMatchesTerms(section, terms))
+        .map((section) => ({ outline, section }))
+    )).slice(0, 12);
+  }, [outlines, terms]);
+
+  const openSearchResult = (outlineId: string, sectionId: string) => {
+    setSelectedId(outlineId);
+    window.setTimeout(() => {
+      const target = document.getElementById(sectionId);
+      if (target instanceof HTMLDetailsElement) {
+        target.open = true;
+      }
+      target?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 80);
+  };
 
   const visibleSections = useMemo(() => {
     if (!selected) {
       return [];
     }
 
-    const terms = searchTerms(query);
     if (!terms.length) {
       return selected.sections;
     }
 
-    return selected.sections.filter((section) => (
-      terms.every((term) => (
-        section.title.toLowerCase().includes(term) ||
-        sectionText(section).toLowerCase().includes(term)
-      ))
-    ));
-  }, [query, selected]);
+    return selected.sections.filter((section) => sectionMatchesTerms(section, terms));
+  }, [selected, terms]);
 
   if (!selected) {
     return (
@@ -150,6 +175,29 @@ export function OutlinesClient({ outlines }: { outlines: Outline[] }) {
           />
         </div>
       </div>
+
+      {terms.length ? (
+        <div className="rounded-2xl border border-slate-200 bg-white/68 p-3 backdrop-blur-xl">
+          <p className="px-2 pb-2 text-sm font-semibold text-slate-700">Search results</p>
+          {searchResults.length ? (
+            <div className="flex flex-wrap gap-2">
+              {searchResults.map(({ outline, section }) => (
+                <button
+                  key={`${outline.id}-${section.id}`}
+                  type="button"
+                  onClick={() => openSearchResult(outline.id, section.id)}
+                  className="rounded-xl border border-slate-200 bg-white px-3 py-2 text-left text-sm text-slate-700 transition hover:border-indigo-300 hover:bg-indigo-50 focus:outline-none focus:ring-2 focus:ring-indigo-400 focus:ring-offset-2"
+                >
+                  <span className="font-semibold text-slate-950">{outline.title}</span>
+                  <span className="text-slate-500"> · {section.title}</span>
+                </button>
+              ))}
+            </div>
+          ) : (
+            <p className="px-2 text-sm text-slate-600">No sections match that search.</p>
+          )}
+        </div>
+      ) : null}
 
       <div className="grid gap-6 lg:grid-cols-[0.35fr_1fr]">
         <GlassCard className="space-y-3 self-start lg:sticky lg:top-28 lg:max-h-[calc(100vh-8rem)] lg:overflow-y-auto lg:overscroll-contain">
@@ -184,8 +232,35 @@ export function OutlinesClient({ outlines }: { outlines: Outline[] }) {
             </div>
           </GlassCard>
 
+          {selected.id === "mee-focused-review" ? (
+            <nav className="flex flex-wrap gap-2" aria-label="Jump to MEE subject">
+              {selected.sections
+                .filter((section) => section.id.startsWith("mee-subject-"))
+                .map((section) => (
+                  <a
+                    key={section.id}
+                    href={`#${section.id}`}
+                    onClick={() => {
+                      const target = document.getElementById(section.id);
+                      if (target instanceof HTMLDetailsElement) {
+                        target.open = true;
+                      }
+                    }}
+                    className="rounded-full border border-indigo-200 bg-indigo-50/80 px-3 py-2 text-sm font-semibold text-indigo-800 transition hover:border-indigo-300 hover:bg-indigo-100 focus:outline-none focus:ring-2 focus:ring-indigo-400 focus:ring-offset-2"
+                  >
+                    {section.title}
+                  </a>
+                ))}
+            </nav>
+          ) : null}
+
           {visibleSections.length ? visibleSections.map((section) => (
-            <details key={section.id} id={section.id} className="glass rounded-[2rem] p-5 md:p-7" open>
+            <details
+              key={section.id}
+              id={section.id}
+              className="glass rounded-[2rem] p-5 md:p-7"
+              open={selected.id !== "mee-focused-review" || section.id === "mee-review-guide"}
+            >
               <summary className="cursor-pointer text-xl font-semibold tracking-tight">{renderHighlighted(section.title, query)}</summary>
               <div className="mt-4 space-y-4">
                 {section.blocks?.length

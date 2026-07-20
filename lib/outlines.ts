@@ -6,6 +6,7 @@ import criminalProcedureOutlineJson from "@/data/outlines/criminal-procedure.jso
 import contractsSalesOutlineJson from "@/data/outlines/contracts-sales.json";
 import corporationsLlcsOutlineJson from "@/data/outlines/corporations-llcs.json";
 import evidenceOutlineJson from "@/data/outlines/evidence.json";
+import meeFocusedReviewOutlineJson from "@/data/outlines/mee-focused-review.json";
 import partnershipsOutlineJson from "@/data/outlines/partnerships.json";
 import realPropertyOutlineJson from "@/data/outlines/real-property.json";
 import tortsOutlineJson from "@/data/outlines/torts.json";
@@ -38,11 +39,13 @@ const criminalProcedureOutline = criminalProcedureOutlineJson as Outline;
 const contractsSalesOutline = contractsSalesOutlineJson as Outline;
 const corporationsLlcsOutline = corporationsLlcsOutlineJson as Outline;
 const evidenceOutline = evidenceOutlineJson as Outline;
+const meeFocusedReviewOutline = meeFocusedReviewOutlineJson as Outline;
 const partnershipsOutline = partnershipsOutlineJson as Outline;
 const realPropertyOutline = realPropertyOutlineJson as Outline;
 const tortsOutline = tortsOutlineJson as Outline;
 
 export const outlines: Outline[] = [
+  meeFocusedReviewOutline,
   agencyOutline,
   civilProcedureOutline,
   constitutionalLawOutline,

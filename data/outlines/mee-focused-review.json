@@ -1,0 +1,4763 @@
+{
+  "id": "mee-focused-review",
+  "title": "MEE Focused Review",
+  "subject": "MEE ESSAY REVIEW",
+  "summary": "A high-frequency attack outline for the rules most often tested on the Multistate Essay Examination.",
+  "sections": [
+    {
+      "id": "mee-review-guide",
+      "title": "How to Use This Outline",
+      "body": [],
+      "blocks": [
+        {
+          "type": "quote",
+          "text": "Historical frequency is a study-priority tool, not a prediction of the next exam. Any MEE subject or rule may be tested."
+        },
+        {
+          "type": "minorHeading",
+          "text": "How to Use This Outline"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Start with the highest-frequency subjects and rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Memorize the black-letter rule and elements."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. On an essay, identify the issue, state the rule, apply every important fact, and give a short conclusion."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Use headings for separate issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Do not merely list rules; explain why each fact satisfies or fails each element."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Historical appearance rates"
+        },
+        {
+          "type": "paragraph",
+          "text": "These are past appearance rates from reviewed 2013–2026 administrations, not predictions of the next exam."
+        },
+        {
+          "type": "chartHeader",
+          "text": "Subject — Historical rate — Reviewed administrations"
+        },
+        {
+          "type": "chartRow",
+          "text": "Business Associations — 83% — 24 of 29 administrations"
+        },
+        {
+          "type": "chartRow",
+          "text": "Civil Procedure — 69% — 20 of 29 administrations"
+        },
+        {
+          "type": "chartRow",
+          "text": "Contracts — 59% — 17 of 29 administrations"
+        },
+        {
+          "type": "chartRow",
+          "text": "Real Property — 52% — 15 of 29 administrations"
+        },
+        {
+          "type": "chartRow",
+          "text": "Evidence — 48% — 14 of 29 administrations"
+        },
+        {
+          "type": "chartRow",
+          "text": "Criminal Law & Procedure — 48% — 14 of 29 administrations"
+        },
+        {
+          "type": "chartRow",
+          "text": "Torts — 38% — 11 of 29 administrations"
+        },
+        {
+          "type": "chartRow",
+          "text": "Constitutional Law — 34% — 10 of 29 administrations"
+        }
+      ]
+    },
+    {
+      "id": "mee-subject-business-associations",
+      "title": "Business Associations",
+      "body": [],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Historical appearance rate: 83% · 24 of 29 reviewed administrations"
+        },
+        {
+          "type": "compact",
+          "text": "Subject priority: Highest."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Big picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Business Associations is the most frequently appearing modern-era MEE subject grouping. On an essay, first identify whether the facts involve agency, partnership, corporation, or LLC law. Then identify who acted, what authority or duty applied, who is liable, and what remedy follows."
+        },
+        {
+          "type": "minorHeading",
+          "text": "MEE essay approach"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Identify the business form and the relevant actors."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Determine whether an agency or partnership relationship exists."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Analyze authority before contract liability."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Analyze fiduciary duty before remedies."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. For corporations, distinguish director duties, shareholder claims, promoter liability, and veil piercing."
+        },
+        {
+          "type": "paragraph",
+          "text": "6. State who is liable and to whom."
+        },
+        {
+          "type": "subheading",
+          "text": "Agent’s Authority to Bind the Principal"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A principal is bound by a contract made by an agent when the agent acts with actual authority, apparent authority, or when the principal later ratifies the transaction."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. An agency relationship exists: the principal manifests assent that the agent act on the principal’s behalf and subject to the principal’s control, and the agent consents."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. The agent acts with actual authority, apparent authority, or valid ratification."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. The transaction falls within the relevant authority."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Actual authority focuses on communications from principal to agent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Apparent authority focuses on manifestations from principal to third party."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Ratification occurs after the unauthorized act."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A disclosed principal is generally liable while the agent is not."
+        },
+        {
+          "type": "paragraph",
+          "text": "- With an unidentified or undisclosed principal, the agent and principal may both be liable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- A third party who knows the agent lacks authority generally cannot bind the principal."
+        },
+        {
+          "type": "paragraph",
+          "text": "- An undisclosed principal cannot be bound through apparent authority because the third party did not know a principal existed."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A novation may release the agent and substitute the principal."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Analyze actual authority, apparent authority, and ratification separately rather than saying only that the agent “had authority.”"
+        },
+        {
+          "type": "subheading",
+          "text": "Actual Authority"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Actual authority exists when the principal’s words or conduct cause the agent reasonably to believe the principal wants the agent to act."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Types"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Express authority: specifically granted orally or in writing."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Implied authority: reasonably necessary to carry out express authority, customary for the position, or inferred from prior dealings."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Termination"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Revocation by principal."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Renunciation by agent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Expiration or completion."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Mutual agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Death or incapacity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Supervening illegality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Actual authority may end while lingering apparent authority remains as to third parties who lack notice."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Ask what a reasonable agent would understand from the principal’s manifestations."
+        },
+        {
+          "type": "subheading",
+          "text": "Apparent Authority"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Apparent authority exists when the principal’s manifestations cause a third party reasonably to believe the agent is authorized."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Manifestation by the principal, not merely the agent."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Reasonable third-party belief."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. The belief is traceable to the principal’s words, conduct, prior dealings, or placement of the agent in a customary position."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. The third party relies when entering the transaction."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Limits"
+        },
+        {
+          "type": "paragraph",
+          "text": "- The agent cannot create apparent authority merely by claiming to possess it."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Actual notice that authority ended defeats apparent authority."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Position-based authority extends only to acts customary for that role."
+        },
+        {
+          "type": "paragraph",
+          "text": "- An undisclosed principal cannot create apparent authority."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Identify the exact act by the principal that created the third party’s reasonable belief."
+        },
+        {
+          "type": "subheading",
+          "text": "Ratification"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A principal may affirm an unauthorized transaction after the fact and become bound as though the agent had authority from the start."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Principal knows the material facts."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Principal accepts the entire transaction through words, conduct, or retention of benefits."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Principal had capacity when the agent acted and when ratification occurred."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. The transaction was capable of ratification."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Limits"
+        },
+        {
+          "type": "paragraph",
+          "text": "- The principal cannot ratify only the favorable parts."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Ratification cannot unfairly prejudice intervening third-party rights."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Retaining benefits after learning the facts is a common ratification trigger."
+        },
+        {
+          "type": "subheading",
+          "text": "General Partnership Formation"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A general partnership forms when two or more persons associate as co-owners of a business for profit, whether or not they intended to create a partnership."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Two or more persons."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Carrying on a business for profit."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Co-ownership, commonly shown by shared control and net profits."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- No filing or written agreement is required."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Sharing net profits creates a presumption of partnership."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Joint ownership alone and sharing gross returns alone are insufficient."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Profit-sharing exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Debt repayment."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Wages."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Rent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Annuity or retirement benefit."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Interest on a loan."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Payment for sale of goodwill."
+        },
+        {
+          "type": "paragraph",
+          "text": "Partnership by estoppel: A person who represents or permits representation that the person is a partner may be liable to a third party who reasonably extends credit in reliance."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Ignore labels such as “consultant” and analyze the parties’ actual conduct."
+        },
+        {
+          "type": "subheading",
+          "text": "Partnership Contract Liability"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A partnership is bound by a partner’s contract made in the ordinary course of partnership business unless the partner lacked authority and the third party knew of that lack."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Every partner is an agent of the partnership for ordinary partnership business."
+        },
+        {
+          "type": "paragraph",
+          "text": "- An act outside the ordinary course generally requires actual authority from the other partners."
+        },
+        {
+          "type": "paragraph",
+          "text": "- General partners are generally jointly and severally liable for partnership obligations."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Partnership assets are ordinarily pursued before individual partners’ assets under the exhaustion rule."
+        },
+        {
+          "type": "paragraph",
+          "text": "- An LLP generally shields partners from personal liability for partnership obligations, but not from their own misconduct."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A newly admitted partner is generally not personally liable for pre-admission obligations beyond the partner’s contribution."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: First determine whether the partnership is bound; then separately determine each partner’s personal exposure."
+        },
+        {
+          "type": "subheading",
+          "text": "Partnership Management, Profits, and Losses"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Default rules unless the agreement provides otherwise"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Partners have equal management rights."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Ordinary matters are decided by majority vote."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Extraordinary matters and amendments generally require unanimity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Profits are shared equally."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Losses follow the profit-sharing ratio."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A partner is generally not entitled to compensation for services, except reasonable compensation for winding up."
+        },
+        {
+          "type": "paragraph",
+          "text": "- The partnership must reimburse a partner for proper partnership expenses."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Capital contributions do not automatically determine profit shares."
+        },
+        {
+          "type": "subheading",
+          "text": "Partner Duty of Loyalty"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A partner owes the partnership and the other partners a duty of loyalty."
+        },
+        {
+          "type": "minorHeading",
+          "text": "A partner must not"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Appropriate partnership property, profit, opportunity, or advantage."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Compete with the partnership before dissolution."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Deal with the partnership as or on behalf of an adverse party without disclosure and consent."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Remedies"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Disgorgement."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Damages."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Accounting."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Constructive trust."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Injunction."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Limits"
+        },
+        {
+          "type": "paragraph",
+          "text": "- The agreement may reasonably define or limit the duty but generally may not eliminate it."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Fully informed consent may validate a specific transaction."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Duties may continue during winding up for partnership matters."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: When a partner secretly profits, discuss duty, breach, disclosure or consent, and disgorgement."
+        },
+        {
+          "type": "subheading",
+          "text": "Dissociation, Dissolution, and Winding Up"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Dissociation is a partner’s departure. Dissolution is the event that begins winding up. The partnership continues during winding up only to settle its affairs."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Common dissolution triggers"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Notice of withdrawal from an at-will partnership."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Expiration or completion of a term or undertaking."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Agreement of the partners."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Illegality."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Judicial dissolution for deadlock, misconduct, or impracticability."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Winding up generally includes"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Collecting and liquidating assets."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Paying creditors."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Settling partner accounts."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Distributing surplus."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- A partner may wrongfully dissociate and owe damages."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Acts appropriate for winding up may still bind the partnership."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Partners may sometimes agree to continue before winding up is complete."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Do not treat every dissociation as automatic dissolution of a term partnership."
+        },
+        {
+          "type": "subheading",
+          "text": "Directors’ Duty of Care and Business Judgment Rule"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Directors must act in good faith, on an informed basis, with the care an ordinarily prudent person in a similar position would use, and in the corporation’s best interests."
+        },
+        {
+          "type": "paragraph",
+          "text": "Business judgment rule: Courts presume directors acted:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. In good faith."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. On an informed basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Without a disabling personal interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. With a rational belief that the decision served the corporation."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Courts ordinarily do not second-guess a protected business decision merely because it failed."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Grossly uninformed decision-making, bad faith, fraud, or self-dealing may rebut the presumption."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A director may reasonably rely on officers, employees, experts, and committees."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Exculpation may limit monetary liability for care violations but not disloyalty or bad faith."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Focus on the decision-making process, not hindsight about the result."
+        },
+        {
+          "type": "subheading",
+          "text": "Conflicting-Interest Transactions and Duty of Loyalty"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A director’s material financial interest in a corporate transaction creates a conflict, but the transaction may be validated."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Safe harbors"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Full disclosure and approval by disinterested directors."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Full disclosure and approval by disinterested shareholders."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Proof that the transaction was fair to the corporation."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Entire fairness"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Fair dealing."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Fair price."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Identify the conflict, then analyze each possible safe harbor separately."
+        },
+        {
+          "type": "subheading",
+          "text": "Shareholder Derivative Claims"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A derivative action is brought by a shareholder on behalf of the corporation to enforce a corporate claim. Recovery goes to the corporation."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Plaintiff owned shares when the challenged act occurred."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Plaintiff generally maintains ownership throughout the case."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Plaintiff fairly and adequately represents shareholder interests."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Plaintiff makes demand on the board unless the applicable law excuses demand."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Corporation is named as a nominal defendant."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- A direct claim concerns injury to the shareholder personally, such as voting or inspection rights."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Settlement or dismissal generally requires court approval."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Demand rules vary by jurisdiction."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: Ask who suffered the primary injury and who would receive the recovery."
+        },
+        {
+          "type": "subheading",
+          "text": "Promoter Liability"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A promoter is generally personally liable on a pre-incorporation contract."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- The future corporation is not automatically bound."
+        },
+        {
+          "type": "paragraph",
+          "text": "- The corporation may adopt the contract after formation."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Adoption makes the corporation liable but does not release the promoter."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A novation agreed to by promoter, corporation, and third party releases the promoter."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: “Adoption” and “novation” produce different consequences."
+        },
+        {
+          "type": "subheading",
+          "text": "Piercing the Corporate Veil"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A court may disregard limited liability and hold shareholders personally liable when the corporation is an alter ego and respecting the entity would promote fraud or injustice."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Factors"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Commingling personal and corporate funds."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Undercapitalization."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Failure to observe formalities."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Dominance by a shareholder."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Use of the entity to perpetrate fraud or avoid obligations."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Veil piercing is exceptional and fact intensive."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Passive minority shareholders are less likely to be liable."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Similar principles may apply to LLCs."
+        },
+        {
+          "type": "paragraph",
+          "text": "MEE tip: State both abuse of the entity form and the inequitable result."
+        }
+      ]
+    },
+    {
+      "id": "mee-subject-civil-procedure",
+      "title": "Civil Procedure",
+      "body": [],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Historical appearance rate: 69% · 20 of 29 reviewed administrations"
+        },
+        {
+          "type": "compact",
+          "text": "Subject priority: Highest."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Big picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Identify the court, the parties, and the procedural stage. Analyze subject-matter jurisdiction, personal jurisdiction, venue, joinder, governing law, and preclusion as separate issues."
+        },
+        {
+          "type": "subheading",
+          "text": "Diversity Jurisdiction"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A federal court has diversity jurisdiction when the amount in controversy exceeds $75,000, exclusive of interest and costs, and there is complete diversity when the action is filed."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Amount in controversy exceeds $75,000."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. No plaintiff shares state citizenship with any defendant."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Citizenship is determined at filing."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Individual: domicile, meaning physical presence plus intent to remain indefinitely."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Corporation: every state of incorporation plus its one principal place of business, usually the nerve center."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Partnership or LLC: citizenship of every partner or member."
+        },
+        {
+          "type": "paragraph",
+          "text": "- One plaintiff may aggregate all claims against one defendant."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Separate plaintiffs generally may not aggregate separate claims merely to reach the threshold."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Domestic-relations and probate matters are generally excluded."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A later change in citizenship ordinarily does not destroy jurisdiction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Write the citizenship of every party separately before comparing plaintiffs with defendants."
+        },
+        {
+          "type": "subheading",
+          "text": "Federal-Question Jurisdiction"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Federal-question jurisdiction exists when federal law is part of the plaintiff’s properly pleaded claim."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. The federal issue appears on the face of the complaint."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. The issue is a necessary part of the plaintiff’s claim."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. No minimum amount in controversy is required."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- An anticipated federal defense does not create jurisdiction."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A counterclaim does not create federal-question jurisdiction over the original claim."
+        },
+        {
+          "type": "paragraph",
+          "text": "- For an embedded federal issue, ask whether the issue is necessarily raised, actually disputed, substantial, and capable of resolution without upsetting the federal-state balance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Apply the well-pleaded complaint rule only to the plaintiff’s claim, not defenses."
+        },
+        {
+          "type": "subheading",
+          "text": "Personal Jurisdiction"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A court needs statutory authorization and constitutional due process to exercise power over a defendant."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. The forum’s long-arm statute reaches the defendant."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. A traditional basis or sufficient minimum contacts exists."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Exercising jurisdiction is consistent with fair play and substantial justice."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Traditional bases: domicile, consent, waiver, and personal service while voluntarily present in the state."
+        },
+        {
+          "type": "paragraph",
+          "text": "- General jurisdiction: defendant is at home in the forum."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Individual is generally at home where domiciled."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Corporation is ordinarily at home where incorporated and where it has its principal place of business."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Specific jurisdiction applies when the claim arises out of or relates to the defendant’s forum contacts."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- The defense is waived if omitted from the defendant’s first Rule 12 response."
+        },
+        {
+          "type": "paragraph",
+          "text": "- The plaintiff’s unilateral contact with the forum does not establish jurisdiction over the defendant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Analyze statutory authority, contact with the forum, relatedness, and fairness in that order."
+        },
+        {
+          "type": "subheading",
+          "text": "Specific Jurisdiction"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Specific jurisdiction exists when the defendant purposefully created forum contacts, the claim arises out of or relates to those contacts, and jurisdiction is reasonable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Purposeful availment or purposeful direction."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Claim arises out of or relates to the forum contacts."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Exercise of jurisdiction is fair and reasonable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- A contract with a forum resident alone is not automatically sufficient."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Examine negotiations, terms, contemplated future consequences, and performance."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Random, fortuitous, or attenuated contacts are insufficient."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Merely placing a product in the stream of commerce may be insufficient without purposeful forum direction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Focus on what the defendant deliberately did, not where the plaintiff happened to live."
+        },
+        {
+          "type": "subheading",
+          "text": "Supplemental Jurisdiction"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A federal court with original jurisdiction over one claim may hear another claim forming part of the same Article III case or controversy."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. At least one claim has original federal jurisdiction."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. The additional claim shares a common nucleus of operative fact."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- In diversity-only cases, Section 1367(b) limits certain claims by plaintiffs against parties joined through Rules 14, 19, 20, or 24 when hearing them would evade diversity requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- The court may decline jurisdiction over novel, predominant, or remaining state-law claims after federal claims are dismissed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: First find the anchor claim. Then ask whether the second claim comes from the same transaction or occurrence."
+        },
+        {
+          "type": "subheading",
+          "text": "Venue"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Venue is generally proper in a district where defendants reside, where a substantial part of the events occurred, or, if neither applies, where a defendant is subject to personal jurisdiction."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. A district where any defendant resides if all defendants reside in the same state."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. A district where a substantial part of the events, omissions, or property is located."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Fallback district where a defendant is subject to personal jurisdiction if no district qualifies under the first two rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Venue asks which federal district is proper, not whether federal court jurisdiction exists."
+        },
+        {
+          "type": "subheading",
+          "text": "Transfer of Venue"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A federal court may transfer a case for convenience and the interests of justice."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Proper original venue: transfer under Section 1404."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Improper original venue: dismissal or transfer under Section 1406."
+        },
+        {
+          "type": "paragraph",
+          "text": "- After a Section 1404 transfer requested without a controlling forum-selection clause, the transferee court generally applies the original court’s choice-of-law rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "- After a Section 1406 transfer, the transferee court generally applies its own choice-of-law rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A valid forum-selection clause ordinarily receives controlling weight absent extraordinary circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Determine whether the original venue was proper before selecting the transfer rule."
+        },
+        {
+          "type": "subheading",
+          "text": "Erie Doctrine"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A federal court sitting in diversity applies federal procedural law and state substantive law."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Ask whether a valid federal statute, Constitution provision, or Federal Rule directly controls."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. If so, apply the valid federal rule."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. If not, determine whether state law is substantive using outcome, forum-shopping, and federal-state interest considerations."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Usually substantive"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Elements of claims and defenses."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Statutes of limitations."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Burdens of proof."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Damages rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "- State choice-of-law rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: A federal court sitting in diversity applies the choice-of-law rules of the state in which it sits."
+        },
+        {
+          "type": "subheading",
+          "text": "Summary Judgment"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Summary judgment is proper when no genuine dispute of material fact exists and the movant is entitled to judgment as a matter of law."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. No genuine factual dispute."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Disputed fact is material under governing law."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Movant is entitled to judgment as a matter of law."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- View evidence and draw reasonable inferences for the nonmoving party."
+        },
+        {
+          "type": "paragraph",
+          "text": "- The judge does not weigh credibility or decide which witness is more believable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: A factual disagreement is not enough; it must be both genuine and material."
+        },
+        {
+          "type": "subheading",
+          "text": "Required Joinder"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A person must be joined when complete relief cannot be granted without that person, the person’s interest may be impaired, or an existing party risks inconsistent obligations."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Determine whether the absent person is required."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Determine whether joinder is feasible."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. If not feasible, decide whether the case should proceed or be dismissed."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Joint tortfeasors are generally permissive, not required, parties."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Inconsistent obligations differ from inconsistent results."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Separate the required-party question from the feasibility and dismissal questions."
+        },
+        {
+          "type": "subheading",
+          "text": "Service of Process"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: The summons and complaint generally must be served within 90 days after filing."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Methods for individuals"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Personal delivery."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Leaving process at the individual’s dwelling with a suitable resident."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Delivery to an authorized agent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A method permitted by relevant state law."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Methods for entities"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Service on an officer, managing or general agent, or authorized agent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Constitutional notice must be reasonably calculated to inform the defendant."
+        },
+        {
+          "type": "subheading",
+          "text": "Claim Preclusion"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Claim preclusion bars a later claim that was or could have been brought in an earlier action."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Valid final judgment on the merits."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Same claimant and defendant, or their privies."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Later claim arises from the same transaction or occurrence."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Bars claims actually litigated and claims that should have been joined."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A default judgment may support claim preclusion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Compare transactions, not merely legal theories."
+        },
+        {
+          "type": "subheading",
+          "text": "Issue Preclusion"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Issue preclusion bars relitigation of a specific issue already fully decided."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Same issue."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Actually litigated."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Actually decided."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Necessary to the judgment."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Party being bound had a full and fair opportunity to litigate."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- A default judgment ordinarily does not support issue preclusion because no issue was actually litigated."
+        },
+        {
+          "type": "paragraph",
+          "text": "- The party being bound must generally have been a party or in privity in the first case."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Identify the exact factual or legal issue, not merely the claim."
+        }
+      ]
+    },
+    {
+      "id": "mee-subject-contracts",
+      "title": "Contracts",
+      "body": [],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Historical appearance rate: 59% · 17 of 29 reviewed administrations"
+        },
+        {
+          "type": "compact",
+          "text": "Subject priority: High."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Big picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin by choosing common law or UCC Article 2. Then analyze formation, defenses, terms, performance, breach, and remedies in that order."
+        },
+        {
+          "type": "subheading",
+          "text": "UCC Versus Common Law"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Rule"
+        },
+        {
+          "type": "paragraph",
+          "text": "- UCC Article 2 governs sales of movable goods."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Common law governs services, land, employment, insurance, and intangible rights."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mixed contracts: Apply the predominant-purpose test."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Identify governing law before analyzing offer, acceptance, modification, or damages."
+        },
+        {
+          "type": "subheading",
+          "text": "Contract Formation"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A contract generally requires offer, acceptance, consideration, and no valid defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consideration: Bargained-for legal benefit or detriment."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Past consideration is generally not consideration."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A preexisting legal duty is generally not new consideration."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Promissory estoppel"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Promise."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Foreseeable reliance."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Actual reasonable reliance."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Enforcement necessary to prevent injustice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Separate contract formation from promissory-estoppel enforcement."
+        },
+        {
+          "type": "subheading",
+          "text": "Offer"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: An offer requires objective present intent to contract, reasonably definite terms, and communication to the offeree."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Advertisements are usually invitations to negotiate."
+        },
+        {
+          "type": "paragraph",
+          "text": "- An advertisement may be an offer when definite, specific, and leaving nothing open for negotiation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Ask whether a reasonable recipient would believe acceptance alone forms a contract."
+        },
+        {
+          "type": "subheading",
+          "text": "Definite Terms"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Common law: Essential terms generally include parties, subject matter, quantity, price, and time."
+        },
+        {
+          "type": "paragraph",
+          "text": "UCC: Quantity is ordinarily essential; other terms may be supplied by gap fillers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Requirements and output contracts: Valid when quantities are determined in good faith and are not unreasonably disproportionate to estimates or prior dealings."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: The UCC tolerates open terms more readily than common law."
+        },
+        {
+          "type": "subheading",
+          "text": "Termination of an Offer"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "An offer terminates through"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Revocation."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Rejection."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Counteroffer."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Lapse."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Death or incapacity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Destruction of subject matter."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Supervening illegality."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Revocation is generally effective upon receipt."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Indirect revocation occurs when the offeree learns from a reliable source that the offeror took definite inconsistent action."
+        },
+        {
+          "type": "subheading",
+          "text": "Irrevocable Offers"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "An offer may be irrevocable through"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Option supported by consideration."
+        },
+        {
+          "type": "paragraph",
+          "text": "- UCC merchant’s firm offer."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Reasonable foreseeable reliance."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Beginning performance of a unilateral contract."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Merchant’s firm offer"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Merchant."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Signed writing."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Assurance the offer will remain open."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Without consideration, maximum irrevocability is three months."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: An option and a firm offer are different doctrines."
+        },
+        {
+          "type": "subheading",
+          "text": "Acceptance"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Acceptance must be made by the proper offeree in a manner invited or reasonably permitted by the offer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mailbox rule: Acceptance is generally effective upon dispatch."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Option-contract acceptance is effective upon receipt."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Offer requires receipt."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Improper dispatch."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Rejection sent first and relied upon before acceptance arrives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Silence: Generally not acceptance unless prior dealings, agreed circumstances, or exercise of dominion makes it reasonable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Identify whether the contract is bilateral or unilateral."
+        },
+        {
+          "type": "subheading",
+          "text": "Mirror-Image Rule and UCC Section 2-207"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Common law: Acceptance must mirror the offer; a material change is a counteroffer."
+        },
+        {
+          "type": "paragraph",
+          "text": "UCC: A definite expression of acceptance may create a contract despite additional or different terms unless acceptance is expressly conditioned on assent to the new terms."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Between merchants, additional terms generally become part of the contract unless"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Offer limits acceptance to its terms."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. New term materially alters the contract."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Offeror timely objects."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conduct: If writings do not form a contract but parties perform, agreed terms plus UCC gap fillers govern."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Do not apply the mirror-image rule to a sale of goods."
+        },
+        {
+          "type": "subheading",
+          "text": "Modification"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Common law: Generally requires new consideration."
+        },
+        {
+          "type": "paragraph",
+          "text": "UCC: No new consideration, but modification must be made in good faith."
+        },
+        {
+          "type": "paragraph",
+          "text": "Statute of Frauds: Modification must be written if the contract as modified falls within the statute."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Determine governing law before asking whether consideration is needed."
+        },
+        {
+          "type": "subheading",
+          "text": "Statute of Frauds"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "MYLEGS"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Marriage."
+        },
+        {
+          "type": "paragraph",
+          "text": "- One year."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Land."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Executor’s personal promise."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Goods priced at $500 or more."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Suretyship."
+        },
+        {
+          "type": "paragraph",
+          "text": "Writing: Must generally identify the transaction’s essential terms and be signed by the party to be charged."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Important exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Land: part performance."
+        },
+        {
+          "type": "paragraph",
+          "text": "- One-year rule: complete performance."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Suretyship: main-purpose exception."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Goods: specially manufactured goods, judicial admission, accepted payment or goods, and merchant confirmation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: The one-year rule applies only when performance is impossible within one year from formation."
+        },
+        {
+          "type": "subheading",
+          "text": "Expectation Damages"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Put the injured party in the position the party would have occupied if the contract had been performed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Formula: Loss in value plus incidental and consequential losses minus costs and losses avoided."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Limits"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Foreseeability."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Causation."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Reasonable certainty."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Duty to mitigate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Punitive damages are generally unavailable for ordinary breach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Separate expectation, reliance, restitution, incidental, and consequential damages."
+        },
+        {
+          "type": "subheading",
+          "text": "Parol Evidence Rule"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A final written agreement may bar evidence of earlier or contemporaneous agreements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Completely integrated writing: Bars contradictory and consistent additional terms."
+        },
+        {
+          "type": "paragraph",
+          "text": "Partially integrated writing: Bars contradictory terms but may allow consistent additional terms."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Does not bar evidence of"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Fraud."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Duress."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Mistake."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Illegality."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Lack of consideration."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Condition precedent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Ambiguity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Later modification."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: The rule does not exclude evidence of conduct or agreements occurring after execution."
+        }
+      ]
+    },
+    {
+      "id": "mee-subject-real-property",
+      "title": "Real Property",
+      "body": [],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Historical appearance rate: 52% · 15 of 29 reviewed administrations"
+        },
+        {
+          "type": "compact",
+          "text": "Subject priority: High."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Big picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Create a timeline of ownership, possession, transfers, leases, easements, or mortgages. Then identify each party’s interest and apply notice, priority, or possession rules."
+        },
+        {
+          "type": "subheading",
+          "text": "Adverse Possession"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Actual."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Open and notorious."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Exclusive."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Hostile."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Continuous for the statutory period."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Hostile usually means without permission, not angry or knowingly wrongful."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Tacking is allowed when successive possessors are in privity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Government land generally cannot be adversely possessed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Open and notorious is objective; actual owner knowledge is not always required."
+        },
+        {
+          "type": "subheading",
+          "text": "Deeds"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Valid deed generally requires"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Identified parties."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Adequate property description."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Present intent to transfer."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Delivery."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Acceptance."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Types"
+        },
+        {
+          "type": "paragraph",
+          "text": "- General warranty deed: protects against title defects arising before and during grantor’s ownership."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Special warranty deed: protects only against defects arising during grantor’s ownership."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Quitclaim deed: transfers whatever interest grantor has without title warranties."
+        },
+        {
+          "type": "subheading",
+          "text": "Merger"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: After closing, land-sale contract obligations concerning title generally merge into the deed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exception: Collateral promises intended to survive closing may remain enforceable."
+        },
+        {
+          "type": "subheading",
+          "text": "Recording Statutes"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Race: First to record wins."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notice: Later bona fide purchaser wins if taking without notice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Race-notice: Later bona fide purchaser must take without notice and record first."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bona fide purchaser: Takes for value without actual, record, or inquiry notice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Translate the statute’s exact wording before applying facts."
+        },
+        {
+          "type": "subheading",
+          "text": "Shelter Rule"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A transferee from a protected bona fide purchaser receives the transferor’s protection, even if the transferee had notice or gave no value."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Analyze the protected transferor first."
+        },
+        {
+          "type": "subheading",
+          "text": "Leasehold Estates"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Types"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Tenancy for years: fixed period and ends automatically."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Periodic tenancy: repeats until proper notice."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Tenancy at will: continues while both parties permit."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Tenancy at sufferance: tenant wrongfully holds over."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: A lease longer than one year generally falls within the Statute of Frauds."
+        },
+        {
+          "type": "subheading",
+          "text": "Assignment Versus Sublease"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Assignment: Tenant transfers the entire remaining lease term."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Assignee has privity of estate with landlord."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Assignee is liable for rent and covenants running with the land while holding the estate."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Original tenant remains liable under privity of contract unless released."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sublease: Tenant retains part of the remaining term."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Subtenant generally lacks direct privity with original landlord."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Look at the interest transferred, not the label the parties used."
+        },
+        {
+          "type": "subheading",
+          "text": "Abandonment and Duty to Mitigate"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Abandonment: Tenant vacates with intent not to return before lease ends."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Landlord options may include"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Accept surrender."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Relet on tenant’s behalf."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Pursue unpaid rent subject to mitigation rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern majority rule: Landlord must make reasonable efforts to relet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Landlord must act reasonably but need not accept an unsuitable tenant."
+        },
+        {
+          "type": "subheading",
+          "text": "Termination of Easements"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Methods"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Written release."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Merger."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Abandonment."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prescription."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Estoppel."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Expiration."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Condemnation."
+        },
+        {
+          "type": "paragraph",
+          "text": "- End of necessity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Mere nonuse is not abandonment; conduct showing intent to relinquish is also required."
+        },
+        {
+          "type": "subheading",
+          "text": "Easement by Prior Use"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Common ownership before severance."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Use existed before severance."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Use was apparent and continuous."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Use is reasonably necessary."
+        },
+        {
+          "type": "subheading",
+          "text": "Easement by Necessity"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Prior common ownership."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Severance."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Severance created a landlocked parcel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Ends when necessity ends."
+        },
+        {
+          "type": "subheading",
+          "text": "Cotenant Rights"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Every cotenant has the right to possess the entire property."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Cotenant in sole possession generally owes no rent absent ouster, agreement, or third-party rental."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Cotenant collecting third-party rent must account to others."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Ouster requires exclusion or clear denial of another cotenant’s possession rights."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A joint tenant may sever by transferring that tenant’s interest."
+        },
+        {
+          "type": "subheading",
+          "text": "Implied Warranties"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Additional"
+        },
+        {
+          "type": "paragraph",
+          "text": "Builder-vendor: Generally warrants a new home was built in a workmanlike manner and is fit for habitation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Residential landlord: Implied warranty of habitability requires premises fit for basic residential use."
+        },
+        {
+          "type": "subheading",
+          "text": "Mortgages and Foreclosure"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Terms"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Mortgagor: borrower."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Mortgagee: lender."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Foreclosure proceeds generally pay"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Foreclosure costs."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Foreclosing mortgage."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Junior interests in priority order."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Surplus to borrower."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Foreclosure generally destroys properly joined junior interests."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Senior interests remain."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Buyer who assumes mortgage becomes personally liable."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Buyer who takes subject to mortgage risks the property but is not personally liable on the debt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Draw the mortgage timeline and rank each interest."
+        }
+      ]
+    },
+    {
+      "id": "mee-subject-evidence",
+      "title": "Evidence",
+      "body": [],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Historical appearance rate: 48% · 14 of 29 reviewed administrations"
+        },
+        {
+          "type": "compact",
+          "text": "Subject priority: Medium."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Big picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "For every item, ask relevance, purpose, hearsay, exception or exemption, character or impeachment limits, Rule 403, and—when criminal—Confrontation Clause."
+        },
+        {
+          "type": "subheading",
+          "text": "Hearsay"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Hearsay is an out-of-court statement offered to prove the truth of what it asserts."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Statement."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Made outside current testimony."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Offered for its truth."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Not offered for truth when used to show"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Effect on listener."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Notice or knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Legal effect."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Declarant’s state of mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Impeachment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Every layer of hearsay within hearsay must independently qualify."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: State the exact proposition for which the evidence is offered."
+        },
+        {
+          "type": "subheading",
+          "text": "Prior Statements by a Testifying Witness"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Requirements: Declarant testifies and is subject to cross-examination."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Non-hearsay categories"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prior inconsistent statement made under oath at a proceeding."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Qualifying prior consistent statement."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prior identification."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: A prior inconsistent statement is not automatically substantive evidence."
+        },
+        {
+          "type": "subheading",
+          "text": "Opposing-Party Statements"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A party’s statement offered against that party is non-hearsay."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Includes qualifying"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Adoptive statements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Authorized statements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Employee or agent statements within the relationship and subject matter."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Co-conspirator statements made during and in furtherance of the conspiracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: The statement need not have been against the speaker’s interest when made."
+        },
+        {
+          "type": "subheading",
+          "text": "Present-Sense Impression"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A statement describing or explaining an event made while perceiving it or immediately afterward."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- No startling event required."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Declarant need not be unavailable."
+        },
+        {
+          "type": "subheading",
+          "text": "Excited Utterance"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Startling event."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Statement relates to the event."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Declarant remained under the stress of excitement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Passage of time matters, but continued stress is more important than a fixed time limit."
+        },
+        {
+          "type": "subheading",
+          "text": "Statements for Medical Diagnosis or Treatment"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Statements made for and reasonably pertinent to diagnosis or treatment are admissible."
+        },
+        {
+          "type": "minorHeading",
+          "text": "May include"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Symptoms."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Medical history."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Inception."
+        },
+        {
+          "type": "paragraph",
+          "text": "- General cause."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Statements assigning fault are generally excluded unless identity is medically pertinent, as it may be in abuse cases."
+        },
+        {
+          "type": "subheading",
+          "text": "Character Evidence"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Character evidence is generally inadmissible to prove conduct in conformity with a trait."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Criminal defendant"
+        },
+        {
+          "type": "paragraph",
+          "text": "- May offer reputation or opinion evidence of a pertinent good trait."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prosecution may rebut."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Defendant may sometimes offer evidence of a victim’s pertinent trait, subject to special restrictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Civil cases: Propensity character evidence is generally inadmissible unless character is an essential element."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Methods"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Circumstantial character: reputation or opinion."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Character as essential element: reputation, opinion, or specific acts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Ask whether character is being used for propensity, impeachment, or as an element."
+        },
+        {
+          "type": "subheading",
+          "text": "Other Acts: MIMIC"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Other crimes or acts cannot be used merely to prove propensity but may be used for another relevant purpose."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Common purposes"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Motive."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Intent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Absence of mistake."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Common plan or scheme."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Opportunity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Preparation."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Lack of accident."
+        },
+        {
+          "type": "paragraph",
+          "text": "Limits: Must be relevant to a disputed issue and survive Rule 403."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Name the specific non-propensity inference."
+        },
+        {
+          "type": "subheading",
+          "text": "Relevance and Rule 403"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Relevance: Any tendency to make a consequential fact more or less probable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule 403: Court may exclude relevant evidence when probative value is substantially outweighed by:"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Unfair prejudice."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Confusion."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Misleading the jury."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Delay."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Wasted time."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Cumulative presentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Ordinary prejudice is not enough; the danger must be unfair."
+        },
+        {
+          "type": "subheading",
+          "text": "Impeachment"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Methods"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prior inconsistent statement."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Bias."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Lack of perception or memory."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Reputation or opinion for untruthfulness."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Certain dishonest acts on cross-examination."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Certain criminal convictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Contradiction."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Extrinsic evidence is generally barred for a collateral act of dishonesty."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A prior inconsistent statement is substantive only if it independently qualifies."
+        },
+        {
+          "type": "subheading",
+          "text": "Declarant Unavailability"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Unavailability includes"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Privilege."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Refusal despite court order."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Lack of memory."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Death or serious illness."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Absence despite reasonable efforts to procure attendance."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Major Rule 804 exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Former testimony."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Dying declaration."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Statement against interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Personal or family history."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Forfeiture by wrongdoing."
+        },
+        {
+          "type": "subheading",
+          "text": "Confrontation Clause"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: In a criminal case, a testimonial hearsay statement offered against the defendant is generally inadmissible unless the declarant is unavailable and the defendant previously had an opportunity to cross-examine."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Statements primarily made to address an ongoing emergency are generally non-testimonial."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Statements primarily made to establish past facts for prosecution are more likely testimonial."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A hearsay exception does not automatically satisfy confrontation requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Forfeiture by wrongdoing may remove the objection when the defendant intended to make the witness unavailable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Analyze hearsay and confrontation separately."
+        },
+        {
+          "type": "subheading",
+          "text": "Judicial Notice"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Additional"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A court may judicially notice an adjudicative fact that is generally known locally or can be accurately verified from unquestionable sources."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Effect"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Civil case: jury must accept the fact."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Criminal case: jury may accept it but cannot be required to do so against the defendant."
+        }
+      ]
+    },
+    {
+      "id": "mee-subject-criminal-law-procedure",
+      "title": "Criminal Law & Procedure",
+      "body": [],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Historical appearance rate: 48% · 14 of 29 reviewed administrations"
+        },
+        {
+          "type": "compact",
+          "text": "Subject priority: Medium."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Big picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Separate substantive criminal liability from constitutional criminal procedure. For offenses, identify the act, mental state, attendant circumstances, causation, and defenses. For procedure, identify government conduct, the constitutional trigger, any exception, and the remedy."
+        },
+        {
+          "type": "minorHeading",
+          "text": "CRIMINAL LAW"
+        },
+        {
+          "type": "subheading",
+          "text": "Mental States"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Common-law categories"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Specific intent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- General intent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Malice."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Strict liability."
+        },
+        {
+          "type": "minorHeading",
+          "text": "MPC categories"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Purposefully: conscious objective."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Knowingly: awareness or practical certainty."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Recklessly: conscious disregard of a substantial and unjustifiable risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Negligently: should have been aware of the risk."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Voluntary intoxication may negate specific intent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- It generally does not negate malice, recklessness, general intent, or strict liability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Identify the mental state required by the exact offense before applying a defense."
+        },
+        {
+          "type": "subheading",
+          "text": "Larceny"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Trespassory taking."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Carrying away."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Personal property."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Of another."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Intent to permanently deprive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Intent generally must exist when possession is wrongfully taken, subject to continuing trespass."
+        },
+        {
+          "type": "subheading",
+          "text": "Embezzlement"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Fraudulent conversion."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Property of another."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Defendant was already in lawful possession."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinction"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Larceny: wrongful acquisition of possession."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Embezzlement: lawful possession followed by conversion."
+        },
+        {
+          "type": "subheading",
+          "text": "Burglary"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Common-law elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Breaking."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Entering."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Dwelling of another."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. At night."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Intent to commit a felony inside."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Intent to commit the inside crime must exist at entry."
+        },
+        {
+          "type": "subheading",
+          "text": "Common-Law Murder"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Murder is an unlawful killing with malice aforethought."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Malice theories"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Intent to kill."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Intent to cause serious bodily injury."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Depraved-heart recklessness."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Felony murder."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Felony murder limits"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Causation."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Inherently dangerous felony."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Merger doctrine."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Killing occurs during the felony or immediate flight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Identify the malice theory before discussing degree or defenses."
+        },
+        {
+          "type": "subheading",
+          "text": "Voluntary Manslaughter"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Adequate provocation."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Defendant was actually provoked."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. No reasonable cooling period."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Defendant did not actually cool off."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Traditionally, mere words are insufficient, though statutes may vary."
+        },
+        {
+          "type": "subheading",
+          "text": "Involuntary Manslaughter"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: An unintentional killing caused by criminal negligence or an unlawful act not supporting felony murder."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Criminal negligence is more blameworthy than ordinary civil negligence but does not rise to malice."
+        },
+        {
+          "type": "minorHeading",
+          "text": "CRIMINAL PROCEDURE"
+        },
+        {
+          "type": "subheading",
+          "text": "Miranda"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Miranda warnings are required for custodial interrogation by known law-enforcement agents."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Custody."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Interrogation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Custody: A reasonable person would not feel free to end the encounter and leave."
+        },
+        {
+          "type": "paragraph",
+          "text": "Interrogation: Direct questioning or its functional equivalent that police should know is reasonably likely to elicit an incriminating response."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Exceptions and limits"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Public-safety questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Routine booking questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Volunteered statements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Undercover questioning."
+        },
+        {
+          "type": "paragraph",
+          "text": "- An unwarned but voluntary statement may sometimes be used for impeachment."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Physical fruits of a merely unwarned voluntary statement are generally not suppressed."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Invocation"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Right to silence must be unambiguous and scrupulously honored."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Right to counsel must be unambiguous; questioning generally stops until counsel is present or suspect reinitiates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Miranda is not triggered by custody alone or questioning alone."
+        },
+        {
+          "type": "subheading",
+          "text": "Fourth Amendment Searches"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: The Fourth Amendment restricts government searches and seizures."
+        },
+        {
+          "type": "minorHeading",
+          "text": "A search occurs when government"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Invades a reasonable expectation of privacy."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Physically trespasses on a constitutionally protected area to obtain information."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Valid warrant requires"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Probable cause."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Neutral and detached magistrate."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Particular description of place and items."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Major exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Search incident to lawful arrest."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Automobile exception."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Consent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Exigent circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Plain view."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Terry stop and frisk."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Inventory search."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Special needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: A defendant may challenge only a violation of the defendant’s own Fourth Amendment rights."
+        },
+        {
+          "type": "subheading",
+          "text": "Plain View"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Police may seize evidence in plain view when:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. They are lawfully present at the viewing location."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. The incriminating nature is immediately apparent."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. They have lawful access to the object."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Plain view does not independently authorize entry into a protected place."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Police generally may not manipulate an object to determine whether it is incriminating."
+        },
+        {
+          "type": "subheading",
+          "text": "Terry Stop and Frisk"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop: Requires reasonable, articulable suspicion of criminal activity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Frisk: Requires separate reasonable suspicion that the person is armed and dangerous."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scope: Limited pat-down for weapons."
+        },
+        {
+          "type": "paragraph",
+          "text": "Plain feel: Contraband may be seized only if its nature is immediately apparent without manipulation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Do not merge the justification for the stop with the justification for the frisk."
+        },
+        {
+          "type": "subheading",
+          "text": "Double Jeopardy"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Protection against"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Retrial after acquittal."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Retrial after conviction."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Multiple punishments for the same offense."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Attachment"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Jury trial: jury sworn."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Bench trial: first witness sworn."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Guilty plea: court accepts plea."
+        },
+        {
+          "type": "paragraph",
+          "text": "Blockburger test: Offenses differ when each requires proof of an element the other does not."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Separate sovereigns."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Retrial after defendant’s successful appeal, except reversal for insufficient evidence."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Mistrial with defendant’s consent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Mistrial supported by manifest necessity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Determine whether jeopardy attached before applying an exception."
+        }
+      ]
+    },
+    {
+      "id": "mee-subject-torts",
+      "title": "Torts",
+      "body": [],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Historical appearance rate: 38% · 11 of 29 reviewed administrations"
+        },
+        {
+          "type": "compact",
+          "text": "Subject priority: Lower frequency, but fully testable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Big picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Identify each possible plaintiff and defendant. Analyze duty, breach, factual cause, proximate cause, damages, defenses, and any vicarious or strict liability."
+        },
+        {
+          "type": "subheading",
+          "text": "Negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Duty."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Breach."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Actual cause."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Proximate cause."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Damages."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Analyze each element separately and do not skip damages."
+        },
+        {
+          "type": "subheading",
+          "text": "Reasonable-Person Standard"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Defendant must act as a reasonably prudent person under similar circumstances."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Adjustments"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Physical disability: reasonable person with same disability."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Child: child of similar age, intelligence, and experience."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Child performing dangerous adult activity: adult standard."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Professional: reasonably competent member of the profession."
+        },
+        {
+          "type": "minorHeading",
+          "text": "No adjustment generally for"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Mental disability."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Low intelligence."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Voluntary intoxication."
+        },
+        {
+          "type": "subheading",
+          "text": "Affirmative Duty to Act"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: There is generally no duty to rescue."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Duty may arise from"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Special relationship."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Defendant created the danger."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Voluntary undertaking."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Contract."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Statute."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: A person who begins a rescue must act reasonably and not leave the victim worse off."
+        },
+        {
+          "type": "subheading",
+          "text": "Actual Cause"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Use but-for causation unless multiple sufficient causes independently would have produced the harm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multiple sufficient causes: Use substantial-factor or equivalent principles recognized by the question."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Ask whether the injury would have occurred when and as it did without defendant’s conduct."
+        },
+        {
+          "type": "subheading",
+          "text": "Proximate Cause"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Defendant is liable for foreseeable types of harm resulting from the risk created."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Foreseeable intervening acts often include"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Ordinary medical negligence."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Rescue efforts."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Normal reactions to danger."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Foreseeable criminal acts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Superseding cause: Extraordinary and unforeseeable event that breaks the causal chain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Focus on foreseeability of the type of harm, not the exact sequence."
+        },
+        {
+          "type": "subheading",
+          "text": "Comparative and Contributory Negligence"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pure comparative negligence: Recovery reduced by plaintiff’s percentage of fault."
+        },
+        {
+          "type": "paragraph",
+          "text": "Modified comparative negligence: Plaintiff barred at 50% or more than 50%, depending on jurisdiction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Contributory negligence: Any plaintiff negligence is a complete bar in minority jurisdictions, subject to exceptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Assumption of risk: Plaintiff knowingly and voluntarily encounters a known risk."
+        },
+        {
+          "type": "subheading",
+          "text": "Respondeat Superior"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Employer is vicariously liable for an employee’s tort committed within the scope of employment."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Factors"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Kind of conduct employee was hired to perform."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Authorized time and space."
+        },
+        {
+          "type": "paragraph",
+          "text": "- At least partly motivated to serve employer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Detour: Minor deviation; liability may continue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Frolic: Major personal departure; employer generally not liable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intentional torts: May fall within scope when foreseeable from employment, authorized, or motivated to serve employer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Independent contractors: No general vicarious liability, subject to nondelegable duties and inherently dangerous activities."
+        },
+        {
+          "type": "subheading",
+          "text": "Strict Liability"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wild animals: Strict liability for harm caused by dangerous characteristics."
+        },
+        {
+          "type": "paragraph",
+          "text": "Domestic animals: Strict liability when owner knew or should have known of dangerous propensity."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Abnormally dangerous activities"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Highly significant foreseeable risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Reasonable care cannot eliminate risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Activity is not common usage."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Liability extends only to the kind of harm making the activity abnormally dangerous."
+        },
+        {
+          "type": "subheading",
+          "text": "Products Liability"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Strict-products-liability elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Commercial seller."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Defective product."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Defect existed when product left defendant."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Product reached user without substantial change."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Actual and proximate causation."
+        },
+        {
+          "type": "paragraph",
+          "text": "6. Damages."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Defects"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Manufacturing defect: product departs from intended design."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Design defect: design is unreasonably dangerous under applicable test."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Warning defect: inadequate warning of nonobvious risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Contractual privity is not required."
+        },
+        {
+          "type": "subheading",
+          "text": "Negligence Per Se"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Statute sets a standard of conduct."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Plaintiff is within protected class."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Injury is the type statute sought to prevent."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Violation caused the injury."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. No legally sufficient excuse."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Possible excuses"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Emergency."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Incapacity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Reasonable inability to comply."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Compliance would create greater danger."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Negligence per se usually establishes duty and breach, not causation or damages."
+        },
+        {
+          "type": "subheading",
+          "text": "Negligent Infliction of Emotional Distress"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Additional"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zone-of-danger theory: Plaintiff was personally threatened with physical harm and suffered serious emotional distress."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Bystander theory commonly requires"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Close relationship to victim."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Presence at accident."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Contemporaneous perception."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Severe emotional distress."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Rules vary, so use the standard supplied or implied by the question."
+        },
+        {
+          "type": "subheading",
+          "text": "Eggshell-Plaintiff Rule"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Defendant takes the plaintiff as found and is liable for the full extent of harm once the general type of injury is foreseeable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Defendant need not foresee the plaintiff’s unusual vulnerability."
+        }
+      ]
+    },
+    {
+      "id": "mee-subject-constitutional-law",
+      "title": "Constitutional Law",
+      "body": [],
+      "blocks": [
+        {
+          "type": "compact",
+          "text": "Historical appearance rate: 34% · 10 of 29 reviewed administrations"
+        },
+        {
+          "type": "compact",
+          "text": "Subject priority: Lower frequency, but fully testable."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Big picture"
+        },
+        {
+          "type": "paragraph",
+          "text": "Identify the government actor and constitutional source. Then select the correct power, right, forum, classification, or level of scrutiny before applying the facts."
+        },
+        {
+          "type": "subheading",
+          "text": "State-Action Requirement"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Most constitutional protections restrict government conduct, not purely private conduct."
+        },
+        {
+          "type": "minorHeading",
+          "text": "State action may exist when"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. A private party performs a function traditionally and exclusively performed by government."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Government significantly encourages, commands, or participates in the conduct."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Government and the private party are heavily entangled."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Government licensing, regulation, or funding alone is generally insufficient."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Always identify the government actor before applying an individual-rights provision."
+        },
+        {
+          "type": "subheading",
+          "text": "Equal Protection"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Equal protection analysis depends on the classification and the right affected."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Standards"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Strict scrutiny: race, national origin, and generally state alienage classifications. Law must be narrowly tailored to a compelling interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Intermediate scrutiny: sex and nonmarital parentage. Law must be substantially related to an important interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Rational basis: age, disability, wealth, and most other classifications. Law must be rationally related to a legitimate interest."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- A facially neutral law generally requires discriminatory purpose plus discriminatory effect."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Government bears the burden under strict and intermediate scrutiny."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Challenger usually bears the burden under rational basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: State the classification, scrutiny level, government interest, and fit."
+        },
+        {
+          "type": "subheading",
+          "text": "Free Speech"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Speech analysis turns on whether the regulation is content based, viewpoint based, or content neutral and on the type of forum."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Content-based restrictions generally receive strict scrutiny."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Viewpoint discrimination is almost always invalid."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Content-neutral regulations generally receive intermediate scrutiny or time-place-manner review."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prior restraints are strongly disfavored."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Classify the regulation before analyzing whether it survives."
+        },
+        {
+          "type": "subheading",
+          "text": "Time, Place, and Manner Restrictions"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: In a traditional or designated public forum, a content-neutral restriction is valid when it is narrowly tailored to a significant government interest and leaves ample alternative channels."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Content neutral."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Narrowly tailored to a significant interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Ample alternative channels remain."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- It need not be the least restrictive means."
+        },
+        {
+          "type": "paragraph",
+          "text": "- In a limited or nonpublic forum, the restriction generally must be reasonable and viewpoint neutral."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Determine the forum first."
+        },
+        {
+          "type": "subheading",
+          "text": "Unprotected or Less-Protected Speech"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Incitement: Directed to producing imminent lawless action and likely to produce it."
+        },
+        {
+          "type": "paragraph",
+          "text": "True threats: Serious expression of intent to commit violence, with the constitutionally required culpable mental state."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fighting words: Personally abusive face-to-face words likely to provoke immediate violence; narrowly applied."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Obscenity"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Appeals to prurient interest under contemporary community standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Depicts defined sexual conduct in a patently offensive way."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Lacks serious literary, artistic, political, or scientific value."
+        },
+        {
+          "type": "paragraph",
+          "text": "Defamation: Public officials and public figures generally must prove actual malice, meaning knowledge of falsity or reckless disregard for truth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Offensive or hateful speech remains protected unless it satisfies a defined exception."
+        },
+        {
+          "type": "subheading",
+          "text": "Substantive Due Process"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Government infringement of a fundamental right receives strict scrutiny. Nonfundamental interests receive rational-basis review."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Fundamental rights commonly tested"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Marriage."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Procreation."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Contraception."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Parental control over children’s upbringing."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Interstate travel."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Certain family-living arrangements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Refusal of unwanted medical treatment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Carefully define the asserted right before deciding whether it is fundamental."
+        },
+        {
+          "type": "subheading",
+          "text": "Dormant Commerce Clause"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: States generally may not discriminate against or unduly burden interstate commerce."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Analysis"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Discriminatory law: generally invalid unless necessary to achieve an important nonprotectionist purpose and no reasonable nondiscriminatory alternative exists."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Nondiscriminatory law: invalid only if the burden on interstate commerce is clearly excessive compared with local benefits."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Congress authorizes the state law."
+        },
+        {
+          "type": "paragraph",
+          "text": "- State acts as a market participant rather than a regulator."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Ask whether the state is regulating the market or participating in it."
+        },
+        {
+          "type": "subheading",
+          "text": "Congressional Commerce Power"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Congress may regulate:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Channels of interstate commerce."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Instrumentalities, persons, and things in interstate commerce."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Economic activities substantially affecting interstate commerce."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Economic activity may generally be aggregated."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Noneconomic activity receives closer review."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Identify the regulated activity precisely before using aggregation."
+        },
+        {
+          "type": "subheading",
+          "text": "State Sovereign Immunity"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Private parties generally cannot sue a nonconsenting state for damages in federal court."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- State consents."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Congress validly abrogates immunity under Section 5 of the Fourteenth Amendment."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Federal government or another state sues."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Plaintiff seeks prospective injunctive relief against a state official under Ex parte Young."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Prospective relief against an official differs from retrospective payment from the state treasury."
+        },
+        {
+          "type": "subheading",
+          "text": "Takings Clause"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Government may take private property for public use only with just compensation."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Types"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Permanent physical occupation: generally a per se taking."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Total loss of all economically beneficial use: generally a taking, subject to background property-law principles."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Partial regulatory taking: analyze economic impact, interference with reasonable investment-backed expectations, and character of government action."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Exaction: requires essential nexus and rough proportionality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: A taking is not automatically unconstitutional; the ordinary remedy is compensation."
+        },
+        {
+          "type": "subheading",
+          "text": "State Police Power"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Additional"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: States possess general police power over health, safety, welfare, and morals. The federal government has only enumerated powers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Traditional state regulation does not defeat a valid exercise of federal power."
+        },
+        {
+          "type": "subheading",
+          "text": "Anti-Commandeering"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Congress may not require state legislatures or state executive officials to enact or administer a federal regulatory program."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Congress may instead"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Regulate private parties directly."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Use federal officers."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Preempt conflicting state law."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Attach valid conditions to federal funds."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Spending conditions must be"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Clear."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Related to the federal program."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Independently constitutional."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Not coercive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Preemption is permitted; commanding the states to govern is not."
+        }
+      ]
+    }
+  ]
+}
