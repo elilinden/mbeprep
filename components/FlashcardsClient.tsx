@@ -325,6 +325,11 @@ export function FlashcardsClient({ decks }: { decks: FlashcardDeck[] }) {
                 </h2>
               </div>
               <div className="flex flex-wrap gap-2">
+                {typeof current.testedPercent === "number" ? (
+                  <span className="w-fit rounded-full bg-violet-50 px-3 py-1.5 text-xs font-semibold text-violet-800 ring-1 ring-violet-200">
+                    Appeared on {current.testedPercent}% of past MEE exams
+                  </span>
+                ) : null}
                 {reviewMode === "spaced" ? (
                   <span className="w-fit rounded-full bg-indigo-50 px-3 py-1.5 text-xs font-semibold text-indigo-700">
                     {dueLabel(currentProgress)}

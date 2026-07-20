@@ -126,6 +126,9 @@ export type Flashcard = {
   subject: string;
   front: string;
   back: string;
+  testedPercent?: number;
+  sourcePage?: number;
+  sourceNote?: string;
 };
 
 export type FlashcardDeck = {
