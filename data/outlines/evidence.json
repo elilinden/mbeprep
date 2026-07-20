@@ -88,6 +88,549 @@
       ]
     },
     {
+      "id": "high-frequency-mbe-review",
+      "title": "High-Frequency MBE Review",
+      "body": [],
+      "blocks": [
+        {
+          "type": "subheading",
+          "text": "Hearsay"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Hearsay is an out-of-court statement offered to prove the truth of what it asserts."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Statement."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Made outside current testimony."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Offered for its truth."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Not offered for truth when used to show"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Effect on listener."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Notice or knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Legal effect."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Declarant’s state of mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Impeachment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Every layer of hearsay within hearsay must independently qualify."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: State the exact proposition for which the evidence is offered."
+        },
+        {
+          "type": "subheading",
+          "text": "Prior Statements by a Testifying Witness"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Requirements: Declarant testifies and is subject to cross-examination."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Non-hearsay categories"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prior inconsistent statement made under oath at a proceeding."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Qualifying prior consistent statement."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prior identification."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: A prior inconsistent statement is not automatically substantive evidence."
+        },
+        {
+          "type": "subheading",
+          "text": "Opposing-Party Statements"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A party’s statement offered against that party is non-hearsay."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Includes qualifying"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Adoptive statements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Authorized statements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Employee or agent statements within the relationship and subject matter."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Co-conspirator statements made during and in furtherance of the conspiracy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: The statement need not have been against the speaker’s interest when made."
+        },
+        {
+          "type": "subheading",
+          "text": "Present-Sense Impression"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A statement describing or explaining an event made while perceiving it or immediately afterward."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- No startling event required."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Declarant need not be unavailable."
+        },
+        {
+          "type": "subheading",
+          "text": "Excited Utterance"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Startling event."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Statement relates to the event."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Declarant remained under the stress of excitement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Passage of time matters, but continued stress is more important than a fixed time limit."
+        },
+        {
+          "type": "subheading",
+          "text": "Statements for Medical Diagnosis or Treatment"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Statements made for and reasonably pertinent to diagnosis or treatment are admissible."
+        },
+        {
+          "type": "minorHeading",
+          "text": "May include"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Symptoms."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Medical history."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Inception."
+        },
+        {
+          "type": "paragraph",
+          "text": "- General cause."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Statements assigning fault are generally excluded unless identity is medically pertinent, as it may be in abuse cases."
+        },
+        {
+          "type": "subheading",
+          "text": "Character Evidence"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Character evidence is generally inadmissible to prove conduct in conformity with a trait."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Criminal defendant"
+        },
+        {
+          "type": "paragraph",
+          "text": "- May offer reputation or opinion evidence of a pertinent good trait."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prosecution may rebut."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Defendant may sometimes offer evidence of a victim’s pertinent trait, subject to special restrictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Civil cases: Propensity character evidence is generally inadmissible unless character is an essential element."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Methods"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Circumstantial character: reputation or opinion."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Character as essential element: reputation, opinion, or specific acts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Ask whether character is being used for propensity, impeachment, or as an element."
+        },
+        {
+          "type": "subheading",
+          "text": "Other Acts: MIMIC"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: Other crimes or acts cannot be used merely to prove propensity but may be used for another relevant purpose."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Common purposes"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Motive."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Intent."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Absence of mistake."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Common plan or scheme."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Opportunity."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Preparation."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Lack of accident."
+        },
+        {
+          "type": "paragraph",
+          "text": "Limits: Must be relevant to a disputed issue and survive Rule 403."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Name the specific non-propensity inference."
+        },
+        {
+          "type": "subheading",
+          "text": "Relevance and Rule 403"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Relevance: Any tendency to make a consequential fact more or less probable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule 403: Court may exclude relevant evidence when probative value is substantially outweighed by:"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Unfair prejudice."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Confusion."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Misleading the jury."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Delay."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Wasted time."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Cumulative presentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key distinction: Ordinary prejudice is not enough; the danger must be unfair."
+        },
+        {
+          "type": "subheading",
+          "text": "Impeachment"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Methods"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Prior inconsistent statement."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Bias."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Lack of perception or memory."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Reputation or opinion for untruthfulness."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Certain dishonest acts on cross-examination."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Certain criminal convictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Contradiction."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Extrinsic evidence is generally barred for a collateral act of dishonesty."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A prior inconsistent statement is substantive only if it independently qualifies."
+        },
+        {
+          "type": "subheading",
+          "text": "Declarant Unavailability"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Core"
+        },
+        {
+          "type": "minorHeading",
+          "text": "Unavailability includes"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Privilege."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Refusal despite court order."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Lack of memory."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Death or serious illness."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Absence despite reasonable efforts to procure attendance."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Major Rule 804 exceptions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Former testimony."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Dying declaration."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Statement against interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Personal or family history."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Forfeiture by wrongdoing."
+        },
+        {
+          "type": "subheading",
+          "text": "Confrontation Clause"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Highest Priority"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: In a criminal case, a testimonial hearsay statement offered against the defendant is generally inadmissible unless the declarant is unavailable and the defendant previously had an opportunity to cross-examine."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Key distinctions"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Statements primarily made to address an ongoing emergency are generally non-testimonial."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Statements primarily made to establish past facts for prosecution are more likely testimonial."
+        },
+        {
+          "type": "paragraph",
+          "text": "- A hearsay exception does not automatically satisfy confrontation requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Forfeiture by wrongdoing may remove the objection when the defendant intended to make the witness unavailable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exam tip: Analyze hearsay and confrontation separately."
+        },
+        {
+          "type": "subheading",
+          "text": "Judicial Notice"
+        },
+        {
+          "type": "compact",
+          "text": "Priority: Additional"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rule: A court may judicially notice an adjudicative fact that is generally known locally or can be accurately verified from unquestionable sources."
+        },
+        {
+          "type": "minorHeading",
+          "text": "Effect"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Civil case: jury must accept the fact."
+        },
+        {
+          "type": "paragraph",
+          "text": "- Criminal case: jury may accept it but cannot be required to do so against the defendant."
+        }
+      ]
+    },
+    {
       "id": "the-evidence-mbe-attack-plan",
       "title": "The Evidence MBE Attack Plan",
       "body": [
