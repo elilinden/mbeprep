@@ -66,6 +66,14 @@ const podcastFiles = [
     description: "Work through a practical Evidence approach before moving into flashcards, outlines, or questions."
   },
   {
+    id: "mee-topics",
+    fileName: "mee-topics.mp3",
+    title: "MEE Topics",
+    subject: "MEE Topics",
+    topic: "Triggers and traps across nine MEE subjects",
+    description: "Review high-value MEE issue triggers and common traps before working through the focused outline or MEE flashcards."
+  },
+  {
     id: "real-property",
     fileName: "real-property.mp3",
     title: "Real Property",
